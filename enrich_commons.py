@@ -1,26 +1,20 @@
 import json
 import time
 from html.parser import HTMLParser
-from pathlib import Path
 
 import requests
 
-
-INPUT_FILE = Path(
-    "data/processed/churches_dates.json"
+from project_config import (
+    COMMONS_CACHE_FILE,
+    COMMONS_FILE,
+    COMMONS_REPORT_FILE,
+    DATES_FILE,
 )
 
-CACHE_FILE = Path(
-    "data/raw/commons_file_metadata.json"
-)
-
-OUTPUT_FILE = Path(
-    "data/processed/churches_commons.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/commons_report.json"
-)
+INPUT_FILE = DATES_FILE
+CACHE_FILE = COMMONS_CACHE_FILE
+OUTPUT_FILE = COMMONS_FILE
+REPORT_FILE = COMMONS_REPORT_FILE
 
 
 API = "https://commons.wikimedia.org/w/api.php"

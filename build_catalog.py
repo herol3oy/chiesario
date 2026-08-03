@@ -1,24 +1,19 @@
 import json
 import re
 import unicodedata
-from pathlib import Path
 
-
-INPUT_FILE = Path(
-    "data/processed/churches_reviewed.json"
+from project_config import (
+    CATALOG_ALL_FILE,
+    CATALOG_READY_FILE,
+    CATALOG_REPORT_FILE,
+    REGION_NAME,
+    REVIEWED_FILE,
 )
 
-OUTPUT_ALL = Path(
-    "data/catalog/churches.json"
-)
-
-OUTPUT_READY = Path(
-    "data/catalog/churches_ready.json"
-)
-
-REPORT_FILE = Path(
-    "data/catalog/catalog_report.json"
-)
+INPUT_FILE = REVIEWED_FILE
+OUTPUT_ALL = CATALOG_ALL_FILE
+OUTPUT_READY = CATALOG_READY_FILE
+REPORT_FILE = CATALOG_REPORT_FILE
 
 
 # --------------------------------------------------
@@ -456,8 +451,7 @@ def build_record(church):
                 "directory_type"
             ),
 
-        "region":
-            "Tuscany",
+        "region": REGION_NAME,
 
         "date":
             build_date(

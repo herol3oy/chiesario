@@ -1,19 +1,15 @@
 import json
 import math
-from pathlib import Path
 
-
-INPUT_FILE = Path(
-    "data/processed/churches_osm.json"
+from project_config import (
+    COORDINATE_REPORT_FILE,
+    OSM_FILE,
+    RESOLVED_FILE,
 )
 
-OUTPUT_FILE = Path(
-    "data/processed/churches_resolved.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/coordinate_report.json"
-)
+INPUT_FILE = OSM_FILE
+OUTPUT_FILE = RESOLVED_FILE
+REPORT_FILE = COORDINATE_REPORT_FILE
 
 
 # This is only a review heuristic.

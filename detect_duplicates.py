@@ -3,20 +3,16 @@ import math
 import re
 import unicodedata
 from difflib import SequenceMatcher
-from pathlib import Path
 
-
-INPUT_FILE = Path(
-    "data/processed/churches_images.json"
+from project_config import (
+    DUPLICATES_FILE,
+    DUPLICATE_REPORT_FILE,
+    IMAGES_FILE,
 )
 
-OUTPUT_FILE = Path(
-    "data/processed/churches_duplicates.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/duplicate_report.json"
-)
+INPUT_FILE = IMAGES_FILE
+OUTPUT_FILE = DUPLICATES_FILE
+REPORT_FILE = DUPLICATE_REPORT_FILE
 
 
 # --------------------------------------------------

@@ -1,22 +1,15 @@
 import json
-from pathlib import Path
 
-
-INPUT_FILE = Path(
-    "data/processed/churches_duplicates.json"
+from project_config import (
+    DUPLICATES_FILE,
+    OVERRIDES_FILE,
+    REVIEWED_FILE,
+    REVIEW_REPORT_FILE,
 )
 
-OVERRIDES_FILE = Path(
-    "data/reviews/overrides.json"
-)
-
-OUTPUT_FILE = Path(
-    "data/processed/churches_reviewed.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/review_report.json"
-)
+INPUT_FILE = DUPLICATES_FILE
+OUTPUT_FILE = REVIEWED_FILE
+REPORT_FILE = REVIEW_REPORT_FILE
 
 
 VALID_TYPES = {

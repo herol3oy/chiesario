@@ -1,18 +1,14 @@
 import json
-from pathlib import Path
 
-
-INPUT_FILE = Path(
-    "data/processed/churches_resolved.json"
+from project_config import (
+    DATE_REPORT_FILE,
+    DATES_FILE,
+    RESOLVED_FILE,
 )
 
-OUTPUT_FILE = Path(
-    "data/processed/churches_dates.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/date_report.json"
-)
+INPUT_FILE = RESOLVED_FILE
+OUTPUT_FILE = DATES_FILE
+REPORT_FILE = DATE_REPORT_FILE
 
 
 def load_json(path):

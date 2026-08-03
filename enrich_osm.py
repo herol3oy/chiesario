@@ -1,26 +1,20 @@
 import json
 import re
 import time
-from pathlib import Path
 
 import requests
 
-
-INPUT_FILE = Path(
-    "data/processed/churches_classified.json"
+from project_config import (
+    CLASSIFIED_FILE,
+    OSM_CACHE_FILE,
+    OSM_FILE,
+    OSM_REPORT_FILE,
 )
 
-CACHE_FILE = Path(
-    "data/raw/osm_by_qid.json"
-)
-
-OUTPUT_FILE = Path(
-    "data/processed/churches_osm.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/osm_report.json"
-)
+INPUT_FILE = CLASSIFIED_FILE
+CACHE_FILE = OSM_CACHE_FILE
+OUTPUT_FILE = OSM_FILE
+REPORT_FILE = OSM_REPORT_FILE
 
 
 OVERPASS_ENDPOINTS = [

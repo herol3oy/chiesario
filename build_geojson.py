@@ -1,14 +1,12 @@
 import json
-from pathlib import Path
 
-
-INPUT_FILE = Path(
-    "data/catalog/churches_ready.json"
+from project_config import (
+    CATALOG_READY_FILE,
+    GEOJSON_FILE,
 )
 
-OUTPUT_FILE = Path(
-    "data/catalog/churches.geojson"
-)
+INPUT_FILE = CATALOG_READY_FILE
+OUTPUT_FILE = GEOJSON_FILE
 
 
 def load_json(path):

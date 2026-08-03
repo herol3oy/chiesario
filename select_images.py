@@ -1,7 +1,12 @@
 import json
 import re
 import unicodedata
-from pathlib import Path
+
+from project_config import (
+    COMMONS_FILE,
+    IMAGE_REPORT_FILE,
+    IMAGES_FILE,
+)
 
 HARD_REJECT_TERMS = {
     "interior",
@@ -31,17 +36,9 @@ HARD_REJECT_TERMS = {
     "statua",
 }
 
-INPUT_FILE = Path(
-    "data/processed/churches_commons.json"
-)
-
-OUTPUT_FILE = Path(
-    "data/processed/churches_images.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/image_report.json"
-)
+INPUT_FILE = COMMONS_FILE
+OUTPUT_FILE = IMAGES_FILE
+REPORT_FILE = IMAGE_REPORT_FILE
 
 
 # --------------------------------------------------

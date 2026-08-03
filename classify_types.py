@@ -1,23 +1,19 @@
 import json
 import time
-from pathlib import Path
 
 import requests
 
-
-INPUT_FILE = Path("data/processed/churches.json")
-
-OUTPUT_FILE = Path(
-    "data/processed/churches_classified.json"
+from project_config import (
+    CHURCHES_FILE,
+    CLASSIFIED_FILE,
+    TYPE_ENTITIES_CACHE_FILE,
+    TYPE_REPORT_FILE,
 )
 
-TYPE_CACHE_FILE = Path(
-    "data/raw/wikidata_type_entities.json"
-)
-
-REPORT_FILE = Path(
-    "data/processed/type_report.json"
-)
+INPUT_FILE = CHURCHES_FILE
+OUTPUT_FILE = CLASSIFIED_FILE
+TYPE_CACHE_FILE = TYPE_ENTITIES_CACHE_FILE
+REPORT_FILE = TYPE_REPORT_FILE
 
 
 API = "https://www.wikidata.org/w/api.php"

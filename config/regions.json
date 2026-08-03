@@ -1,0 +1,16 @@
+{
+  "tuscany": {
+    "name": "Tuscany",
+    "wikidata_id": "Q1273"
+  },
+
+  "umbria": {
+    "name": "Umbria",
+    "wikidata_id": "Q1280"
+  },
+
+  "marche": {
+    "name": "Marche",
+    "wikidata_id": "Q1279"
+  }
+}

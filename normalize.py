@@ -1,11 +1,15 @@
 import json
-from pathlib import Path
 from urllib.parse import quote
 
+from project_config import (
+    CHURCHES_FILE,
+    ENTITIES_FILE,
+    QUALITY_REPORT_FILE,
+)
 
-INPUT_FILE = Path("data/raw/tuscany_entities.json")
-OUTPUT_FILE = Path("data/processed/churches.json")
-REPORT_FILE = Path("data/processed/quality_report.json")
+INPUT_FILE = ENTITIES_FILE
+OUTPUT_FILE = CHURCHES_FILE
+REPORT_FILE = QUALITY_REPORT_FILE
 
 
 PRECISION_NAMES = {
