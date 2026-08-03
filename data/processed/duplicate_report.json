@@ -1,0 +1,28 @@
+{
+  "total_entities": 194,
+  "candidate_pairs": 1,
+  "entities_flagged": 2,
+  "high_confidence_pairs": 0,
+  "medium_confidence_pairs": 0,
+  "low_confidence_pairs": 1,
+  "candidate_records": [
+    {
+      "qid_1": "Q110944216",
+      "name_1": "Rotonda del Brunelleschi",
+      "qid_2": "Q19947673",
+      "name_2": "Rotonda di Brunelleschi",
+      "name_similarity": 1.0,
+      "distance_meters": null,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "name_similarity": 1.0
+        },
+        "shared_location_id"
+      ]
+    }
+  ]
+}

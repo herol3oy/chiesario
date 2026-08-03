@@ -1,0 +1,11 @@
+{
+  "total_entities": 194,
+  "missing_coordinates": 3,
+  "missing_images": 3,
+  "multiple_inception_claims": 10,
+  "imprecise_dates": 36,
+  "date_review_required": 7,
+  "missing_italian_name": 0,
+  "missing_inception": 0,
+  "multiple_types": 38
+}

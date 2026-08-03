@@ -1,0 +1,34 @@
+{
+  "total_churches": 194,
+  "unique_files": 205,
+  "files_enriched": 205,
+  "missing_files": 0,
+  "files_missing_license_metadata": 0,
+  "churches_without_wikidata_images": 3,
+  "license_counts": {
+    "CC BY-SA 3.0": 70,
+    "CC BY-SA 4.0": 46,
+    "CC BY 3.0": 33,
+    "CC BY 2.5": 31,
+    "Public domain": 15,
+    "CC BY 2.0": 5,
+    "Copyrighted free use": 4,
+    "CC BY 4.0": 1
+  },
+  "missing_file_records": [],
+  "missing_license_records": [],
+  "churches_without_images": [
+    {
+      "wikidata_id": "Q3657663",
+      "name": "cappella di Santa Barbara a Porta Vecchia"
+    },
+    {
+      "wikidata_id": "Q3657685",
+      "name": "cappella di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q110944216",
+      "name": "Rotonda del Brunelleschi"
+    }
+  ]
+}

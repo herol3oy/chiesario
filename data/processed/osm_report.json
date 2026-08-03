@@ -1,0 +1,206 @@
+{
+  "total": 194,
+  "single_exact_match": 161,
+  "multiple_exact_matches": 2,
+  "no_exact_match": 31,
+  "with_osm_coordinates": 163,
+  "with_osm_address": 34,
+  "with_osm_website": 9,
+  "no_match_records": [
+    {
+      "wikidata_id": "Q3657316",
+      "name": "cappella Antinori",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q962065",
+      "name": "cappella Bardi",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3657333",
+      "name": "cappella Capponi",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q16268127",
+      "name": "cappella dell'Annunciazione",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3657663",
+      "name": "cappella di Santa Barbara a Porta Vecchia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q1133664",
+      "name": "cappella Peruzzi",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q526637",
+      "name": "cappella Sassetti",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q2593098",
+      "name": "cappella Tornabuoni",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q51171",
+      "name": "cappellone degli Spagnoli",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3669071",
+      "name": "chiesa della Maria Santissima del Rosario",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3669259",
+      "name": "chiesa delle Carceri di Sant'Ansano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3669504",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3669937",
+      "name": "chiesa di San Donato dei Vecchietti",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3670196",
+      "name": "chiesa di San Gallo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q111191245",
+      "name": "chiesa di San Giovanni Decollato",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q16540253",
+      "name": "chiesa di San Leonardo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3671141",
+      "name": "chiesa di San Martino in Santa Maria della Scala",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55156351",
+      "name": "chiesa di San Michele Arcangelo a Monteripaldi",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3671596",
+      "name": "chiesa di San Pier Scheraggio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q19843876",
+      "name": "chiesa di Sant'Antonio Abate e Sant'Anna",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3672859",
+      "name": "chiesa di Sant'Onofrio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3672942",
+      "name": "chiesa di Santa Cecilia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3673667",
+      "name": "chiesa di Santa Maria dei Bardi",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3673774",
+      "name": "chiesa di Santa Maria del Santo Sepolcro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3673838",
+      "name": "chiesa di Santa Maria della Croce al Tempio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3673876",
+      "name": "chiesa di Santa Maria della Pace",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3674372",
+      "name": "chiesa e convento delle Sperandie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3674383",
+      "name": "chiesa e convento di San Girolamo in Campansi",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3884826",
+      "name": "oratorio di Santa Caterina in Fontebranda",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q110944216",
+      "name": "Rotonda del Brunelleschi",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q3983163",
+      "name": "tempietto del Santo Sepolcro",
+      "match_count": 0
+    }
+  ],
+  "multiple_match_records": [
+    {
+      "wikidata_id": "Q3674395",
+      "name": "chiesa e convento di Santa Croce in Fossabanda",
+      "match_count": 2,
+      "matches": [
+        {
+          "osm_type": "way",
+          "osm_id": 1303489827,
+          "osm_url": "https://www.openstreetmap.org/way/1303489827",
+          "name": "Chiesa di Santa Croce in Fossabanda"
+        },
+        {
+          "osm_type": "relation",
+          "osm_id": 1736084,
+          "osm_url": "https://www.openstreetmap.org/relation/1736084",
+          "name": "Santa Croce in Fossabanda"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3689641",
+      "name": "convento e chiesa di Santa Maria a Ripa",
+      "match_count": 2,
+      "matches": [
+        {
+          "osm_type": "way",
+          "osm_id": 262726461,
+          "osm_url": "https://www.openstreetmap.org/way/262726461",
+          "name": "Chiesa di Santa Maria a Ripa"
+        },
+        {
+          "osm_type": "relation",
+          "osm_id": 6156781,
+          "osm_url": "https://www.openstreetmap.org/relation/6156781",
+          "name": "Convento di Santa Maria a Ripa"
+        }
+      ]
+    }
+  ]
+}

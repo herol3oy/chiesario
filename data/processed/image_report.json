@@ -1,0 +1,2506 @@
+{
+  "total": 194,
+  "hero_images_auto_selected": 90,
+  "image_review_required": 104,
+  "no_images": 3,
+  "auto_selected_records": [
+    {
+      "wikidata_id": "Q3635657",
+      "name": "basilica dei Santi Vincenzo e Caterina de' Ricci",
+      "hero_image": "Basilica di Santa Caterina de' Ricci 01.JPG"
+    },
+    {
+      "wikidata_id": "Q1042634",
+      "name": "basilica di Santa Maria del Carmine",
+      "hero_image": "Piazza del Carmine, veduta sulla chiesa del carmine.jpg"
+    },
+    {
+      "wikidata_id": "Q1714149",
+      "name": "basilica di Santa Maria delle Carceri",
+      "hero_image": "Santa maria delle carceri, esterno, 02.jpg"
+    },
+    {
+      "wikidata_id": "Q51175",
+      "name": "basilica di Santa Maria Novella",
+      "hero_image": "Santa Maria Novella (Florence).jpg"
+    },
+    {
+      "wikidata_id": "Q1519975",
+      "name": "basilica di Santo Spirito",
+      "hero_image": "Chiesa Santo Spirito, Firenze.jpg"
+    },
+    {
+      "wikidata_id": "Q732511",
+      "name": "battistero di San Giovanni",
+      "hero_image": "Firenze Battistero di San Giovanni Esterno 04.jpg"
+    },
+    {
+      "wikidata_id": "Q3657606",
+      "name": "cappella di San Michele Arcangelo e della Visitazione di Maria",
+      "hero_image": "Cappella di San Michele Arcangelo e della Visitazione di Maria, Livorno.JPG"
+    },
+    {
+      "wikidata_id": "Q124005573",
+      "name": "cappella di Sant'Antonio da Padova",
+      "hero_image": "SienaPrescianoCappellaSantAntonioDaPadovaVillaPieriLovatelli2.jpg"
+    },
+    {
+      "wikidata_id": "Q3667914",
+      "name": "chiesa armena di San Gregorio Illuminatore",
+      "hero_image": "Chiesa di S.Gregorio a Livorno.jpg"
+    },
+    {
+      "wikidata_id": "Q2223430",
+      "name": "chiesa dei Santi Apostoli",
+      "hero_image": "Piazza del limbo, chiesa dei ss. apostoli, 01,0.jpg"
+    },
+    {
+      "wikidata_id": "Q764060",
+      "name": "chiesa dei Santi Michele e Gaetano",
+      "hero_image": "San Gaetano, facciata 12.JPG"
+    },
+    {
+      "wikidata_id": "Q3668382",
+      "name": "chiesa dei Santi Pietro e Paolo",
+      "hero_image": "Santi Pietro e Paolo (Siena) 02.JPG"
+    },
+    {
+      "wikidata_id": "Q1285138",
+      "name": "chiesa dei Santi Simone e Giuda",
+      "hero_image": "Piazza san simone, chiesa dei santi simone e giuda, 02,0.jpg"
+    },
+    {
+      "wikidata_id": "Q3668916",
+      "name": "chiesa della Madonna dei Galletti",
+      "hero_image": "Madonna dei Galletti - 2025-10-19.jpg"
+    },
+    {
+      "wikidata_id": "Q3669071",
+      "name": "chiesa della Maria Santissima del Rosario",
+      "hero_image": "SienaMariaSantissimaDelRosario5.jpg"
+    },
+    {
+      "wikidata_id": "Q3669167",
+      "name": "chiesa della Santissima Annunziata",
+      "hero_image": "Livorno, chiesa dei greci uniti, esterno, facciata 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3669259",
+      "name": "chiesa delle Carceri di Sant'Ansano",
+      "hero_image": "SiChiesaDelleCarceriDiSantAnsano1b.jpg"
+    },
+    {
+      "wikidata_id": "Q2778991",
+      "name": "chiesa di Ognissanti",
+      "hero_image": "Chiesa di Ognissanti, Firenze, facciata.jpg"
+    },
+    {
+      "wikidata_id": "Q1117930",
+      "name": "chiesa di San Barnaba",
+      "hero_image": "Firenze - chiesa di San Barnaba - facciata.jpg"
+    },
+    {
+      "wikidata_id": "Q3669552",
+      "name": "chiesa di San Bartolomeo a Monte Oliveto",
+      "hero_image": "San bartolomeo a monteoliveto, esterno, 05.jpg"
+    },
+    {
+      "wikidata_id": "Q1121868",
+      "name": "chiesa di San Domenico",
+      "hero_image": "Chiesa di san domenico (pisa), esterno.JPG"
+    },
+    {
+      "wikidata_id": "Q3669925",
+      "name": "chiesa di San Donato",
+      "hero_image": "SienaSanDonato4.jpg"
+    },
+    {
+      "wikidata_id": "Q3585329",
+      "name": "chiesa di San Donato in Polverosa",
+      "hero_image": "San donato in polverosa, esterno dopo lavori, 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3585333",
+      "name": "chiesa di San Felice in Piazza",
+      "hero_image": "San felice in piazza, facciata.JPG"
+    },
+    {
+      "wikidata_id": "Q3670031",
+      "name": "chiesa di San Francesco",
+      "hero_image": "Carrara, san francesco, esterno 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3670083",
+      "name": "chiesa di San Francesco",
+      "hero_image": "Chiesa San Francesco, Pisa.JPG"
+    },
+    {
+      "wikidata_id": "Q3670086",
+      "name": "chiesa di San Francesco",
+      "hero_image": "Prato, san francesco, facciata (dopo restauro 2022) 02-edit.jpg"
+    },
+    {
+      "wikidata_id": "Q3581520",
+      "name": "chiesa di San Gaetano di Thiene",
+      "hero_image": "SienaChiesaSanGaetanoDiThiene2.jpg"
+    },
+    {
+      "wikidata_id": "Q783096",
+      "name": "chiesa di San Giorgio ai Tedeschi",
+      "hero_image": "Pisa- chiesa di san giorgio dei tedeschi.JPG"
+    },
+    {
+      "wikidata_id": "Q3670458",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "Chiesa di san Giovanni Battista a Siena.JPG"
+    },
+    {
+      "wikidata_id": "Q1109516",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "Chiesa San Giovanni Battista, Livorno.jpg"
+    },
+    {
+      "wikidata_id": "Q3001779",
+      "name": "chiesa di San Giovanni Battista della Calza",
+      "hero_image": "San Giovanni della Calza 3.JPG"
+    },
+    {
+      "wikidata_id": "Q3670507",
+      "name": "chiesa di San Giovanni Decollato",
+      "hero_image": "Esterno della chiesa di San Giovanni Decollato, Massa (1).jpg"
+    },
+    {
+      "wikidata_id": "Q111191245",
+      "name": "chiesa di San Giovanni Decollato",
+      "hero_image": "Pistoia - Chiesa di San Giovanni Decollato - 2023-09-28 13-30-10 001.jpg"
+    },
+    {
+      "wikidata_id": "Q3670530",
+      "name": "chiesa di San Giovanni Gualberto",
+      "hero_image": "Livorno, san giovanni gualberto a valle benedetta, esterno 07.jpg"
+    },
+    {
+      "wikidata_id": "Q3670564",
+      "name": "chiesa di San Giovannino degli Scolopi",
+      "hero_image": "San Giovannino degli Scolopi.JPG"
+    },
+    {
+      "wikidata_id": "Q3670567",
+      "name": "chiesa di San Giovannino dei Cavalieri",
+      "hero_image": "San giovannino dei cavalieri, facciata 02.JPG"
+    },
+    {
+      "wikidata_id": "Q3670565",
+      "name": "chiesa di San Giovannino della Staffa",
+      "hero_image": "San Giovannino della Staffa, facciata.JPG"
+    },
+    {
+      "wikidata_id": "Q3670618",
+      "name": "chiesa di San Giuseppe",
+      "hero_image": "San giuseppe, firenze, facciata 01.JPG"
+    },
+    {
+      "wikidata_id": "Q3670747",
+      "name": "chiesa di San Jacopo in Acquaviva",
+      "hero_image": "Chiesa di San Jacopo a Livorno.JPG"
+    },
+    {
+      "wikidata_id": "Q3670749",
+      "name": "chiesa di San Jacopo in Campo Corbolini",
+      "hero_image": "San Jacopo in Campo Corbolini.JPG"
+    },
+    {
+      "wikidata_id": "Q3671004",
+      "name": "chiesa di San Marco Vecchio",
+      "hero_image": "Chiesa di san marco vecchio 04.JPG"
+    },
+    {
+      "wikidata_id": "Q3671047",
+      "name": "chiesa di San Martino",
+      "hero_image": "Chiesa di San Martino, Salviano, Livorno 2.JPG"
+    },
+    {
+      "wikidata_id": "Q3671060",
+      "name": "chiesa di San Martino",
+      "hero_image": "Chiesa di San Martino - Facade.jpg"
+    },
+    {
+      "wikidata_id": "Q3671101",
+      "name": "chiesa di San Martino a Mensola",
+      "hero_image": "Chiesa di san martino a mensola.JPG"
+    },
+    {
+      "wikidata_id": "Q3671341",
+      "name": "chiesa di San Michele a Castello",
+      "hero_image": "Chiesa di San Michele a Castello (Florence) - Facade.jpg"
+    },
+    {
+      "wikidata_id": "Q692591",
+      "name": "chiesa di San Michele a San Salvi",
+      "hero_image": "Chiesa di san salvi.JPG"
+    },
+    {
+      "wikidata_id": "Q3671305",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "Michele a pontorme.jpg"
+    },
+    {
+      "wikidata_id": "Q3506865",
+      "name": "chiesa di San Michele in Borgo",
+      "hero_image": "San Michele in Borgo, Pisa.jpg"
+    },
+    {
+      "wikidata_id": "Q3671342",
+      "name": "chiesa di San Michele Visdomini",
+      "hero_image": "San michele visdomini, esterno, 02.jpg"
+    },
+    {
+      "wikidata_id": "Q3671413",
+      "name": "chiesa di San Niccolò Oltrarno",
+      "hero_image": "Firenze - Florence - Via di San Niccolò - View East on chiesa di San Niccolò Oltrarno.jpg"
+    },
+    {
+      "wikidata_id": "Q3671531",
+      "name": "chiesa di San Paolino",
+      "hero_image": "San paolino, facciata.JPG"
+    },
+    {
+      "wikidata_id": "Q1423910",
+      "name": "chiesa di San Paolo a Ripa d'Arno",
+      "hero_image": "Pisa - Chiesa di San Paolo a Ripa 02.JPG"
+    },
+    {
+      "wikidata_id": "Q3506968",
+      "name": "chiesa di San Paolo all'Orto",
+      "hero_image": "Pisa san Paolo all'Orto.JPG"
+    },
+    {
+      "wikidata_id": "Q3671588",
+      "name": "chiesa di San Pier Gattolino",
+      "hero_image": "Via romana, san pier gattolino, 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3671748",
+      "name": "chiesa di San Pietro a Sollicciano",
+      "hero_image": "Firenze, san pietro a sollicciano, esterno 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3504517",
+      "name": "chiesa di San Pietro in Vinculis",
+      "hero_image": "Pisa San Pietro in Vinculis (facciata).JPG"
+    },
+    {
+      "wikidata_id": "Q2220029",
+      "name": "chiesa di San Salvatore al Monte",
+      "hero_image": "San salvatore al monte.JPG"
+    },
+    {
+      "wikidata_id": "Q3671987",
+      "name": "chiesa di San Salvatore al Vescovo",
+      "hero_image": "San Salvatore al Vescovo.JPG"
+    },
+    {
+      "wikidata_id": "Q1102250",
+      "name": "chiesa di Sant'Agostino",
+      "hero_image": "SantAgostinoSiena2.JPG"
+    },
+    {
+      "wikidata_id": "Q3672358",
+      "name": "chiesa di Sant'Ambrogio",
+      "hero_image": "Firenze - Florence - Piazza Sant'Ambrogio - ICE Photocompilation Viewing from NE to East on Chiesa di Sant'Ambrogio.jpg"
+    },
+    {
+      "wikidata_id": "Q3672660",
+      "name": "chiesa di Sant'Antonio Abate",
+      "hero_image": "Chiesa Sant'Antonio Abate Alberese (GR).jpg"
+    },
+    {
+      "wikidata_id": "Q3672682",
+      "name": "chiesa di Sant'Antonio Abate",
+      "hero_image": "Sant'Antonio Abate, Pisa, facciata.JPG"
+    },
+    {
+      "wikidata_id": "Q3673046",
+      "name": "chiesa di Santa Eufrasia",
+      "hero_image": "Chiesa Santa Eufrasia, Pisa.JPG"
+    },
+    {
+      "wikidata_id": "Q3673065",
+      "name": "chiesa di Santa Giulia",
+      "hero_image": "Livorno, santa giulia, esterno, 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3673187",
+      "name": "chiesa di Santa Margherita in Santa Maria de' Ricci",
+      "hero_image": "Santa Margherita in Santa Maria de' Ricci 11.JPG"
+    },
+    {
+      "wikidata_id": "Q3673580",
+      "name": "chiesa di Santa Maria a Novoli",
+      "hero_image": "Santa maria a novoli 01.JPG"
+    },
+    {
+      "wikidata_id": "Q3673712",
+      "name": "chiesa di Santa Maria del Carmine",
+      "hero_image": "Chiesa Santa Maria del Carmine, Pisa.JPG"
+    },
+    {
+      "wikidata_id": "Q3673734",
+      "name": "chiesa di Santa Maria del Fiore a Lapo",
+      "hero_image": "Santa Maria del Fiore a Lapo, ext. 02.JPG"
+    },
+    {
+      "wikidata_id": "Q3674085",
+      "name": "chiesa di Santa Maria di Provenzano",
+      "hero_image": "Siena, basilica di provenzano, esterno 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3674092",
+      "name": "chiesa di Santa Maria e Santa Brigida al Paradiso",
+      "hero_image": "Sante maria e brigida al paradiso, ext. 02.JPG"
+    },
+    {
+      "wikidata_id": "Q3674136",
+      "name": "chiesa di Santa Maria In Portico Fontegiusta",
+      "hero_image": "Chiesa di fontegiusta, 01.JPG"
+    },
+    {
+      "wikidata_id": "Q1784984",
+      "name": "chiesa di Santa Maria Maddalena dei Pazzi",
+      "hero_image": "Santa Maria Maddalena de' Pazzi ingresso.JPG"
+    },
+    {
+      "wikidata_id": "Q3674172",
+      "name": "chiesa di Santa Marta",
+      "hero_image": "Santa Marta Facciata.jpg"
+    },
+    {
+      "wikidata_id": "Q3674335",
+      "name": "chiesa di Santo Stefano alla Lizza",
+      "hero_image": "SienaSantoStefano6.jpg"
+    },
+    {
+      "wikidata_id": "Q3674348",
+      "name": "chiesa di Santo Stefano extra moenia",
+      "hero_image": "Pisa - Chiesa di santo Stefano extra moenia.JPG"
+    },
+    {
+      "wikidata_id": "Q3674372",
+      "name": "chiesa e convento delle Sperandie",
+      "hero_image": "SienaMariaVisitazioneTrafisseSperandie2.jpg"
+    },
+    {
+      "wikidata_id": "Q3674383",
+      "name": "chiesa e convento di San Girolamo in Campansi",
+      "hero_image": "SienaSanGirolamoInCampansi5.jpg"
+    },
+    {
+      "wikidata_id": "Q3674395",
+      "name": "chiesa e convento di Santa Croce in Fossabanda",
+      "hero_image": "Santa Croce in Fossabanda, esterno 02.jpg"
+    },
+    {
+      "wikidata_id": "Q3689641",
+      "name": "convento e chiesa di Santa Maria a Ripa",
+      "hero_image": "Empoli, santa maria a ripa, esterno 02.jpg"
+    },
+    {
+      "wikidata_id": "Q3689643",
+      "name": "convento e chiesa di Santo Stefano degli Agostiniani",
+      "hero_image": "Chiesa Santo Stefano esterno..JPG"
+    },
+    {
+      "wikidata_id": "Q1236622",
+      "name": "duomo di Prato",
+      "hero_image": "Piazza del Duomo e Cattedrale Santo Stefano Prato.jpg"
+    },
+    {
+      "wikidata_id": "Q3735826",
+      "name": "ex chiesa dei Santi Jacopo e Lorenzo",
+      "hero_image": "Ex chiesa dei Santi Jacopo e Lorenzo 01.JPG"
+    },
+    {
+      "wikidata_id": "Q3884413",
+      "name": "oratorio dei Buonomini di San Martino",
+      "hero_image": "Piazza san martino, oratorio dei buonomini di san martino, 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3884450",
+      "name": "oratorio dei Vanchetoni",
+      "hero_image": "Oratorio Vanchetoni.JPG"
+    },
+    {
+      "wikidata_id": "Q3884771",
+      "name": "oratorio di San Tommaso d'Aquino",
+      "hero_image": "Oratorio di San Tommaso d'Aquino 12.JPG"
+    },
+    {
+      "wikidata_id": "Q3884805",
+      "name": "oratorio di Sant'Antonio da Padova",
+      "hero_image": "SienaSantAntonioDiPadovaAlleMurellaTartuca.jpg"
+    },
+    {
+      "wikidata_id": "Q3884826",
+      "name": "oratorio di Santa Caterina in Fontebranda",
+      "hero_image": "SienaOratorioSantaCaterinaInFontebranda1.jpg"
+    },
+    {
+      "wikidata_id": "Q578805",
+      "name": "Sagrestia Vecchia",
+      "hero_image": "Sagrestia vecchia, veduta 00.jpg"
+    },
+    {
+      "wikidata_id": "Q1248706",
+      "name": "santuario della Madonna del Giglio",
+      "hero_image": "Madonna del Giglio sanctuary 3.jpg"
+    }
+  ],
+  "review_records": [
+    {
+      "wikidata_id": "Q3603204",
+      "name": "abbazia di San Bartolomeo a Ripoli",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Bartolomeo a ripoli 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "ripoli",
+              "bartolomeo"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q2287001",
+      "name": "basilica della Santissima Annunziata",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Palazzo budini gattai, vista verso piazza santissima annunziata, basilica 04.jpg",
+        "score": -1,
+        "confidence": "low",
+        "reasons": [
+          {
+            "positive_terms": [
+              "basilica"
+            ]
+          },
+          {
+            "negative_terms": [
+              "pala"
+            ]
+          },
+          {
+            "name_tokens": [
+              "annunziata",
+              "santissima"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q573881",
+      "name": "basilica di San Lorenzo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Florencia, Italia - panoramio (2).jpg",
+        "score": 1,
+        "confidence": "low",
+        "reasons": [
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1152774",
+      "name": "basilica di San Marco",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San Marco (Florence) '21.jpg",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "marco"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q844337",
+      "name": "basilica di San Miniato al Monte",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Sanminiato.jpg",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "miniato"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q51177",
+      "name": "basilica di Santa Croce",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Basilica di Santa Croce (12437).jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "basilica"
+            ]
+          },
+          {
+            "name_tokens": [
+              "croce"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1062114",
+      "name": "basilica di Santa Trinita",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Basilica di Santa Trinita, Florence.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "basilica"
+            ]
+          },
+          {
+            "name_tokens": [
+              "trinita"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1066935",
+      "name": "battistero di San Giovanni",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Battistero siena 00.jpg",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "battistero"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3657316",
+      "name": "cappella Antinori",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San gaetano, cappella natinori.JPG",
+        "score": 0,
+        "confidence": "low",
+        "reasons": []
+      }
+    },
+    {
+      "wikidata_id": "Q962065",
+      "name": "cappella Bardi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa croce, cappella bardi 00.jpg",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "bardi"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1996075",
+      "name": "cappella Brancacci",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Cappella brancacci 03.JPG",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "brancacci"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3657333",
+      "name": "cappella Capponi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa felicita, cappella capponi 01.JPG",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "capponi"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q16268127",
+      "name": "cappella dell'Annunciazione",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Cappella dell'annunciazione, smn, 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "annunciazione",
+              "dell"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q377517",
+      "name": "Cappella di Piazza",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Palazzo Pubblico Siena 01.JPG",
+        "score": -8,
+        "confidence": "low",
+        "reasons": [
+          {
+            "negative_terms": [
+              "pala"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3657663",
+      "name": "cappella di Santa Barbara a Porta Vecchia",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q3657685",
+      "name": "cappella di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q600355",
+      "name": "cappella Pazzi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Pazzi Chapel Santa Croce Apr 2008 P.JPG",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "pazzi"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1133664",
+      "name": "cappella Peruzzi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa croce, cappella peruzzi 00.jpg",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "peruzzi"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q526637",
+      "name": "cappella Sassetti",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa Trinita 6 Sassetti.jpg",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "sassetti"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q2593098",
+      "name": "cappella Tornabuoni",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Domenico Ghirlandaio und Werkstatt, Tornabuoni-Kapelle, 1486–1490, Freskenzyklus, Santa Maria Novella, Florenz.jpg",
+        "score": -3,
+        "confidence": "low",
+        "reasons": [
+          {
+            "negative_terms": [
+              "fresco"
+            ]
+          },
+          {
+            "name_tokens": [
+              "tornabuoni"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q51171",
+      "name": "cappellone degli Spagnoli",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Cappellone degli spagnoli, via veritas 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "cappellone",
+              "spagnoli"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q191739",
+      "name": "Cattedrale di Santa Maria del Fiore",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Florence Duomo from Michelangelo hill.jpg",
+        "score": 1,
+        "confidence": "low",
+        "reasons": [
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3668157",
+      "name": "chiesa dei Santi Francesco e Chiara",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Firenze - Chiesa dei Frati minori Cappuccini di Montughi.jpg",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3668503",
+      "name": "chiesa del Carmine",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Église Carmine - Carrare (IT52) - 2022-08-28 - 3.jpg",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "carmine"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q428178",
+      "name": "chiesa del Santo Sepolcro",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Pisa - Chiesa del Santo Sepolcro, 01-edit.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "sepolcro"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3668695",
+      "name": "chiesa del Santuccio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Siena, chiesa del santuccio.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "santuccio"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q16539889",
+      "name": "chiesa della Compagnia di San Sebastiano",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "SienaSanSebastiano8.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "sebastiano"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3668903",
+      "name": "chiesa della Madonna",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa della Madonna Livorno.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "madonna"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3668990",
+      "name": "chiesa della Madonna della Misericordia",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Massa-chiesa Misericordia-complesso1.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "misericordia"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1121100",
+      "name": "chiesa della Madonna della Tosse",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa maria della tosse 02.JPG",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "tosse"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669184",
+      "name": "chiesa della Santissima Annunziata",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santissima Annunziata (Siena) 02.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "annunziata",
+              "santissima"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669276",
+      "name": "chiesa delle Suore Montalve",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa delle montalve.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "montalve"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669286",
+      "name": "chiesa dello Spirito Santo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Spirito Santo-the church.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "spirito"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q860816",
+      "name": "chiesa di Orsanmichele",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "La chiesa di Orsanmichele, detta anticamente anche chiesa di San Michele in Orto.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "orsanmichele"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669504",
+      "name": "chiesa di San Bartolomeo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Pianta del buonsignori, dettaglio 016 san bartolommeo.jpg",
+        "score": -8,
+        "confidence": "low",
+        "reasons": [
+          {
+            "negative_terms": [
+              "pianta"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669519",
+      "name": "chiesa di San Bartolomeo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San bartolomeo.the church.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "bartolomeo"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669596",
+      "name": "chiesa di San Benedetto",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Piazza san benedetto, retro della chiesa di san benedetto 02.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "benedetto"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669825",
+      "name": "chiesa di San Cristoforo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "3166SienaSCristoforo.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "cristoforo"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669937",
+      "name": "chiesa di San Donato dei Vecchietti",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Pianta del buonsignori, dettaglio 052 san donato ( dei Vecchietti).jpg",
+        "score": -4,
+        "confidence": "low",
+        "reasons": [
+          {
+            "negative_terms": [
+              "pianta"
+            ]
+          },
+          {
+            "name_tokens": [
+              "donato",
+              "vecchietti"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669946",
+      "name": "chiesa di San Fabiano",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa di San Fabiano.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "fabiano"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669959",
+      "name": "chiesa di San Felice a Ema",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Sanfeliceaema298.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "felice"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3669962",
+      "name": "chiesa di San Ferdinando",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa San Ferdinando 2, Livorno.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "ferdinando"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q93679",
+      "name": "chiesa di San Francesco",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "686LuccaSFrancesco.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "francesco"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670163",
+      "name": "chiesa di San Francesco di Paola",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San francesco di paola (florence) 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "paola",
+              "francesco"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1071192",
+      "name": "chiesa di San Frediano in Cestello",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Florence, San Frediano in Cestello 001.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "frediano",
+              "cestello"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670196",
+      "name": "chiesa di San Gallo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Andrea del Sarto - The Annunciation - WGA00359.jpg",
+        "score": 0,
+        "confidence": "low",
+        "reasons": []
+      }
+    },
+    {
+      "wikidata_id": "Q1102245",
+      "name": "chiesa di San Giorgio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "SienaSanGiorgio3.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "giorgio"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3585340",
+      "name": "chiesa di San Giorgio alla Costa",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San giorgio alla costa 11.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "costa",
+              "giorgio"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670542",
+      "name": "chiesa di San Giovanni dei Fieri",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San Giovanni dei Fieri, pisa 01.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "giovanni",
+              "fieri"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670652",
+      "name": "chiesa di San Giuseppe",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa di san giuseppe siena.jpg",
+        "score": 9,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "facade",
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "giuseppe"
+            ]
+          },
+          "license_requires_review"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670697",
+      "name": "chiesa di San Gorgonio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Gorgona, san gorgonio 01.jpg",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "gorgonio"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670741",
+      "name": "chiesa di San Jacopo Soprarno",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San jacopo soprarno, retro (mattina) 02.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "soprarno",
+              "jacopo"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q16540253",
+      "name": "chiesa di San Leonardo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "SienaSanLeonardo5.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "leonardo"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670791",
+      "name": "chiesa di San Leonardo in Arcetri",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "SanLeonardoinArcetri01.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "arcetri",
+              "leonardo"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670924",
+      "name": "chiesa di San Lorenzo a Serpiolle",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San lorenzo a serpiolle 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "serpiolle",
+              "lorenzo"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670973",
+      "name": "chiesa di San Mamante",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San mamante empoli.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "mamante"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3670984",
+      "name": "chiesa di San Marcellino",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa di san marcellino 01.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "marcellino"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3671105",
+      "name": "chiesa di San Martino a Montughi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San martino a montughi, ext, 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "montughi",
+              "martino"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3671141",
+      "name": "chiesa di San Martino in Santa Maria della Scala",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Complesso di san martino alla scala 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "scala",
+              "martino"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q55156351",
+      "name": "chiesa di San Michele Arcangelo a Monteripaldi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San Michele a Monteripaldi 02.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "michele",
+              "monteripaldi"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3671596",
+      "name": "chiesa di San Pier Scheraggio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "View of Ancient Florence by Fabio Borbottoni 1820-1902 (20).jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "scheraggio"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3671752",
+      "name": "chiesa di San Pietro a Varlungo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San pietro a varlungo, ext., 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "varlungo",
+              "pietro"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3671828",
+      "name": "chiesa di San Procolo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Via de' giraldi angolo via pandolfini, chiesa di san procolo 01.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "procolo"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3671846",
+      "name": "chiesa di San Raimondo al Refugio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San Raimondo al Refugio 01.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "refugio",
+              "raimondo"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3671856",
+      "name": "chiesa di San Remigio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Piazza san remigio, chiesa di san remigio 01,0.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "remigio"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1102884",
+      "name": "chiesa di San Rocco",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San Rocco Pisa.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "rocco"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672017",
+      "name": "chiesa di San Sebastiano",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa San Sebastiano, Livorno.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "sebastiano"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672030",
+      "name": "chiesa di San Sebastiano in Vallepiatta",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Piazzetta della selva 01.JPG",
+        "score": 1,
+        "confidence": "low",
+        "reasons": [
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3504833",
+      "name": "chiesa di San Silvestro",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa San Silvestro, Pisa.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "silvestro"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3505132",
+      "name": "chiesa di San Sisto",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Pisa - Chiesa di San Sisto 01.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "sisto"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q19843876",
+      "name": "chiesa di Sant'Antonio Abate e Sant'Anna",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
+        "score": 9,
+        "confidence": "low",
+        "reasons": [
+          {
+            "positive_terms": [
+              "facciata",
+              "church",
+              "chiesa"
+            ]
+          },
+          {
+            "negative_terms": [
+              "sculpture"
+            ]
+          },
+          {
+            "name_tokens": [
+              "anna",
+              "sant",
+              "antonio",
+              "abate"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672727",
+      "name": "chiesa di Sant'Apollinare",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "San Apollinare Barbaricina, Pisa.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "apollinare"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672859",
+      "name": "chiesa di Sant'Onofrio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Corso tintori nella pianta del Buonsignori.jpg",
+        "score": -7,
+        "confidence": "low",
+        "reasons": [
+          {
+            "negative_terms": [
+              "pianta"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q281259",
+      "name": "chiesa di Santa Apollonia",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa Apollonia, Pisa (26655108776).jpg",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "apollonia"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672897",
+      "name": "chiesa di Santa Brigida al Paradiso",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Cappella di Santa Brigida al Paradiso degli Alberti.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "paradiso",
+              "brigida"
+            ]
+          },
+          "license_requires_review"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672904",
+      "name": "chiesa di Santa Caterina",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa Santa Caterina, Livorno.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "caterina"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3505115",
+      "name": "chiesa di Santa Caterina d'Alessandria",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa Caterina (Pisa) 02.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "caterina"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672942",
+      "name": "chiesa di Santa Cecilia",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Master Of Saint Cecilia - Saint Cecilia Altarpiece - WGA14477.jpg",
+        "score": -11,
+        "confidence": "low",
+        "reasons": [
+          {
+            "negative_terms": [
+              "altarpiece",
+              "altar"
+            ]
+          },
+          {
+            "name_tokens": [
+              "cecilia"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3672967",
+      "name": "chiesa di Santa Chiara",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa di santa chiara, pisa.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "chiara"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q585547",
+      "name": "chiesa di Santa Cristina",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa di Santa Cristina (Pisa).JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "cristina"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1069665",
+      "name": "chiesa di Santa Felicita",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa Felicita (Florence).jpg",
+        "score": 2,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "felicita"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673138",
+      "name": "chiesa di Santa Lucia dei Magnoli",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa lucia dei magnoli 01.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "magnoli",
+              "lucia"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673595",
+      "name": "chiesa di Santa Maria a Quarto",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa maria a quarto 02.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "quarto",
+              "maria"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673629",
+      "name": "chiesa di Santa Maria al Pignone",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santa Maria al Pignone.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "pignone",
+              "maria"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673664",
+      "name": "chiesa di Santa Maria degli Angiolini",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Via della colonna, chiesa s.m.angiolini, ext. 01.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "angiolini"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673667",
+      "name": "chiesa di Santa Maria dei Bardi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Telemaco Signorini, Santa Maria de' Bardi 1870 100x75cm.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "maria",
+              "bardi"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673774",
+      "name": "chiesa di Santa Maria del Santo Sepolcro",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Ex-monastero delle campora, resti del chiostro 06.jpg",
+        "score": 1,
+        "confidence": "low",
+        "reasons": [
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673838",
+      "name": "chiesa di Santa Maria della Croce al Tempio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Firenze, piazza piave.JPG",
+        "score": 1,
+        "confidence": "low",
+        "reasons": [
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3673876",
+      "name": "chiesa di Santa Maria della Pace",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Zocchi, ville 04 la pace.jpg",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "pace"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1426967",
+      "name": "chiesa di Santa Maria della Spina",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Església de Santa Maria della Spina de Pisa.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "maria",
+              "spina"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3674012",
+      "name": "chiesa di Santa Maria delle Nevi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
+        "score": 6,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "nevi",
+              "maria"
+            ]
+          },
+          "license_requires_review"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3674189",
+      "name": "chiesa di Santa Petronilla",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "SienaSantaPetronilla8b.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "petronilla"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q684119",
+      "name": "chiesa di Santa Reparata",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Scavi di santa reparata sotto il duomo di firenze, 06 absidi e altare.JPG",
+        "score": -5,
+        "confidence": "low",
+        "reasons": [
+          {
+            "negative_terms": [
+              "altar",
+              "altare"
+            ]
+          },
+          {
+            "name_tokens": [
+              "reparata"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q1049041",
+      "name": "chiesa di Santo Spirito",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "SienaSantoSpirito2.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "spirito"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3674338",
+      "name": "chiesa di Santo Stefano dei Cavalieri",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
+        "score": -9,
+        "confidence": "low",
+        "reasons": [
+          {
+            "positive_terms": [
+              "facade",
+              "church",
+              "interior"
+            ]
+          },
+          {
+            "negative_terms": [
+              "painting",
+              "sculpture",
+              "fresco"
+            ]
+          },
+          {
+            "name_tokens": [
+              "stefano",
+              "cavalieri"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3674373",
+      "name": "chiesa e convento della Maddalena",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa della maddalena, siena, 02.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "maddalena"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3674397",
+      "name": "chiesa e convento di Santa Marta",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Siena, santa marta 01.JPG",
+        "score": 3,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "marta"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3860475",
+      "name": "monastero di San Clemente",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Via san gallo, ex-monastero di san clemente 03.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "monastero",
+              "clemente"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q112798284",
+      "name": "Oratorio di San Ranieri",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Livorno, san ranieri, interno, 01.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "positive_terms": [
+              "interior",
+              "interno"
+            ]
+          },
+          {
+            "name_tokens": [
+              "ranieri"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q2028376",
+      "name": "oratorio di San Rocco",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Oratorio di San Rocco siena.jpg",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "oratorio",
+              "rocco"
+            ]
+          },
+          "license_requires_review"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q110944216",
+      "name": "Rotonda del Brunelleschi",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q19947673",
+      "name": "Rotonda di Brunelleschi",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Rotonda del brunelleschi 12.JPG",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "brunelleschi",
+              "rotonda"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q185303",
+      "name": "santuario di Santa Caterina",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santuario di santa caterina, portico dei Comuni d'Italia, 1941-47.jpg",
+        "score": 5,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "santuario",
+              "caterina"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q3983163",
+      "name": "tempietto del Santo Sepolcro",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Cappella del santo sepolcro,tempietto 00.JPG",
+        "score": 4,
+        "confidence": "medium",
+        "reasons": [
+          {
+            "name_tokens": [
+              "sepolcro",
+              "tempietto"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "total": 194,
+  "resolved": 187,
+  "review_required": 7,
+  "resolved_exact_year": 154,
+  "resolved_century": 29,
+  "resolved_decade": 4,
+  "review_records": [
+    {
+      "wikidata_id": "Q51175",
+      "name": "basilica di Santa Maria Novella",
+      "reason": "multiple_competing_dates",
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1278,
+          "end_year": 1278,
+          "display": "1278",
+          "precision": 9,
+          "statement_id": "Q51175$83c069df-4f16-3a7c-c3ba-5c17e072bfc4",
+          "rank": "normal"
+        },
+        {
+          "kind": "year",
+          "start_year": 1458,
+          "end_year": 1458,
+          "display": "1458",
+          "precision": 9,
+          "statement_id": "Q51175$7d231d16-446e-a43a-f02d-644fd5f81960",
+          "rank": "normal"
+        },
+        {
+          "kind": "year",
+          "start_year": 2001,
+          "end_year": 2001,
+          "display": "2001",
+          "precision": 9,
+          "statement_id": "Q51175$4A9C3641-434A-475B-8F33-C56C7A268978",
+          "rank": "normal"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q1996075",
+      "name": "cappella Brancacci",
+      "reason": "multiple_competing_dates",
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1424,
+          "end_year": 1424,
+          "display": "1424",
+          "precision": 9,
+          "statement_id": "Q1996075$F0293E14-72B9-4548-86E7-53254CA6AEC9",
+          "rank": "normal"
+        },
+        {
+          "kind": "year",
+          "start_year": 1990,
+          "end_year": 1990,
+          "display": "1990",
+          "precision": 9,
+          "statement_id": "Q1996075$517F6473-CF81-41D3-80D7-052DBB6793A0",
+          "rank": "normal"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3657333",
+      "name": "cappella Capponi",
+      "reason": "multiple_competing_dates",
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1420,
+          "end_year": 1420,
+          "display": "1420",
+          "precision": 9,
+          "statement_id": "Q3657333$b56711b2-4002-0719-adfc-b412b8446ffa",
+          "rank": "normal"
+        },
+        {
+          "kind": "year",
+          "start_year": 1419,
+          "end_year": 1419,
+          "display": "1419",
+          "precision": 9,
+          "statement_id": "Q3657333$74EACD04-BF3C-4CAC-8DC2-8AF3AC5BF196",
+          "rank": "normal"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q600355",
+      "name": "cappella Pazzi",
+      "reason": "multiple_competing_dates",
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1429,
+          "end_year": 1429,
+          "display": "1429",
+          "precision": 9,
+          "statement_id": "Q600355$729FD6F1-59B3-424F-B396-A39A71366B18",
+          "rank": "normal"
+        },
+        {
+          "kind": "year",
+          "start_year": 1434,
+          "end_year": 1434,
+          "display": "1434",
+          "precision": 9,
+          "statement_id": "Q600355$1BAABA2F-8025-4688-8230-9029F22724CE",
+          "rank": "normal"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q428178",
+      "name": "chiesa del Santo Sepolcro",
+      "reason": "multiple_competing_dates",
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1113,
+          "end_year": 1113,
+          "display": "1113",
+          "precision": 9,
+          "statement_id": "Q428178$1B23B446-96C2-4AA3-9246-638B40787AEF",
+          "rank": "normal"
+        },
+        {
+          "kind": "year",
+          "start_year": 1099,
+          "end_year": 1099,
+          "display": "1099",
+          "precision": 9,
+          "statement_id": "Q428178$e7ce56da-4323-6a52-572c-7142f5a145af",
+          "rank": "normal"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3671856",
+      "name": "chiesa di San Remigio",
+      "reason": "multiple_competing_dates",
+      "candidates": [
+        {
+          "kind": "century",
+          "start_year": 901,
+          "end_year": 1000,
+          "display": "10th century",
+          "precision": 7,
+          "statement_id": "Q3671856$38C2225C-AE44-4FD5-BB1A-283C435BF3CF",
+          "rank": "normal"
+        },
+        {
+          "kind": "century",
+          "start_year": 1301,
+          "end_year": 1400,
+          "display": "14th century",
+          "precision": 7,
+          "statement_id": "Q3671856$2450aabc-4805-a9bb-ef90-eb4388c69478",
+          "rank": "normal"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3673138",
+      "name": "chiesa di Santa Lucia dei Magnoli",
+      "reason": "multiple_competing_dates",
+      "candidates": [
+        {
+          "kind": "century",
+          "start_year": 1001,
+          "end_year": 1100,
+          "display": "11th century",
+          "precision": 7,
+          "statement_id": "Q3673138$173F3CC3-1608-4B70-A509-02416A467CC2",
+          "rank": "normal"
+        },
+        {
+          "kind": "year",
+          "start_year": 1283,
+          "end_year": 1283,
+          "display": "1283",
+          "precision": 9,
+          "statement_id": "Q3673138$C9F882E3-EED2-4DE0-8996-06DD26399F9E",
+          "rank": "normal"
+        }
+      ]
+    }
+  ]
+}

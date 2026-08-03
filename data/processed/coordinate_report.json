@@ -1,0 +1,73 @@
+{
+  "total": 194,
+  "canonical_from_wikidata": 191,
+  "canonical_from_osm": 1,
+  "unresolved": 2,
+  "sources_compared": 160,
+  "coordinate_disagreements": 2,
+  "review_threshold_meters": 150,
+  "average_wikidata_osm_distance_meters": 16.39,
+  "maximum_wikidata_osm_distance_meters": 495.5,
+  "osm_fallback_records": [
+    {
+      "wikidata_id": "Q124005573",
+      "name": "cappella di Sant'Antonio da Padova",
+      "latitude": 43.3068293,
+      "longitude": 11.4033413
+    }
+  ],
+  "unresolved_records": [
+    {
+      "wikidata_id": "Q3673876",
+      "name": "chiesa di Santa Maria della Pace",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q110944216",
+      "name": "Rotonda del Brunelleschi",
+      "osm_match_status": "none"
+    }
+  ],
+  "disagreement_records": [
+    {
+      "wikidata_id": "Q3669552",
+      "name": "chiesa di San Bartolomeo a Monte Oliveto",
+      "distance_meters": 495.5,
+      "wikidata": {
+        "latitude": 43.7669,
+        "longitude": 11.232,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q3669552$117F736D-16D8-40B3-918B-CAF3CEAC5AC5",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 43.7712902,
+        "longitude": 11.2309423,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 305428855,
+        "osm_url": "https://www.openstreetmap.org/way/305428855"
+      }
+    },
+    {
+      "wikidata_id": "Q1248706",
+      "name": "santuario della Madonna del Giglio",
+      "distance_meters": 337.45,
+      "wikidata": {
+        "latitude": 43.88,
+        "longitude": 11.098333333333,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q1248706$69d78330-4f32-b246-8a25-8b7c65bc26f0",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 43.8785032,
+        "longitude": 11.1019958,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 700922377,
+        "osm_url": "https://www.openstreetmap.org/way/700922377"
+      }
+    }
+  ]
+}

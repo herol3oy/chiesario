@@ -1,0 +1,6310 @@
+{
+  "Q3603204": [
+    {
+      "osm_type": "way",
+      "osm_id": 98315398,
+      "osm_url": "https://www.openstreetmap.org/way/98315398",
+      "wikidata_id": "Q3603204",
+      "coordinates": {
+        "latitude": 43.7553106,
+        "longitude": 11.2992883,
+        "source": "center"
+      },
+      "name": "Abbazia di San Bartolomeo a Ripoli",
+      "name_it": null,
+      "building": "yes",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Abbazia di San Bartolomeo a Ripoli",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Abbazia di San Bartolomeo a Ripoli",
+        "religion": "christian",
+        "wheelchair": "limited",
+        "wikidata": "Q3603204",
+        "wikipedia": "it:Abbazia di San Bartolomeo a Ripoli"
+      }
+    }
+  ],
+  "Q3635657": [
+    {
+      "osm_type": "way",
+      "osm_id": 366209548,
+      "osm_url": "https://www.openstreetmap.org/way/366209548",
+      "wikidata_id": "Q3635657",
+      "coordinates": {
+        "latitude": 43.8818801,
+        "longitude": 11.0934091,
+        "source": "center"
+      },
+      "name": "Basilica dei Santi Vincenzo e Caterina de' Ricci",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica dei Santi Vincenzo e Caterina de' Ricci",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Basilica dei Santi Vincenzo e Caterina de' Ricci",
+        "religion": "christian",
+        "wikidata": "Q3635657",
+        "wikipedia": "it:Basilica dei Santi Vincenzo e Caterina de' Ricci"
+      }
+    }
+  ],
+  "Q2287001": [
+    {
+      "osm_type": "way",
+      "osm_id": 234428743,
+      "osm_url": "https://www.openstreetmap.org/way/234428743",
+      "wikidata_id": "Q2287001",
+      "coordinates": {
+        "latitude": 43.7770394,
+        "longitude": 11.2613469,
+        "source": "center"
+      },
+      "name": "Basilica della Santissima Annunziata",
+      "name_it": "Basilica della Santissima Annunziata",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "cs:Santissima Annunziata",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Basilica della Santissima Annunziata",
+        "name:it": "Basilica della Santissima Annunziata",
+        "name:ko": "산타시마 안눈치아타 성당",
+        "religion": "christian",
+        "wikidata": "Q2287001",
+        "wikipedia": "cs:Santissima Annunziata"
+      }
+    }
+  ],
+  "Q573881": [
+    {
+      "osm_type": "way",
+      "osm_id": 599900778,
+      "osm_url": "https://www.openstreetmap.org/way/599900778",
+      "wikidata_id": "Q573881",
+      "coordinates": {
+        "latitude": 43.774962,
+        "longitude": 11.2540389,
+        "source": "center"
+      },
+      "name": "Basilica di San Lorenzo",
+      "name_it": "Basilica di San Lorenzo",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di San Lorenzo (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "name": "Basilica di San Lorenzo",
+        "name:hr": "Bazilika svetog Lovre",
+        "name:it": "Basilica di San Lorenzo",
+        "name:ja": "サン・ロレンツォ聖堂",
+        "name:ko": "산 로렌초 성당",
+        "name:ru": "Базилика Сан-Лоренцо",
+        "name:tr": "San Lorenzo Bazilikası",
+        "name:zh": "聖羅倫佐大教堂",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q573881",
+        "wikipedia": "it:Basilica di San Lorenzo (Firenze)"
+      }
+    }
+  ],
+  "Q1152774": [
+    {
+      "osm_type": "way",
+      "osm_id": 225706552,
+      "osm_url": "https://www.openstreetmap.org/way/225706552",
+      "wikidata_id": "Q1152774",
+      "coordinates": {
+        "latitude": 43.7783905,
+        "longitude": 11.2589931,
+        "source": "center"
+      },
+      "name": "Basilica di San Marco",
+      "name_it": "Basilica di San Marco",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di San Marco (Firenze)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Piazza San Marco",
+        "postcode": "50121",
+        "city": "Firenze"
+      },
+      "tags": {
+        "addr:city": "Firenze",
+        "addr:postcode": "50121",
+        "addr:street": "Piazza San Marco",
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Basilica di San Marco",
+        "name:be": "Сан-Марка",
+        "name:hr": "Bazilika svetog Marka",
+        "name:it": "Basilica di San Marco",
+        "name:ru": "Сан-Марко",
+        "name:zh": "佛罗伦萨圣玛尔谷大殿",
+        "religion": "christian",
+        "wikidata": "Q1152774",
+        "wikipedia": "it:Basilica di San Marco (Firenze)"
+      }
+    }
+  ],
+  "Q844337": [
+    {
+      "osm_type": "way",
+      "osm_id": 184781037,
+      "osm_url": "https://www.openstreetmap.org/way/184781037",
+      "wikidata_id": "Q844337",
+      "coordinates": {
+        "latitude": 43.7594513,
+        "longitude": 11.2651073,
+        "source": "center"
+      },
+      "name": "Basilica di San Miniato al Monte",
+      "name_it": "Basilica di San Miniato al Monte",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di San Miniato al Monte",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "historic": "church",
+        "image": "https://commons.wikimedia.org/wiki/File:Fate_la_carit%C3%A0!_Alla_Basilica_di_San_Miniato_al_Monte_-_Firenze.jpg",
+        "name": "Basilica di San Miniato al Monte",
+        "name:it": "Basilica di San Miniato al Monte",
+        "name:ko": "상 미니아토 성당",
+        "name:ru": "Базилика Сан Миниато Аль Монте",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q844337",
+        "wikipedia": "it:Basilica di San Miniato al Monte"
+      }
+    }
+  ],
+  "Q51177": [
+    {
+      "osm_type": "way",
+      "osm_id": 777563049,
+      "osm_url": "https://www.openstreetmap.org/way/777563049",
+      "wikidata_id": "Q51177",
+      "coordinates": {
+        "latitude": 43.768361,
+        "longitude": 11.2628865,
+        "source": "center"
+      },
+      "name": "Basilica di Santa Croce",
+      "name_it": "Basilica di Santa Croce",
+      "building": "basilica",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di Santa Croce",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Piazza Santa Croce",
+        "housenumber": "16"
+      },
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Piazza Santa Croce",
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "basilica",
+        "building:colour": "white",
+        "building:levels": "2",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Basilica di Santa Croce",
+        "name:cs": "Bazilika svatého Kříže",
+        "name:en": "Basilica of the Holy Cross",
+        "name:hr": "Bazilika sv. Križa",
+        "name:it": "Basilica di Santa Croce",
+        "name:ko": "산타 크로체 성당",
+        "name:ru": "Базилика Санта Кроче",
+        "name:zh": "圣十字教堂",
+        "religion": "christian",
+        "roof:colour": "#5A4937",
+        "roof:shape": "many",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q51177",
+        "wikipedia": "it:Basilica di Santa Croce"
+      }
+    }
+  ],
+  "Q1042634": [
+    {
+      "osm_type": "way",
+      "osm_id": 118425485,
+      "osm_url": "https://www.openstreetmap.org/way/118425485",
+      "wikidata_id": "Q1042634",
+      "coordinates": {
+        "latitude": 43.7678536,
+        "longitude": 11.2438703,
+        "source": "center"
+      },
+      "name": "Basilica di Santa Maria del Carmine",
+      "name_it": null,
+      "building": "basilica",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di Santa Maria del Carmine (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "basilica",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Basilica di Santa Maria del Carmine",
+        "religion": "christian",
+        "wikidata": "Q1042634",
+        "wikipedia": "it:Basilica di Santa Maria del Carmine (Firenze)"
+      }
+    }
+  ],
+  "Q1714149": [
+    {
+      "osm_type": "way",
+      "osm_id": 200950762,
+      "osm_url": "https://www.openstreetmap.org/way/200950762",
+      "wikidata_id": "Q1714149",
+      "coordinates": {
+        "latitude": 43.8794462,
+        "longitude": 11.0984361,
+        "source": "center"
+      },
+      "name": "Basilica di Santa Maria delle Carceri",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di Santa Maria delle Carceri",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Basilica di Santa Maria delle Carceri",
+        "religion": "christian",
+        "wikidata": "Q1714149",
+        "wikipedia": "it:Basilica di Santa Maria delle Carceri"
+      }
+    }
+  ],
+  "Q51175": [
+    {
+      "osm_type": "way",
+      "osm_id": 449369047,
+      "osm_url": "https://www.openstreetmap.org/way/449369047",
+      "wikidata_id": "Q51175",
+      "coordinates": {
+        "latitude": 43.7746763,
+        "longitude": 11.24942,
+        "source": "center"
+      },
+      "name": "Basilica di Santa Maria Novella",
+      "name_it": "Basilica di Santa Maria Novella",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": "http://www.chiesasantamarianovella.it/",
+      "phone": null,
+      "wikipedia": "it:Basilica di Santa Maria Novella",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Piazza di Santa Maria Novella",
+        "housenumber": "18",
+        "postcode": "50123",
+        "city": "Firenze"
+      },
+      "tags": {
+        "addr:city": "Firenze",
+        "addr:housenumber": "18",
+        "addr:postcode": "50123",
+        "addr:street": "Piazza di Santa Maria Novella",
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "check_date": "2024-09-05",
+        "denomination": "catholic",
+        "name": "Basilica di Santa Maria Novella",
+        "name:it": "Basilica di Santa Maria Novella",
+        "name:ja": "サンタマリアノッヴェッラ教会",
+        "name:ru": "Санта-Мария-Новелла",
+        "name:zh": "新聖母瑪麗亞教堂",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "religion": "christian",
+        "tourism": "attraction",
+        "website": "http://www.chiesasantamarianovella.it/",
+        "wheelchair": "yes",
+        "wikidata": "Q51175",
+        "wikipedia": "it:Basilica di Santa Maria Novella"
+      }
+    }
+  ],
+  "Q1062114": [
+    {
+      "osm_type": "way",
+      "osm_id": 478272186,
+      "osm_url": "https://www.openstreetmap.org/way/478272186",
+      "wikidata_id": "Q1062114",
+      "coordinates": {
+        "latitude": 43.7701384,
+        "longitude": 11.2507586,
+        "source": "center"
+      },
+      "name": "Basilica di Santa Trinita",
+      "name_it": null,
+      "building": "basilica",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di Santa Trinita",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "basilica",
+        "check_date": "2025-05-31",
+        "denomination": "catholic",
+        "name": "Basilica di Santa Trinita",
+        "name:hr": "Bazilika Presvetog Trojstva",
+        "religion": "christian",
+        "service_times": "Mo-Sa 7:30,18:30; Su 7:30,11:00,18:30",
+        "wikidata": "Q1062114",
+        "wikipedia": "it:Basilica di Santa Trinita"
+      }
+    }
+  ],
+  "Q1519975": [
+    {
+      "osm_type": "way",
+      "osm_id": 24881563,
+      "osm_url": "https://www.openstreetmap.org/way/24881563",
+      "wikidata_id": "Q1519975",
+      "coordinates": {
+        "latitude": 43.7674106,
+        "longitude": 11.2483467,
+        "source": "center"
+      },
+      "name": "Basilica di Santa Maria del Santo Spirito",
+      "name_it": "Basilica di Santa Maria del Santo Spirito",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": "1481",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Basilica di Santo Spirito",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Basilica di Santa Maria del Santo Spirito",
+        "name:it": "Basilica di Santa Maria del Santo Spirito",
+        "name:ko": "산토스피리토성당",
+        "religion": "christian",
+        "start_date": "1481",
+        "wikidata": "Q1519975",
+        "wikipedia": "it:Basilica di Santo Spirito"
+      }
+    }
+  ],
+  "Q1066935": [
+    {
+      "osm_type": "node",
+      "osm_id": 2812461391,
+      "osm_url": "https://www.openstreetmap.org/node/2812461391",
+      "wikidata_id": "Q1066935",
+      "coordinates": {
+        "latitude": 43.3180814,
+        "longitude": 11.3292652,
+        "source": "node"
+      },
+      "name": "Battistero di San Giovanni",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": "church",
+      "start_date": "1417...1431",
+      "website": "https://operaduomo.siena.it/",
+      "phone": null,
+      "wikipedia": "it:Battistero di San Giovanni (Siena)",
+      "wikimedia_commons": "Category:Baptistry (Siena)",
+      "address": {
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazza San Giovanni"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:place": "Piazza San Giovanni",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "artist_name": "Donatello, Jacopo della Quercia, Ghiberti, Giovanni di Turino",
+        "denomination": "roman_catholic",
+        "description": "Il Battistero è stato completamente restaurato e ora è visibile al pubblico dal 25/6/24.",
+        "historic": "church",
+        "level": "-2",
+        "name": "Battistero di San Giovanni",
+        "religion": "christian",
+        "start_date": "1417...1431",
+        "website": "https://operaduomo.siena.it/",
+        "wikidata": "Q1066935",
+        "wikimedia_commons": "Category:Baptistry (Siena)",
+        "wikipedia": "it:Battistero di San Giovanni (Siena)"
+      }
+    }
+  ],
+  "Q732511": [
+    {
+      "osm_type": "way",
+      "osm_id": 166821303,
+      "osm_url": "https://www.openstreetmap.org/way/166821303",
+      "wikidata_id": "Q732511",
+      "coordinates": {
+        "latitude": 43.7731479,
+        "longitude": 11.2550301,
+        "source": "center"
+      },
+      "name": "Battistero di San Giovanni",
+      "name_it": "Battistero di San Giovanni",
+      "building": "baptistery",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "C11",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Battistero di San Giovanni (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "baptistery",
+        "denomination": "catholic",
+        "name": "Battistero di San Giovanni",
+        "name:de": "Baptisterium San Giovanni",
+        "name:en": "Florence Baptistery of St. John",
+        "name:fr": "Baptistère Saint-Jean",
+        "name:hr": "Krstionica svetog Ivana",
+        "name:it": "Battistero di San Giovanni",
+        "name:ja": "サン・ジョバンニ礼拝堂",
+        "name:ko": "산 조반니 세례당",
+        "name:ru": "Балтистерий Сан-Джованни",
+        "name:zh": "洗禮堂",
+        "note:opening_hours": "last entrance at 19:30",
+        "opening_hours": "Mo-Su 09:00-19:45",
+        "religion": "christian",
+        "roof:colour": "#DFDCCB",
+        "start_date": "C11",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q732511",
+        "wikipedia": "it:Battistero di San Giovanni (Firenze)"
+      }
+    }
+  ],
+  "Q3657316": [],
+  "Q962065": [],
+  "Q1996075": [
+    {
+      "osm_type": "node",
+      "osm_id": 4653668717,
+      "osm_url": "https://www.openstreetmap.org/node/4653668717",
+      "wikidata_id": "Q1996075",
+      "coordinates": {
+        "latitude": 43.767752,
+        "longitude": 11.2436579,
+        "source": "node"
+      },
+      "name": "Cappella Brancacci",
+      "name_it": null,
+      "building": null,
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Cappella Brancacci",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "name": "Cappella Brancacci",
+        "name:en": "Brancacci Chapel",
+        "tourism": "museum",
+        "wikidata": "Q1996075",
+        "wikipedia": "it:Cappella Brancacci"
+      }
+    }
+  ],
+  "Q3657333": [],
+  "Q16268127": [],
+  "Q377517": [
+    {
+      "osm_type": "way",
+      "osm_id": 252463679,
+      "osm_url": "https://www.openstreetmap.org/way/252463679",
+      "wikidata_id": "Q377517",
+      "coordinates": {
+        "latitude": 43.3183278,
+        "longitude": 11.3321286,
+        "source": "center"
+      },
+      "name": "Cappella di Piazza",
+      "name_it": null,
+      "building": null,
+      "amenity": null,
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": "wayside_shrine",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Cappella di Piazza",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "access": "no",
+        "denomination": "roman_catholic",
+        "height": "12",
+        "historic": "wayside_shrine",
+        "name": "Cappella di Piazza",
+        "religion": "christian",
+        "wikidata": "Q377517",
+        "wikipedia": "it:Cappella di Piazza"
+      }
+    }
+  ],
+  "Q3657606": [
+    {
+      "osm_type": "way",
+      "osm_id": 145643576,
+      "osm_url": "https://www.openstreetmap.org/way/145643576",
+      "wikidata_id": "Q3657606",
+      "coordinates": {
+        "latitude": 43.5321585,
+        "longitude": 10.3190009,
+        "source": "center"
+      },
+      "name": "Cappella di San Michele Arcangelo e della Visitazione di Maria",
+      "name_it": null,
+      "building": "chapel",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": "yes",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Cappella di San Michele Arcangelo e della Visitazione di Maria",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "chapel",
+        "historic": "yes",
+        "name": "Cappella di San Michele Arcangelo e della Visitazione di Maria",
+        "wikidata": "Q3657606",
+        "wikipedia": "it:Cappella di San Michele Arcangelo e della Visitazione di Maria"
+      }
+    }
+  ],
+  "Q124005573": [
+    {
+      "osm_type": "way",
+      "osm_id": 141797318,
+      "osm_url": "https://www.openstreetmap.org/way/141797318",
+      "wikidata_id": "Q124005573",
+      "coordinates": {
+        "latitude": 43.3068293,
+        "longitude": 11.4033413,
+        "source": "center"
+      },
+      "name": "Cappella di Sant' Antonio da Padova",
+      "name_it": null,
+      "building": "chapel",
+      "amenity": null,
+      "religion": null,
+      "denomination": "roman_catholic",
+      "historic": "church",
+      "start_date": "1628",
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "alt_name": "Cappella della Villa Pieri",
+        "building": "chapel",
+        "denomination": "roman_catholic",
+        "historic": "church",
+        "name": "Cappella di Sant' Antonio da Padova",
+        "start_date": "1628",
+        "wikidata": "Q124005573"
+      }
+    }
+  ],
+  "Q3657663": [],
+  "Q3657685": [
+    {
+      "osm_type": "way",
+      "osm_id": 306523267,
+      "osm_url": "https://www.openstreetmap.org/way/306523267",
+      "wikidata_id": "Q3657685",
+      "coordinates": {
+        "latitude": 43.7778869,
+        "longitude": 11.1923942,
+        "source": "center"
+      },
+      "name": "Cappella di Santa Maria Assunta",
+      "name_it": null,
+      "building": "chapel",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Cappella di Santa Maria Assunta (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "check_date": "2024-04-24",
+        "denomination": "catholic",
+        "name": "Cappella di Santa Maria Assunta",
+        "religion": "christian",
+        "wikidata": "Q3657685",
+        "wikipedia": "it:Cappella di Santa Maria Assunta (Firenze)"
+      }
+    }
+  ],
+  "Q600355": [
+    {
+      "osm_type": "way",
+      "osm_id": 307539790,
+      "osm_url": "https://www.openstreetmap.org/way/307539790",
+      "wikidata_id": "Q600355",
+      "coordinates": {
+        "latitude": 43.7679832,
+        "longitude": 11.2628507,
+        "source": "center"
+      },
+      "name": "Cappella de' Pazzi",
+      "name_it": null,
+      "building": "yes",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Cappella Pazzi",
+      "wikimedia_commons": "File:2022_Pazzi-Kapelle.jpg",
+      "address": {},
+      "tags": {
+        "building": "yes",
+        "fee": "yes",
+        "name": "Cappella de' Pazzi",
+        "name:ru": "Капела Пацци",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "wheelchair": "limited",
+        "wikidata": "Q600355",
+        "wikimedia_commons": "File:2022_Pazzi-Kapelle.jpg",
+        "wikipedia": "it:Cappella Pazzi"
+      }
+    }
+  ],
+  "Q1133664": [],
+  "Q526637": [],
+  "Q2593098": [],
+  "Q51171": [],
+  "Q191739": [
+    {
+      "osm_type": "way",
+      "osm_id": 43768260,
+      "osm_url": "https://www.openstreetmap.org/way/43768260",
+      "wikidata_id": "Q191739",
+      "coordinates": {
+        "latitude": 43.7731165,
+        "longitude": 11.2565741,
+        "source": "center"
+      },
+      "name": "Cattedrale di Santa Maria del Fiore",
+      "name_it": "Cattedrale di Santa Maria del Fiore",
+      "building": "cathedral",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": "https://operaduomo.firenze.it/",
+      "phone": null,
+      "wikipedia": "it:Cattedrale di Santa Maria del Fiore",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "alt_name": "Duomo",
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "cathedral",
+        "building:architecture": "romanesque",
+        "building:levels": "6",
+        "contact:street": "Piazza del Duomo",
+        "denomination": "catholic",
+        "height": "25",
+        "importance": "international",
+        "name": "Cattedrale di Santa Maria del Fiore",
+        "name:de": "Kathedrale Santa Maria del Fiore",
+        "name:en": "Santa Maria del Fiore",
+        "name:fr": "Cathédrale Santa Maria del Fiore",
+        "name:hr": "Firentinska katedrala",
+        "name:it": "Cattedrale di Santa Maria del Fiore",
+        "name:ja": "サンタ・マリア・デル・フィオーレ大聖堂",
+        "name:ko": "피렌체 대성당",
+        "name:pl": "Katedra Santa Maria del Fiore",
+        "name:ru": "Собор Санта Мария дель Фьоре",
+        "name:zh": "聖母百花大教堂",
+        "note:opening_hours": "last entrance at 16:30",
+        "opening_hours": "Mo-Sa 10:15-16:45; Su,PH closed",
+        "religion": "christian",
+        "roof:colour": "#a0744e",
+        "roof:shape": "flat",
+        "tourism": "attraction",
+        "website": "https://operaduomo.firenze.it/",
+        "wheelchair": "yes",
+        "wikidata": "Q191739",
+        "wikipedia": "it:Cattedrale di Santa Maria del Fiore"
+      }
+    }
+  ],
+  "Q3667914": [
+    {
+      "osm_type": "way",
+      "osm_id": 969523715,
+      "osm_url": "https://www.openstreetmap.org/way/969523715",
+      "wikidata_id": "Q3667914",
+      "coordinates": {
+        "latitude": 43.5523988,
+        "longitude": 10.3099781,
+        "source": "center"
+      },
+      "name": "Chiesa armena di San Gregorio Illuminatore",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": "1714",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa armena di San Gregorio Illuminatore",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "abandoned:amenity": "place_of_worship",
+        "access": "private",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa armena di San Gregorio Illuminatore",
+        "note": "di questa chiesa rimane solo la facciata e non viene svolta alcuna funzione religiosa al suo interno",
+        "religion": "christian",
+        "roof:shape": "flat",
+        "start_date": "1714",
+        "wikidata": "Q3667914",
+        "wikipedia": "it:Chiesa armena di San Gregorio Illuminatore"
+      }
+    }
+  ],
+  "Q2223430": [
+    {
+      "osm_type": "way",
+      "osm_id": 451785463,
+      "osm_url": "https://www.openstreetmap.org/way/451785463",
+      "wikidata_id": "Q2223430",
+      "coordinates": {
+        "latitude": 43.7692146,
+        "longitude": 11.2521416,
+        "source": "center"
+      },
+      "name": "Chiesa dei Santi Apostoli",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa dei Santi Apostoli (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-07-22",
+        "denomination": "catholic",
+        "name": "Chiesa dei Santi Apostoli",
+        "opening_hours": "Mo-Su 10:00-12:00, 16:00-19:00",
+        "religion": "christian",
+        "wikidata": "Q2223430",
+        "wikipedia": "it:Chiesa dei Santi Apostoli (Firenze)"
+      }
+    }
+  ],
+  "Q3668157": [
+    {
+      "osm_type": "way",
+      "osm_id": 458974490,
+      "osm_url": "https://www.openstreetmap.org/way/458974490",
+      "wikidata_id": "Q3668157",
+      "coordinates": {
+        "latitude": 43.7938338,
+        "longitude": 11.2501445,
+        "source": "center"
+      },
+      "name": "Chiesa dei Santi Francesco e Chiara",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa dei Santi Francesco e Chiara",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-04-13",
+        "name": "Chiesa dei Santi Francesco e Chiara",
+        "religion": "christian",
+        "wikidata": "Q3668157",
+        "wikipedia": "it:Chiesa dei Santi Francesco e Chiara"
+      }
+    }
+  ],
+  "Q764060": [
+    {
+      "osm_type": "way",
+      "osm_id": 234429578,
+      "osm_url": "https://www.openstreetmap.org/way/234429578",
+      "wikidata_id": "Q764060",
+      "coordinates": {
+        "latitude": 43.7724149,
+        "longitude": 11.2517914,
+        "source": "center"
+      },
+      "name": "Chiesa dei Santi Michele e Gaetano",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa dei Santi Michele e Gaetano",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa dei Santi Michele e Gaetano",
+        "name:hr": "Crkva svetih Mihaela i Gajetana",
+        "religion": "christian",
+        "wikidata": "Q764060",
+        "wikipedia": "it:Chiesa dei Santi Michele e Gaetano"
+      }
+    }
+  ],
+  "Q3668382": [
+    {
+      "osm_type": "way",
+      "osm_id": 47984377,
+      "osm_url": "https://www.openstreetmap.org/way/47984377",
+      "wikidata_id": "Q3668382",
+      "coordinates": {
+        "latitude": 43.3130637,
+        "longitude": 11.3282672,
+        "source": "center"
+      },
+      "name": "Chiesa dei Santi Pietro e Paolo",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa dei Santi Pietro e Paolo (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via delle Sperandie",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via delle Sperandie",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa dei Santi Pietro e Paolo",
+        "name:hu": "Szent Péter és Pál templom",
+        "religion": "christian",
+        "wheelchair": "limited",
+        "wikidata": "Q3668382",
+        "wikipedia": "it:Chiesa dei Santi Pietro e Paolo (Siena)"
+      }
+    }
+  ],
+  "Q1285138": [
+    {
+      "osm_type": "way",
+      "osm_id": 307126295,
+      "osm_url": "https://www.openstreetmap.org/way/307126295",
+      "wikidata_id": "Q1285138",
+      "coordinates": {
+        "latitude": 43.7698063,
+        "longitude": 11.2605096,
+        "source": "center"
+      },
+      "name": "Chiesa dei Santi Simone e Giuda",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "ukrainian_greek_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa dei Santi Simone e Giuda (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:city": "Firenze",
+        "contact:housenumber": "3",
+        "contact:postcode": "50122",
+        "contact:street": "Via dei Lavatoi",
+        "denomination": "ukrainian_greek_catholic",
+        "name": "Chiesa dei Santi Simone e Giuda",
+        "name:uk": "Церква святих Симона і Юди",
+        "religion": "christian",
+        "wikidata": "Q1285138",
+        "wikipedia": "it:Chiesa dei Santi Simone e Giuda (Firenze)"
+      }
+    }
+  ],
+  "Q3668503": [
+    {
+      "osm_type": "way",
+      "osm_id": 269192941,
+      "osm_url": "https://www.openstreetmap.org/way/269192941",
+      "wikidata_id": "Q3668503",
+      "coordinates": {
+        "latitude": 44.0785348,
+        "longitude": 10.0986957,
+        "source": "center"
+      },
+      "name": "Chiesa del Carmine",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": "1605",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa del Carmine (Carrara)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "roman_catholic",
+        "name": "Chiesa del Carmine",
+        "religion": "christian",
+        "start_date": "1605",
+        "wikidata": "Q3668503",
+        "wikipedia": "it:Chiesa del Carmine (Carrara)"
+      }
+    }
+  ],
+  "Q428178": [
+    {
+      "osm_type": "way",
+      "osm_id": 457948331,
+      "osm_url": "https://www.openstreetmap.org/way/457948331",
+      "wikidata_id": "Q428178",
+      "coordinates": {
+        "latitude": 43.7144627,
+        "longitude": 10.4034928,
+        "source": "center"
+      },
+      "name": "Chiesa del Santo Sepolcro",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": "1113",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa del Santo Sepolcro (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "height": "10",
+        "name": "Chiesa del Santo Sepolcro",
+        "religion": "christian",
+        "roof:material": "roof_tiles",
+        "start_date": "1113",
+        "wikidata": "Q428178",
+        "wikipedia": "it:Chiesa del Santo Sepolcro (Pisa)"
+      }
+    }
+  ],
+  "Q3668695": [
+    {
+      "osm_type": "way",
+      "osm_id": 47188323,
+      "osm_url": "https://www.openstreetmap.org/way/47188323",
+      "wikidata_id": "Q3668695",
+      "coordinates": {
+        "latitude": 43.3153096,
+        "longitude": 11.3396988,
+        "source": "center"
+      },
+      "name": "Santuccio",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": "+39 0577 41246",
+      "wikipedia": "it:Chiesa del Santuccio",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via Roma",
+        "housenumber": "69",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:housenumber": "69",
+        "addr:postcode": "53100",
+        "addr:street": "Via Roma",
+        "addr:unit": "bis",
+        "alt_name": "Chiesa di Santa Maria degli Angeli",
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Santuccio",
+        "phone": "+39 0577 41246",
+        "religion": "christian",
+        "wikidata": "Q3668695",
+        "wikipedia": "it:Chiesa del Santuccio"
+      }
+    }
+  ],
+  "Q16539889": [
+    {
+      "osm_type": "way",
+      "osm_id": 52740229,
+      "osm_url": "https://www.openstreetmap.org/way/52740229",
+      "wikidata_id": "Q16539889",
+      "coordinates": {
+        "latitude": 43.324591,
+        "longitude": 11.329298,
+        "source": "center"
+      },
+      "name": "Chiesa Anglicana di San Pietro",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "anglican",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via Giuseppe Garibaldi",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via Giuseppe Garibaldi",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "anglican",
+        "name": "Chiesa Anglicana di San Pietro",
+        "name:hu": "Szent Péter anglikán templom",
+        "religion": "christian",
+        "wikidata": "Q16539889"
+      }
+    }
+  ],
+  "Q3668903": [
+    {
+      "osm_type": "way",
+      "osm_id": 294488831,
+      "osm_url": "https://www.openstreetmap.org/way/294488831",
+      "wikidata_id": "Q3668903",
+      "coordinates": {
+        "latitude": 43.5521416,
+        "longitude": 10.3103107,
+        "source": "center"
+      },
+      "name": "Chiesa della Madonna",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1607",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa della Madonna (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa della Madonna",
+        "religion": "christian",
+        "start_date": "1607",
+        "wikidata": "Q3668903",
+        "wikipedia": "it:Chiesa della Madonna (Livorno)"
+      }
+    }
+  ],
+  "Q3668916": [
+    {
+      "osm_type": "way",
+      "osm_id": 341184390,
+      "osm_url": "https://www.openstreetmap.org/way/341184390",
+      "wikidata_id": "Q3668916",
+      "coordinates": {
+        "latitude": 43.7167544,
+        "longitude": 10.3995588,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria dei Galletti",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa della Madonna dei Galletti",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Lungarno Antonio Pacinotti",
+        "city": "Pisa"
+      },
+      "tags": {
+        "addr:city": "Pisa",
+        "addr:street": "Lungarno Antonio Pacinotti",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-04-01",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria dei Galletti",
+        "religion": "christian",
+        "wikidata": "Q3668916",
+        "wikipedia": "it:Chiesa della Madonna dei Galletti"
+      }
+    }
+  ],
+  "Q3668990": [
+    {
+      "osm_type": "way",
+      "osm_id": 135541722,
+      "osm_url": "https://www.openstreetmap.org/way/135541722",
+      "wikidata_id": "Q3668990",
+      "coordinates": {
+        "latitude": 44.0347891,
+        "longitude": 10.1380822,
+        "source": "center"
+      },
+      "name": "Santuario Nostra Signora della Misericordia",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": "http://terredelfrigido.comune.massa.ms.it/node/45",
+      "phone": null,
+      "wikipedia": "it:Chiesa della Madonna della Misericordia (Massa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Santuario Nostra Signora della Misericordia",
+        "religion": "christian",
+        "website": "http://terredelfrigido.comune.massa.ms.it/node/45",
+        "wheelchair": "no",
+        "wikidata": "Q3668990",
+        "wikipedia": "it:Chiesa della Madonna della Misericordia (Massa)"
+      }
+    }
+  ],
+  "Q1121100": [
+    {
+      "osm_type": "way",
+      "osm_id": 306368616,
+      "osm_url": "https://www.openstreetmap.org/way/306368616",
+      "wikidata_id": "Q1121100",
+      "coordinates": {
+        "latitude": 43.7865305,
+        "longitude": 11.2653676,
+        "source": "center"
+      },
+      "name": "Chiesa della Madonna della Tosse",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa della Madonna della Tosse",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-04-07",
+        "denomination": "catholic",
+        "name": "Chiesa della Madonna della Tosse",
+        "religion": "christian",
+        "wikidata": "Q1121100",
+        "wikipedia": "it:Chiesa della Madonna della Tosse"
+      }
+    }
+  ],
+  "Q3669071": [],
+  "Q3669184": [
+    {
+      "osm_type": "way",
+      "osm_id": 48174025,
+      "osm_url": "https://www.openstreetmap.org/way/48174025",
+      "wikidata_id": "Q3669184",
+      "coordinates": {
+        "latitude": 43.3170179,
+        "longitude": 11.3284492,
+        "source": "center"
+      },
+      "name": "Chiesa della Santissima Annunziata",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa della Santissima Annunziata (Siena)",
+      "wikimedia_commons": "Category:Santissima Annunziata (Siena)",
+      "address": {
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazza del Duomo"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:place": "Piazza del Duomo",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa della Santissima Annunziata",
+        "religion": "christian",
+        "wikidata": "Q3669184",
+        "wikimedia_commons": "Category:Santissima Annunziata (Siena)",
+        "wikipedia": "it:Chiesa della Santissima Annunziata (Siena)"
+      }
+    }
+  ],
+  "Q3669167": [
+    {
+      "osm_type": "way",
+      "osm_id": 1266847933,
+      "osm_url": "https://www.openstreetmap.org/way/1266847933",
+      "wikidata_id": "Q3669167",
+      "coordinates": {
+        "latitude": 43.5518125,
+        "longitude": 10.3105763,
+        "source": "center"
+      },
+      "name": "Chiesa della Santissima Annunziata",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "orthodox",
+      "historic": null,
+      "start_date": "1606",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa della Santissima Annunziata (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "alt_name": "Chiesa dei Greci Uniti",
+        "amenity": "place_of_worship",
+        "architect": "Alessandro Pieroni",
+        "building": "church",
+        "denomination": "orthodox",
+        "name": "Chiesa della Santissima Annunziata",
+        "religion": "christian",
+        "start_date": "1606",
+        "wikidata": "Q3669167",
+        "wikipedia": "it:Chiesa della Santissima Annunziata (Livorno)"
+      }
+    }
+  ],
+  "Q3669259": [],
+  "Q3669276": [
+    {
+      "osm_type": "way",
+      "osm_id": 305822221,
+      "osm_url": "https://www.openstreetmap.org/way/305822221",
+      "wikidata_id": "Q3669276",
+      "coordinates": {
+        "latitude": 43.8134474,
+        "longitude": 11.2419189,
+        "source": "center"
+      },
+      "name": "Chiesa delle Suore Montalve",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa delle Suore Montalve",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa delle Suore Montalve",
+        "religion": "christian",
+        "wikidata": "Q3669276",
+        "wikipedia": "it:Chiesa delle Suore Montalve"
+      }
+    }
+  ],
+  "Q3669286": [
+    {
+      "osm_type": "way",
+      "osm_id": 701934366,
+      "osm_url": "https://www.openstreetmap.org/way/701934366",
+      "wikidata_id": "Q3669286",
+      "coordinates": {
+        "latitude": 43.8779114,
+        "longitude": 11.0940518,
+        "source": "center"
+      },
+      "name": "Chiesa dello Spirito Santo",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa dello Spirito Santo (Prato)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "name": "Chiesa dello Spirito Santo",
+        "wikidata": "Q3669286",
+        "wikipedia": "it:Chiesa dello Spirito Santo (Prato)"
+      }
+    }
+  ],
+  "Q2778991": [
+    {
+      "osm_type": "way",
+      "osm_id": 167273908,
+      "osm_url": "https://www.openstreetmap.org/way/167273908",
+      "wikidata_id": "Q2778991",
+      "coordinates": {
+        "latitude": 43.7725968,
+        "longitude": 11.2460996,
+        "source": "center"
+      },
+      "name": "Ognissanti",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Ognissanti (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-05-20",
+        "name": "Ognissanti",
+        "name:hr": "Crkva Svih Svetih",
+        "religion": "christian",
+        "wikidata": "Q2778991",
+        "wikipedia": "it:Chiesa di Ognissanti (Firenze)"
+      }
+    }
+  ],
+  "Q860816": [
+    {
+      "osm_type": "way",
+      "osm_id": 442508011,
+      "osm_url": "https://www.openstreetmap.org/way/442508011",
+      "wikidata_id": "Q860816",
+      "coordinates": {
+        "latitude": 43.770714,
+        "longitude": 11.2550182,
+        "source": "center"
+      },
+      "name": "Chiesa di Orsanmichele",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Orsanmichele",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "catholic",
+        "name": "Chiesa di Orsanmichele",
+        "name:ko": "오르산미켈레 성당",
+        "name:zh": "圣弥额尔教堂",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q860816",
+        "wikipedia": "it:Chiesa di Orsanmichele"
+      }
+    }
+  ],
+  "Q1117930": [
+    {
+      "osm_type": "way",
+      "osm_id": 306395974,
+      "osm_url": "https://www.openstreetmap.org/way/306395974",
+      "wikidata_id": "Q1117930",
+      "coordinates": {
+        "latitude": 43.7778709,
+        "longitude": 11.253935,
+        "source": "center"
+      },
+      "name": "Chiesa di San Barnaba",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Barnaba (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-01-13",
+        "denomination": "catholic",
+        "name": "Chiesa di San Barnaba",
+        "religion": "christian",
+        "wikidata": "Q1117930",
+        "wikipedia": "it:Chiesa di San Barnaba (Firenze)"
+      }
+    }
+  ],
+  "Q3669504": [],
+  "Q3669519": [
+    {
+      "osm_type": "way",
+      "osm_id": 323059215,
+      "osm_url": "https://www.openstreetmap.org/way/323059215",
+      "wikidata_id": "Q3669519",
+      "coordinates": {
+        "latitude": 43.8792706,
+        "longitude": 11.101917,
+        "source": "center"
+      },
+      "name": "Chiesa di San Bartolomeo",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Bartolomeo (Prato)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Piazza Mercatale",
+        "housenumber": "149",
+        "postcode": "59100",
+        "city": "Prato"
+      },
+      "tags": {
+        "addr:city": "Prato",
+        "addr:housenumber": "149",
+        "addr:postcode": "59100",
+        "addr:street": "Piazza Mercatale",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Bartolomeo",
+        "religion": "christian",
+        "wheelchair": "yes",
+        "wikidata": "Q3669519",
+        "wikipedia": "it:Chiesa di San Bartolomeo (Prato)"
+      }
+    }
+  ],
+  "Q3669552": [
+    {
+      "osm_type": "way",
+      "osm_id": 305428855,
+      "osm_url": "https://www.openstreetmap.org/way/305428855",
+      "wikidata_id": "Q3669552",
+      "coordinates": {
+        "latitude": 43.7712902,
+        "longitude": 11.2309423,
+        "source": "center"
+      },
+      "name": "San Bartolomeo a Monte Oliveto",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "San Bartolomeo a Monte Oliveto",
+        "religion": "christian",
+        "wikidata": "Q3669552"
+      }
+    }
+  ],
+  "Q3669596": [
+    {
+      "osm_type": "node",
+      "osm_id": 3127386260,
+      "osm_url": "https://www.openstreetmap.org/node/3127386260",
+      "wikidata_id": "Q3669596",
+      "coordinates": {
+        "latitude": 43.77226,
+        "longitude": 11.2570295,
+        "source": "node"
+      },
+      "name": "Chiesa di San Benedetto",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Benedetto (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Chiesa di San Benedetto",
+        "name:ru": "Церковь святого Бенедикта",
+        "religion": "christian",
+        "wikidata": "Q3669596",
+        "wikipedia": "it:Chiesa di San Benedetto (Firenze)"
+      }
+    }
+  ],
+  "Q3669825": [
+    {
+      "osm_type": "way",
+      "osm_id": 45444510,
+      "osm_url": "https://www.openstreetmap.org/way/45444510",
+      "wikidata_id": "Q3669825",
+      "coordinates": {
+        "latitude": 43.320136,
+        "longitude": 11.3316772,
+        "source": "center"
+      },
+      "name": "Chiesa di San Cristoforo",
+      "name_it": "Chiesa di San Cristoforo",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Cristoforo (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazza Tolomei"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:place": "Piazza Tolomei",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2026-04-26",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di San Cristoforo",
+        "name:en": "St Christopher",
+        "name:hu": "Szent Kristóf templom",
+        "name:it": "Chiesa di San Cristoforo",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q3669825",
+        "wikipedia": "it:Chiesa di San Cristoforo (Siena)"
+      }
+    }
+  ],
+  "Q1121868": [
+    {
+      "osm_type": "way",
+      "osm_id": 232480572,
+      "osm_url": "https://www.openstreetmap.org/way/232480572",
+      "wikidata_id": "Q1121868",
+      "coordinates": {
+        "latitude": 43.7111384,
+        "longitude": 10.3997968,
+        "source": "center"
+      },
+      "name": "Chiesa di San Domenico",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Domenico (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-10-02",
+        "denomination": "catholic",
+        "name": "Chiesa di San Domenico",
+        "religion": "christian",
+        "wikidata": "Q1121868",
+        "wikipedia": "it:Chiesa di San Domenico (Pisa)"
+      }
+    }
+  ],
+  "Q3669925": [
+    {
+      "osm_type": "way",
+      "osm_id": 53271879,
+      "osm_url": "https://www.openstreetmap.org/way/53271879",
+      "wikidata_id": "Q3669925",
+      "coordinates": {
+        "latitude": 43.3219614,
+        "longitude": 11.3315848,
+        "source": "center"
+      },
+      "name": "San Donato all'Abbadia",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Donato (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazza dell'Abbadia"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:place": "Piazza dell'Abbadia",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "San Donato all'Abbadia",
+        "religion": "christian",
+        "wikidata": "Q3669925",
+        "wikipedia": "it:Chiesa di San Donato (Siena)"
+      }
+    }
+  ],
+  "Q3669937": [],
+  "Q3585329": [
+    {
+      "osm_type": "way",
+      "osm_id": 294480509,
+      "osm_url": "https://www.openstreetmap.org/way/294480509",
+      "wikidata_id": "Q3585329",
+      "coordinates": {
+        "latitude": 43.7905039,
+        "longitude": 11.2261537,
+        "source": "center"
+      },
+      "name": "San Donato in Polverosa",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Donato in Polverosa",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2026-02-06",
+        "denomination": "catholic",
+        "name": "San Donato in Polverosa",
+        "religion": "christian",
+        "wikidata": "Q3585329",
+        "wikipedia": "it:Chiesa di San Donato in Polverosa"
+      }
+    }
+  ],
+  "Q3669946": [
+    {
+      "osm_type": "way",
+      "osm_id": 392063791,
+      "osm_url": "https://www.openstreetmap.org/way/392063791",
+      "wikidata_id": "Q3669946",
+      "coordinates": {
+        "latitude": 43.884102,
+        "longitude": 11.0940023,
+        "source": "center"
+      },
+      "name": "Chiesa di San Fabiano",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Fabiano (Prato)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Chiesa di San Fabiano",
+        "religion": "christian",
+        "wikidata": "Q3669946",
+        "wikipedia": "it:Chiesa di San Fabiano (Prato)"
+      }
+    }
+  ],
+  "Q3669959": [
+    {
+      "osm_type": "way",
+      "osm_id": 102979682,
+      "osm_url": "https://www.openstreetmap.org/way/102979682",
+      "wikidata_id": "Q3669959",
+      "coordinates": {
+        "latitude": 43.7397759,
+        "longitude": 11.239935,
+        "source": "center"
+      },
+      "name": "Chiesa di San Felice ad Ema",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1966",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Felice a Ema",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Felice ad Ema",
+        "religion": "christian",
+        "start_date": "1966",
+        "wikidata": "Q3669959",
+        "wikipedia": "it:Chiesa di San Felice a Ema"
+      }
+    }
+  ],
+  "Q3585333": [
+    {
+      "osm_type": "way",
+      "osm_id": 305683142,
+      "osm_url": "https://www.openstreetmap.org/way/305683142",
+      "wikidata_id": "Q3585333",
+      "coordinates": {
+        "latitude": 43.7652771,
+        "longitude": 11.2475806,
+        "source": "center"
+      },
+      "name": "Chiesa di San Felice in Piazza",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Felice in Piazza",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:city": "Firenze",
+        "contact:postcode": "50125",
+        "contact:street": "Piazza San Felice",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di San Felice in Piazza",
+        "religion": "christian",
+        "wikidata": "Q3585333",
+        "wikipedia": "it:Chiesa di San Felice in Piazza"
+      }
+    }
+  ],
+  "Q3669962": [
+    {
+      "osm_type": "way",
+      "osm_id": 87422360,
+      "osm_url": "https://www.openstreetmap.org/way/87422360",
+      "wikidata_id": "Q3669962",
+      "coordinates": {
+        "latitude": 43.5542201,
+        "longitude": 10.3050665,
+        "source": "center"
+      },
+      "name": "Chiesa di San Ferdinando",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Ferdinando (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "loc_name": "Crocetta",
+        "name": "Chiesa di San Ferdinando",
+        "religion": "christian",
+        "wikidata": "Q3669962",
+        "wikipedia": "it:Chiesa di San Ferdinando (Livorno)"
+      }
+    }
+  ],
+  "Q3670031": [
+    {
+      "osm_type": "way",
+      "osm_id": 466769727,
+      "osm_url": "https://www.openstreetmap.org/way/466769727",
+      "wikidata_id": "Q3670031",
+      "coordinates": {
+        "latitude": 44.0753059,
+        "longitude": 10.1034704,
+        "source": "center"
+      },
+      "name": "Chiesa San Francesco",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via Giuseppe Verdi",
+        "housenumber": "43",
+        "postcode": "54033",
+        "city": "Carrara"
+      },
+      "tags": {
+        "addr:city": "Carrara",
+        "addr:housenumber": "43",
+        "addr:postcode": "54033",
+        "addr:street": "Via Giuseppe Verdi",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa San Francesco",
+        "religion": "christian",
+        "wikidata": "Q3670031"
+      }
+    }
+  ],
+  "Q93679": [
+    {
+      "osm_type": "way",
+      "osm_id": 169566154,
+      "osm_url": "https://www.openstreetmap.org/way/169566154",
+      "wikidata_id": "Q93679",
+      "coordinates": {
+        "latitude": 43.8454897,
+        "longitude": 10.5114291,
+        "source": "center"
+      },
+      "name": "Chiesa di San Francesco",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Francesco (Lucca)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "historic": "church",
+        "name": "Chiesa di San Francesco",
+        "religion": "christian",
+        "wheelchair": "yes",
+        "wikidata": "Q93679",
+        "wikipedia": "it:Chiesa di San Francesco (Lucca)"
+      }
+    }
+  ],
+  "Q3670083": [
+    {
+      "osm_type": "way",
+      "osm_id": 106644870,
+      "osm_url": "https://www.openstreetmap.org/way/106644870",
+      "wikidata_id": "Q3670083",
+      "coordinates": {
+        "latitude": 43.7187504,
+        "longitude": 10.4067526,
+        "source": "center"
+      },
+      "name": "Chiesa di San Francesco",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": "https://sanfrancescopisa.it/",
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Francesco (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:material": "brick",
+        "denomination": "catholic",
+        "name": "Chiesa di San Francesco",
+        "religion": "christian",
+        "website": "https://sanfrancescopisa.it/",
+        "wikidata": "Q3670083",
+        "wikipedia": "it:Chiesa di San Francesco (Pisa)"
+      }
+    }
+  ],
+  "Q3670086": [
+    {
+      "osm_type": "way",
+      "osm_id": 180242607,
+      "osm_url": "https://www.openstreetmap.org/way/180242607",
+      "wikidata_id": "Q3670086",
+      "coordinates": {
+        "latitude": 43.8792043,
+        "longitude": 11.097157,
+        "source": "center"
+      },
+      "name": "Chiesa di San Francesco",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": "https://www.sanfrancescoprato.it/",
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Francesco (Prato)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "importance": "regional",
+        "name": "Chiesa di San Francesco",
+        "religion": "christian",
+        "website": "https://www.sanfrancescoprato.it/",
+        "wikidata": "Q3670086",
+        "wikipedia": "it:Chiesa di San Francesco (Prato)"
+      }
+    }
+  ],
+  "Q3670163": [
+    {
+      "osm_type": "way",
+      "osm_id": 305428829,
+      "osm_url": "https://www.openstreetmap.org/way/305428829",
+      "wikidata_id": "Q3670163",
+      "coordinates": {
+        "latitude": 43.7648713,
+        "longitude": 11.2369485,
+        "source": "center"
+      },
+      "name": "Chiesa di San Francesco di Paola",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Francesco di Paola (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Francesco di Paola",
+        "religion": "christian",
+        "wikidata": "Q3670163",
+        "wikipedia": "it:Chiesa di San Francesco di Paola (Firenze)"
+      }
+    }
+  ],
+  "Q1071192": [
+    {
+      "osm_type": "way",
+      "osm_id": 118416085,
+      "osm_url": "https://www.openstreetmap.org/way/118416085",
+      "wikidata_id": "Q1071192",
+      "coordinates": {
+        "latitude": 43.7699702,
+        "longitude": 11.24401,
+        "source": "center"
+      },
+      "name": "Chiesa di San Frediano in Cestello",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Frediano in Cestello",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "historic": "church",
+        "name": "Chiesa di San Frediano in Cestello",
+        "religion": "christian",
+        "wikidata": "Q1071192",
+        "wikipedia": "it:Chiesa di San Frediano in Cestello"
+      }
+    }
+  ],
+  "Q3581520": [
+    {
+      "osm_type": "way",
+      "osm_id": 47088268,
+      "osm_url": "https://www.openstreetmap.org/way/47088268",
+      "wikidata_id": "Q3581520",
+      "coordinates": {
+        "latitude": 43.3177781,
+        "longitude": 11.3387993,
+        "source": "center"
+      },
+      "name": "Chiesa Di San Gaetano Da Thiene",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": "yes",
+      "start_date": "1685",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Gaetano di Thiene (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "historic": "yes",
+        "name": "Chiesa Di San Gaetano Da Thiene",
+        "religion": "christian",
+        "start_date": "1685",
+        "wikidata": "Q3581520",
+        "wikipedia": "it:Chiesa di San Gaetano di Thiene (Siena)"
+      }
+    }
+  ],
+  "Q3670196": [],
+  "Q1102245": [
+    {
+      "osm_type": "way",
+      "osm_id": 1184135752,
+      "osm_url": "https://www.openstreetmap.org/way/1184135752",
+      "wikidata_id": "Q1102245",
+      "coordinates": {
+        "latitude": 43.3176043,
+        "longitude": 11.336273,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giorgio",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giorgio (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via di Pantaneto",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via di Pantaneto",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di San Giorgio",
+        "religion": "christian",
+        "wikidata": "Q1102245",
+        "wikipedia": "it:Chiesa di San Giorgio (Siena)"
+      }
+    }
+  ],
+  "Q783096": [
+    {
+      "osm_type": "way",
+      "osm_id": 335634583,
+      "osm_url": "https://www.openstreetmap.org/way/335634583",
+      "wikidata_id": "Q783096",
+      "coordinates": {
+        "latitude": 43.721777,
+        "longitude": 10.3971565,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giorgio ai Tedeschi",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giorgio ai Tedeschi",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-08-15",
+        "denomination": "catholic",
+        "name": "Chiesa di San Giorgio ai Tedeschi",
+        "religion": "christian",
+        "wikidata": "Q783096",
+        "wikipedia": "it:Chiesa di San Giorgio ai Tedeschi"
+      }
+    }
+  ],
+  "Q3585340": [
+    {
+      "osm_type": "way",
+      "osm_id": 474366870,
+      "osm_url": "https://www.openstreetmap.org/way/474366870",
+      "wikidata_id": "Q3585340",
+      "coordinates": {
+        "latitude": 43.7653022,
+        "longitude": 11.2549349,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giorgio alla Costa",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giorgio alla Costa",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-04-07",
+        "denomination": "catholic",
+        "name": "Chiesa di San Giorgio alla Costa",
+        "religion": "christian",
+        "wheelchair": "no",
+        "wikidata": "Q3585340",
+        "wikipedia": "it:Chiesa di San Giorgio alla Costa"
+      }
+    }
+  ],
+  "Q3670458": [
+    {
+      "osm_type": "way",
+      "osm_id": 1185348842,
+      "osm_url": "https://www.openstreetmap.org/way/1185348842",
+      "wikidata_id": "Q3670458",
+      "coordinates": {
+        "latitude": 43.3165227,
+        "longitude": 11.3306342,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovanni Battista",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovanni Battista (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Casato di Sotto",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Casato di Sotto",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Giovanni Battista",
+        "name:hu": "Keresztelő Szent János",
+        "religion": "christian",
+        "wikidata": "Q3670458",
+        "wikipedia": "it:Chiesa di San Giovanni Battista (Siena)"
+      }
+    }
+  ],
+  "Q1109516": [
+    {
+      "osm_type": "way",
+      "osm_id": 76654897,
+      "osm_url": "https://www.openstreetmap.org/way/76654897",
+      "wikidata_id": "Q1109516",
+      "coordinates": {
+        "latitude": 43.5519587,
+        "longitude": 10.3068363,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovanni Battista",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1624",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovanni Battista (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Giovanni Battista",
+        "religion": "christian",
+        "start_date": "1624",
+        "wheelchair": "no",
+        "wikidata": "Q1109516",
+        "wikipedia": "it:Chiesa di San Giovanni Battista (Livorno)"
+      }
+    }
+  ],
+  "Q3001779": [
+    {
+      "osm_type": "way",
+      "osm_id": 306222212,
+      "osm_url": "https://www.openstreetmap.org/way/306222212",
+      "wikidata_id": "Q3001779",
+      "coordinates": {
+        "latitude": 43.7610911,
+        "longitude": 11.2418222,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovanni Battista della Calza",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovanni Battista della Calza",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di San Giovanni Battista della Calza",
+        "religion": "christian",
+        "wikidata": "Q3001779",
+        "wikipedia": "it:Chiesa di San Giovanni Battista della Calza"
+      }
+    }
+  ],
+  "Q3670507": [
+    {
+      "osm_type": "node",
+      "osm_id": 1496673204,
+      "osm_url": "https://www.openstreetmap.org/node/1496673204",
+      "wikidata_id": "Q3670507",
+      "coordinates": {
+        "latitude": 44.0352682,
+        "longitude": 10.1431565,
+        "source": "node"
+      },
+      "name": "Chiesa di San Giovanni Decollato",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": "1641",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovanni Decollato (Massa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di San Giovanni Decollato",
+        "religion": "christian",
+        "start_date": "1641",
+        "wikidata": "Q3670507",
+        "wikipedia": "it:Chiesa di San Giovanni Decollato (Massa)"
+      }
+    }
+  ],
+  "Q111191245": [],
+  "Q3670542": [
+    {
+      "osm_type": "way",
+      "osm_id": 536750741,
+      "osm_url": "https://www.openstreetmap.org/way/536750741",
+      "wikidata_id": "Q3670542",
+      "coordinates": {
+        "latitude": 43.7132258,
+        "longitude": 10.4033539,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovanni dei Fieri",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "seventh_day_adventist",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:San Giovanni dei Fieri (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "seventh_day_adventist",
+        "name": "Chiesa di San Giovanni dei Fieri",
+        "religion": "christian",
+        "wikidata": "Q3670542",
+        "wikipedia": "it:San Giovanni dei Fieri (Pisa)"
+      }
+    }
+  ],
+  "Q3670530": [
+    {
+      "osm_type": "way",
+      "osm_id": 58760265,
+      "osm_url": "https://www.openstreetmap.org/way/58760265",
+      "wikidata_id": "Q3670530",
+      "coordinates": {
+        "latitude": 43.5218913,
+        "longitude": 10.4088501,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovanni Gualberto",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1697",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovanni Gualberto (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Chiesa di San Giovanni Gualberto",
+        "religion": "christian",
+        "start_date": "1697",
+        "wikidata": "Q3670530",
+        "wikipedia": "it:Chiesa di San Giovanni Gualberto (Livorno)"
+      }
+    }
+  ],
+  "Q3670564": [
+    {
+      "osm_type": "way",
+      "osm_id": 305683536,
+      "osm_url": "https://www.openstreetmap.org/way/305683536",
+      "wikidata_id": "Q3670564",
+      "coordinates": {
+        "latitude": 43.7748031,
+        "longitude": 11.2554752,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovannino degli Scolopi",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovannino degli Scolopi",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Giovannino degli Scolopi",
+        "religion": "christian",
+        "wikidata": "Q3670564",
+        "wikipedia": "it:Chiesa di San Giovannino degli Scolopi"
+      }
+    }
+  ],
+  "Q3670567": [
+    {
+      "osm_type": "way",
+      "osm_id": 781509450,
+      "osm_url": "https://www.openstreetmap.org/way/781509450",
+      "wikidata_id": "Q3670567",
+      "coordinates": {
+        "latitude": 43.7800364,
+        "longitude": 11.2589227,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovannino dei Cavalieri",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovannino dei Cavalieri",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-03-01",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Giovannino dei Cavalieri",
+        "religion": "christian",
+        "wikidata": "Q3670567",
+        "wikipedia": "it:Chiesa di San Giovannino dei Cavalieri"
+      }
+    }
+  ],
+  "Q3670565": [
+    {
+      "osm_type": "way",
+      "osm_id": 45758888,
+      "osm_url": "https://www.openstreetmap.org/way/45758888",
+      "wikidata_id": "Q3670565",
+      "coordinates": {
+        "latitude": 43.3190771,
+        "longitude": 11.334756,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giovannino della Staffa",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giovannino della Staffa",
+      "wikimedia_commons": null,
+      "address": {
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazzetta Virgilio Grassi"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:place": "Piazzetta Virgilio Grassi",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Giovannino della Staffa",
+        "religion": "christian",
+        "wikidata": "Q3670565",
+        "wikipedia": "it:Chiesa di San Giovannino della Staffa"
+      }
+    }
+  ],
+  "Q3670618": [
+    {
+      "osm_type": "way",
+      "osm_id": 203496642,
+      "osm_url": "https://www.openstreetmap.org/way/203496642",
+      "wikidata_id": "Q3670618",
+      "coordinates": {
+        "latitude": 43.7680668,
+        "longitude": 11.2653964,
+        "source": "center"
+      },
+      "name": "San Giuseppe",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giuseppe (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "San Giuseppe",
+        "religion": "christian",
+        "wikidata": "Q3670618",
+        "wikipedia": "it:Chiesa di San Giuseppe (Firenze)"
+      }
+    }
+  ],
+  "Q3670652": [
+    {
+      "osm_type": "way",
+      "osm_id": 1186559509,
+      "osm_url": "https://www.openstreetmap.org/way/1186559509",
+      "wikidata_id": "Q3670652",
+      "coordinates": {
+        "latitude": 43.3154064,
+        "longitude": 11.3319757,
+        "source": "center"
+      },
+      "name": "Chiesa di San Giuseppe",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Giuseppe (Siena)",
+      "wikimedia_commons": "Category:San Giuseppe (Siena)",
+      "address": {
+        "street": "Via di Fontanella",
+        "housenumber": "1",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:housenumber": "1",
+        "addr:postcode": "53100",
+        "addr:street": "Via di Fontanella",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "historic": "church",
+        "name": "Chiesa di San Giuseppe",
+        "name:hu": "Szent József templom",
+        "religion": "christian",
+        "wikidata": "Q3670652",
+        "wikimedia_commons": "Category:San Giuseppe (Siena)",
+        "wikipedia": "it:Chiesa di San Giuseppe (Siena)"
+      }
+    }
+  ],
+  "Q3670697": [
+    {
+      "osm_type": "way",
+      "osm_id": 1208073240,
+      "osm_url": "https://www.openstreetmap.org/way/1208073240",
+      "wikidata_id": "Q3670697",
+      "coordinates": {
+        "latitude": 43.4315191,
+        "longitude": 9.9043297,
+        "source": "center"
+      },
+      "name": "Chiesa di San Gorgonio",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "fixme": "check position (can't see it on aerial imagery)",
+        "name": "Chiesa di San Gorgonio",
+        "wikidata": "Q3670697"
+      }
+    }
+  ],
+  "Q3670747": [
+    {
+      "osm_type": "way",
+      "osm_id": 633728245,
+      "osm_url": "https://www.openstreetmap.org/way/633728245",
+      "wikidata_id": "Q3670747",
+      "coordinates": {
+        "latitude": 43.5295306,
+        "longitude": 10.306012,
+        "source": "center"
+      },
+      "name": "Pieve di San Jacopo in Acquaviva",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Jacopo in Acquaviva",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "importance": "regional",
+        "name": "Pieve di San Jacopo in Acquaviva",
+        "religion": "christian",
+        "seamark:building:function": "church",
+        "seamark:type": "building",
+        "wheelchair": "yes",
+        "wikidata": "Q3670747",
+        "wikipedia": "it:Chiesa di San Jacopo in Acquaviva"
+      }
+    }
+  ],
+  "Q3670749": [
+    {
+      "osm_type": "way",
+      "osm_id": 306396529,
+      "osm_url": "https://www.openstreetmap.org/way/306396529",
+      "wikidata_id": "Q3670749",
+      "coordinates": {
+        "latitude": 43.7762649,
+        "longitude": 11.2517391,
+        "source": "center"
+      },
+      "name": "San Jacopo in Campo Corbolini",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Jacopo in Campo Corbolini",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "name": "San Jacopo in Campo Corbolini",
+        "wikidata": "Q3670749",
+        "wikipedia": "it:Chiesa di San Jacopo in Campo Corbolini"
+      }
+    }
+  ],
+  "Q3670741": [
+    {
+      "osm_type": "way",
+      "osm_id": 306811250,
+      "osm_url": "https://www.openstreetmap.org/way/306811250",
+      "wikidata_id": "Q3670741",
+      "coordinates": {
+        "latitude": 43.7681805,
+        "longitude": 11.2507119,
+        "source": "center"
+      },
+      "name": "Chiesa di San Jacopo Soprarno",
+      "name_it": "Chiesa di San Jacopo Soprarno",
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "greek_orthodox",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Jacopo Soprarno",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "greek_orthodox",
+        "name": "Chiesa di San Jacopo Soprarno",
+        "name:el": "Ενορία Αγίου Ιακώβου Αδελφόθεος",
+        "name:es": "Iglesia Santiago el Mayor",
+        "name:fr": "Église Saint-Jacques-le-Majeur",
+        "name:grc": "Ἐνορία Ἁγίου Ἰακώβου τοῦ Ἀδελφόθεου",
+        "name:it": "Chiesa di San Jacopo Soprarno",
+        "religion": "christian",
+        "wikidata": "Q3670741",
+        "wikipedia": "it:Chiesa di San Jacopo Soprarno"
+      }
+    }
+  ],
+  "Q16540253": [],
+  "Q3670791": [
+    {
+      "osm_type": "way",
+      "osm_id": 305680883,
+      "osm_url": "https://www.openstreetmap.org/way/305680883",
+      "wikidata_id": "Q3670791",
+      "coordinates": {
+        "latitude": 43.7597164,
+        "longitude": 11.2553425,
+        "source": "center"
+      },
+      "name": "San Leonardo in Arcetri",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Leonardo in Arcetri",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "San Leonardo in Arcetri",
+        "religion": "christian",
+        "wikidata": "Q3670791",
+        "wikipedia": "it:Chiesa di San Leonardo in Arcetri"
+      }
+    }
+  ],
+  "Q3670924": [
+    {
+      "osm_type": "way",
+      "osm_id": 305727652,
+      "osm_url": "https://www.openstreetmap.org/way/305727652",
+      "wikidata_id": "Q3670924",
+      "coordinates": {
+        "latitude": 43.8234652,
+        "longitude": 11.2533605,
+        "source": "center"
+      },
+      "name": "Chiesa di San Lorenzo a Serpiolle",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Lorenzo a Serpiolle",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Chiesa di San Lorenzo a Serpiolle",
+        "religion": "christian",
+        "wikidata": "Q3670924",
+        "wikipedia": "it:Chiesa di San Lorenzo a Serpiolle"
+      }
+    }
+  ],
+  "Q3670973": [
+    {
+      "osm_type": "way",
+      "osm_id": 618546955,
+      "osm_url": "https://www.openstreetmap.org/way/618546955",
+      "wikidata_id": "Q3670973",
+      "coordinates": {
+        "latitude": 43.7172982,
+        "longitude": 10.9268321,
+        "source": "center"
+      },
+      "name": "San Mamante",
+      "name_it": null,
+      "building": "yes",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "San Mamante",
+        "religion": "christian",
+        "service_times": "Fr 21:00",
+        "survey:date": "2024-02-21",
+        "wikidata": "Q3670973"
+      }
+    }
+  ],
+  "Q3670984": [
+    {
+      "osm_type": "way",
+      "osm_id": 374064985,
+      "osm_url": "https://www.openstreetmap.org/way/374064985",
+      "wikidata_id": "Q3670984",
+      "coordinates": {
+        "latitude": 43.7519903,
+        "longitude": 11.2921479,
+        "source": "center"
+      },
+      "name": "San Marcellino",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Marcellino (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "San Marcellino",
+        "religion": "christian",
+        "wikidata": "Q3670984",
+        "wikipedia": "it:Chiesa di San Marcellino (Firenze)"
+      }
+    }
+  ],
+  "Q3671004": [
+    {
+      "osm_type": "way",
+      "osm_id": 305870459,
+      "osm_url": "https://www.openstreetmap.org/way/305870459",
+      "wikidata_id": "Q3671004",
+      "coordinates": {
+        "latitude": 43.79145,
+        "longitude": 11.2691065,
+        "source": "center"
+      },
+      "name": "San Marco Vecchio",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Marco Vecchio",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-11-22",
+        "denomination": "catholic",
+        "name": "San Marco Vecchio",
+        "religion": "christian",
+        "wheelchair": "no",
+        "wikidata": "Q3671004",
+        "wikipedia": "it:Chiesa di San Marco Vecchio"
+      }
+    }
+  ],
+  "Q3671047": [
+    {
+      "osm_type": "way",
+      "osm_id": 121067709,
+      "osm_url": "https://www.openstreetmap.org/way/121067709",
+      "wikidata_id": "Q3671047",
+      "coordinates": {
+        "latitude": 43.5329476,
+        "longitude": 10.3412606,
+        "source": "center"
+      },
+      "name": "Chiesa di San Martino",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Martino (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Martino",
+        "religion": "christian",
+        "wikidata": "Q3671047",
+        "wikipedia": "it:Chiesa di San Martino (Livorno)"
+      }
+    }
+  ],
+  "Q3671060": [
+    {
+      "osm_type": "way",
+      "osm_id": 156079975,
+      "osm_url": "https://www.openstreetmap.org/way/156079975",
+      "wikidata_id": "Q3671060",
+      "coordinates": {
+        "latitude": 43.7127555,
+        "longitude": 10.4047748,
+        "source": "center"
+      },
+      "name": "Chiesa di San Martino",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Martino (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-08-26",
+        "denomination": "catholic",
+        "name": "Chiesa di San Martino",
+        "religion": "christian",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled",
+        "service_times": "Mo-Fr 18:00; Su 11:00",
+        "wikidata": "Q3671060",
+        "wikipedia": "it:Chiesa di San Martino (Pisa)"
+      }
+    }
+  ],
+  "Q3671101": [
+    {
+      "osm_type": "way",
+      "osm_id": 276191579,
+      "osm_url": "https://www.openstreetmap.org/way/276191579",
+      "wikidata_id": "Q3671101",
+      "coordinates": {
+        "latitude": 43.7831676,
+        "longitude": 11.3077539,
+        "source": "center"
+      },
+      "name": "San Martino a Mensola",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Martino a Mensola",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "San Martino a Mensola",
+        "religion": "christian",
+        "wikidata": "Q3671101",
+        "wikipedia": "it:Chiesa di San Martino a Mensola"
+      }
+    }
+  ],
+  "Q3671105": [
+    {
+      "osm_type": "way",
+      "osm_id": 110550849,
+      "osm_url": "https://www.openstreetmap.org/way/110550849",
+      "wikidata_id": "Q3671105",
+      "coordinates": {
+        "latitude": 43.792784,
+        "longitude": 11.2546081,
+        "source": "center"
+      },
+      "name": "Chiesa di San Martino a Montughi",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Martino a Montughi",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Martino a Montughi",
+        "religion": "christian",
+        "wikidata": "Q3671105",
+        "wikipedia": "it:Chiesa di San Martino a Montughi"
+      }
+    }
+  ],
+  "Q3671141": [],
+  "Q3671341": [
+    {
+      "osm_type": "way",
+      "osm_id": 179998044,
+      "osm_url": "https://www.openstreetmap.org/way/179998044",
+      "wikidata_id": "Q3671341",
+      "coordinates": {
+        "latitude": 43.8201727,
+        "longitude": 11.2327478,
+        "source": "center"
+      },
+      "name": "San Michele a Castello",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Michele a Castello",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "historic": "church",
+        "name": "San Michele a Castello",
+        "religion": "christian",
+        "wikidata": "Q3671341",
+        "wikipedia": "it:Chiesa di San Michele a Castello"
+      }
+    }
+  ],
+  "Q692591": [
+    {
+      "osm_type": "way",
+      "osm_id": 196374482,
+      "osm_url": "https://www.openstreetmap.org/way/196374482",
+      "wikidata_id": "Q692591",
+      "coordinates": {
+        "latitude": 43.7719819,
+        "longitude": 11.2866819,
+        "source": "center"
+      },
+      "name": "San Michele in San Salvi",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Salvi",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "San Michele in San Salvi",
+        "religion": "christian",
+        "wikidata": "Q692591",
+        "wikipedia": "it:Chiesa di San Salvi"
+      }
+    }
+  ],
+  "Q3671305": [
+    {
+      "osm_type": "way",
+      "osm_id": 687747709,
+      "osm_url": "https://www.openstreetmap.org/way/687747709",
+      "wikidata_id": "Q3671305",
+      "coordinates": {
+        "latitude": 43.7220971,
+        "longitude": 10.9625855,
+        "source": "center"
+      },
+      "name": "Chiesa di San Michele Arcangelo",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Michele Arcangelo (Pontorme)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Michele Arcangelo",
+        "religion": "christian",
+        "type": "multipolygon",
+        "wikidata": "Q3671305",
+        "wikipedia": "it:Chiesa di San Michele Arcangelo (Pontorme)"
+      }
+    }
+  ],
+  "Q55156351": [],
+  "Q3506865": [
+    {
+      "osm_type": "way",
+      "osm_id": 159525352,
+      "osm_url": "https://www.openstreetmap.org/way/159525352",
+      "wikidata_id": "Q3506865",
+      "coordinates": {
+        "latitude": 43.7169528,
+        "longitude": 10.4027698,
+        "source": "center"
+      },
+      "name": "Chiesa di San Michele in Borgo",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1016",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Michele in Borgo",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-12-17",
+        "denomination": "catholic",
+        "name": "Chiesa di San Michele in Borgo",
+        "religion": "christian",
+        "service_times": "Mo-Sa 11:00,18:00; Su 12:00,18:00",
+        "start_date": "1016",
+        "wikidata": "Q3506865",
+        "wikipedia": "it:Chiesa di San Michele in Borgo"
+      }
+    }
+  ],
+  "Q3671342": [
+    {
+      "osm_type": "way",
+      "osm_id": 266213439,
+      "osm_url": "https://www.openstreetmap.org/way/266213439",
+      "wikidata_id": "Q3671342",
+      "coordinates": {
+        "latitude": 43.7738725,
+        "longitude": 11.2580525,
+        "source": "center"
+      },
+      "name": "San Michele Visdomini",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Michele Visdomini",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "San Michele Visdomini",
+        "religion": "christian",
+        "wikidata": "Q3671342",
+        "wikipedia": "it:Chiesa di San Michele Visdomini"
+      }
+    }
+  ],
+  "Q3671413": [
+    {
+      "osm_type": "way",
+      "osm_id": 599897663,
+      "osm_url": "https://www.openstreetmap.org/way/599897663",
+      "wikidata_id": "Q3671413",
+      "coordinates": {
+        "latitude": 43.76461,
+        "longitude": 11.2611739,
+        "source": "center"
+      },
+      "name": "Chiesa di San Niccolò Oltrarno",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Niccolò Oltrarno",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di San Niccolò Oltrarno",
+        "religion": "christian",
+        "wikidata": "Q3671413",
+        "wikipedia": "it:Chiesa di San Niccolò Oltrarno"
+      }
+    }
+  ],
+  "Q3671531": [
+    {
+      "osm_type": "way",
+      "osm_id": 800365632,
+      "osm_url": "https://www.openstreetmap.org/way/800365632",
+      "wikidata_id": "Q3671531",
+      "coordinates": {
+        "latitude": 43.7726101,
+        "longitude": 11.2477684,
+        "source": "center"
+      },
+      "name": "Chiesa di San Paolino",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Paolino (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Paolino",
+        "religion": "christian",
+        "wikidata": "Q3671531",
+        "wikipedia": "it:Chiesa di San Paolino (Firenze)"
+      }
+    }
+  ],
+  "Q1423910": [
+    {
+      "osm_type": "way",
+      "osm_id": 127284631,
+      "osm_url": "https://www.openstreetmap.org/way/127284631",
+      "wikidata_id": "Q1423910",
+      "coordinates": {
+        "latitude": 43.7129302,
+        "longitude": 10.3935392,
+        "source": "center"
+      },
+      "name": "Chiesa di San Paolo a Ripa d'Arno",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Paolo a Ripa d'Arno",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "importance": "regional",
+        "name": "Chiesa di San Paolo a Ripa d'Arno",
+        "name:en": "Church of San Paolo a Ripa d'Arno",
+        "religion": "christian",
+        "wikidata": "Q1423910",
+        "wikipedia": "it:Chiesa di San Paolo a Ripa d'Arno"
+      }
+    }
+  ],
+  "Q3506968": [
+    {
+      "osm_type": "way",
+      "osm_id": 241614966,
+      "osm_url": "https://www.openstreetmap.org/way/241614966",
+      "wikidata_id": "Q3506968",
+      "coordinates": {
+        "latitude": 43.717555,
+        "longitude": 10.4045343,
+        "source": "center"
+      },
+      "name": "Chiesa di San Paolo all'Orto",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1086",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Paolo all'Orto",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Paolo all'Orto",
+        "religion": "christian",
+        "start_date": "1086",
+        "wikidata": "Q3506968",
+        "wikipedia": "it:Chiesa di San Paolo all'Orto"
+      }
+    }
+  ],
+  "Q3671588": [
+    {
+      "osm_type": "way",
+      "osm_id": 306378148,
+      "osm_url": "https://www.openstreetmap.org/way/306378148",
+      "wikidata_id": "Q3671588",
+      "coordinates": {
+        "latitude": 43.7631976,
+        "longitude": 11.2440786,
+        "source": "center"
+      },
+      "name": "Chiesa di San Pier Gattolino",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Pier Gattolino",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2026-05-14",
+        "denomination": "catholic",
+        "name": "Chiesa di San Pier Gattolino",
+        "religion": "christian",
+        "wikidata": "Q3671588",
+        "wikipedia": "it:Chiesa di San Pier Gattolino"
+      }
+    }
+  ],
+  "Q3671596": [],
+  "Q3671748": [
+    {
+      "osm_type": "way",
+      "osm_id": 306224655,
+      "osm_url": "https://www.openstreetmap.org/way/306224655",
+      "wikidata_id": "Q3671748",
+      "coordinates": {
+        "latitude": 43.7722573,
+        "longitude": 11.1826725,
+        "source": "center"
+      },
+      "name": "Chiesa di San Pietro a Sollicciano",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Pietro a Sollicciano",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-12-17",
+        "denomination": "catholic",
+        "name": "Chiesa di San Pietro a Sollicciano",
+        "religion": "christian",
+        "wikidata": "Q3671748",
+        "wikipedia": "it:Chiesa di San Pietro a Sollicciano"
+      }
+    }
+  ],
+  "Q3671752": [
+    {
+      "osm_type": "way",
+      "osm_id": 306224847,
+      "osm_url": "https://www.openstreetmap.org/way/306224847",
+      "wikidata_id": "Q3671752",
+      "coordinates": {
+        "latitude": 43.7667893,
+        "longitude": 11.3001271,
+        "source": "center"
+      },
+      "name": "Chiesa di San Pietro a Varlungo",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Pietro a Varlungo",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Pietro a Varlungo",
+        "religion": "christian",
+        "wikidata": "Q3671752",
+        "wikipedia": "it:Chiesa di San Pietro a Varlungo"
+      }
+    }
+  ],
+  "Q3504517": [
+    {
+      "osm_type": "way",
+      "osm_id": 105625234,
+      "osm_url": "https://www.openstreetmap.org/way/105625234",
+      "wikidata_id": "Q3504517",
+      "coordinates": {
+        "latitude": 43.7163159,
+        "longitude": 10.4038651,
+        "source": "center"
+      },
+      "name": "Chiesa di San Pietro in Vinculis",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": "1118",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Pietro in Vinculis (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "alt_name": "Chiesa di San Pierino",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Pietro in Vinculis",
+        "religion": "christian",
+        "source": "Bing aerial;PCN aerial 2006",
+        "start_date": "1118",
+        "wikidata": "Q3504517",
+        "wikipedia": "it:Chiesa di San Pietro in Vinculis (Pisa)"
+      }
+    }
+  ],
+  "Q3671828": [
+    {
+      "osm_type": "way",
+      "osm_id": 306156989,
+      "osm_url": "https://www.openstreetmap.org/way/306156989",
+      "wikidata_id": "Q3671828",
+      "coordinates": {
+        "latitude": 43.770801,
+        "longitude": 11.2585468,
+        "source": "center"
+      },
+      "name": "Ex chiesa di San Procolo",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": "https://www.conoscifirenze.it/luoghi-di-culto-a-firenze/684-Chiesa-di-San-Procolo.html",
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "contact:city": "Firenze",
+        "contact:postcode": "50122",
+        "contact:street": "Via de' Giraldi",
+        "denomination": "catholic",
+        "name": "Ex chiesa di San Procolo",
+        "religion": "christian",
+        "website": "https://www.conoscifirenze.it/luoghi-di-culto-a-firenze/684-Chiesa-di-San-Procolo.html",
+        "wikidata": "Q3671828"
+      }
+    }
+  ],
+  "Q3671846": [
+    {
+      "osm_type": "way",
+      "osm_id": 47188200,
+      "osm_url": "https://www.openstreetmap.org/way/47188200",
+      "wikidata_id": "Q3671846",
+      "coordinates": {
+        "latitude": 43.3165532,
+        "longitude": 11.3391209,
+        "source": "center"
+      },
+      "name": "Chiesa di San Raimondo",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1596",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Raimondo al Refugio",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via di Fieravecchia",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via di Fieravecchia",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di San Raimondo",
+        "religion": "christian",
+        "start_date": "1596",
+        "wikidata": "Q3671846",
+        "wikipedia": "it:Chiesa di San Raimondo al Refugio"
+      }
+    }
+  ],
+  "Q3671856": [
+    {
+      "osm_type": "way",
+      "osm_id": 238431529,
+      "osm_url": "https://www.openstreetmap.org/way/238431529",
+      "wikidata_id": "Q3671856",
+      "coordinates": {
+        "latitude": 43.7683748,
+        "longitude": 11.2584574,
+        "source": "center"
+      },
+      "name": "Chiesa di San Remigio",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Remigio (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:city": "Firenze",
+        "contact:housename": "Saint Remigio",
+        "contact:street": "Piazza San Remigio",
+        "denomination": "catholic",
+        "name": "Chiesa di San Remigio",
+        "religion": "christian",
+        "wikidata": "Q3671856",
+        "wikipedia": "it:Chiesa di San Remigio (Firenze)"
+      }
+    }
+  ],
+  "Q1102884": [
+    {
+      "osm_type": "way",
+      "osm_id": 668631812,
+      "osm_url": "https://www.openstreetmap.org/way/668631812",
+      "wikidata_id": "Q1102884",
+      "coordinates": {
+        "latitude": 43.7195456,
+        "longitude": 10.3996589,
+        "source": "center"
+      },
+      "name": "Chiesa di San Rocco",
+      "name_it": null,
+      "building": "yes",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Rocco (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Chiesa di San Rocco",
+        "religion": "christian",
+        "wikidata": "Q1102884",
+        "wikipedia": "it:Chiesa di San Rocco (Pisa)"
+      }
+    }
+  ],
+  "Q2220029": [
+    {
+      "osm_type": "way",
+      "osm_id": 91371849,
+      "osm_url": "https://www.openstreetmap.org/way/91371849",
+      "wikidata_id": "Q2220029",
+      "coordinates": {
+        "latitude": 43.7614043,
+        "longitude": 11.2652968,
+        "source": "center"
+      },
+      "name": "Chiesa di San Salvatore al Monte",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Salvatore al Monte",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Salvatore al Monte",
+        "religion": "christian",
+        "wikidata": "Q2220029",
+        "wikipedia": "it:Chiesa di San Salvatore al Monte"
+      }
+    }
+  ],
+  "Q3671987": [
+    {
+      "osm_type": "node",
+      "osm_id": 4758517538,
+      "osm_url": "https://www.openstreetmap.org/node/4758517538",
+      "wikidata_id": "Q3671987",
+      "coordinates": {
+        "latitude": 43.7729814,
+        "longitude": 11.2540676,
+        "source": "node"
+      },
+      "name": "San Salvatore al Vescovo",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Salvatore al Vescovo",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "San Salvatore al Vescovo",
+        "religion": "christian",
+        "wikidata": "Q3671987",
+        "wikipedia": "it:Chiesa di San Salvatore al Vescovo"
+      }
+    }
+  ],
+  "Q3672017": [
+    {
+      "osm_type": "node",
+      "osm_id": 630952981,
+      "osm_url": "https://www.openstreetmap.org/node/630952981",
+      "wikidata_id": "Q3672017",
+      "coordinates": {
+        "latitude": 43.5491507,
+        "longitude": 10.3061667,
+        "source": "node"
+      },
+      "name": "Chiesa di San Sebastiano",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Sebastiano (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "catholic",
+        "name": "Chiesa di San Sebastiano",
+        "religion": "christian",
+        "wheelchair": "no",
+        "wikidata": "Q3672017",
+        "wikipedia": "it:Chiesa di San Sebastiano (Livorno)"
+      }
+    }
+  ],
+  "Q3672030": [
+    {
+      "osm_type": "way",
+      "osm_id": 47800501,
+      "osm_url": "https://www.openstreetmap.org/way/47800501",
+      "wikidata_id": "Q3672030",
+      "coordinates": {
+        "latitude": 43.3171323,
+        "longitude": 11.3271614,
+        "source": "center"
+      },
+      "name": "Chiesa di San Sebastiano in Vallepiatta",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Sebastiano in Vallepiatta",
+      "wikimedia_commons": null,
+      "address": {
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazzetta della Selva"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:place": "Piazzetta della Selva",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Chiesa di San Sebastiano in Vallepiatta",
+        "religion": "christian",
+        "wikidata": "Q3672030",
+        "wikipedia": "it:Chiesa di San Sebastiano in Vallepiatta"
+      }
+    }
+  ],
+  "Q3504833": [
+    {
+      "osm_type": "way",
+      "osm_id": 128393613,
+      "osm_url": "https://www.openstreetmap.org/way/128393613",
+      "wikidata_id": "Q3504833",
+      "coordinates": {
+        "latitude": 43.714372,
+        "longitude": 10.4101695,
+        "source": "center"
+      },
+      "name": "Chiesa di San Silvestro",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Silvestro (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-01-24",
+        "denomination": "catholic",
+        "name": "Chiesa di San Silvestro",
+        "religion": "christian",
+        "wikidata": "Q3504833",
+        "wikipedia": "it:Chiesa di San Silvestro (Pisa)"
+      }
+    }
+  ],
+  "Q3505132": [
+    {
+      "osm_type": "way",
+      "osm_id": 140894052,
+      "osm_url": "https://www.openstreetmap.org/way/140894052",
+      "wikidata_id": "Q3505132",
+      "coordinates": {
+        "latitude": 43.7195291,
+        "longitude": 10.3992315,
+        "source": "center"
+      },
+      "name": "Chiesa di San Sisto",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di San Sisto (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-06-12",
+        "denomination": "catholic",
+        "name": "Chiesa di San Sisto",
+        "religion": "christian",
+        "wikidata": "Q3505132",
+        "wikipedia": "it:Chiesa di San Sisto (Pisa)"
+      }
+    }
+  ],
+  "Q1102250": [
+    {
+      "osm_type": "way",
+      "osm_id": 1189435410,
+      "osm_url": "https://www.openstreetmap.org/way/1189435410",
+      "wikidata_id": "Q1102250",
+      "coordinates": {
+        "latitude": 43.3146448,
+        "longitude": 11.3316842,
+        "source": "center"
+      },
+      "name": "Chiesa di Sant'Agostino",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": "https://www.viaesiena.it/it/mendicanti/itinerario_o/chiesa-sant-agostino",
+      "phone": null,
+      "wikipedia": "it:Chiesa di Sant'Agostino (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "housenumber": "2",
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Prato di Sant'Agostino"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:housenumber": "2",
+        "addr:place": "Prato di Sant'Agostino",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di Sant'Agostino",
+        "name:hu": "Szent Ágoston templom",
+        "religion": "christian",
+        "website": "https://www.viaesiena.it/it/mendicanti/itinerario_o/chiesa-sant-agostino",
+        "wikidata": "Q1102250",
+        "wikipedia": "it:Chiesa di Sant'Agostino (Siena)"
+      }
+    }
+  ],
+  "Q3672358": [
+    {
+      "osm_type": "way",
+      "osm_id": 599901040,
+      "osm_url": "https://www.openstreetmap.org/way/599901040",
+      "wikidata_id": "Q3672358",
+      "coordinates": {
+        "latitude": 43.7715136,
+        "longitude": 11.2667713,
+        "source": "center"
+      },
+      "name": "Sant'Ambrogio",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Sant'Ambrogio (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "description": "Site of Eucharistic miracles of 1230 and 1595",
+        "diocese": "Firenze",
+        "diocese:en": "Florence",
+        "historic": "church",
+        "name": "Sant'Ambrogio",
+        "name:en": "Church of Saint Ambrose",
+        "name:hr": "Crkva svetog Ambrozija",
+        "religion": "christian",
+        "wikidata": "Q3672358",
+        "wikipedia": "it:Chiesa di Sant'Ambrogio (Firenze)"
+      }
+    }
+  ],
+  "Q3672660": [
+    {
+      "osm_type": "way",
+      "osm_id": 715599859,
+      "osm_url": "https://www.openstreetmap.org/way/715599859",
+      "wikidata_id": "Q3672660",
+      "coordinates": {
+        "latitude": 42.6674289,
+        "longitude": 11.1061715,
+        "source": "center"
+      },
+      "name": "Chiesa di Sant'Antonio abate",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Sant'Antonio abate (Alberese)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "denomination": "catholic",
+        "height": "9.40",
+        "name": "Chiesa di Sant'Antonio abate",
+        "religion": "christian",
+        "wikidata": "Q3672660",
+        "wikipedia": "it:Chiesa di Sant'Antonio abate (Alberese)"
+      }
+    }
+  ],
+  "Q3672682": [
+    {
+      "osm_type": "way",
+      "osm_id": 150277379,
+      "osm_url": "https://www.openstreetmap.org/way/150277379",
+      "wikidata_id": "Q3672682",
+      "coordinates": {
+        "latitude": 43.7109851,
+        "longitude": 10.3979706,
+        "source": "center"
+      },
+      "name": "Chiesa di Sant'Antonio abate",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Sant'Antonio abate (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-01-24",
+        "denomination": "catholic",
+        "name": "Chiesa di Sant'Antonio abate",
+        "religion": "christian",
+        "roof:shape": "gabled",
+        "wikidata": "Q3672682",
+        "wikipedia": "it:Chiesa di Sant'Antonio abate (Pisa)"
+      }
+    }
+  ],
+  "Q19843876": [],
+  "Q3672727": [
+    {
+      "osm_type": "way",
+      "osm_id": 308613214,
+      "osm_url": "https://www.openstreetmap.org/way/308613214",
+      "wikidata_id": "Q3672727",
+      "coordinates": {
+        "latitude": 43.7169324,
+        "longitude": 10.3732619,
+        "source": "center"
+      },
+      "name": "Chiesa di Sant'Apollinare in Barbaricina",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Sant'Apollinare (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2026-01-29",
+        "denomination": "catholic",
+        "name": "Chiesa di Sant'Apollinare in Barbaricina",
+        "religion": "christian",
+        "wikidata": "Q3672727",
+        "wikipedia": "it:Chiesa di Sant'Apollinare (Pisa)"
+      }
+    }
+  ],
+  "Q3672859": [],
+  "Q281259": [
+    {
+      "osm_type": "way",
+      "osm_id": 216744137,
+      "osm_url": "https://www.openstreetmap.org/way/216744137",
+      "wikidata_id": "Q281259",
+      "coordinates": {
+        "latitude": 43.7199458,
+        "longitude": 10.4017598,
+        "source": "center"
+      },
+      "name": "Chiesa di Sant'Apollonia",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Apollonia (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Sant'Apollonia",
+        "religion": "christian",
+        "wikidata": "Q281259",
+        "wikipedia": "it:Chiesa di Santa Apollonia (Pisa)"
+      }
+    }
+  ],
+  "Q3672897": [
+    {
+      "osm_type": "node",
+      "osm_id": 5328055520,
+      "osm_url": "https://www.openstreetmap.org/node/5328055520",
+      "wikidata_id": "Q3672897",
+      "coordinates": {
+        "latitude": 43.7525974,
+        "longitude": 11.2868798,
+        "source": "node"
+      },
+      "name": "Santa Brigida al Paradiso",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Brigida al Paradiso",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Santa Brigida al Paradiso",
+        "religion": "christian",
+        "wikidata": "Q3672897",
+        "wikipedia": "it:Chiesa di Santa Brigida al Paradiso"
+      }
+    }
+  ],
+  "Q3672904": [
+    {
+      "osm_type": "way",
+      "osm_id": 121984159,
+      "osm_url": "https://www.openstreetmap.org/way/121984159",
+      "wikidata_id": "Q3672904",
+      "coordinates": {
+        "latitude": 43.5548789,
+        "longitude": 10.3082172,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Caterina",
+      "name_it": null,
+      "building": "yes",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1755",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Caterina (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "alt_name": "Chiesa dei Domenicani",
+        "amenity": "place_of_worship",
+        "architect": "Giovanni del Fantasia",
+        "building": "yes",
+        "check_date": "2024-04-08",
+        "denomination": "catholic",
+        "height": "30",
+        "importance": "urban",
+        "name": "Chiesa di Santa Caterina",
+        "religion": "christian",
+        "start_date": "1755",
+        "wikidata": "Q3672904",
+        "wikipedia": "it:Chiesa di Santa Caterina (Livorno)"
+      }
+    }
+  ],
+  "Q3505115": [
+    {
+      "osm_type": "way",
+      "osm_id": 95460603,
+      "osm_url": "https://www.openstreetmap.org/way/95460603",
+      "wikidata_id": "Q3505115",
+      "coordinates": {
+        "latitude": 43.7211308,
+        "longitude": 10.4046502,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Caterina d'Alessandria",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Caterina d'Alessandria (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2023-12-17",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Caterina d'Alessandria",
+        "religion": "christian",
+        "wikidata": "Q3505115",
+        "wikipedia": "it:Chiesa di Santa Caterina d'Alessandria (Pisa)"
+      }
+    }
+  ],
+  "Q3672942": [],
+  "Q3672967": [
+    {
+      "osm_type": "way",
+      "osm_id": 701045442,
+      "osm_url": "https://www.openstreetmap.org/way/701045442",
+      "wikidata_id": "Q3672967",
+      "coordinates": {
+        "latitude": 43.7217666,
+        "longitude": 10.3956505,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Chiara",
+      "name_it": null,
+      "building": "yes",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Chiara (Pisa)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via Roma",
+        "housenumber": "67"
+      },
+      "tags": {
+        "addr:housenumber": "67",
+        "addr:street": "Via Roma",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Chiara",
+        "religion": "christian",
+        "wheelchair": "no",
+        "wikidata": "Q3672967",
+        "wikipedia": "it:Chiesa di Santa Chiara (Pisa)"
+      }
+    }
+  ],
+  "Q585547": [
+    {
+      "osm_type": "way",
+      "osm_id": 184399190,
+      "osm_url": "https://www.openstreetmap.org/way/184399190",
+      "wikidata_id": "Q585547",
+      "coordinates": {
+        "latitude": 43.7156837,
+        "longitude": 10.4001029,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Cristina",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Cristina (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:colour": "#cb9276",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Cristina",
+        "religion": "christian",
+        "roof:material": "roof_tiles",
+        "roof:shape": "gabled",
+        "wikidata": "Q585547",
+        "wikipedia": "it:Chiesa di Santa Cristina (Pisa)"
+      }
+    }
+  ],
+  "Q3673046": [
+    {
+      "osm_type": "way",
+      "osm_id": 669784441,
+      "osm_url": "https://www.openstreetmap.org/way/669784441",
+      "wikidata_id": "Q3673046",
+      "coordinates": {
+        "latitude": 43.719719,
+        "longitude": 10.3982833,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Eufrasia",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Eufrasia",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "name": "Chiesa di Santa Eufrasia",
+        "wikidata": "Q3673046",
+        "wikipedia": "it:Chiesa di Santa Eufrasia"
+      }
+    }
+  ],
+  "Q1069665": [
+    {
+      "osm_type": "way",
+      "osm_id": 159394659,
+      "osm_url": "https://www.openstreetmap.org/way/159394659",
+      "wikidata_id": "Q1069665",
+      "coordinates": {
+        "latitude": 43.7668111,
+        "longitude": 11.2526032,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Felicita",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Felicita (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "catholic",
+        "importance": "international",
+        "name": "Chiesa di Santa Felicita",
+        "religion": "christian",
+        "wikidata": "Q1069665",
+        "wikipedia": "it:Chiesa di Santa Felicita (Firenze)"
+      }
+    }
+  ],
+  "Q3673065": [
+    {
+      "osm_type": "way",
+      "osm_id": 1070318719,
+      "osm_url": "https://www.openstreetmap.org/way/1070318719",
+      "wikidata_id": "Q3673065",
+      "coordinates": {
+        "latitude": 43.5500435,
+        "longitude": 10.3100842,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Giulia",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1603",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Giulia (Livorno)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Giulia",
+        "religion": "christian",
+        "start_date": "1603",
+        "wikidata": "Q3673065",
+        "wikipedia": "it:Chiesa di Santa Giulia (Livorno)"
+      }
+    }
+  ],
+  "Q3673138": [
+    {
+      "osm_type": "way",
+      "osm_id": 306694385,
+      "osm_url": "https://www.openstreetmap.org/way/306694385",
+      "wikidata_id": "Q3673138",
+      "coordinates": {
+        "latitude": 43.7655515,
+        "longitude": 11.2568506,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Lucia dei Magnoli",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Lucia dei Magnoli",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-08-24",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Lucia dei Magnoli",
+        "religion": "christian",
+        "wikidata": "Q3673138",
+        "wikipedia": "it:Chiesa di Santa Lucia dei Magnoli"
+      }
+    }
+  ],
+  "Q3673187": [
+    {
+      "osm_type": "way",
+      "osm_id": 307544546,
+      "osm_url": "https://www.openstreetmap.org/way/307544546",
+      "wikidata_id": "Q3673187",
+      "coordinates": {
+        "latitude": 43.771641,
+        "longitude": 11.2565879,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Margherita in Santa Maria de' Ricci",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Margherita in Santa Maria de' Ricci",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Margherita in Santa Maria de' Ricci",
+        "religion": "christian",
+        "wikidata": "Q3673187",
+        "wikipedia": "it:Chiesa di Santa Margherita in Santa Maria de' Ricci"
+      }
+    }
+  ],
+  "Q3673580": [
+    {
+      "osm_type": "way",
+      "osm_id": 307536891,
+      "osm_url": "https://www.openstreetmap.org/way/307536891",
+      "wikidata_id": "Q3673580",
+      "coordinates": {
+        "latitude": 43.7961241,
+        "longitude": 11.2185841,
+        "source": "center"
+      },
+      "name": "Santa Maria a Novoli",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-11-13",
+        "name": "Santa Maria a Novoli",
+        "religion": "christian",
+        "wikidata": "Q3673580"
+      }
+    }
+  ],
+  "Q3673595": [
+    {
+      "osm_type": "way",
+      "osm_id": 305822225,
+      "osm_url": "https://www.openstreetmap.org/way/305822225",
+      "wikidata_id": "Q3673595",
+      "coordinates": {
+        "latitude": 43.8187574,
+        "longitude": 11.2409145,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria a Quarto",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria a Quarto (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria a Quarto",
+        "religion": "christian",
+        "wikidata": "Q3673595",
+        "wikipedia": "it:Chiesa di Santa Maria a Quarto (Firenze)"
+      }
+    }
+  ],
+  "Q3673629": [
+    {
+      "osm_type": "way",
+      "osm_id": 305673947,
+      "osm_url": "https://www.openstreetmap.org/way/305673947",
+      "wikidata_id": "Q3673629",
+      "coordinates": {
+        "latitude": 43.7728697,
+        "longitude": 11.2352941,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria al Pignone",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria al Pignone",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:colour": "#cccccc",
+        "building:material": "plaster",
+        "check_date": "2025-09-12",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria al Pignone",
+        "religion": "christian",
+        "wikidata": "Q3673629",
+        "wikipedia": "it:Chiesa di Santa Maria al Pignone"
+      }
+    }
+  ],
+  "Q3673664": [
+    {
+      "osm_type": "way",
+      "osm_id": 306486070,
+      "osm_url": "https://www.openstreetmap.org/way/306486070",
+      "wikidata_id": "Q3673664",
+      "coordinates": {
+        "latitude": 43.7755016,
+        "longitude": 11.2634976,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria degli Angiolini",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria degli Angiolini",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria degli Angiolini",
+        "religion": "christian",
+        "wikidata": "Q3673664",
+        "wikipedia": "it:Chiesa di Santa Maria degli Angiolini"
+      }
+    }
+  ],
+  "Q3673667": [],
+  "Q3673712": [
+    {
+      "osm_type": "way",
+      "osm_id": 156075405,
+      "osm_url": "https://www.openstreetmap.org/way/156075405",
+      "wikidata_id": "Q3673712",
+      "coordinates": {
+        "latitude": 43.7128581,
+        "longitude": 10.4007536,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria del Carmine",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria del Carmine (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Chiesa di Santa Maria del Carmine",
+        "religion": "christian",
+        "service_times": "Mo-Fr 09:00,17:30; Sa 09:00,17:30,19:00; Su 10:00,12:00,17:00",
+        "wikidata": "Q3673712",
+        "wikipedia": "it:Chiesa di Santa Maria del Carmine (Pisa)"
+      }
+    }
+  ],
+  "Q3673734": [
+    {
+      "osm_type": "way",
+      "osm_id": 305870361,
+      "osm_url": "https://www.openstreetmap.org/way/305870361",
+      "wikidata_id": "Q3673734",
+      "coordinates": {
+        "latitude": 43.7979256,
+        "longitude": 11.2741286,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria del Fiore a Lapo",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria del Fiore a Lapo",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-10-10",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria del Fiore a Lapo",
+        "religion": "christian",
+        "wheelchair": "yes",
+        "wikidata": "Q3673734",
+        "wikipedia": "it:Chiesa di Santa Maria del Fiore a Lapo"
+      }
+    }
+  ],
+  "Q3673774": [],
+  "Q3673838": [],
+  "Q3673876": [],
+  "Q1426967": [
+    {
+      "osm_type": "way",
+      "osm_id": 159405535,
+      "osm_url": "https://www.openstreetmap.org/way/159405535",
+      "wikidata_id": "Q1426967",
+      "coordinates": {
+        "latitude": 43.7152209,
+        "longitude": 10.3966684,
+        "source": "center"
+      },
+      "name": "Santa Maria della Spina",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria della Spina",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "alt_name": "Santa Maria della Spina",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "description:en": "Small church built in 1230;one of the most outstanding Gothic architecture buildings in Europe (Source: en:wikipdia)",
+        "name": "Santa Maria della Spina",
+        "name:en": "Santa Maria della Spina",
+        "name:ru": "Санта-Мария делла Спина",
+        "opening_hours": "Nov-Feb Tu-Su 10:00-14:00; Mar-Oct Tu-Fr 10:30-13:30,14:30-18:00; Mar-Oct Sa,Su 10:00-13:30,14:30-19:00",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1426967",
+        "wikipedia": "it:Chiesa di Santa Maria della Spina"
+      }
+    }
+  ],
+  "Q3674012": [
+    {
+      "osm_type": "way",
+      "osm_id": 28838206,
+      "osm_url": "https://www.openstreetmap.org/way/28838206",
+      "wikidata_id": "Q3674012",
+      "coordinates": {
+        "latitude": 43.3214845,
+        "longitude": 11.3299183,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria delle Nevi",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria delle Nevi",
+      "wikimedia_commons": "Category:Santa Maria delle Nevi (Siena)",
+      "address": {
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di Santa Maria delle Nevi",
+        "religion": "christian",
+        "wikidata": "Q3674012",
+        "wikimedia_commons": "Category:Santa Maria delle Nevi (Siena)",
+        "wikipedia": "it:Chiesa di Santa Maria delle Nevi"
+      }
+    }
+  ],
+  "Q3674085": [
+    {
+      "osm_type": "way",
+      "osm_id": 53890174,
+      "osm_url": "https://www.openstreetmap.org/way/53890174",
+      "wikidata_id": "Q3674085",
+      "coordinates": {
+        "latitude": 43.3209729,
+        "longitude": 11.3326561,
+        "source": "center"
+      },
+      "name": "Collegiata di Santa Maria di Provenzano",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": "https://www.collegiataprovenzano.siena.it/",
+      "phone": "+39 0577 558952",
+      "wikipedia": "en:Santa Maria in Provenzano, Siena",
+      "wikimedia_commons": null,
+      "address": {
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazza Provenzano Salvani"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:place": "Piazza Provenzano Salvani",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "long_name": "Insigne Collegiata di Santa Maria in Provenzano",
+        "name": "Collegiata di Santa Maria di Provenzano",
+        "phone": "+39 0577 558952",
+        "religion": "christian",
+        "website": "https://www.collegiataprovenzano.siena.it/",
+        "wikidata": "Q3674085",
+        "wikipedia": "en:Santa Maria in Provenzano, Siena"
+      }
+    }
+  ],
+  "Q3674092": [
+    {
+      "osm_type": "way",
+      "osm_id": 374065004,
+      "osm_url": "https://www.openstreetmap.org/way/374065004",
+      "wikidata_id": "Q3674092",
+      "coordinates": {
+        "latitude": 43.7505961,
+        "longitude": 11.2844481,
+        "source": "center"
+      },
+      "name": "Santa Maria e Santa Brigida al Paradiso",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria e Santa Brigida al Paradiso",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Santa Maria e Santa Brigida al Paradiso",
+        "religion": "christian",
+        "wikidata": "Q3674092",
+        "wikipedia": "it:Chiesa di Santa Maria e Santa Brigida al Paradiso"
+      }
+    }
+  ],
+  "Q3674136": [
+    {
+      "osm_type": "way",
+      "osm_id": 50185501,
+      "osm_url": "https://www.openstreetmap.org/way/50185501",
+      "wikidata_id": "Q3674136",
+      "coordinates": {
+        "latitude": 43.3256497,
+        "longitude": 11.3262212,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria in Portico a Fontegiusta",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria in Portico a Fontegiusta",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via di Fontegiusta",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via di Fontegiusta",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria in Portico a Fontegiusta",
+        "religion": "christian",
+        "wikidata": "Q3674136",
+        "wikipedia": "it:Chiesa di Santa Maria in Portico a Fontegiusta"
+      }
+    }
+  ],
+  "Q1784984": [
+    {
+      "osm_type": "way",
+      "osm_id": 303278550,
+      "osm_url": "https://www.openstreetmap.org/way/303278550",
+      "wikidata_id": "Q1784984",
+      "coordinates": {
+        "latitude": 43.7741646,
+        "longitude": 11.2649268,
+        "source": "center"
+      },
+      "name": "Santa Maria Maddalena dei Pazzi",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Maria Maddalena dei Pazzi",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2024-03-01",
+        "name": "Santa Maria Maddalena dei Pazzi",
+        "religion": "christian",
+        "wikidata": "Q1784984",
+        "wikipedia": "it:Chiesa di Santa Maria Maddalena dei Pazzi"
+      }
+    }
+  ],
+  "Q3674172": [
+    {
+      "osm_type": "way",
+      "osm_id": 305872730,
+      "osm_url": "https://www.openstreetmap.org/way/305872730",
+      "wikidata_id": "Q3674172",
+      "coordinates": {
+        "latitude": 43.7157421,
+        "longitude": 10.4088124,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Marta",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santa Marta (Pisa)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Marta",
+        "religion": "christian",
+        "wikidata": "Q3674172",
+        "wikipedia": "it:Chiesa di Santa Marta (Pisa)"
+      }
+    }
+  ],
+  "Q3674189": [
+    {
+      "osm_type": "relation",
+      "osm_id": 17203710,
+      "osm_url": "https://www.openstreetmap.org/relation/17203710",
+      "wikidata_id": "Q3674189",
+      "coordinates": {
+        "latitude": 43.3296835,
+        "longitude": 11.3209148,
+        "source": "center"
+      },
+      "name": "Santa Petronilla",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "en:Santa Petronilla, Siena",
+      "wikimedia_commons": null,
+      "address": {
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "catholic",
+        "height": "18",
+        "name": "Santa Petronilla",
+        "religion": "christian",
+        "type": "multipolygon",
+        "wikidata": "Q3674189",
+        "wikipedia": "en:Santa Petronilla, Siena"
+      }
+    }
+  ],
+  "Q684119": [
+    {
+      "osm_type": "node",
+      "osm_id": 5041557941,
+      "osm_url": "https://www.openstreetmap.org/node/5041557941",
+      "wikidata_id": "Q684119",
+      "coordinates": {
+        "latitude": 43.7729974,
+        "longitude": 11.2560497,
+        "source": "node"
+      },
+      "name": "Cripta di Santa Reparata",
+      "name_it": null,
+      "building": null,
+      "amenity": "crypt",
+      "religion": null,
+      "denomination": null,
+      "historic": "yes",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "en:Santa Reparata, Florence",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "crypt",
+        "fee": "yes",
+        "historic": "yes",
+        "level": "-1",
+        "location": "underground",
+        "museum": "archaeological",
+        "name": "Cripta di Santa Reparata",
+        "name:en": "Crypt of Santa Reparata",
+        "name:ru": "Крипта Санта-Репарата",
+        "note:opening_hours": "last entrance at 16:30",
+        "opening_hours": "Mo-Sa 10:15-16:45; Su,PH closed",
+        "tourism": "museum",
+        "wikidata": "Q684119",
+        "wikipedia": "en:Santa Reparata, Florence"
+      }
+    }
+  ],
+  "Q1049041": [
+    {
+      "osm_type": "way",
+      "osm_id": 47003836,
+      "osm_url": "https://www.openstreetmap.org/way/47003836",
+      "wikidata_id": "Q1049041",
+      "coordinates": {
+        "latitude": 43.3180959,
+        "longitude": 11.3373938,
+        "source": "center"
+      },
+      "name": "Chiesa di Santo Spirito",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": "1504",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santo Spirito (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "housenumber": "2",
+        "postcode": "53100",
+        "city": "Siena",
+        "place": "Piazza Santo Spirito"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:housenumber": "2",
+        "addr:place": "Piazza Santo Spirito",
+        "addr:postcode": "53100",
+        "addr:unit": "A",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santo Spirito",
+        "name:hu": "Szentlélek templom",
+        "religion": "christian",
+        "start_date": "1504",
+        "wikidata": "Q1049041",
+        "wikipedia": "it:Chiesa di Santo Spirito (Siena)"
+      }
+    }
+  ],
+  "Q3674335": [
+    {
+      "osm_type": "way",
+      "osm_id": 50133108,
+      "osm_url": "https://www.openstreetmap.org/way/50133108",
+      "wikidata_id": "Q3674335",
+      "coordinates": {
+        "latitude": 43.324348,
+        "longitude": 11.327382,
+        "source": "center"
+      },
+      "name": "Chiesa di Santo Stefano alla Lizza",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santo Stefano alla Lizza",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via dei Gazzani",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via dei Gazzani",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "name": "Chiesa di Santo Stefano alla Lizza",
+        "religion": "christian",
+        "wikidata": "Q3674335",
+        "wikipedia": "it:Chiesa di Santo Stefano alla Lizza"
+      }
+    }
+  ],
+  "Q3674338": [
+    {
+      "osm_type": "way",
+      "osm_id": 37098980,
+      "osm_url": "https://www.openstreetmap.org/way/37098980",
+      "wikidata_id": "Q3674338",
+      "coordinates": {
+        "latitude": 43.7193304,
+        "longitude": 10.401084,
+        "source": "center"
+      },
+      "name": "Chiesa di Santo Stefano dei Cavalieri",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santo Stefano dei Cavalieri",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "importance": "regional",
+        "name": "Chiesa di Santo Stefano dei Cavalieri",
+        "religion": "christian",
+        "wikidata": "Q3674338",
+        "wikipedia": "it:Chiesa di Santo Stefano dei Cavalieri"
+      }
+    }
+  ],
+  "Q3674348": [
+    {
+      "osm_type": "way",
+      "osm_id": 253736904,
+      "osm_url": "https://www.openstreetmap.org/way/253736904",
+      "wikidata_id": "Q3674348",
+      "coordinates": {
+        "latitude": 43.7238347,
+        "longitude": 10.4000625,
+        "source": "center"
+      },
+      "name": "Chiesa di Santo Stefano extra moenia",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa di Santo Stefano extra moenia",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santo Stefano extra moenia",
+        "religion": "christian",
+        "wikidata": "Q3674348",
+        "wikipedia": "it:Chiesa di Santo Stefano extra moenia"
+      }
+    }
+  ],
+  "Q3674373": [
+    {
+      "osm_type": "way",
+      "osm_id": 47926881,
+      "osm_url": "https://www.openstreetmap.org/way/47926881",
+      "wikidata_id": "Q3674373",
+      "coordinates": {
+        "latitude": 43.3136979,
+        "longitude": 11.3314266,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria Maddalena",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via Pier Andrea Mattioli",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via Pier Andrea Mattioli",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria Maddalena",
+        "religion": "christian",
+        "wikidata": "Q3674373"
+      }
+    }
+  ],
+  "Q3674372": [],
+  "Q3674383": [],
+  "Q3674395": [
+    {
+      "osm_type": "way",
+      "osm_id": 1303489827,
+      "osm_url": "https://www.openstreetmap.org/way/1303489827",
+      "wikidata_id": "Q3674395",
+      "coordinates": {
+        "latitude": 43.7115348,
+        "longitude": 10.4149753,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Croce in Fossabanda",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building:part": "yes",
+        "check_date": "2026-02-22",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Croce in Fossabanda",
+        "religion": "christian",
+        "wikidata": "Q3674395"
+      }
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 1736084,
+      "osm_url": "https://www.openstreetmap.org/relation/1736084",
+      "wikidata_id": "Q3674395",
+      "coordinates": {
+        "latitude": 43.7116149,
+        "longitude": 10.4152549,
+        "source": "center"
+      },
+      "name": "Santa Croce in Fossabanda",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Chiesa e convento di Santa Croce in Fossabanda",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "name": "Santa Croce in Fossabanda",
+        "type": "multipolygon",
+        "wikidata": "Q3674395",
+        "wikipedia": "it:Chiesa e convento di Santa Croce in Fossabanda"
+      }
+    }
+  ],
+  "Q3674397": [
+    {
+      "osm_type": "way",
+      "osm_id": 1217117026,
+      "osm_url": "https://www.openstreetmap.org/way/1217117026",
+      "wikidata_id": "Q3674397",
+      "coordinates": {
+        "latitude": 43.3124933,
+        "longitude": 11.3265121,
+        "source": "center"
+      },
+      "name": "Santa Marta",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via San Marco",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via San Marco",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Santa Marta",
+        "religion": "christian",
+        "wikidata": "Q3674397"
+      }
+    }
+  ],
+  "Q3689641": [
+    {
+      "osm_type": "way",
+      "osm_id": 262726461,
+      "osm_url": "https://www.openstreetmap.org/way/262726461",
+      "wikidata_id": "Q3689641",
+      "coordinates": {
+        "latitude": 43.7198018,
+        "longitude": 10.93086,
+        "source": "center"
+      },
+      "name": "Chiesa di Santa Maria a Ripa",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Convento e chiesa di Santa Maria a Ripa (Empoli)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Chiesa di Santa Maria a Ripa",
+        "religion": "christian",
+        "survey:date": "2024-03-20",
+        "wikidata": "Q3689641",
+        "wikipedia": "it:Convento e chiesa di Santa Maria a Ripa (Empoli)"
+      }
+    },
+    {
+      "osm_type": "relation",
+      "osm_id": 6156781,
+      "osm_url": "https://www.openstreetmap.org/relation/6156781",
+      "wikidata_id": "Q3689641",
+      "coordinates": {
+        "latitude": 43.7195769,
+        "longitude": 10.9308969,
+        "source": "center"
+      },
+      "name": "Convento di Santa Maria a Ripa",
+      "name_it": null,
+      "building": "yes",
+      "amenity": "monastery",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Convento e chiesa di Santa Maria a Ripa (Empoli)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "monastery",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Convento di Santa Maria a Ripa",
+        "religion": "christian",
+        "survey:date": "2024-03-20",
+        "type": "multipolygon",
+        "wikidata": "Q3689641",
+        "wikipedia": "it:Convento e chiesa di Santa Maria a Ripa (Empoli)"
+      }
+    }
+  ],
+  "Q3689643": [
+    {
+      "osm_type": "way",
+      "osm_id": 444462403,
+      "osm_url": "https://www.openstreetmap.org/way/444462403",
+      "wikidata_id": "Q3689643",
+      "coordinates": {
+        "latitude": 43.7187087,
+        "longitude": 10.9468124,
+        "source": "center"
+      },
+      "name": "Chiesa di Santo Stefano degli Agostiniani",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Convento e chiesa di Santo Stefano degli Agostiniani",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "check_date": "2025-08-29",
+        "denomination": "catholic",
+        "name": "Chiesa di Santo Stefano degli Agostiniani",
+        "religion": "christian",
+        "wikidata": "Q3689643",
+        "wikipedia": "it:Convento e chiesa di Santo Stefano degli Agostiniani"
+      }
+    }
+  ],
+  "Q1236622": [
+    {
+      "osm_type": "way",
+      "osm_id": 931696761,
+      "osm_url": "https://www.openstreetmap.org/way/931696761",
+      "wikidata_id": "Q1236622",
+      "coordinates": {
+        "latitude": 43.8818687,
+        "longitude": 11.0980762,
+        "source": "center"
+      },
+      "name": "Cattedrale di Santo Stefano",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Duomo di Prato",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "basilica": "minor",
+        "building": "church",
+        "denomination": "catholic",
+        "historic": "church",
+        "loc_name": "Duomo",
+        "name": "Cattedrale di Santo Stefano",
+        "name:en": "Prato Cathedral",
+        "religion": "christian",
+        "tourism": "attraction",
+        "wikidata": "Q1236622",
+        "wikipedia": "it:Duomo di Prato"
+      }
+    }
+  ],
+  "Q3735826": [
+    {
+      "osm_type": "way",
+      "osm_id": 306985690,
+      "osm_url": "https://www.openstreetmap.org/way/306985690",
+      "wikidata_id": "Q3735826",
+      "coordinates": {
+        "latitude": 43.7689764,
+        "longitude": 11.2667683,
+        "source": "center"
+      },
+      "name": "Ex chiesa dei Santi Jacopo e Lorenzo",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Ex chiesa dei Santi Jacopo e Lorenzo",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "name": "Ex chiesa dei Santi Jacopo e Lorenzo",
+        "wikidata": "Q3735826",
+        "wikipedia": "it:Ex chiesa dei Santi Jacopo e Lorenzo"
+      }
+    }
+  ],
+  "Q3860475": [
+    {
+      "osm_type": "relation",
+      "osm_id": 7037228,
+      "osm_url": "https://www.openstreetmap.org/relation/7037228",
+      "wikidata_id": "Q3860475",
+      "coordinates": {
+        "latitude": 43.7823778,
+        "longitude": 11.2612265,
+        "source": "center"
+      },
+      "name": "Monastero di San Clemente",
+      "name_it": null,
+      "building": "yes",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Monastero di San Clemente (Firenze)",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "yes",
+        "name": "Monastero di San Clemente",
+        "type": "multipolygon",
+        "wikidata": "Q3860475",
+        "wikipedia": "it:Monastero di San Clemente (Firenze)"
+      }
+    }
+  ],
+  "Q3884413": [
+    {
+      "osm_type": "node",
+      "osm_id": 3127418845,
+      "osm_url": "https://www.openstreetmap.org/node/3127418845",
+      "wikidata_id": "Q3884413",
+      "coordinates": {
+        "latitude": 43.7708791,
+        "longitude": 11.256713,
+        "source": "node"
+      },
+      "name": "Oratorio dei Buonomini di San Martino",
+      "name_it": null,
+      "building": null,
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Oratorio dei Buonomini di San Martino",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Oratorio dei Buonomini di San Martino",
+        "religion": "christian",
+        "wheelchair": "no",
+        "wikidata": "Q3884413",
+        "wikipedia": "it:Oratorio dei Buonomini di San Martino"
+      }
+    }
+  ],
+  "Q3884450": [
+    {
+      "osm_type": "way",
+      "osm_id": 730876801,
+      "osm_url": "https://www.openstreetmap.org/way/730876801",
+      "wikidata_id": "Q3884450",
+      "coordinates": {
+        "latitude": 43.7731182,
+        "longitude": 11.247106,
+        "source": "center"
+      },
+      "name": "Oratorio dei Vanchetoni",
+      "name_it": null,
+      "building": "chapel",
+      "amenity": null,
+      "religion": null,
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Oratorio dei Vanchetoni",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "alt_name": "Oratorio di San Francesco",
+        "building": "chapel",
+        "denomination": "catholic",
+        "name": "Oratorio dei Vanchetoni",
+        "wikidata": "Q3884450",
+        "wikipedia": "it:Oratorio dei Vanchetoni"
+      }
+    }
+  ],
+  "Q112798284": [
+    {
+      "osm_type": "way",
+      "osm_id": 1310990450,
+      "osm_url": "https://www.openstreetmap.org/way/1310990450",
+      "wikidata_id": "Q112798284",
+      "coordinates": {
+        "latitude": 43.5500454,
+        "longitude": 10.3103133,
+        "source": "center"
+      },
+      "name": "Oratorio di San Ranieri",
+      "name_it": null,
+      "building": "church",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": "1696",
+      "website": null,
+      "phone": null,
+      "wikipedia": null,
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building": "church",
+        "name": "Oratorio di San Ranieri",
+        "name:etymology:wikidata": "Q1383532",
+        "start_date": "1696",
+        "wikidata": "Q112798284"
+      }
+    }
+  ],
+  "Q2028376": [
+    {
+      "osm_type": "way",
+      "osm_id": 1193136273,
+      "osm_url": "https://www.openstreetmap.org/way/1193136273",
+      "wikidata_id": "Q2028376",
+      "coordinates": {
+        "latitude": 43.3230444,
+        "longitude": 11.3314921,
+        "source": "center"
+      },
+      "name": "Oratorio di San Rocco",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": null,
+      "start_date": "1511",
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Oratorio di San Rocco (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via Vallerozzi",
+        "housenumber": "63",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:housenumber": "63",
+        "addr:postcode": "53100",
+        "addr:street": "Via Vallerozzi",
+        "alt_name": "Oratorio Contrada della Lupa",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "fee": "no",
+        "name": "Oratorio di San Rocco",
+        "religion": "christian",
+        "start_date": "1511",
+        "wikidata": "Q2028376",
+        "wikipedia": "it:Oratorio di San Rocco (Siena)"
+      }
+    }
+  ],
+  "Q3884771": [
+    {
+      "osm_type": "way",
+      "osm_id": 307281119,
+      "osm_url": "https://www.openstreetmap.org/way/307281119",
+      "wikidata_id": "Q3884771",
+      "coordinates": {
+        "latitude": 43.7730203,
+        "longitude": 11.2610638,
+        "source": "center"
+      },
+      "name": "Oratorio di San Tommaso d'Aquino",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Oratorio di San Tommaso d'Aquino",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Oratorio di San Tommaso d'Aquino",
+        "religion": "christian",
+        "wikidata": "Q3884771",
+        "wikipedia": "it:Oratorio di San Tommaso d'Aquino"
+      }
+    }
+  ],
+  "Q3884805": [
+    {
+      "osm_type": "way",
+      "osm_id": 48185100,
+      "osm_url": "https://www.openstreetmap.org/way/48185100",
+      "wikidata_id": "Q3884805",
+      "coordinates": {
+        "latitude": 43.314703,
+        "longitude": 11.3294372,
+        "source": "center"
+      },
+      "name": "Oratorio di Sant'Antonio da Padova",
+      "name_it": null,
+      "building": "chapel",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Oratorio di Sant'Antonio da Padova (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via Tommaso Pendola",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via Tommaso Pendola",
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "catholic",
+        "name": "Oratorio di Sant'Antonio da Padova",
+        "religion": "christian",
+        "wikidata": "Q3884805",
+        "wikipedia": "it:Oratorio di Sant'Antonio da Padova (Siena)"
+      }
+    }
+  ],
+  "Q3884826": [],
+  "Q110944216": [],
+  "Q19947673": [
+    {
+      "osm_type": "way",
+      "osm_id": 113484938,
+      "osm_url": "https://www.openstreetmap.org/way/113484938",
+      "wikidata_id": "Q19947673",
+      "coordinates": {
+        "latitude": 43.7753022,
+        "longitude": 11.2601541,
+        "source": "center"
+      },
+      "name": "Rotonda del Brunelleschi",
+      "name_it": null,
+      "building": "yes",
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Rotonda del Brunelleschi",
+      "wikimedia_commons": "Category:Brunelleschi's Rotunda",
+      "address": {},
+      "tags": {
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "brick",
+        "name": "Rotonda del Brunelleschi",
+        "roof:material": "roof_tiles",
+        "roof:shape": "pyramidal",
+        "survey:date": "2020-10-21",
+        "wikidata": "Q19947673",
+        "wikimedia_commons": "Category:Brunelleschi's Rotunda",
+        "wikipedia": "it:Rotonda del Brunelleschi"
+      }
+    }
+  ],
+  "Q578805": [
+    {
+      "osm_type": "way",
+      "osm_id": 599900777,
+      "osm_url": "https://www.openstreetmap.org/way/599900777",
+      "wikidata_id": "Q578805",
+      "coordinates": {
+        "latitude": 43.7747138,
+        "longitude": 11.2536339,
+        "source": "center"
+      },
+      "name": "Sagrestia Vecchia",
+      "name_it": null,
+      "building": null,
+      "amenity": null,
+      "religion": null,
+      "denomination": null,
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Sagrestia Vecchia",
+      "wikimedia_commons": null,
+      "address": {},
+      "tags": {
+        "building:part": "yes",
+        "name": "Sagrestia Vecchia",
+        "name:hr": "Stara sakristija",
+        "wikidata": "Q578805",
+        "wikipedia": "it:Sagrestia Vecchia"
+      }
+    }
+  ],
+  "Q1248706": [
+    {
+      "osm_type": "way",
+      "osm_id": 700922377,
+      "osm_url": "https://www.openstreetmap.org/way/700922377",
+      "wikidata_id": "Q1248706",
+      "coordinates": {
+        "latitude": 43.8785032,
+        "longitude": 11.1019958,
+        "source": "center"
+      },
+      "name": "Santuario della Madonna del Giglio",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "catholic",
+      "historic": null,
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Santuario della Madonna del Giglio",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Piazza San Marco",
+        "housenumber": "13",
+        "postcode": "59100",
+        "city": "Prato"
+      },
+      "tags": {
+        "addr:city": "Prato",
+        "addr:housenumber": "13",
+        "addr:postcode": "59100",
+        "addr:street": "Piazza San Marco",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Santuario della Madonna del Giglio",
+        "religion": "christian",
+        "wikidata": "Q1248706",
+        "wikipedia": "it:Santuario della Madonna del Giglio"
+      }
+    }
+  ],
+  "Q185303": [
+    {
+      "osm_type": "way",
+      "osm_id": 50059765,
+      "osm_url": "https://www.openstreetmap.org/way/50059765",
+      "wikidata_id": "Q185303",
+      "coordinates": {
+        "latitude": 43.3199623,
+        "longitude": 11.3282168,
+        "source": "center"
+      },
+      "name": "Chiesa del Crocifisso",
+      "name_it": null,
+      "building": "church",
+      "amenity": "place_of_worship",
+      "religion": "christian",
+      "denomination": "roman_catholic",
+      "historic": "church",
+      "start_date": null,
+      "website": null,
+      "phone": null,
+      "wikipedia": "it:Santuario di Santa Caterina (Siena)",
+      "wikimedia_commons": null,
+      "address": {
+        "street": "Via del Camporegio",
+        "postcode": "53100",
+        "city": "Siena"
+      },
+      "tags": {
+        "addr:city": "Siena",
+        "addr:postcode": "53100",
+        "addr:street": "Via del Camporegio",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "historic": "church",
+        "importance": "regional",
+        "name": "Chiesa del Crocifisso",
+        "religion": "christian",
+        "wikidata": "Q185303",
+        "wikipedia": "it:Santuario di Santa Caterina (Siena)"
+      }
+    }
+  ],
+  "Q3983163": []
+}
