@@ -501,7 +501,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": true,
       "directory_type": "basilica",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -528,7 +528,8 @@
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "directory_type_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -656,7 +657,19 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "directory_type",
+          "old_value": "basilica",
+          "new_value": "basilica"
+        }
+      ],
+      "notes": [
+        "Type manually reviewed; basilica is the primary directory type."
+      ]
+    }
   },
   {
     "wikidata_id": "Q2287001",
@@ -3401,7 +3414,7 @@
     "derived": {
       "display_name": "basilica di Santa Maria Novella",
       "display_date": null,
-      "date_review_required": true,
+      "date_review_required": false,
       "has_coordinates": true,
       "has_images": true,
       "multiple_inception_claims": true,
@@ -3424,16 +3437,17 @@
       "has_canonical_coordinates": true,
       "canonical_coordinate_source": "wikidata",
       "coordinate_review_required": false,
-      "canonical_date_display": null,
-      "canonical_date_start_year": null,
-      "canonical_date_end_year": null,
-      "canonical_date_kind": null,
+      "canonical_date_display": "1278",
+      "canonical_date_start_year": 1278,
+      "canonical_date_end_year": 1278,
+      "canonical_date_kind": "year",
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "canonical_date_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -3535,7 +3549,16 @@
       }
     },
     "resolved_date": {
-      "canonical": null,
+      "canonical": {
+        "kind": "year",
+        "start_year": 1278,
+        "end_year": 1278,
+        "display": "1278",
+        "source": "manual",
+        "source_name": "Florence As It Was",
+        "source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+        "note": "Building materials for the new Santa Maria Novella were being assembled in 1278; the cornerstone was laid in 1279. The 1458 value relates to the Renaissance facade, while 2001 relates to the modern Opera association."
+      },
       "candidates": [
         {
           "kind": "year",
@@ -3565,8 +3588,8 @@
           "rank": "normal"
         }
       ],
-      "review_required": true,
-      "reason": "multiple_competing_dates"
+      "review_required": false,
+      "reason": "manual_override"
     },
     "image_selection": {
       "hero_image": {
@@ -3590,7 +3613,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "year",
+            "start_year": 1278,
+            "end_year": 1278,
+            "display": "1278",
+            "source": "manual",
+            "source_name": "Florence As It Was",
+            "source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+            "note": "Building materials for the new Santa Maria Novella were being assembled in 1278; the cornerstone was laid in 1279. The 1458 value relates to the Renaissance facade, while 2001 relates to the modern Opera association."
+          }
+        }
+      ],
+      "notes": [
+        "Canonical date manually researched."
+      ]
+    }
   },
   {
     "wikidata_id": "Q1062114",
@@ -4116,7 +4160,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "basilica",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -4143,7 +4187,8 @@
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "directory_type_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -4271,7 +4316,19 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "directory_type",
+          "old_value": "basilica",
+          "new_value": "basilica"
+        }
+      ],
+      "notes": [
+        "Type manually reviewed; basilica is the primary directory type."
+      ]
+    }
   },
   {
     "wikidata_id": "Q1066935",
@@ -4454,7 +4511,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "baptistery",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -4481,7 +4538,8 @@
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "directory_type_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -4613,7 +4671,19 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "directory_type",
+          "old_value": "baptistery",
+          "new_value": "baptistery"
+        }
+      ],
+      "notes": [
+        "Type manually reviewed; baptistery is the specific building type and is outside current directory scope."
+      ]
+    }
   },
   {
     "wikidata_id": "Q732511",
@@ -4852,7 +4922,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "baptistery",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -4880,7 +4950,8 @@
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "directory_type_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -5015,7 +5086,19 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "directory_type",
+          "old_value": "baptistery",
+          "new_value": "baptistery"
+        }
+      ],
+      "notes": [
+        "Type manually reviewed; baptistery is the specific building type and is outside current directory scope."
+      ]
+    }
   },
   {
     "wikidata_id": "Q3657316",
@@ -5950,7 +6033,7 @@
     "derived": {
       "display_name": "cappella Brancacci",
       "display_date": null,
-      "date_review_required": true,
+      "date_review_required": false,
       "has_coordinates": true,
       "has_images": true,
       "multiple_inception_claims": true,
@@ -5973,16 +6056,17 @@
       "has_canonical_coordinates": true,
       "canonical_coordinate_source": "wikidata",
       "coordinate_review_required": false,
-      "canonical_date_display": null,
-      "canonical_date_start_year": null,
-      "canonical_date_end_year": null,
-      "canonical_date_kind": null,
+      "canonical_date_display": "c. 1386",
+      "canonical_date_start_year": 1386,
+      "canonical_date_end_year": 1386,
+      "canonical_date_kind": "circa_year",
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "canonical_date_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -6066,7 +6150,16 @@
       }
     },
     "resolved_date": {
-      "canonical": null,
+      "canonical": {
+        "kind": "circa_year",
+        "start_year": 1386,
+        "end_year": 1386,
+        "display": "c. 1386",
+        "source": "manual",
+        "source_name": "FeelFlorence",
+        "source_url": "https://www.feelflorence.it/it/punti-di-interesse/cappella-brancacci",
+        "note": "The chapel was built by/before 1386. The 1424 date refers to the fresco decoration rather than construction of the chapel."
+      },
       "candidates": [
         {
           "kind": "year",
@@ -6087,8 +6180,8 @@
           "rank": "normal"
         }
       ],
-      "review_required": true,
-      "reason": "multiple_competing_dates"
+      "review_required": false,
+      "reason": "manual_override"
     },
     "image_selection": {
       "hero_image": {
@@ -6112,7 +6205,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "circa_year",
+            "start_year": 1386,
+            "end_year": 1386,
+            "display": "c. 1386",
+            "source": "manual",
+            "source_name": "FeelFlorence",
+            "source_url": "https://www.feelflorence.it/it/punti-di-interesse/cappella-brancacci",
+            "note": "The chapel was built by/before 1386. The 1424 date refers to the fresco decoration rather than construction of the chapel."
+          }
+        }
+      ],
+      "notes": [
+        "Canonical date manually researched."
+      ]
+    }
   },
   {
     "wikidata_id": "Q3657333",
@@ -6281,7 +6395,7 @@
     "derived": {
       "display_name": "cappella Capponi",
       "display_date": null,
-      "date_review_required": true,
+      "date_review_required": false,
       "has_coordinates": true,
       "has_images": true,
       "multiple_inception_claims": true,
@@ -6304,16 +6418,17 @@
       "has_canonical_coordinates": true,
       "canonical_coordinate_source": "wikidata",
       "coordinate_review_required": false,
-      "canonical_date_display": null,
-      "canonical_date_start_year": null,
-      "canonical_date_end_year": null,
-      "canonical_date_kind": null,
+      "canonical_date_display": "c. 1420",
+      "canonical_date_start_year": 1420,
+      "canonical_date_end_year": 1420,
+      "canonical_date_kind": "circa_year",
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "canonical_date_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -6343,7 +6458,16 @@
       "comparison": null
     },
     "resolved_date": {
-      "canonical": null,
+      "canonical": {
+        "kind": "circa_year",
+        "start_year": 1420,
+        "end_year": 1420,
+        "display": "c. 1420",
+        "source": "manual",
+        "source_name": "Catalogo Generale dei Beni Culturali",
+        "source_url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900156269-3",
+        "note": "The cultural heritage catalogue dates Brunelleschi's work on the chapel to circa 1420, explaining the competing 1419 and 1420 statements."
+      },
       "candidates": [
         {
           "kind": "year",
@@ -6364,8 +6488,8 @@
           "rank": "normal"
         }
       ],
-      "review_required": true,
-      "reason": "multiple_competing_dates"
+      "review_required": false,
+      "reason": "manual_override"
     },
     "image_selection": {
       "hero_image": {
@@ -6389,7 +6513,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "circa_year",
+            "start_year": 1420,
+            "end_year": 1420,
+            "display": "c. 1420",
+            "source": "manual",
+            "source_name": "Catalogo Generale dei Beni Culturali",
+            "source_url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900156269-3",
+            "note": "The cultural heritage catalogue dates Brunelleschi's work on the chapel to circa 1420, explaining the competing 1419 and 1420 statements."
+          }
+        }
+      ],
+      "notes": [
+        "Canonical date manually researched."
+      ]
+    }
   },
   {
     "wikidata_id": "Q16268127",
@@ -8251,7 +8396,7 @@
     "derived": {
       "display_name": "cappella Pazzi",
       "display_date": null,
-      "date_review_required": true,
+      "date_review_required": false,
       "has_coordinates": true,
       "has_images": true,
       "multiple_inception_claims": true,
@@ -8274,16 +8419,17 @@
       "has_canonical_coordinates": true,
       "canonical_coordinate_source": "wikidata",
       "coordinate_review_required": false,
-      "canonical_date_display": null,
-      "canonical_date_start_year": null,
-      "canonical_date_end_year": null,
-      "canonical_date_kind": null,
+      "canonical_date_display": "1443",
+      "canonical_date_start_year": 1443,
+      "canonical_date_end_year": 1443,
+      "canonical_date_kind": "year",
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "canonical_date_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -8360,7 +8506,16 @@
       }
     },
     "resolved_date": {
-      "canonical": null,
+      "canonical": {
+        "kind": "year",
+        "start_year": 1443,
+        "end_year": 1443,
+        "display": "1443",
+        "source": "manual",
+        "source_name": "Opera di Santa Croce",
+        "source_url": "https://www.santacroceopera.it/en/places/cloisters/pazzi-chapel/",
+        "note": "Brunelleschi designed the chapel earlier, but the official Santa Croce history states that construction began in 1443."
+      },
       "candidates": [
         {
           "kind": "year",
@@ -8381,8 +8536,8 @@
           "rank": "normal"
         }
       ],
-      "review_required": true,
-      "reason": "multiple_competing_dates"
+      "review_required": false,
+      "reason": "manual_override"
     },
     "image_selection": {
       "hero_image": {
@@ -8406,7 +8561,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "year",
+            "start_year": 1443,
+            "end_year": 1443,
+            "display": "1443",
+            "source": "manual",
+            "source_name": "Opera di Santa Croce",
+            "source_url": "https://www.santacroceopera.it/en/places/cloisters/pazzi-chapel/",
+            "note": "Brunelleschi designed the chapel earlier, but the official Santa Croce history states that construction began in 1443."
+          }
+        }
+      ],
+      "notes": [
+        "Canonical date manually researched."
+      ]
+    }
   },
   {
     "wikidata_id": "Q1133664",
@@ -10099,7 +10275,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "cathedral",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -10126,7 +10302,8 @@
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "directory_type_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -10273,7 +10450,19 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "directory_type",
+          "old_value": "cathedral",
+          "new_value": "cathedral"
+        }
+      ],
+      "notes": [
+        "Type manually reviewed; cathedral is the primary directory type."
+      ]
+    }
   },
   {
     "wikidata_id": "Q3667914",
@@ -12858,7 +13047,7 @@
     "derived": {
       "display_name": "chiesa del Santo Sepolcro",
       "display_date": null,
-      "date_review_required": true,
+      "date_review_required": false,
       "has_coordinates": true,
       "has_images": true,
       "multiple_inception_claims": true,
@@ -12880,16 +13069,17 @@
       "has_canonical_coordinates": true,
       "canonical_coordinate_source": "wikidata",
       "coordinate_review_required": false,
-      "canonical_date_display": null,
-      "canonical_date_start_year": null,
-      "canonical_date_end_year": null,
-      "canonical_date_kind": null,
+      "canonical_date_display": "c. 1113",
+      "canonical_date_start_year": 1113,
+      "canonical_date_end_year": 1113,
+      "canonical_date_kind": "circa_year",
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "canonical_date_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -12961,7 +13151,16 @@
       }
     },
     "resolved_date": {
-      "canonical": null,
+      "canonical": {
+        "kind": "circa_year",
+        "start_year": 1113,
+        "end_year": 1113,
+        "display": "c. 1113",
+        "source": "manual",
+        "source_name": "Comune di Pisa - Turismo",
+        "source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+        "note": "The Comune di Pisa describes the church as founded by the Hospitallers around 1113, with its first surviving mention in 1138."
+      },
       "candidates": [
         {
           "kind": "year",
@@ -12982,8 +13181,8 @@
           "rank": "normal"
         }
       ],
-      "review_required": true,
-      "reason": "multiple_competing_dates"
+      "review_required": false,
+      "reason": "manual_override"
     },
     "image_selection": {
       "hero_image": {
@@ -13007,7 +13206,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "circa_year",
+            "start_year": 1113,
+            "end_year": 1113,
+            "display": "c. 1113",
+            "source": "manual",
+            "source_name": "Comune di Pisa - Turismo",
+            "source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+            "note": "The Comune di Pisa describes the church as founded by the Hospitallers around 1113, with its first surviving mention in 1138."
+          }
+        }
+      ],
+      "notes": [
+        "Canonical date manually researched."
+      ]
+    }
   },
   {
     "wikidata_id": "Q3668695",
@@ -18689,8 +18909,8 @@
       "has_osm_address": false,
       "has_osm_website": false,
       "has_canonical_coordinates": true,
-      "canonical_coordinate_source": "wikidata",
-      "coordinate_review_required": true,
+      "canonical_coordinate_source": "manual",
+      "coordinate_review_required": false,
       "canonical_date_display": "1454",
       "canonical_date_start_year": 1454,
       "canonical_date_end_year": 1454,
@@ -18743,9 +18963,10 @@
     ],
     "resolved_coordinates": {
       "canonical": {
-        "latitude": 43.7669,
-        "longitude": 11.232,
-        "source": "wikidata"
+        "latitude": 43.7712902,
+        "longitude": 11.2309423,
+        "source": "manual",
+        "note": "Manually reviewed. Exact OSM building way matched by Wikidata QID; Wikidata coordinate appears misplaced."
       },
       "wikidata": {
         "latitude": 43.7669,
@@ -18813,7 +19034,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_coordinates",
+          "old_value": {
+            "latitude": 43.7669,
+            "longitude": 11.232,
+            "source": "wikidata"
+          },
+          "new_value": {
+            "latitude": 43.7712902,
+            "longitude": 11.2309423,
+            "source": "manual",
+            "note": "Manually reviewed. Exact OSM building way matched by Wikidata QID; Wikidata coordinate appears misplaced."
+          }
+        }
+      ],
+      "notes": [
+        "Coordinates manually reviewed."
+      ]
+    }
   },
   {
     "wikidata_id": "Q3669596",
@@ -40957,7 +41199,7 @@
     "derived": {
       "display_name": "chiesa di San Remigio",
       "display_date": null,
-      "date_review_required": true,
+      "date_review_required": false,
       "has_coordinates": true,
       "has_images": true,
       "multiple_inception_claims": true,
@@ -40979,16 +41221,17 @@
       "has_canonical_coordinates": true,
       "canonical_coordinate_source": "wikidata",
       "coordinate_review_required": false,
-      "canonical_date_display": null,
-      "canonical_date_start_year": null,
-      "canonical_date_end_year": null,
-      "canonical_date_kind": null,
+      "canonical_date_display": "11th century",
+      "canonical_date_start_year": 1001,
+      "canonical_date_end_year": 1100,
+      "canonical_date_kind": "century",
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "canonical_date_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -41061,7 +41304,16 @@
       }
     },
     "resolved_date": {
-      "canonical": null,
+      "canonical": {
+        "kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "display": "11th century",
+        "source": "manual",
+        "source_name": "Florence As It Was",
+        "source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+        "note": "The church is documented by 1040 and has an 11th-century predecessor. The present Gothic form substantially reflects later reconstruction in the 13th-14th centuries."
+      },
       "candidates": [
         {
           "kind": "century",
@@ -41082,8 +41334,8 @@
           "rank": "normal"
         }
       ],
-      "review_required": true,
-      "reason": "multiple_competing_dates"
+      "review_required": false,
+      "reason": "manual_override"
     },
     "image_selection": {
       "hero_image": {
@@ -41107,7 +41359,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "century",
+            "start_year": 1001,
+            "end_year": 1100,
+            "display": "11th century",
+            "source": "manual",
+            "source_name": "Florence As It Was",
+            "source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+            "note": "The church is documented by 1040 and has an 11th-century predecessor. The present Gothic form substantially reflects later reconstruction in the 13th-14th centuries."
+          }
+        }
+      ],
+      "notes": [
+        "Canonical date manually researched."
+      ]
+    }
   },
   {
     "wikidata_id": "Q1102884",
@@ -49128,7 +49401,7 @@
     "derived": {
       "display_name": "chiesa di Santa Lucia dei Magnoli",
       "display_date": null,
-      "date_review_required": true,
+      "date_review_required": false,
       "has_coordinates": true,
       "has_images": true,
       "multiple_inception_claims": true,
@@ -49150,16 +49423,17 @@
       "has_canonical_coordinates": true,
       "canonical_coordinate_source": "wikidata",
       "coordinate_review_required": false,
-      "canonical_date_display": null,
-      "canonical_date_start_year": null,
-      "canonical_date_end_year": null,
-      "canonical_date_kind": null,
+      "canonical_date_display": "1078",
+      "canonical_date_start_year": 1078,
+      "canonical_date_end_year": 1078,
+      "canonical_date_kind": "year",
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "canonical_date_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -49230,7 +49504,16 @@
       }
     },
     "resolved_date": {
-      "canonical": null,
+      "canonical": {
+        "kind": "year",
+        "start_year": 1078,
+        "end_year": 1078,
+        "display": "1078",
+        "source": "manual",
+        "source_name": "Firenze Oltrarno",
+        "source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+        "note": "The church was founded in 1078. Later dates refer to subsequent events and alterations rather than its original foundation."
+      },
       "candidates": [
         {
           "kind": "century",
@@ -49251,8 +49534,8 @@
           "rank": "normal"
         }
       ],
-      "review_required": true,
-      "reason": "multiple_competing_dates"
+      "review_required": false,
+      "reason": "manual_override"
     },
     "image_selection": {
       "hero_image": {
@@ -49276,7 +49559,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "year",
+            "start_year": 1078,
+            "end_year": 1078,
+            "display": "1078",
+            "source": "manual",
+            "source_name": "Firenze Oltrarno",
+            "source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+            "note": "The church was founded in 1078. Later dates refer to subsequent events and alterations rather than its original foundation."
+          }
+        }
+      ],
+      "notes": [
+        "Canonical date manually researched."
+      ]
+    }
   },
   {
     "wikidata_id": "Q3673187",
@@ -52544,7 +52848,7 @@
       "has_images": true,
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
-      "directory_type": "church",
+      "directory_type": "former_church",
       "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
@@ -52558,8 +52862,8 @@
       "has_osm_coordinates": false,
       "has_osm_address": false,
       "has_osm_website": false,
-      "has_canonical_coordinates": false,
-      "canonical_coordinate_source": null,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "manual",
       "coordinate_review_required": false,
       "canonical_date_display": "1530",
       "canonical_date_start_year": 1530,
@@ -52568,9 +52872,11 @@
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
-      "has_hero_image": true,
+      "has_hero_image": false,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "directory_type_source": "manual",
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -52580,7 +52886,12 @@
     ],
     "osm_matches": [],
     "resolved_coordinates": {
-      "canonical": null,
+      "canonical": {
+        "latitude": 43.76077,
+        "longitude": 11.24804,
+        "source": "manual",
+        "note": "Manually reviewed. Coordinates correspond to the surviving Oratorio di Santa Maria della Pace / remains of the historic Santa Maria della Pace complex in Via Madonna della Pace, Florence."
+      },
       "wikidata": null,
       "osm": null,
       "comparison": null
@@ -52610,28 +52921,55 @@
       "reason": "unambiguous"
     },
     "image_selection": {
-      "hero_image": {
-        "filename": "Zocchi, ville 04 la pace.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zocchi%2C_ville_04_la_pace.jpg",
-        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zocchi%2C_ville_04_la_pace.jpg/1920px-Zocchi%2C_ville_04_la_pace.jpg",
-        "description_url": "https://commons.wikimedia.org/wiki/File:Zocchi,_ville_04_la_pace.jpg",
-        "license": {
-          "name": "Public domain",
-          "url": null,
-          "usage_terms": "Public domain",
-          "attribution_required": "false",
-          "restrictions": null
-        },
-        "artist": {
-          "raw": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giuseppe_Zocchi\" class=\"extiw\" title=\"w:en:Giuseppe Zocchi\"><span title=\"Italian painter, engraver and draughtsperson (1711-1767)\">Giuseppe Zocchi</span></a></bdi>",
-          "text": "Giuseppe Zocchi"
-        },
-        "score": 7
-      },
+      "hero_image": null,
       "review_required": false,
-      "reason": "high_confidence"
+      "reason": "manual_no_suitable_image"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "directory_type",
+          "old_value": "church",
+          "new_value": "former_church"
+        },
+        {
+          "field": "canonical_coordinates",
+          "old_value": null,
+          "new_value": {
+            "latitude": 43.76077,
+            "longitude": 11.24804,
+            "source": "manual",
+            "note": "Manually reviewed. Coordinates correspond to the surviving Oratorio di Santa Maria della Pace / remains of the historic Santa Maria della Pace complex in Via Madonna della Pace, Florence."
+          }
+        },
+        {
+          "field": "hero_image",
+          "old_value": {
+            "filename": "Zocchi, ville 04 la pace.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zocchi%2C_ville_04_la_pace.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zocchi%2C_ville_04_la_pace.jpg/1920px-Zocchi%2C_ville_04_la_pace.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Zocchi,_ville_04_la_pace.jpg",
+            "license": {
+              "name": "Public domain",
+              "url": null,
+              "usage_terms": "Public domain",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giuseppe_Zocchi\" class=\"extiw\" title=\"w:en:Giuseppe Zocchi\"><span title=\"Italian painter, engraver and draughtsperson (1711-1767)\">Giuseppe Zocchi</span></a></bdi>",
+              "text": "Giuseppe Zocchi"
+            },
+            "score": 7
+          },
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Historic church largely dismantled and reduced to surviving chapel/building remains. Existing Wikidata P18 is a historical Zocchi print, not a suitable directory hero image."
+      ]
+    }
   },
   {
     "wikidata_id": "Q1426967",
@@ -59852,7 +60190,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": true,
       "directory_type": "cathedral",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -59879,7 +60217,8 @@
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": false
+      "duplicate_review_required": false,
+      "directory_type_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -60007,7 +60346,19 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "directory_type",
+          "old_value": "cathedral",
+          "new_value": "cathedral"
+        }
+      ],
+      "notes": [
+        "Type manually reviewed; cathedral is the primary directory type."
+      ]
+    }
   },
   {
     "wikidata_id": "Q3735826",
@@ -63014,7 +63365,7 @@
       "has_imprecise_date": false,
       "directory_type": "church",
       "type_review_required": false,
-      "possible_duplicate": true,
+      "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
         "church"
@@ -63038,8 +63389,11 @@
       "image_relevance_review_required": false,
       "has_hero_image": false,
       "image_review_required": false,
-      "duplicate_review_required": true,
-      "hero_image_source": "manual_review"
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review",
+      "duplicate_role": "duplicate",
+      "duplicate_of": "Q19947673",
+      "suppressed_as_duplicate": true
     },
     "wikidata_type_details": [
       {
@@ -63102,7 +63456,16 @@
       "notes": [
         "Reviewed manually; no suitable Wikidata/Commons image is available."
       ]
-    }
+    },
+    "duplicate_resolutions": [
+      {
+        "qid_1": "Q110944216",
+        "qid_2": "Q19947673",
+        "status": "same_entity",
+        "note": "Manually verified as the same Brunelleschi Rotunda / Rotunda of Santa Maria degli Angeli. Q19947673 retained as the canonical record because it has richer source data.",
+        "canonical_qid": "Q19947673"
+      }
+    ]
   },
   {
     "wikidata_id": "Q19947673",
@@ -63299,7 +63662,7 @@
       "has_imprecise_date": false,
       "directory_type": "church",
       "type_review_required": false,
-      "possible_duplicate": true,
+      "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
         "church"
@@ -63323,7 +63686,8 @@
       "image_relevance_review_required": true,
       "has_hero_image": true,
       "image_review_required": false,
-      "duplicate_review_required": true
+      "duplicate_review_required": false,
+      "duplicate_role": "canonical"
     },
     "wikidata_type_details": [
       {
@@ -63455,6 +63819,15 @@
         "name": "Rotonda del Brunelleschi",
         "score": 50,
         "confidence": "low"
+      }
+    ],
+    "duplicate_resolutions": [
+      {
+        "qid_1": "Q110944216",
+        "qid_2": "Q19947673",
+        "status": "same_entity",
+        "note": "Manually verified as the same Brunelleschi Rotunda / Rotunda of Santa Maria degli Angeli. Q19947673 retained as the canonical record because it has richer source data.",
+        "canonical_qid": "Q19947673"
       }
     ]
   },
@@ -63662,7 +64035,7 @@
       "multiple_inception_claims": true,
       "has_imprecise_date": false,
       "directory_type": "sacristy",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -63690,6 +64063,7 @@
       "has_hero_image": false,
       "image_review_required": false,
       "duplicate_review_required": false,
+      "directory_type_source": "manual",
       "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
@@ -63822,13 +64196,18 @@
     "manual_overrides": {
       "applied": [
         {
+          "field": "directory_type",
+          "old_value": "sacristy",
+          "new_value": "sacristy"
+        },
+        {
           "field": "hero_image",
           "old_value": null,
           "new_value": null
         }
       ],
       "notes": [
-        "Reviewed manually; only an interior image is available. Record is currently out of scope."
+        "Type manually reviewed as a sacristy and therefore outside current directory scope. Only an interior image is available."
       ]
     }
   },
@@ -64045,8 +64424,8 @@
       "has_osm_address": true,
       "has_osm_website": false,
       "has_canonical_coordinates": true,
-      "canonical_coordinate_source": "wikidata",
-      "coordinate_review_required": true,
+      "canonical_coordinate_source": "manual",
+      "coordinate_review_required": false,
       "canonical_date_display": "1680",
       "canonical_date_start_year": 1680,
       "canonical_date_end_year": 1680,
@@ -64110,9 +64489,10 @@
     ],
     "resolved_coordinates": {
       "canonical": {
-        "latitude": 43.88,
-        "longitude": 11.098333333333,
-        "source": "wikidata"
+        "latitude": 43.8781684,
+        "longitude": 11.1017117,
+        "source": "manual",
+        "note": "Manually reviewed against the official Visit Tuscany location for the sanctuary. This closely agrees with the OSM building position."
       },
       "wikidata": {
         "latitude": 43.88,
@@ -64180,7 +64560,28 @@
       "review_required": false,
       "reason": "high_confidence"
     },
-    "duplicate_candidates": []
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "canonical_coordinates",
+          "old_value": {
+            "latitude": 43.88,
+            "longitude": 11.098333333333,
+            "source": "wikidata"
+          },
+          "new_value": {
+            "latitude": 43.8781684,
+            "longitude": 11.1017117,
+            "source": "manual",
+            "note": "Manually reviewed against the official Visit Tuscany location for the sanctuary. This closely agrees with the OSM building position."
+          }
+        }
+      ],
+      "notes": [
+        "Coordinates manually reviewed."
+      ]
+    }
   },
   {
     "wikidata_id": "Q185303",

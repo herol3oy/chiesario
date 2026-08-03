@@ -31,6 +31,34 @@
     },
     {
       "type": "Feature",
+      "id": "Q3635657",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0935,
+          43.8818
+        ]
+      },
+      "properties": {
+        "id": "Q3635657",
+        "slug": "basilica-dei-santi-vincenzo-e-caterina-de-ricci-q3635657",
+        "name": "basilica dei Santi Vincenzo e Caterina de' Ricci",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Basilica_di_Santa_Caterina_de%27_Ricci_01.JPG",
+        "hero_filename": "Basilica di Santa Caterina de' Ricci 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3635657",
+        "osm_url": "https://www.openstreetmap.org/way/366209548"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "Q2287001",
       "geometry": {
         "type": "Point",
@@ -227,6 +255,34 @@
     },
     {
       "type": "Feature",
+      "id": "Q51175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.249367,
+          43.7743
+        ]
+      },
+      "properties": {
+        "id": "Q51175",
+        "slug": "basilica-di-santa-maria-novella-q51175",
+        "name": "basilica di Santa Maria Novella",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1278",
+        "date_kind": "year",
+        "start_year": 1278,
+        "end_year": 1278,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1920px-Santa_Maria_Novella_%28Florence%29.jpg",
+        "hero_filename": "Santa Maria Novella (Florence).jpg",
+        "website": "https://www.smn.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q51175",
+        "osm_url": "https://www.openstreetmap.org/way/449369047"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "Q1062114",
       "geometry": {
         "type": "Point",
@@ -251,6 +307,34 @@
         "website": "http://www.monaci.org/monastero-santa-trinita",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1062114",
         "osm_url": "https://www.openstreetmap.org/way/478272186"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1519975",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24777778,
+          43.76722222
+        ]
+      },
+      "properties": {
+        "id": "Q1519975",
+        "slug": "basilica-di-santo-spirito-q1519975",
+        "name": "basilica di Santo Spirito",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1252",
+        "date_kind": "year",
+        "start_year": 1252,
+        "end_year": 1252,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chiesa_Santo_Spirito%2C_Firenze.jpg/1920px-Chiesa_Santo_Spirito%2C_Firenze.jpg",
+        "hero_filename": "Chiesa Santo Spirito, Firenze.jpg",
+        "website": "https://www.basilicasantospirito.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1519975",
+        "osm_url": "https://www.openstreetmap.org/way/24881563"
       }
     },
     {
@@ -391,6 +475,34 @@
         "website": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q3657685",
         "osm_url": "https://www.openstreetmap.org/way/306523267"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q191739",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.256944444444445,
+          43.77305555555556
+        ]
+      },
+      "properties": {
+        "id": "Q191739",
+        "slug": "cattedrale-di-santa-maria-del-fiore-q191739",
+        "name": "Cattedrale di Santa Maria del Fiore",
+        "church_type": "cathedral",
+        "region": "Tuscany",
+        "date_display": "1296",
+        "date_kind": "year",
+        "start_year": 1296,
+        "end_year": 1296,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Florence_Duomo_from_Michelangelo_hill.jpg/1920px-Florence_Duomo_from_Michelangelo_hill.jpg",
+        "hero_filename": "Florence Duomo from Michelangelo hill.jpg",
+        "website": "https://www.duomofirenze.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q191739",
+        "osm_url": "https://www.openstreetmap.org/way/43768260"
       }
     },
     {
@@ -587,6 +699,34 @@
         "website": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668503",
         "osm_url": "https://www.openstreetmap.org/way/269192941"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q428178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40349,
+          43.71446
+        ]
+      },
+      "properties": {
+        "id": "Q428178",
+        "slug": "chiesa-del-santo-sepolcro-q428178",
+        "name": "chiesa del Santo Sepolcro",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "c. 1113",
+        "date_kind": "circa_year",
+        "start_year": 1113,
+        "end_year": 1113,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pisa_-_Chiesa_del_Santo_Sepolcro%2C_01-edit.jpg/1920px-Pisa_-_Chiesa_del_Santo_Sepolcro%2C_01-edit.jpg",
+        "hero_filename": "Pisa - Chiesa del Santo Sepolcro, 01-edit.jpg",
+        "website": "https://sansepolcropisa.com",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q428178",
+        "osm_url": "https://www.openstreetmap.org/way/457948331"
       }
     },
     {
@@ -1007,6 +1147,34 @@
         "website": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669519",
         "osm_url": "https://www.openstreetmap.org/way/323059215"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2309423,
+          43.7712902
+        ]
+      },
+      "properties": {
+        "id": "Q3669552",
+        "slug": "chiesa-di-san-bartolomeo-a-monte-oliveto-q3669552",
+        "name": "chiesa di San Bartolomeo a Monte Oliveto",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1454",
+        "date_kind": "year",
+        "start_year": 1454,
+        "end_year": 1454,
+        "coordinate_source": "manual",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/San_bartolomeo_a_monteoliveto%2C_esterno%2C_05.jpg/1920px-San_bartolomeo_a_monteoliveto%2C_esterno%2C_05.jpg",
+        "hero_filename": "San bartolomeo a monteoliveto, esterno, 05.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669552",
+        "osm_url": "https://www.openstreetmap.org/way/305428855"
       }
     },
     {
@@ -2831,6 +2999,34 @@
     },
     {
       "type": "Feature",
+      "id": "Q3671856",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2584,
+          43.76838
+        ]
+      },
+      "properties": {
+        "id": "Q3671856",
+        "slug": "chiesa-di-san-remigio-q3671856",
+        "name": "chiesa di San Remigio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Piazza_san_remigio%2C_chiesa_di_san_remigio_01%2C0.jpg/1920px-Piazza_san_remigio%2C_chiesa_di_san_remigio_01%2C0.jpg",
+        "hero_filename": "Piazza san remigio, chiesa di san remigio 01,0.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671856",
+        "osm_url": "https://www.openstreetmap.org/way/238431529"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "Q1102884",
       "geometry": {
         "type": "Point",
@@ -3503,6 +3699,34 @@
     },
     {
       "type": "Feature",
+      "id": "Q3673138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25679,
+          43.76549
+        ]
+      },
+      "properties": {
+        "id": "Q3673138",
+        "slug": "chiesa-di-santa-lucia-dei-magnoli-q3673138",
+        "name": "chiesa di Santa Lucia dei Magnoli",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1078",
+        "date_kind": "year",
+        "start_year": 1078,
+        "end_year": 1078,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Santa_lucia_dei_magnoli_01.JPG",
+        "hero_filename": "Santa lucia dei magnoli 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673138",
+        "osm_url": "https://www.openstreetmap.org/way/306694385"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "Q3673187",
       "geometry": {
         "type": "Point",
@@ -3778,6 +4002,34 @@
         "hero_filename": "Firenze, piazza piave.JPG",
         "website": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673838",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24804,
+          43.76077
+        ]
+      },
+      "properties": {
+        "id": "Q3673876",
+        "slug": "chiesa-di-santa-maria-della-pace-q3673876",
+        "name": "chiesa di Santa Maria della Pace",
+        "church_type": "former_church",
+        "region": "Tuscany",
+        "date_display": "1530",
+        "date_kind": "year",
+        "start_year": 1530,
+        "end_year": 1530,
+        "coordinate_source": "manual",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673876",
         "osm_url": null
       }
     },
@@ -4315,6 +4567,34 @@
     },
     {
       "type": "Feature",
+      "id": "Q1236622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09777778,
+          43.88194444
+        ]
+      },
+      "properties": {
+        "id": "Q1236622",
+        "slug": "duomo-di-prato-q1236622",
+        "name": "duomo di Prato",
+        "church_type": "cathedral",
+        "region": "Tuscany",
+        "date_display": "10th century",
+        "date_kind": "century",
+        "start_year": 901,
+        "end_year": 1000,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Piazza_del_Duomo_e_Cattedrale_Santo_Stefano_Prato.jpg/1920px-Piazza_del_Duomo_e_Cattedrale_Santo_Stefano_Prato.jpg",
+        "hero_filename": "Piazza del Duomo e Cattedrale Santo Stefano Prato.jpg",
+        "website": "http://www.diocesiprato.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1236622",
+        "osm_url": "https://www.openstreetmap.org/way/931696761"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "Q3735826",
       "geometry": {
         "type": "Point",
@@ -4507,6 +4787,62 @@
         "website": "http://www.tartuca.it/joomla/sistema-museale-a-oratorio/oratorio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3884805",
         "osm_url": "https://www.openstreetmap.org/way/48185100"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q19947673",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26031667,
+          43.77531083
+        ]
+      },
+      "properties": {
+        "id": "Q19947673",
+        "slug": "rotonda-di-brunelleschi-q19947673",
+        "name": "Rotonda di Brunelleschi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1434",
+        "date_kind": "year",
+        "start_year": 1434,
+        "end_year": 1434,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rotonda_del_brunelleschi_12.JPG/1920px-Rotonda_del_brunelleschi_12.JPG",
+        "hero_filename": "Rotonda del brunelleschi 12.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q19947673",
+        "osm_url": "https://www.openstreetmap.org/way/113484938"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1248706",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1017117,
+          43.8781684
+        ]
+      },
+      "properties": {
+        "id": "Q1248706",
+        "slug": "santuario-della-madonna-del-giglio-q1248706",
+        "name": "santuario della Madonna del Giglio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1680",
+        "date_kind": "year",
+        "start_year": 1680,
+        "end_year": 1680,
+        "coordinate_source": "manual",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Madonna_del_Giglio_sanctuary_3.jpg/1920px-Madonna_del_Giglio_sanctuary_3.jpg",
+        "hero_filename": "Madonna del Giglio sanctuary 3.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1248706",
+        "osm_url": "https://www.openstreetmap.org/way/700922377"
       }
     },
     {

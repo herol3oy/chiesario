@@ -228,8 +228,20 @@ def override_date(
         "source":
             "manual",
 
+        "source_name":
+            value.get(
+                "source_name"
+            ),
+
+        "source_url":
+            value.get(
+                "source_url"
+            ),
+
         "note":
-            value.get("note"),
+            value.get(
+                "note"
+            ),
     }
 
     church.setdefault(

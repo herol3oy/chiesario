@@ -1,16 +1,120 @@
 {
   "total_entities": 194,
-  "records_with_manual_overrides": 18,
-  "suppressed_duplicates": 0,
+  "records_with_manual_overrides": 34,
+  "suppressed_duplicates": 1,
   "manually_excluded": 0,
   "remaining_review_counts": {
-    "dates": 7,
-    "coordinates": 2,
-    "types": 7,
+    "dates": 0,
+    "coordinates": 0,
+    "types": 0,
     "images": 0,
-    "duplicates": 2
+    "duplicates": 0
   },
   "overridden_records": [
+    {
+      "wikidata_id": "Q3635657",
+      "name": "basilica dei Santi Vincenzo e Caterina de' Ricci",
+      "changes": [
+        {
+          "field": "directory_type",
+          "old_value": "basilica",
+          "new_value": "basilica"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q51175",
+      "name": "basilica di Santa Maria Novella",
+      "changes": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "year",
+            "start_year": 1278,
+            "end_year": 1278,
+            "display": "1278",
+            "source": "manual",
+            "source_name": "Florence As It Was",
+            "source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+            "note": "Building materials for the new Santa Maria Novella were being assembled in 1278; the cornerstone was laid in 1279. The 1458 value relates to the Renaissance facade, while 2001 relates to the modern Opera association."
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q1519975",
+      "name": "basilica di Santo Spirito",
+      "changes": [
+        {
+          "field": "directory_type",
+          "old_value": "basilica",
+          "new_value": "basilica"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q1066935",
+      "name": "battistero di San Giovanni",
+      "changes": [
+        {
+          "field": "directory_type",
+          "old_value": "baptistery",
+          "new_value": "baptistery"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q732511",
+      "name": "battistero di San Giovanni",
+      "changes": [
+        {
+          "field": "directory_type",
+          "old_value": "baptistery",
+          "new_value": "baptistery"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q1996075",
+      "name": "cappella Brancacci",
+      "changes": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "circa_year",
+            "start_year": 1386,
+            "end_year": 1386,
+            "display": "c. 1386",
+            "source": "manual",
+            "source_name": "FeelFlorence",
+            "source_url": "https://www.feelflorence.it/it/punti-di-interesse/cappella-brancacci",
+            "note": "The chapel was built by/before 1386. The 1424 date refers to the fresco decoration rather than construction of the chapel."
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3657333",
+      "name": "cappella Capponi",
+      "changes": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "circa_year",
+            "start_year": 1420,
+            "end_year": 1420,
+            "display": "c. 1420",
+            "source": "manual",
+            "source_name": "Catalogo Generale dei Beni Culturali",
+            "source_url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900156269-3",
+            "note": "The cultural heritage catalogue dates Brunelleschi's work on the chapel to circa 1420, explaining the competing 1419 and 1420 statements."
+          }
+        }
+      ]
+    },
     {
       "wikidata_id": "Q3657663",
       "name": "cappella di Santa Barbara a Porta Vecchia",
@@ -34,6 +138,26 @@
       ]
     },
     {
+      "wikidata_id": "Q600355",
+      "name": "cappella Pazzi",
+      "changes": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "year",
+            "start_year": 1443,
+            "end_year": 1443,
+            "display": "1443",
+            "source": "manual",
+            "source_name": "Opera di Santa Croce",
+            "source_url": "https://www.santacroceopera.it/en/places/cloisters/pazzi-chapel/",
+            "note": "Brunelleschi designed the chapel earlier, but the official Santa Croce history states that construction began in 1443."
+          }
+        }
+      ]
+    },
+    {
       "wikidata_id": "Q2593098",
       "name": "cappella Tornabuoni",
       "changes": [
@@ -45,6 +169,37 @@
       ]
     },
     {
+      "wikidata_id": "Q191739",
+      "name": "Cattedrale di Santa Maria del Fiore",
+      "changes": [
+        {
+          "field": "directory_type",
+          "old_value": "cathedral",
+          "new_value": "cathedral"
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q428178",
+      "name": "chiesa del Santo Sepolcro",
+      "changes": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "circa_year",
+            "start_year": 1113,
+            "end_year": 1113,
+            "display": "c. 1113",
+            "source": "manual",
+            "source_name": "Comune di Pisa - Turismo",
+            "source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+            "note": "The Comune di Pisa describes the church as founded by the Hospitallers around 1113, with its first surviving mention in 1138."
+          }
+        }
+      ]
+    },
+    {
       "wikidata_id": "Q3669504",
       "name": "chiesa di San Bartolomeo",
       "changes": [
@@ -52,6 +207,26 @@
           "field": "hero_image",
           "old_value": null,
           "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3669552",
+      "name": "chiesa di San Bartolomeo a Monte Oliveto",
+      "changes": [
+        {
+          "field": "canonical_coordinates",
+          "old_value": {
+            "latitude": 43.7669,
+            "longitude": 11.232,
+            "source": "wikidata"
+          },
+          "new_value": {
+            "latitude": 43.7712902,
+            "longitude": 11.2309423,
+            "source": "manual",
+            "note": "Manually reviewed. Exact OSM building way matched by Wikidata QID; Wikidata coordinate appears misplaced."
+          }
         }
       ]
     },
@@ -140,6 +315,26 @@
       ]
     },
     {
+      "wikidata_id": "Q3671856",
+      "name": "chiesa di San Remigio",
+      "changes": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "century",
+            "start_year": 1001,
+            "end_year": 1100,
+            "display": "11th century",
+            "source": "manual",
+            "source_name": "Florence As It Was",
+            "source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+            "note": "The church is documented by 1040 and has an 11th-century predecessor. The present Gothic form substantially reflects later reconstruction in the 13th-14th centuries."
+          }
+        }
+      ]
+    },
+    {
       "wikidata_id": "Q3672660",
       "name": "chiesa di Sant'Antonio Abate",
       "changes": [
@@ -212,6 +407,69 @@
       ]
     },
     {
+      "wikidata_id": "Q3673138",
+      "name": "chiesa di Santa Lucia dei Magnoli",
+      "changes": [
+        {
+          "field": "canonical_date",
+          "old_value": null,
+          "new_value": {
+            "kind": "year",
+            "start_year": 1078,
+            "end_year": 1078,
+            "display": "1078",
+            "source": "manual",
+            "source_name": "Firenze Oltrarno",
+            "source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+            "note": "The church was founded in 1078. Later dates refer to subsequent events and alterations rather than its original foundation."
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3673876",
+      "name": "chiesa di Santa Maria della Pace",
+      "changes": [
+        {
+          "field": "directory_type",
+          "old_value": "church",
+          "new_value": "former_church"
+        },
+        {
+          "field": "canonical_coordinates",
+          "old_value": null,
+          "new_value": {
+            "latitude": 43.76077,
+            "longitude": 11.24804,
+            "source": "manual",
+            "note": "Manually reviewed. Coordinates correspond to the surviving Oratorio di Santa Maria della Pace / remains of the historic Santa Maria della Pace complex in Via Madonna della Pace, Florence."
+          }
+        },
+        {
+          "field": "hero_image",
+          "old_value": {
+            "filename": "Zocchi, ville 04 la pace.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zocchi%2C_ville_04_la_pace.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zocchi%2C_ville_04_la_pace.jpg/1920px-Zocchi%2C_ville_04_la_pace.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Zocchi,_ville_04_la_pace.jpg",
+            "license": {
+              "name": "Public domain",
+              "url": null,
+              "usage_terms": "Public domain",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giuseppe_Zocchi\" class=\"extiw\" title=\"w:en:Giuseppe Zocchi\"><span title=\"Italian painter, engraver and draughtsperson (1711-1767)\">Giuseppe Zocchi</span></a></bdi>",
+              "text": "Giuseppe Zocchi"
+            },
+            "score": 7
+          },
+          "new_value": null
+        }
+      ]
+    },
+    {
       "wikidata_id": "Q3674012",
       "name": "chiesa di Santa Maria delle Nevi",
       "changes": [
@@ -264,6 +522,17 @@
             },
             "source": "manual"
           }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q1236622",
+      "name": "duomo di Prato",
+      "changes": [
+        {
+          "field": "directory_type",
+          "old_value": "cathedral",
+          "new_value": "cathedral"
         }
       ]
     },
@@ -322,96 +591,51 @@
       "name": "Sagrestia Vecchia",
       "changes": [
         {
+          "field": "directory_type",
+          "old_value": "sacristy",
+          "new_value": "sacristy"
+        },
+        {
           "field": "hero_image",
           "old_value": null,
           "new_value": null
         }
       ]
+    },
+    {
+      "wikidata_id": "Q1248706",
+      "name": "santuario della Madonna del Giglio",
+      "changes": [
+        {
+          "field": "canonical_coordinates",
+          "old_value": {
+            "latitude": 43.88,
+            "longitude": 11.098333333333,
+            "source": "wikidata"
+          },
+          "new_value": {
+            "latitude": 43.8781684,
+            "longitude": 11.1017117,
+            "source": "manual",
+            "note": "Manually reviewed against the official Visit Tuscany location for the sanctuary. This closely agrees with the OSM building position."
+          }
+        }
+      ]
     }
   ],
-  "suppressed_duplicate_records": [],
+  "suppressed_duplicate_records": [
+    {
+      "wikidata_id": "Q110944216",
+      "name": "Rotonda del Brunelleschi",
+      "duplicate_of": "Q19947673"
+    }
+  ],
   "excluded_records": [],
   "remaining_reviews": {
-    "dates": [
-      {
-        "wikidata_id": "Q51175",
-        "name": "basilica di Santa Maria Novella"
-      },
-      {
-        "wikidata_id": "Q1996075",
-        "name": "cappella Brancacci"
-      },
-      {
-        "wikidata_id": "Q3657333",
-        "name": "cappella Capponi"
-      },
-      {
-        "wikidata_id": "Q600355",
-        "name": "cappella Pazzi"
-      },
-      {
-        "wikidata_id": "Q428178",
-        "name": "chiesa del Santo Sepolcro"
-      },
-      {
-        "wikidata_id": "Q3671856",
-        "name": "chiesa di San Remigio"
-      },
-      {
-        "wikidata_id": "Q3673138",
-        "name": "chiesa di Santa Lucia dei Magnoli"
-      }
-    ],
-    "coordinates": [
-      {
-        "wikidata_id": "Q3669552",
-        "name": "chiesa di San Bartolomeo a Monte Oliveto"
-      },
-      {
-        "wikidata_id": "Q1248706",
-        "name": "santuario della Madonna del Giglio"
-      }
-    ],
-    "types": [
-      {
-        "wikidata_id": "Q3635657",
-        "name": "basilica dei Santi Vincenzo e Caterina de' Ricci"
-      },
-      {
-        "wikidata_id": "Q1519975",
-        "name": "basilica di Santo Spirito"
-      },
-      {
-        "wikidata_id": "Q1066935",
-        "name": "battistero di San Giovanni"
-      },
-      {
-        "wikidata_id": "Q732511",
-        "name": "battistero di San Giovanni"
-      },
-      {
-        "wikidata_id": "Q191739",
-        "name": "Cattedrale di Santa Maria del Fiore"
-      },
-      {
-        "wikidata_id": "Q1236622",
-        "name": "duomo di Prato"
-      },
-      {
-        "wikidata_id": "Q578805",
-        "name": "Sagrestia Vecchia"
-      }
-    ],
+    "dates": [],
+    "coordinates": [],
+    "types": [],
     "images": [],
-    "duplicates": [
-      {
-        "wikidata_id": "Q110944216",
-        "name": "Rotonda del Brunelleschi"
-      },
-      {
-        "wikidata_id": "Q19947673",
-        "name": "Rotonda di Brunelleschi"
-      }
-    ]
+    "duplicates": []
   }
 }

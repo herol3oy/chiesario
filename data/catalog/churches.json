@@ -10,7 +10,9 @@
       "kind": "year",
       "start_year": 1731,
       "end_year": 1731,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.75532,
@@ -58,7 +60,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.8818,
@@ -89,11 +93,9 @@
       "id": 366209548,
       "url": "https://www.openstreetmap.org/way/366209548"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "type"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -108,7 +110,9 @@
       "kind": "year",
       "start_year": 1250,
       "end_year": 1250,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7769,
@@ -159,7 +163,9 @@
       "kind": "year",
       "start_year": 1421,
       "end_year": 1421,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.775,
@@ -210,7 +216,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.778316666667,
@@ -258,7 +266,9 @@
       "kind": "year",
       "start_year": 1018,
       "end_year": 1018,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.759444,
@@ -309,7 +319,9 @@
       "kind": "year",
       "start_year": 1294,
       "end_year": 1294,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76845,
@@ -360,7 +372,9 @@
       "kind": "year",
       "start_year": 1268,
       "end_year": 1268,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.767777777778,
@@ -411,7 +425,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.87941667,
@@ -454,7 +470,15 @@
     "name": "basilica di Santa Maria Novella",
     "type": "basilica",
     "region": "Tuscany",
-    "date": null,
+    "date": {
+      "display": "1278",
+      "kind": "year",
+      "start_year": 1278,
+      "end_year": 1278,
+      "source": "manual",
+      "source_name": "Florence As It Was",
+      "source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn"
+    },
     "coordinates": {
       "latitude": 43.7743,
       "longitude": 11.249367,
@@ -487,11 +511,9 @@
       "id": 449369047,
       "url": "https://www.openstreetmap.org/way/449369047"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "date"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -506,7 +528,9 @@
       "kind": "year",
       "start_year": 1250,
       "end_year": 1250,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.770153,
@@ -557,7 +581,9 @@
       "kind": "year",
       "start_year": 1252,
       "end_year": 1252,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76722222,
@@ -591,11 +617,9 @@
       "id": 24881563,
       "url": "https://www.openstreetmap.org/way/24881563"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "type"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -610,7 +634,9 @@
       "kind": "year",
       "start_year": 1317,
       "end_year": 1317,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31807,
@@ -646,9 +672,7 @@
     },
     "status": "out_of_scope",
     "review": {
-      "blocking": [
-        "type"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -663,7 +687,9 @@
       "kind": "year",
       "start_year": 1059,
       "end_year": 1059,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77305555555556,
@@ -699,9 +725,7 @@
     },
     "status": "out_of_scope",
     "review": {
-      "blocking": [
-        "type"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -716,7 +740,9 @@
       "kind": "year",
       "start_year": 1635,
       "end_year": 1635,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77255556,
@@ -760,7 +786,9 @@
       "kind": "year",
       "start_year": 1318,
       "end_year": 1318,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7681,
@@ -799,7 +827,15 @@
     "name": "cappella Brancacci",
     "type": "chapel",
     "region": "Tuscany",
-    "date": null,
+    "date": {
+      "display": "c. 1386",
+      "kind": "circa_year",
+      "start_year": 1386,
+      "end_year": 1386,
+      "source": "manual",
+      "source_name": "FeelFlorence",
+      "source_url": "https://www.feelflorence.it/it/punti-di-interesse/cappella-brancacci"
+    },
     "coordinates": {
       "latitude": 43.768448,
       "longitude": 11.24403,
@@ -834,9 +870,7 @@
     },
     "status": "out_of_scope",
     "review": {
-      "blocking": [
-        "date"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -846,7 +880,15 @@
     "name": "cappella Capponi",
     "type": "chapel",
     "region": "Tuscany",
-    "date": null,
+    "date": {
+      "display": "c. 1420",
+      "kind": "circa_year",
+      "start_year": 1420,
+      "end_year": 1420,
+      "source": "manual",
+      "source_name": "Catalogo Generale dei Beni Culturali",
+      "source_url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900156269-3"
+    },
     "coordinates": {
       "latitude": 43.76689722,
       "longitude": 11.25245833,
@@ -874,9 +916,7 @@
     "osm": null,
     "status": "out_of_scope",
     "review": {
-      "blocking": [
-        "date"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -891,7 +931,9 @@
       "kind": "decade",
       "start_year": 1340,
       "end_year": 1349,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.774882,
@@ -935,7 +977,9 @@
       "kind": "year",
       "start_year": 1352,
       "end_year": 1352,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31821111,
@@ -983,7 +1027,9 @@
       "kind": "year",
       "start_year": 1703,
       "end_year": 1703,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.53207222,
@@ -1031,7 +1077,9 @@
       "kind": "year",
       "start_year": 1628,
       "end_year": 1628,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3068293,
@@ -1079,7 +1127,9 @@
       "kind": "year",
       "start_year": 1605,
       "end_year": 1605,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 42.75875,
@@ -1110,7 +1160,9 @@
       "kind": "year",
       "start_year": 1752,
       "end_year": 1752,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.777901,
@@ -1140,7 +1192,15 @@
     "name": "cappella Pazzi",
     "type": "chapel",
     "region": "Tuscany",
-    "date": null,
+    "date": {
+      "display": "1443",
+      "kind": "year",
+      "start_year": 1443,
+      "end_year": 1443,
+      "source": "manual",
+      "source_name": "Opera di Santa Croce",
+      "source_url": "https://www.santacroceopera.it/en/places/cloisters/pazzi-chapel/"
+    },
     "coordinates": {
       "latitude": 43.76737527,
       "longitude": 11.26281958,
@@ -1172,9 +1232,7 @@
     },
     "status": "out_of_scope",
     "review": {
-      "blocking": [
-        "date"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -1189,7 +1247,9 @@
       "kind": "year",
       "start_year": 1318,
       "end_year": 1318,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.768055555556,
@@ -1233,7 +1293,9 @@
       "kind": "decade",
       "start_year": 1480,
       "end_year": 1489,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.770277777778,
@@ -1277,7 +1339,9 @@
       "kind": "decade",
       "start_year": 1340,
       "end_year": 1349,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.775127777778,
@@ -1311,7 +1375,9 @@
       "kind": "century",
       "start_year": 1301,
       "end_year": 1400,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77483333,
@@ -1355,7 +1421,9 @@
       "kind": "year",
       "start_year": 1296,
       "end_year": 1296,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77305555555556,
@@ -1389,11 +1457,9 @@
       "id": 43768260,
       "url": "https://www.openstreetmap.org/way/43768260"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "type"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -1408,7 +1474,9 @@
       "kind": "year",
       "start_year": 1701,
       "end_year": 1701,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.552405,
@@ -1456,7 +1524,9 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76924,
@@ -1504,7 +1574,9 @@
       "kind": "year",
       "start_year": 1623,
       "end_year": 1623,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7937,
@@ -1552,7 +1624,9 @@
       "kind": "year",
       "start_year": 1597,
       "end_year": 1597,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77245556,
@@ -1600,7 +1674,9 @@
       "kind": "year",
       "start_year": 1622,
       "end_year": 1622,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.312634,
@@ -1651,7 +1727,9 @@
       "kind": "year",
       "start_year": 1243,
       "end_year": 1243,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76972222,
@@ -1699,7 +1777,9 @@
       "kind": "year",
       "start_year": 1605,
       "end_year": 1605,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 44.07853,
@@ -1742,7 +1822,15 @@
     "name": "chiesa del Santo Sepolcro",
     "type": "church",
     "region": "Tuscany",
-    "date": null,
+    "date": {
+      "display": "c. 1113",
+      "kind": "circa_year",
+      "start_year": 1113,
+      "end_year": 1113,
+      "source": "manual",
+      "source_name": "Comune di Pisa - Turismo",
+      "source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro"
+    },
     "coordinates": {
       "latitude": 43.71446,
       "longitude": 10.40349,
@@ -1775,11 +1863,9 @@
       "id": 457948331,
       "url": "https://www.openstreetmap.org/way/457948331"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "date"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -1794,7 +1880,9 @@
       "kind": "year",
       "start_year": 1352,
       "end_year": 1352,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.315405,
@@ -1845,7 +1933,9 @@
       "kind": "year",
       "start_year": 1492,
       "end_year": 1492,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.324678,
@@ -1893,7 +1983,9 @@
       "kind": "year",
       "start_year": 1607,
       "end_year": 1607,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.552137,
@@ -1941,7 +2033,9 @@
       "kind": "year",
       "start_year": 1757,
       "end_year": 1757,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.716777777778,
@@ -1989,7 +2083,9 @@
       "kind": "year",
       "start_year": 1628,
       "end_year": 1628,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 44.03478,
@@ -2040,7 +2136,9 @@
       "kind": "year",
       "start_year": 1603,
       "end_year": 1603,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.78648,
@@ -2088,7 +2186,9 @@
       "kind": "year",
       "start_year": 1348,
       "end_year": 1348,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3267,
@@ -2132,7 +2232,9 @@
       "kind": "year",
       "start_year": 1257,
       "end_year": 1257,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3171,
@@ -2183,7 +2285,9 @@
       "kind": "year",
       "start_year": 1601,
       "end_year": 1601,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.551763,
@@ -2231,7 +2335,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.314304,
@@ -2275,7 +2381,9 @@
       "kind": "year",
       "start_year": 1686,
       "end_year": 1686,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.8135,
@@ -2323,7 +2431,9 @@
       "kind": "year",
       "start_year": 1340,
       "end_year": 1340,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.87803333,
@@ -2374,7 +2484,9 @@
       "kind": "year",
       "start_year": 1251,
       "end_year": 1251,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77251,
@@ -2425,7 +2537,9 @@
       "kind": "year",
       "start_year": 1337,
       "end_year": 1337,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77071,
@@ -2476,7 +2590,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77784,
@@ -2524,7 +2640,9 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77101944,
@@ -2555,7 +2673,9 @@
       "kind": "year",
       "start_year": 1316,
       "end_year": 1316,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.87928,
@@ -2603,12 +2723,14 @@
       "kind": "year",
       "start_year": 1454,
       "end_year": 1454,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
-      "latitude": 43.7669,
-      "longitude": 11.232,
-      "source": "wikidata"
+      "latitude": 43.7712902,
+      "longitude": 11.2309423,
+      "source": "manual"
     },
     "hero_image": {
       "filename": "San bartolomeo a monteoliveto, esterno, 05.jpg",
@@ -2634,11 +2756,9 @@
       "id": 305428855,
       "url": "https://www.openstreetmap.org/way/305428855"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "coordinates"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -2653,7 +2773,9 @@
       "kind": "year",
       "start_year": 1771,
       "end_year": 1771,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.772329,
@@ -2701,7 +2823,9 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3201,
@@ -2749,7 +2873,9 @@
       "kind": "year",
       "start_year": 1385,
       "end_year": 1385,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71111111,
@@ -2797,7 +2923,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.32189,
@@ -2845,7 +2973,9 @@
       "kind": "year",
       "start_year": 1068,
       "end_year": 1068,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.771866,
@@ -2876,7 +3006,9 @@
       "kind": "year",
       "start_year": 1187,
       "end_year": 1187,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.79052,
@@ -2927,7 +3059,9 @@
       "kind": "year",
       "start_year": 1082,
       "end_year": 1082,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.88409722,
@@ -2975,7 +3109,9 @@
       "kind": "century",
       "start_year": 801,
       "end_year": 900,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.73978,
@@ -3023,7 +3159,9 @@
       "kind": "year",
       "start_year": 1060,
       "end_year": 1060,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76517,
@@ -3071,7 +3209,9 @@
       "kind": "year",
       "start_year": 1707,
       "end_year": 1707,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.55421,
@@ -3119,7 +3259,9 @@
       "kind": "year",
       "start_year": 1623,
       "end_year": 1623,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 44.07535,
@@ -3167,7 +3309,9 @@
       "kind": "year",
       "start_year": 1430,
       "end_year": 1430,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.84541667,
@@ -3215,7 +3359,9 @@
       "kind": "century",
       "start_year": 1201,
       "end_year": 1300,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71875,
@@ -3266,7 +3412,9 @@
       "kind": "year",
       "start_year": 1331,
       "end_year": 1331,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.87923,
@@ -3317,7 +3465,9 @@
       "kind": "year",
       "start_year": 1589,
       "end_year": 1589,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76486,
@@ -3365,7 +3515,9 @@
       "kind": "year",
       "start_year": 1689,
       "end_year": 1689,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76999167,
@@ -3413,7 +3565,9 @@
       "kind": "year",
       "start_year": 1685,
       "end_year": 1685,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.317805,
@@ -3464,7 +3618,9 @@
       "kind": "year",
       "start_year": 1218,
       "end_year": 1218,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7838,
@@ -3508,7 +3664,9 @@
       "kind": "year",
       "start_year": 1081,
       "end_year": 1081,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31758,
@@ -3556,7 +3714,9 @@
       "kind": "year",
       "start_year": 1316,
       "end_year": 1316,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.72177,
@@ -3604,7 +3764,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7653,
@@ -3652,7 +3814,9 @@
       "kind": "year",
       "start_year": 1629,
       "end_year": 1629,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3168,
@@ -3703,7 +3867,9 @@
       "kind": "year",
       "start_year": 1624,
       "end_year": 1624,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.552016,
@@ -3751,7 +3917,9 @@
       "kind": "year",
       "start_year": 1362,
       "end_year": 1362,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.761031,
@@ -3799,7 +3967,9 @@
       "kind": "year",
       "start_year": 1639,
       "end_year": 1639,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 44.03524,
@@ -3847,7 +4017,9 @@
       "kind": "year",
       "start_year": 1337,
       "end_year": 1337,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.931722,
@@ -3891,7 +4063,9 @@
       "kind": "year",
       "start_year": 1614,
       "end_year": 1614,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.713277777778,
@@ -3939,7 +4113,9 @@
       "kind": "year",
       "start_year": 1692,
       "end_year": 1692,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.52184167,
@@ -3987,7 +4163,9 @@
       "kind": "year",
       "start_year": 1579,
       "end_year": 1579,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7748,
@@ -4035,7 +4213,9 @@
       "kind": "year",
       "start_year": 1326,
       "end_year": 1326,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.78009,
@@ -4083,7 +4263,9 @@
       "kind": "year",
       "start_year": 1611,
       "end_year": 1611,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.319,
@@ -4134,7 +4316,9 @@
       "kind": "year",
       "start_year": 1759,
       "end_year": 1759,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76806667,
@@ -4182,7 +4366,9 @@
       "kind": "year",
       "start_year": 1653,
       "end_year": 1653,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31527778,
@@ -4233,7 +4419,9 @@
       "kind": "year",
       "start_year": 1723,
       "end_year": 1723,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.43142,
@@ -4281,7 +4469,9 @@
       "kind": "year",
       "start_year": 1163,
       "end_year": 1163,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.52959,
@@ -4329,7 +4519,9 @@
       "kind": "year",
       "start_year": 1311,
       "end_year": 1311,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7764,
@@ -4377,7 +4569,9 @@
       "kind": "year",
       "start_year": 1660,
       "end_year": 1660,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76813,
@@ -4425,7 +4619,9 @@
       "kind": "year",
       "start_year": 1173,
       "end_year": 1173,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.315335,
@@ -4469,7 +4665,9 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.75972,
@@ -4517,7 +4715,9 @@
       "kind": "year",
       "start_year": 1202,
       "end_year": 1202,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.8234654288,
@@ -4565,7 +4765,9 @@
       "kind": "year",
       "start_year": 1119,
       "end_year": 1119,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7173,
@@ -4613,7 +4815,9 @@
       "kind": "year",
       "start_year": 1197,
       "end_year": 1197,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.752,
@@ -4661,7 +4865,9 @@
       "kind": "year",
       "start_year": 1058,
       "end_year": 1058,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.79144,
@@ -4709,7 +4915,9 @@
       "kind": "year",
       "start_year": 1000,
       "end_year": 1000,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.53291389,
@@ -4757,7 +4965,9 @@
       "kind": "year",
       "start_year": 1331,
       "end_year": 1331,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71275,
@@ -4805,7 +5015,9 @@
       "kind": "year",
       "start_year": 1451,
       "end_year": 1451,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.78317,
@@ -4856,7 +5068,9 @@
       "kind": "year",
       "start_year": 1222,
       "end_year": 1222,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.792769444444,
@@ -4904,7 +5118,9 @@
       "kind": "year",
       "start_year": 1316,
       "end_year": 1316,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7759,
@@ -4948,7 +5164,9 @@
       "kind": "year",
       "start_year": 1617,
       "end_year": 1617,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.82017,
@@ -4996,7 +5214,9 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77201,
@@ -5047,7 +5267,9 @@
       "kind": "year",
       "start_year": 1192,
       "end_year": 1192,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.72207,
@@ -5095,7 +5317,9 @@
       "kind": "year",
       "start_year": 1138,
       "end_year": 1138,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.74018,
@@ -5139,7 +5363,9 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71689444,
@@ -5190,7 +5416,9 @@
       "kind": "year",
       "start_year": 1346,
       "end_year": 1346,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7739,
@@ -5238,7 +5466,9 @@
       "kind": "year",
       "start_year": 1184,
       "end_year": 1184,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7646,
@@ -5286,7 +5516,9 @@
       "kind": "year",
       "start_year": 1094,
       "end_year": 1094,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7727,
@@ -5334,7 +5566,9 @@
       "kind": "century",
       "start_year": 901,
       "end_year": 1000,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71291667,
@@ -5382,7 +5616,9 @@
       "kind": "century",
       "start_year": 1101,
       "end_year": 1200,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71756,
@@ -5430,7 +5666,9 @@
       "kind": "year",
       "start_year": 1390,
       "end_year": 1390,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76317,
@@ -5478,7 +5716,9 @@
       "kind": "year",
       "start_year": 1068,
       "end_year": 1068,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7689,
@@ -5522,7 +5762,9 @@
       "kind": "year",
       "start_year": 1050,
       "end_year": 1050,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77227,
@@ -5570,7 +5812,9 @@
       "kind": "year",
       "start_year": 1107,
       "end_year": 1107,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76681,
@@ -5618,7 +5862,9 @@
       "kind": "year",
       "start_year": 1072,
       "end_year": 1072,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71632,
@@ -5666,7 +5912,9 @@
       "kind": "century",
       "start_year": 1201,
       "end_year": 1300,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77079444,
@@ -5717,7 +5965,9 @@
       "kind": "year",
       "start_year": 1601,
       "end_year": 1601,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31666667,
@@ -5763,7 +6013,15 @@
     "name": "chiesa di San Remigio",
     "type": "church",
     "region": "Tuscany",
-    "date": null,
+    "date": {
+      "display": "11th century",
+      "kind": "century",
+      "start_year": 1001,
+      "end_year": 1100,
+      "source": "manual",
+      "source_name": "Florence As It Was",
+      "source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation"
+    },
     "coordinates": {
       "latitude": 43.76838,
       "longitude": 11.2584,
@@ -5793,11 +6051,9 @@
       "id": 238431529,
       "url": "https://www.openstreetmap.org/way/238431529"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "date"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -5812,7 +6068,9 @@
       "kind": "year",
       "start_year": 1634,
       "end_year": 1634,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71954,
@@ -5860,7 +6118,9 @@
       "kind": "year",
       "start_year": 1498,
       "end_year": 1498,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76158056,
@@ -5908,7 +6168,9 @@
       "kind": "year",
       "start_year": 1221,
       "end_year": 1221,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77303782903239,
@@ -5956,7 +6218,9 @@
       "kind": "year",
       "start_year": 1633,
       "end_year": 1633,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.549147,
@@ -6007,7 +6271,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.317403,
@@ -6055,7 +6321,9 @@
       "kind": "year",
       "start_year": 1118,
       "end_year": 1118,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71438,
@@ -6103,7 +6371,9 @@
       "kind": "year",
       "start_year": 1133,
       "end_year": 1133,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71952,
@@ -6151,7 +6421,9 @@
       "kind": "year",
       "start_year": 1258,
       "end_year": 1258,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31444444,
@@ -6202,7 +6474,9 @@
       "kind": "century",
       "start_year": 701,
       "end_year": 800,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77152,
@@ -6250,7 +6524,9 @@
       "kind": "year",
       "start_year": 1587,
       "end_year": 1587,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 42.66722778,
@@ -6285,7 +6561,9 @@
       "kind": "year",
       "start_year": 1341,
       "end_year": 1341,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71099,
@@ -6333,7 +6611,9 @@
       "kind": "year",
       "start_year": 1741,
       "end_year": 1741,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 44.10376,
@@ -6377,7 +6657,9 @@
       "kind": "year",
       "start_year": 1782,
       "end_year": 1782,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71687,
@@ -6425,7 +6707,9 @@
       "kind": "year",
       "start_year": 1724,
       "end_year": 1724,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.767464,
@@ -6456,7 +6740,9 @@
       "kind": "year",
       "start_year": 1777,
       "end_year": 1777,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.719972222222,
@@ -6504,7 +6790,9 @@
       "kind": "year",
       "start_year": 1390,
       "end_year": 1390,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.752863,
@@ -6539,7 +6827,9 @@
       "kind": "year",
       "start_year": 1753,
       "end_year": 1753,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.5549,
@@ -6590,7 +6880,9 @@
       "kind": "year",
       "start_year": 1250,
       "end_year": 1250,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.72113,
@@ -6638,7 +6930,9 @@
       "kind": "year",
       "start_year": 1637,
       "end_year": 1637,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76966944,
@@ -6669,7 +6963,9 @@
       "kind": "year",
       "start_year": 1277,
       "end_year": 1277,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.72176,
@@ -6717,7 +7013,9 @@
       "kind": "year",
       "start_year": 1118,
       "end_year": 1118,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.715722222222,
@@ -6765,7 +7063,9 @@
       "kind": "year",
       "start_year": 1124,
       "end_year": 1124,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71972,
@@ -6813,7 +7113,9 @@
       "kind": "decade",
       "start_year": 1050,
       "end_year": 1059,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.766833333333,
@@ -6864,7 +7166,9 @@
       "kind": "year",
       "start_year": 1602,
       "end_year": 1602,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.550103,
@@ -6907,7 +7211,15 @@
     "name": "chiesa di Santa Lucia dei Magnoli",
     "type": "church",
     "region": "Tuscany",
-    "date": null,
+    "date": {
+      "display": "1078",
+      "kind": "year",
+      "start_year": 1078,
+      "end_year": 1078,
+      "source": "manual",
+      "source_name": "Firenze Oltrarno",
+      "source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php"
+    },
     "coordinates": {
       "latitude": 43.76549,
       "longitude": 11.25679,
@@ -6937,11 +7249,9 @@
       "id": 306694385,
       "url": "https://www.openstreetmap.org/way/306694385"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "date"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -6956,7 +7266,9 @@
       "kind": "year",
       "start_year": 1508,
       "end_year": 1508,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77157,
@@ -7004,7 +7316,9 @@
       "kind": "year",
       "start_year": 1647,
       "end_year": 1647,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7960690459,
@@ -7052,7 +7366,9 @@
       "kind": "year",
       "start_year": 1797,
       "end_year": 1797,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.81875,
@@ -7100,7 +7416,9 @@
       "kind": "year",
       "start_year": 1786,
       "end_year": 1786,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.772972,
@@ -7148,7 +7466,9 @@
       "kind": "year",
       "start_year": 1509,
       "end_year": 1509,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7755,
@@ -7196,7 +7516,9 @@
       "kind": "year",
       "start_year": 1181,
       "end_year": 1181,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7668,
@@ -7240,7 +7562,9 @@
       "kind": "year",
       "start_year": 1328,
       "end_year": 1328,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71292,
@@ -7288,7 +7612,9 @@
       "kind": "year",
       "start_year": 1348,
       "end_year": 1348,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.797937,
@@ -7336,7 +7662,9 @@
       "kind": "year",
       "start_year": 1334,
       "end_year": 1334,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.75425556,
@@ -7380,7 +7708,9 @@
       "kind": "year",
       "start_year": 1366,
       "end_year": 1366,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7667,
@@ -7417,37 +7747,30 @@
     "id": "Q3673876",
     "slug": "chiesa-di-santa-maria-della-pace-q3673876",
     "name": "chiesa di Santa Maria della Pace",
-    "type": "church",
+    "type": "former_church",
     "region": "Tuscany",
     "date": {
       "display": "1530",
       "kind": "year",
       "start_year": 1530,
       "end_year": 1530,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
-    "coordinates": null,
-    "hero_image": {
-      "filename": "Zocchi, ville 04 la pace.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zocchi%2C_ville_04_la_pace.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Zocchi%2C_ville_04_la_pace.jpg/1920px-Zocchi%2C_ville_04_la_pace.jpg",
-      "description_url": "https://commons.wikimedia.org/wiki/File:Zocchi,_ville_04_la_pace.jpg",
-      "license": {
-        "name": "Public domain",
-        "url": null,
-        "usage_terms": "Public domain",
-        "attribution_required": "false"
-      },
-      "artist": "Giuseppe Zocchi",
-      "source": "wikimedia_commons"
+    "coordinates": {
+      "latitude": 43.76077,
+      "longitude": 11.24804,
+      "source": "manual"
     },
+    "hero_image": null,
     "website": null,
     "wikidata": {
       "id": "Q3673876",
       "url": "https://www.wikidata.org/wiki/Q3673876"
     },
     "osm": null,
-    "status": "review",
+    "status": "ready",
     "review": {
       "blocking": [],
       "image_review_required": false
@@ -7464,7 +7787,9 @@
       "kind": "century",
       "start_year": 1201,
       "end_year": 1300,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71524,
@@ -7512,7 +7837,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3215,
@@ -7563,7 +7890,9 @@
       "kind": "year",
       "start_year": 1611,
       "end_year": 1611,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.32098,
@@ -7614,7 +7943,9 @@
       "kind": "year",
       "start_year": 1706,
       "end_year": 1706,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.75063705,
@@ -7662,7 +7993,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3257,
@@ -7713,7 +8046,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77423,
@@ -7761,7 +8096,9 @@
       "kind": "year",
       "start_year": 1760,
       "end_year": 1760,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71572,
@@ -7809,7 +8146,9 @@
       "kind": "year",
       "start_year": 1622,
       "end_year": 1622,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3295,
@@ -7857,7 +8196,9 @@
       "kind": "century",
       "start_year": 401,
       "end_year": 500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.773464,
@@ -7905,7 +8246,9 @@
       "kind": "year",
       "start_year": 1498,
       "end_year": 1498,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31792,
@@ -7953,7 +8296,9 @@
       "kind": "year",
       "start_year": 1671,
       "end_year": 1671,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.324344,
@@ -8001,7 +8346,9 @@
       "kind": "year",
       "start_year": 1565,
       "end_year": 1565,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.719325,
@@ -8049,7 +8396,9 @@
       "kind": "year",
       "start_year": 1085,
       "end_year": 1085,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.72383,
@@ -8097,7 +8446,9 @@
       "kind": "year",
       "start_year": 1539,
       "end_year": 1539,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.313715,
@@ -8145,7 +8496,9 @@
       "kind": "year",
       "start_year": 1297,
       "end_year": 1297,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3131,
@@ -8189,7 +8542,9 @@
       "kind": "year",
       "start_year": 1683,
       "end_year": 1683,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3253,
@@ -8233,7 +8588,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71161,
@@ -8277,7 +8634,9 @@
       "kind": "year",
       "start_year": 1328,
       "end_year": 1328,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3124,
@@ -8325,7 +8684,9 @@
       "kind": "year",
       "start_year": 1484,
       "end_year": 1484,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.71961,
@@ -8369,7 +8730,9 @@
       "kind": "year",
       "start_year": 1367,
       "end_year": 1367,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.7187,
@@ -8420,7 +8783,9 @@
       "kind": "century",
       "start_year": 901,
       "end_year": 1000,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.88194444,
@@ -8454,11 +8819,9 @@
       "id": 931696761,
       "url": "https://www.openstreetmap.org/way/931696761"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "type"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -8473,7 +8836,9 @@
       "kind": "year",
       "start_year": 1542,
       "end_year": 1542,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.76905,
@@ -8521,7 +8886,9 @@
       "kind": "year",
       "start_year": 1345,
       "end_year": 1345,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.78236,
@@ -8569,7 +8936,9 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77085278,
@@ -8617,7 +8986,9 @@
       "kind": "year",
       "start_year": 1602,
       "end_year": 1602,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77326667,
@@ -8665,7 +9036,9 @@
       "kind": "year",
       "start_year": 1696,
       "end_year": 1696,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.550005,
@@ -8700,7 +9073,9 @@
       "kind": "year",
       "start_year": 1511,
       "end_year": 1511,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.32305861,
@@ -8748,7 +9123,9 @@
       "kind": "year",
       "start_year": 1568,
       "end_year": 1568,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.773025,
@@ -8796,7 +9173,9 @@
       "kind": "year",
       "start_year": 1685,
       "end_year": 1685,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31476,
@@ -8847,7 +9226,9 @@
       "kind": "year",
       "start_year": 1465,
       "end_year": 1465,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.3197,
@@ -8894,7 +9275,9 @@
       "kind": "year",
       "start_year": 1434,
       "end_year": 1434,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": null,
     "hero_image": null,
@@ -8904,11 +9287,9 @@
       "url": "https://www.wikidata.org/wiki/Q110944216"
     },
     "osm": null,
-    "status": "review",
+    "status": "duplicate",
     "review": {
-      "blocking": [
-        "duplicate"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -8923,7 +9304,9 @@
       "kind": "year",
       "start_year": 1434,
       "end_year": 1434,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77531083,
@@ -8954,11 +9337,9 @@
       "id": 113484938,
       "url": "https://www.openstreetmap.org/way/113484938"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "duplicate"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -8973,7 +9354,9 @@
       "kind": "year",
       "start_year": 1419,
       "end_year": 1419,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77471389,
@@ -8993,9 +9376,7 @@
     },
     "status": "out_of_scope",
     "review": {
-      "blocking": [
-        "type"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -9010,12 +9391,14 @@
       "kind": "year",
       "start_year": 1680,
       "end_year": 1680,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
-      "latitude": 43.88,
-      "longitude": 11.098333333333,
-      "source": "wikidata"
+      "latitude": 43.8781684,
+      "longitude": 11.1017117,
+      "source": "manual"
     },
     "hero_image": {
       "filename": "Madonna del Giglio sanctuary 3.jpg",
@@ -9041,11 +9424,9 @@
       "id": 700922377,
       "url": "https://www.openstreetmap.org/way/700922377"
     },
-    "status": "review",
+    "status": "ready",
     "review": {
-      "blocking": [
-        "coordinates"
-      ],
+      "blocking": [],
       "image_review_required": false
     }
   },
@@ -9060,7 +9441,9 @@
       "kind": "year",
       "start_year": 1700,
       "end_year": 1700,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.31986,
@@ -9108,7 +9491,9 @@
       "kind": "year",
       "start_year": 1457,
       "end_year": 1457,
-      "source": "wikidata"
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
     },
     "coordinates": {
       "latitude": 43.77196,

@@ -171,6 +171,16 @@ def build_date(church):
                 "source",
                 "wikidata",
             ),
+
+        "source_name":
+            canonical.get(
+                "source_name"
+            ),
+
+        "source_url":
+            canonical.get(
+                "source_url"
+            ),
     }
 
 
