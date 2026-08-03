@@ -910,3 +910,120 @@ The project aims to build a provenance-aware, machine-maintainable dataset that 
 * map position
 
 while keeping enough source information to explain where each published fact came from.
+
+## Correcting Data
+
+### Never edit generated files directly
+
+Files under directories such as:
+
+```text
+data/processed/
+data/catalog/
+web/public/data/
+```
+
+are generated artifacts.
+
+For example:
+
+```text
+data/catalog/churches.geojson
+```
+
+is produced from upstream source data and pipeline scripts.
+
+If something looks wrong on the website, **do not edit the GeoJSON, catalog JSON, or other generated output directly**.
+
+Any direct edit will be lost the next time the pipeline runs.
+
+### Correct workflow
+
+When visual inspection reveals a problem:
+
+```text
+Website / map
+      ↓
+find incorrect record
+      ↓
+identify its Wikidata QID
+      ↓
+determine whether the problem is:
+  - source-data problem
+  - resolver problem
+  - automatic-selection problem
+  - genuine human editorial decision
+      ↓
+record human decisions in:
+data/reviews/overrides.json
+      ↓
+regenerate downstream files
+```
+
+For example, if a church has a valid Wikimedia Commons image but the automatic hero-image selector did not choose it, add a manual override:
+
+```json
+{
+  "records": {
+    "Q123456": {
+      "hero_image_filename": "Example church.jpg",
+      "note": "Image visually verified as a suitable photograph of the church."
+    }
+  }
+}
+```
+
+Then rebuild the downstream dataset:
+
+```bash
+uv run apply_overrides.py
+uv run build_catalog.py
+uv run build_geojson.py
+```
+
+If the frontend uses a copied GeoJSON file, update that file as well:
+
+```bash
+cp data/catalog/churches.geojson \
+   web/public/data/churches.geojson
+```
+
+### Source of truth
+
+Human/editorial corrections belong in:
+
+```text
+data/reviews/overrides.json
+```
+
+Algorithmic corrections belong in the relevant pipeline script.
+
+For example:
+
+```text
+wrong date-resolution logic
+→ fix resolve_dates.py
+
+bad automatic image scoring
+→ fix select_images.py
+
+one manually verified hero image
+→ overrides.json
+
+one verified duplicate relationship
+→ overrides.json
+```
+
+This keeps the entire project reproducible:
+
+```text
+raw data
+   +
+pipeline code
+   +
+manual overrides
+   ↓
+same generated catalog
+```
+
+Generated files should therefore be treated as **build artifacts, not source files**.

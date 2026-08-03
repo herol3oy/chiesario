@@ -215,7 +215,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -330,7 +331,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3635657",
@@ -525,7 +527,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -652,7 +655,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q2287001",
@@ -849,7 +853,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -967,7 +972,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q573881",
@@ -1288,7 +1294,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -1428,7 +1435,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1152774",
@@ -1609,7 +1617,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -1745,7 +1754,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q844337",
@@ -1915,7 +1925,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -2040,7 +2051,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q51177",
@@ -2258,7 +2270,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -2400,7 +2413,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1042634",
@@ -2666,7 +2680,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -2786,7 +2801,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1714149",
@@ -2974,7 +2990,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -3098,7 +3115,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q51175",
@@ -3414,7 +3432,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -3570,7 +3589,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1062114",
@@ -3784,7 +3804,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -3902,7 +3923,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1519975",
@@ -4120,7 +4142,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -4247,7 +4270,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1066935",
@@ -4456,7 +4480,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -4587,7 +4612,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q732511",
@@ -4853,7 +4879,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -4987,7 +5014,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3657316",
@@ -5196,7 +5224,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -5266,7 +5295,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q962065",
@@ -5468,7 +5498,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -5542,7 +5573,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1996075",
@@ -5949,7 +5981,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -6078,7 +6111,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3657333",
@@ -6278,7 +6312,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -6353,7 +6388,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q16268127",
@@ -6592,7 +6628,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -6662,7 +6699,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q377517",
@@ -6866,7 +6904,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -6981,7 +7020,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3657606",
@@ -7198,7 +7238,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -7310,7 +7351,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q124005573",
@@ -7509,7 +7551,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -7614,7 +7657,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3657663",
@@ -7734,7 +7778,9 @@
       "commons_licensed_image_count": 0,
       "image_relevance_review_required": false,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -7785,8 +7831,21 @@
     },
     "image_selection": {
       "hero_image": null,
-      "review_required": true,
-      "reason": "no_images"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; no suitable Wikidata/Commons image is available."
+      ]
     }
   },
   {
@@ -7905,7 +7964,9 @@
       "commons_licensed_image_count": 0,
       "image_relevance_review_required": false,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -8001,8 +8062,21 @@
     },
     "image_selection": {
       "hero_image": null,
-      "review_required": true,
-      "reason": "no_images"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; no suitable Wikidata/Commons image is available."
+      ]
     }
   },
   {
@@ -8208,7 +8282,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -8330,7 +8405,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1133664",
@@ -8544,7 +8620,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -8614,7 +8691,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q526637",
@@ -8863,7 +8941,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -8937,7 +9016,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q2593098",
@@ -9217,7 +9297,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -9291,8 +9373,21 @@
           }
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; only an interior image is available."
+      ]
     }
   },
   {
@@ -9744,7 +9839,8 @@
       "commons_licensed_image_count": 3,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -9818,7 +9914,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q191739",
@@ -10028,7 +10125,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -10174,7 +10272,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3667914",
@@ -10419,7 +10518,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -10538,7 +10638,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q2223430",
@@ -10729,7 +10830,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -10845,7 +10947,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3668157",
@@ -11064,7 +11167,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -11178,7 +11282,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q764060",
@@ -11401,7 +11506,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -11516,7 +11622,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3668382",
@@ -11735,7 +11842,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -11858,7 +11966,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1285138",
@@ -12068,7 +12177,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -12187,7 +12297,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3668503",
@@ -12403,7 +12514,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -12517,7 +12629,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q428178",
@@ -12775,7 +12888,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -12892,7 +13006,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3668695",
@@ -13106,7 +13221,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -13247,7 +13363,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q16539889",
@@ -13465,7 +13582,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -13590,7 +13708,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3668903",
@@ -13808,7 +13927,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -13923,7 +14043,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3668916",
@@ -14145,7 +14266,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -14265,7 +14387,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3668990",
@@ -14486,7 +14609,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -14603,7 +14727,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1121100",
@@ -14816,7 +14941,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -14931,7 +15057,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669071",
@@ -15138,7 +15265,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -15208,7 +15336,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669184",
@@ -15414,7 +15543,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -15537,7 +15667,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669167",
@@ -15762,7 +15893,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -15879,7 +16011,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669259",
@@ -16072,7 +16205,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -16146,7 +16280,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669276",
@@ -16368,7 +16503,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -16482,7 +16618,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669286",
@@ -16664,7 +16801,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -16775,7 +16913,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q2778991",
@@ -16988,7 +17127,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -17111,7 +17251,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q860816",
@@ -17325,7 +17466,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -17451,7 +17593,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1117930",
@@ -17635,7 +17778,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -17750,7 +17894,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669504",
@@ -17930,7 +18075,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -17999,8 +18146,21 @@
           }
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; no suitable hero image among available media."
+      ]
     }
   },
   {
@@ -18204,7 +18364,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -18328,7 +18489,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669552",
@@ -18537,7 +18699,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -18649,7 +18812,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669596",
@@ -18868,7 +19032,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -18986,7 +19151,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669825",
@@ -19166,7 +19332,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -19293,7 +19460,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1121868",
@@ -19512,7 +19680,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -19627,7 +19796,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669925",
@@ -19813,7 +19983,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -19935,7 +20106,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669937",
@@ -20146,7 +20318,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -20221,8 +20395,21 @@
           }
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; available image is a painting."
+      ]
     }
   },
   {
@@ -20434,7 +20621,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -20549,7 +20737,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669946",
@@ -20731,7 +20920,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -20844,7 +21034,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669959",
@@ -21027,7 +21218,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -21142,7 +21334,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3585333",
@@ -21354,7 +21547,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -21472,7 +21666,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3669962",
@@ -21690,7 +21885,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -21805,7 +22001,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670031",
@@ -22025,7 +22222,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -22147,7 +22345,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q93679",
@@ -22367,7 +22566,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -22483,7 +22683,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670083",
@@ -22667,7 +22868,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -22783,7 +22985,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670086",
@@ -23023,7 +23226,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -23140,7 +23344,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670163",
@@ -23355,7 +23560,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -23469,7 +23675,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1071192",
@@ -23690,7 +23897,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -23804,7 +24012,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3581520",
@@ -24028,7 +24237,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -24149,7 +24359,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670196",
@@ -24448,7 +24659,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -24518,7 +24730,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1102245",
@@ -24738,7 +24951,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -24860,7 +25074,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q783096",
@@ -25070,7 +25285,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -25185,7 +25401,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3585340",
@@ -25368,7 +25585,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -25484,7 +25702,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670458",
@@ -25705,7 +25924,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -25827,7 +26047,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1109516",
@@ -26047,7 +26268,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -26163,7 +26385,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3001779",
@@ -26353,7 +26576,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -26468,7 +26692,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670507",
@@ -26690,7 +26915,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -26805,7 +27031,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q111191245",
@@ -27009,7 +27236,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -27079,7 +27307,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670542",
@@ -27296,7 +27525,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -27410,7 +27640,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670530",
@@ -27630,7 +27861,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -27744,7 +27976,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670564",
@@ -28054,7 +28287,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -28168,7 +28402,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670567",
@@ -28391,7 +28626,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -28506,7 +28742,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670565",
@@ -28731,7 +28968,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -28852,7 +29090,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670618",
@@ -29070,7 +29309,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -29183,7 +29423,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670652",
@@ -29392,8 +29633,10 @@
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
-      "has_hero_image": false,
-      "image_review_required": true
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -29499,7 +29742,24 @@
       "reason": "unambiguous"
     },
     "image_selection": {
-      "hero_image": null,
+      "hero_image": {
+        "filename": "Chiesa di san giuseppe siena.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_san_giuseppe_siena.jpg",
+        "license": {
+          "name": "Copyrighted free use",
+          "url": null,
+          "usage_terms": "Copyrighted free use",
+          "attribution_required": "false",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": null,
+          "text": null
+        },
+        "source": "manual"
+      },
       "best_candidate": {
         "filename": "Chiesa di san giuseppe siena.jpg",
         "score": 13,
@@ -29520,8 +29780,38 @@
           "license_requires_review"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_override"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Chiesa di san giuseppe siena.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_san_giuseppe_siena.jpg",
+            "license": {
+              "name": "Copyrighted free use",
+              "url": null,
+              "usage_terms": "Copyrighted free use",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": null,
+              "text": null
+            },
+            "source": "manual"
+          }
+        }
+      ],
+      "notes": [
+        "Visually verified as a suitable building photograph."
+      ]
     }
   },
   {
@@ -29736,7 +30026,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -29843,10 +30135,57 @@
           "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
           "text": "Sailko"
         },
-        "score": 7
+        "source": "manual"
       },
       "review_required": false,
-      "reason": "high_confidence"
+      "reason": "manual_override"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": {
+            "filename": "Gorgona, san gorgonio 01.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Gorgona%2C_san_gorgonio_01.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gorgona%2C_san_gorgonio_01.jpg/1920px-Gorgona%2C_san_gorgonio_01.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Gorgona,_san_gorgonio_01.jpg",
+            "license": {
+              "name": "CC BY 3.0",
+              "url": "https://creativecommons.org/licenses/by/3.0",
+              "usage_terms": "Creative Commons Attribution 3.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+              "text": "Sailko"
+            },
+            "score": 7
+          },
+          "new_value": {
+            "filename": "Gorgona, san gorgonio 01.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Gorgona%2C_san_gorgonio_01.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gorgona%2C_san_gorgonio_01.jpg/1920px-Gorgona%2C_san_gorgonio_01.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Gorgona,_san_gorgonio_01.jpg",
+            "license": {
+              "name": "CC BY 3.0",
+              "url": "https://creativecommons.org/licenses/by/3.0",
+              "usage_terms": "Creative Commons Attribution 3.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+              "text": "Sailko"
+            },
+            "source": "manual"
+          }
+        }
+      ],
+      "notes": [
+        "Visually verified as a suitable photograph for Chiesa di San Gorgonio."
+      ]
     }
   },
   {
@@ -30056,7 +30395,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -30174,7 +30514,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670749",
@@ -30358,7 +30699,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -30469,7 +30811,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670741",
@@ -30691,7 +31034,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -30810,7 +31154,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q16540253",
@@ -31204,7 +31549,8 @@
       "commons_licensed_image_count": 3,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -31274,7 +31620,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670791",
@@ -31436,7 +31783,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -31550,7 +31898,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670924",
@@ -31752,7 +32101,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -31865,7 +32215,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670973",
@@ -32084,7 +32435,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -32199,7 +32551,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3670984",
@@ -32406,7 +32759,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -32519,7 +32873,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671004",
@@ -32728,7 +33083,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -32844,7 +33200,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671047",
@@ -33050,7 +33407,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -33164,7 +33522,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671060",
@@ -33371,7 +33730,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -33489,7 +33849,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671101",
@@ -33698,7 +34059,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -33813,7 +34175,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671105",
@@ -34015,7 +34378,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -34129,7 +34493,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671141",
@@ -34309,7 +34674,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -34379,7 +34745,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671341",
@@ -34601,7 +34968,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -34715,7 +35083,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q692591",
@@ -34901,7 +35270,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -35015,7 +35385,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671305",
@@ -35239,7 +35610,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -35354,7 +35726,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q55156351",
@@ -35654,7 +36027,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -35724,7 +36098,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3506865",
@@ -35912,7 +36287,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -36029,7 +36405,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671342",
@@ -36239,7 +36616,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -36353,7 +36731,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671413",
@@ -36711,7 +37090,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -36826,7 +37206,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671531",
@@ -37035,7 +37416,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -37149,7 +37531,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1423910",
@@ -37331,7 +37714,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -37447,7 +37831,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3506968",
@@ -37629,7 +38014,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -37744,7 +38130,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671588",
@@ -37946,7 +38333,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -38061,7 +38449,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671596",
@@ -38351,7 +38740,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -38421,7 +38811,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671748",
@@ -38735,7 +39126,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -38850,7 +39242,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671752",
@@ -39152,7 +39545,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -39266,7 +39660,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3504517",
@@ -39476,7 +39871,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -39593,7 +39989,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671828",
@@ -39833,7 +40230,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -39949,7 +40347,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671846",
@@ -40168,7 +40567,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -40290,7 +40690,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671856",
@@ -40586,7 +40987,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -40704,7 +41106,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1102884",
@@ -40918,7 +41321,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -41031,7 +41435,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q2220029",
@@ -41240,7 +41645,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -41354,7 +41760,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3671987",
@@ -41560,7 +41967,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -41672,7 +42080,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3672017",
@@ -41892,7 +42301,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -42006,7 +42416,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3672030",
@@ -42190,7 +42601,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -42311,7 +42723,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3504833",
@@ -42520,7 +42933,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -42639,7 +43053,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3505132",
@@ -42860,7 +43275,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -42975,7 +43391,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1102250",
@@ -43182,7 +43599,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -43308,7 +43726,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3672358",
@@ -43495,7 +43914,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -43615,7 +44035,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3672660",
@@ -43840,7 +44261,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -43961,8 +44384,21 @@
           "landscape_or_square"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; no suitable hero image among available media."
+      ]
     }
   },
   {
@@ -44146,7 +44582,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -44262,7 +44699,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q19843876",
@@ -44497,8 +44935,10 @@
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
-      "has_hero_image": false,
-      "image_review_required": true
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -44548,7 +44988,24 @@
       "reason": "unambiguous"
     },
     "image_selection": {
-      "hero_image": null,
+      "hero_image": {
+        "filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG/1920px-Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:AndreaPoggianti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:AndreaPoggianti (page does not exist)\">AndreaPoggianti</a>",
+          "text": "AndreaPoggianti"
+        },
+        "source": "manual"
+      },
       "best_candidate": {
         "filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
         "score": 13,
@@ -44583,8 +45040,38 @@
           "landscape_or_square"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_override"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG/1920px-Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+            "license": {
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0",
+              "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:AndreaPoggianti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:AndreaPoggianti (page does not exist)\">AndreaPoggianti</a>",
+              "text": "AndreaPoggianti"
+            },
+            "source": "manual"
+          }
+        }
+      ],
+      "notes": [
+        "Visually verified as a suitable building photograph."
+      ]
     }
   },
   {
@@ -44806,7 +45293,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -44921,7 +45409,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3672859",
@@ -45138,7 +45627,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -45208,8 +45699,21 @@
           "landscape_or_square"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; no suitable hero image among available media."
+      ]
     }
   },
   {
@@ -45426,7 +45930,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -45540,7 +46045,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3672897",
@@ -45748,7 +46254,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -45856,8 +46364,21 @@
           "license_requires_review"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; only an interior image is available."
+      ]
     }
   },
   {
@@ -46080,7 +46601,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -46200,7 +46722,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3505115",
@@ -46408,7 +46931,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -46523,7 +47047,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3672942",
@@ -46744,7 +47269,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -46820,8 +47347,21 @@
           "landscape_or_square"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; available image is a painting."
+      ]
     }
   },
   {
@@ -47002,7 +47542,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -47122,7 +47663,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q585547",
@@ -47331,7 +47873,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -47448,7 +47991,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673046",
@@ -47669,7 +48213,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -47780,7 +48325,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1069665",
@@ -47959,7 +48505,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -48075,7 +48622,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673065",
@@ -48296,7 +48844,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -48411,7 +48960,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673138",
@@ -48608,7 +49158,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -48724,7 +49275,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673187",
@@ -48930,7 +49482,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -49044,7 +49597,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673580",
@@ -49264,7 +49818,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -49377,7 +49932,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673595",
@@ -49591,7 +50147,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -49705,7 +50262,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673629",
@@ -49925,7 +50483,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -50042,7 +50601,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673664",
@@ -50251,7 +50811,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -50365,7 +50926,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673667",
@@ -50566,7 +51128,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -50636,7 +51199,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673712",
@@ -50821,7 +51385,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -50935,7 +51500,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673734",
@@ -51138,7 +51704,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -51254,7 +51821,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673774",
@@ -51456,7 +52024,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -51530,7 +52099,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673838",
@@ -51739,7 +52309,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -51809,7 +52380,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3673876",
@@ -51997,7 +52569,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -52057,7 +52630,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1426967",
@@ -52240,7 +52814,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -52368,7 +52943,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674012",
@@ -52558,8 +53134,10 @@
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
-      "has_hero_image": false,
-      "image_review_required": true
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -52672,7 +53250,24 @@
       "reason": "unambiguous"
     },
     "image_selection": {
-      "hero_image": null,
+      "hero_image": {
+        "filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+        "license": {
+          "name": "Copyrighted free use",
+          "url": null,
+          "usage_terms": "Copyrighted free use",
+          "attribution_required": "false",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "sconosciuto",
+          "text": "sconosciuto"
+        },
+        "source": "manual"
+      },
       "best_candidate": {
         "filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
         "score": 10,
@@ -52693,8 +53288,38 @@
           "license_requires_review"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_override"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+            "license": {
+              "name": "Copyrighted free use",
+              "url": null,
+              "usage_terms": "Copyrighted free use",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "sconosciuto",
+              "text": "sconosciuto"
+            },
+            "source": "manual"
+          }
+        }
+      ],
+      "notes": [
+        "Visually verified as a suitable building photograph."
+      ]
     }
   },
   {
@@ -52920,7 +53545,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -53044,7 +53670,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674092",
@@ -53359,7 +53986,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -53472,7 +54100,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674136",
@@ -53765,7 +54394,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -53890,7 +54520,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1784984",
@@ -54077,7 +54708,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -54191,7 +54823,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674172",
@@ -54409,7 +55042,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -54523,7 +55157,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674189",
@@ -54844,7 +55479,8 @@
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -54966,7 +55602,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q684119",
@@ -55240,7 +55877,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -55365,7 +56003,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1049041",
@@ -55586,7 +56225,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -55712,7 +56352,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674335",
@@ -55939,7 +56580,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -56061,7 +56703,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674338",
@@ -56287,8 +56930,10 @@
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
-      "has_hero_image": false,
-      "image_review_required": true
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -56383,7 +57028,24 @@
       "reason": "unambiguous"
     },
     "image_selection": {
-      "hero_image": null,
+      "hero_image": {
+        "filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg/1920px-Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Church_of_Santo_Stefano_dei_Cavalieri,_Pisa_(53110828760).jpg",
+        "license": {
+          "name": "CC BY 2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0",
+          "usage_terms": "Creative Commons Attribution 2.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21186555@N07\">. Ray in Manila</a>",
+          "text": ". Ray in Manila"
+        },
+        "source": "manual"
+      },
       "best_candidate": {
         "filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
         "score": -6,
@@ -56420,8 +57082,38 @@
           "landscape_or_square"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_override"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg/1920px-Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Church_of_Santo_Stefano_dei_Cavalieri,_Pisa_(53110828760).jpg",
+            "license": {
+              "name": "CC BY 2.0",
+              "url": "https://creativecommons.org/licenses/by/2.0",
+              "usage_terms": "Creative Commons Attribution 2.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21186555@N07\">. Ray in Manila</a>",
+              "text": ". Ray in Manila"
+            },
+            "source": "manual"
+          }
+        }
+      ],
+      "notes": [
+        "Visually verified as a suitable building photograph."
+      ]
     }
   },
   {
@@ -56635,7 +57327,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -56749,7 +57442,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674373",
@@ -56956,7 +57650,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -57076,7 +57771,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674372",
@@ -57290,7 +57986,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -57360,7 +58057,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674383",
@@ -57581,7 +58279,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -57651,7 +58350,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674395",
@@ -57840,7 +58540,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -57979,7 +58680,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3674397",
@@ -58182,7 +58884,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -58302,7 +59005,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3689641",
@@ -58509,7 +59213,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -58649,7 +59354,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3689643",
@@ -58859,7 +59565,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -58974,7 +59681,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q1236622",
@@ -59170,7 +59878,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -59297,7 +60006,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3735826",
@@ -59507,7 +60217,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -59618,7 +60329,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3860475",
@@ -59826,7 +60538,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -59942,7 +60655,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3884413",
@@ -60134,7 +60848,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -60247,7 +60962,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3884450",
@@ -60467,7 +61183,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -60580,7 +61297,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q112798284",
@@ -60761,7 +61479,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -60873,8 +61593,21 @@
           }
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; only an interior image is available."
+      ]
     }
   },
   {
@@ -61068,8 +61801,10 @@
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
-      "has_hero_image": false,
-      "image_review_required": true
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual"
     },
     "wikidata_type_details": [
       {
@@ -61175,7 +61910,24 @@
       "reason": "unambiguous"
     },
     "image_selection": {
-      "hero_image": null,
+      "hero_image": {
+        "filename": "Oratorio di San Rocco siena.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Oratorio_di_San_Rocco_siena.jpg",
+        "license": {
+          "name": "Copyrighted free use",
+          "url": null,
+          "usage_terms": "Copyrighted free use",
+          "attribution_required": "false",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": null,
+          "text": null
+        },
+        "source": "manual"
+      },
       "best_candidate": {
         "filename": "Oratorio di San Rocco siena.jpg",
         "score": 8,
@@ -61191,8 +61943,38 @@
           "license_requires_review"
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_override"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Oratorio di San Rocco siena.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Oratorio_di_San_Rocco_siena.jpg",
+            "license": {
+              "name": "Copyrighted free use",
+              "url": null,
+              "usage_terms": "Copyrighted free use",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": null,
+              "text": null
+            },
+            "source": "manual"
+          }
+        }
+      ],
+      "notes": [
+        "Visually verified as a suitable building photograph."
+      ]
     }
   },
   {
@@ -61401,7 +62183,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -61515,7 +62298,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3884805",
@@ -61742,7 +62526,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -61863,7 +62648,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3884826",
@@ -62074,7 +62860,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -62148,7 +62935,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q110944216",
@@ -62226,7 +63014,7 @@
       "has_imprecise_date": false,
       "directory_type": "church",
       "type_review_required": false,
-      "possible_duplicate": false,
+      "possible_duplicate": true,
       "publishable": false,
       "type_candidates": [
         "church"
@@ -62249,7 +63037,9 @@
       "commons_licensed_image_count": 0,
       "image_relevance_review_required": false,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": true,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -62290,8 +63080,28 @@
     },
     "image_selection": {
       "hero_image": null,
-      "review_required": true,
-      "reason": "no_images"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [
+      {
+        "wikidata_id": "Q19947673",
+        "name": "Rotonda di Brunelleschi",
+        "score": 50,
+        "confidence": "low"
+      }
+    ],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; no suitable Wikidata/Commons image is available."
+      ]
     }
   },
   {
@@ -62489,7 +63299,7 @@
       "has_imprecise_date": false,
       "directory_type": "church",
       "type_review_required": false,
-      "possible_duplicate": false,
+      "possible_duplicate": true,
       "publishable": false,
       "type_candidates": [
         "church"
@@ -62512,7 +63322,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": true
     },
     "wikidata_type_details": [
       {
@@ -62637,7 +63448,15 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": [
+      {
+        "wikidata_id": "Q110944216",
+        "name": "Rotonda del Brunelleschi",
+        "score": 50,
+        "confidence": "low"
+      }
+    ]
   },
   {
     "wikidata_id": "Q578805",
@@ -62869,7 +63688,9 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": false,
-      "image_review_required": true
+      "image_review_required": false,
+      "duplicate_review_required": false,
+      "hero_image_source": "manual_review"
     },
     "wikidata_type_details": [
       {
@@ -62994,8 +63815,21 @@
           }
         ]
       },
-      "review_required": true,
-      "reason": "no_high_confidence_image"
+      "review_required": false,
+      "reason": "manual_no_suitable_image"
+    },
+    "duplicate_candidates": [],
+    "manual_overrides": {
+      "applied": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ],
+      "notes": [
+        "Reviewed manually; only an interior image is available. Record is currently out of scope."
+      ]
     }
   },
   {
@@ -63221,7 +64055,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -63344,7 +64179,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q185303",
@@ -63564,7 +64400,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -63691,7 +64528,8 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   },
   {
     "wikidata_id": "Q3983163",
@@ -63910,7 +64748,8 @@
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
       "has_hero_image": true,
-      "image_review_required": false
+      "image_review_required": false,
+      "duplicate_review_required": false
     },
     "wikidata_type_details": [
       {
@@ -63984,6 +64823,7 @@
       },
       "review_required": false,
       "reason": "high_confidence"
-    }
+    },
+    "duplicate_candidates": []
   }
 ]

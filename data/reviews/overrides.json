@@ -1,4 +1,77 @@
 {
-  "records": {},
+  "records": {
+    "Q3670697": {
+      "hero_image_filename": "Gorgona, san gorgonio 01.jpg",
+      "note": "Visually verified as a suitable photograph for Chiesa di San Gorgonio."
+    },
+    "Q2593098": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; only an interior image is available."
+    },
+    "Q3672897": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; only an interior image is available."
+    },
+    "Q112798284": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; only an interior image is available."
+    },
+    "Q3672942": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; available image is a painting."
+    },
+    "Q3669504": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; no suitable hero image among available media."
+    },
+    "Q3669937": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; available image is a painting."
+    },
+    "Q3672660": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; no suitable hero image among available media."
+    },
+    "Q3672859": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; no suitable hero image among available media."
+    },
+    "Q3657663": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; no suitable Wikidata/Commons image is available."
+    },
+    "Q3657685": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; no suitable Wikidata/Commons image is available."
+    },
+    "Q110944216": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; no suitable Wikidata/Commons image is available."
+    },
+    "Q3670652": {
+      "hero_image_filename": "Chiesa di san giuseppe siena.jpg",
+      "note": "Visually verified as a suitable building photograph."
+    },
+    "Q19843876": {
+      "hero_image_filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
+      "note": "Visually verified as a suitable building photograph."
+    },
+    "Q3674012": {
+      "hero_image_filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
+      "note": "Visually verified as a suitable building photograph."
+    },
+    "Q3674338": {
+      "hero_image_filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
+      "note": "Visually verified as a suitable building photograph."
+    },
+    "Q2028376": {
+      "hero_image_filename": "Oratorio di San Rocco siena.jpg",
+      "note": "Visually verified as a suitable building photograph."
+    },
+    "Q578805": {
+      "no_hero_image": true,
+      "note": "Reviewed manually; only an interior image is available. Record is currently out of scope."
+    }
+  },
   "duplicate_pairs": []
 }

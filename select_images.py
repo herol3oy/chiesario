@@ -3,6 +3,33 @@ import re
 import unicodedata
 from pathlib import Path
 
+HARD_REJECT_TERMS = {
+    "interior",
+    "interno",
+    "interiors",
+    "interni",
+
+    "painting",
+    "dipinto",
+    "altarpiece",
+    "portrait",
+    "ritratto",
+
+    "floor plan",
+    "planimetria",
+    "pianta",
+    "map",
+    "mappa",
+    "drawing",
+    "disegno",
+
+    "fresco",
+    "affresco",
+    "sculpture",
+    "scultura",
+    "statue",
+    "statua",
+}
 
 INPUT_FILE = Path(
     "data/processed/churches_commons.json"
@@ -45,8 +72,6 @@ POSITIVE_TERMS = {
     "cattedrale": 2,
     "pieve": 2,
 
-    "interior": 1,
-    "interno": 1,
 }
 
 
@@ -117,6 +142,12 @@ NAME_STOPWORDS = {
 # IO
 # --------------------------------------------------
 
+def hard_reject_matches(text):
+    return [
+        term
+        for term in HARD_REJECT_TERMS
+        if term in text
+    ]
 
 def load_json(path):
     with path.open(encoding="utf-8") as f:
@@ -365,8 +396,10 @@ def score_image(
             ],
         }
 
-    text = image_text(
-        image
+    text = image_text(image)
+
+    hard_rejects = hard_reject_matches(
+        text
     )
 
     (
@@ -395,13 +428,18 @@ def score_image(
         image
     )
 
+    p18_score = 4
+
     score = (
-        keyword_score
+        p18_score
+        + keyword_score
         + name_score
         + orientation_score
     )
 
-    reasons = []
+    reasons = [
+        "wikidata_p18"
+    ]
 
     if positive:
         reasons.append(
@@ -416,6 +454,14 @@ def score_image(
             {
                 "negative_terms":
                     negative,
+            }
+        )
+
+    if hard_rejects:
+        reasons.append(
+            {
+                "hard_reject_terms":
+                    hard_rejects,
             }
         )
 
@@ -439,24 +485,18 @@ def score_image(
             "license_requires_review"
         )
 
-    # Negative visual-category terms
-    # should make auto-selection difficult.
-    if negative:
+
+    if hard_rejects:
         confidence = "low"
 
-    elif (
-        score >= 6
-        and license_data[
-            "auto_approved"
-        ]
-    ):
-        confidence = "high"
-
-    elif score >= 2:
+    elif not license_data[
+        "auto_approved"
+    ]:
         confidence = "medium"
 
     else:
-        confidence = "low"
+        confidence = "high"
+
 
     return {
         "score": score,

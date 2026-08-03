@@ -1,0 +1,4541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Q3603204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29922,
+          43.75532
+        ]
+      },
+      "properties": {
+        "id": "Q3603204",
+        "slug": "abbazia-di-san-bartolomeo-a-ripoli-q3603204",
+        "name": "abbazia di San Bartolomeo a Ripoli",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1731",
+        "date_kind": "year",
+        "start_year": 1731,
+        "end_year": 1731,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bartolomeo_a_ripoli_01.JPG",
+        "hero_filename": "Bartolomeo a ripoli 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3603204",
+        "osm_url": "https://www.openstreetmap.org/way/98315398"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2287001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26128,
+          43.7769
+        ]
+      },
+      "properties": {
+        "id": "Q2287001",
+        "slug": "basilica-della-santissima-annunziata-q2287001",
+        "name": "basilica della Santissima Annunziata",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1250",
+        "date_kind": "year",
+        "start_year": 1250,
+        "end_year": 1250,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Palazzo_budini_gattai%2C_vista_verso_piazza_santissima_annunziata%2C_basilica_04.jpg/1920px-Palazzo_budini_gattai%2C_vista_verso_piazza_santissima_annunziata%2C_basilica_04.jpg",
+        "hero_filename": "Palazzo budini gattai, vista verso piazza santissima annunziata, basilica 04.jpg",
+        "website": "https://www.storiasantissimaannunziatafirenze.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2287001",
+        "osm_url": "https://www.openstreetmap.org/way/234428743"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q573881",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25388888888889,
+          43.775
+        ]
+      },
+      "properties": {
+        "id": "Q573881",
+        "slug": "basilica-di-san-lorenzo-q573881",
+        "name": "basilica di San Lorenzo",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1421",
+        "date_kind": "year",
+        "start_year": 1421,
+        "end_year": 1421,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Florencia%2C_Italia_-_panoramio_%282%29.jpg/1920px-Florencia%2C_Italia_-_panoramio_%282%29.jpg",
+        "hero_filename": "Florencia, Italia - panoramio (2).jpg",
+        "website": "http://www.sanlorenzofirenze.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q573881",
+        "osm_url": "https://www.openstreetmap.org/way/599900778"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1152774",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.259061111111,
+          43.778316666667
+        ]
+      },
+      "properties": {
+        "id": "Q1152774",
+        "slug": "basilica-di-san-marco-q1152774",
+        "name": "basilica di San Marco",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Marco_%28Florence%29_%2721.jpg/1920px-San_Marco_%28Florence%29_%2721.jpg",
+        "hero_filename": "San Marco (Florence) '21.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1152774",
+        "osm_url": "https://www.openstreetmap.org/way/225706552"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q844337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.265,
+          43.759444
+        ]
+      },
+      "properties": {
+        "id": "Q844337",
+        "slug": "basilica-di-san-miniato-al-monte-q844337",
+        "name": "basilica di San Miniato al Monte",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1018",
+        "date_kind": "year",
+        "start_year": 1018,
+        "end_year": 1018,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sanminiato.jpg/1920px-Sanminiato.jpg",
+        "hero_filename": "Sanminiato.jpg",
+        "website": "http://www.sanminiatoalmonte.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q844337",
+        "osm_url": "https://www.openstreetmap.org/way/184781037"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q51177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26274,
+          43.76845
+        ]
+      },
+      "properties": {
+        "id": "Q51177",
+        "slug": "basilica-di-santa-croce-q51177",
+        "name": "basilica di Santa Croce",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1294",
+        "date_kind": "year",
+        "start_year": 1294,
+        "end_year": 1294,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_di_Santa_Croce_%2812437%29.jpg/1920px-Basilica_di_Santa_Croce_%2812437%29.jpg",
+        "hero_filename": "Basilica di Santa Croce (12437).jpg",
+        "website": "https://www.santacroceopera.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q51177",
+        "osm_url": "https://www.openstreetmap.org/way/777563049"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1042634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.243611111111,
+          43.767777777778
+        ]
+      },
+      "properties": {
+        "id": "Q1042634",
+        "slug": "basilica-di-santa-maria-del-carmine-q1042634",
+        "name": "basilica di Santa Maria del Carmine",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1268",
+        "date_kind": "year",
+        "start_year": 1268,
+        "end_year": 1268,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Piazza_del_Carmine%2C_veduta_sulla_chiesa_del_carmine.jpg/1920px-Piazza_del_Carmine%2C_veduta_sulla_chiesa_del_carmine.jpg",
+        "hero_filename": "Piazza del Carmine, veduta sulla chiesa del carmine.jpg",
+        "website": "https://bigliettimusei.comune.fi.it/4_cappella-brancacci/#info",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1042634",
+        "osm_url": "https://www.openstreetmap.org/way/118425485"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1714149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09844444,
+          43.87941667
+        ]
+      },
+      "properties": {
+        "id": "Q1714149",
+        "slug": "basilica-di-santa-maria-delle-carceri-q1714149",
+        "name": "basilica di Santa Maria delle Carceri",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Santa_maria_delle_carceri%2C_esterno%2C_02.jpg/1920px-Santa_maria_delle_carceri%2C_esterno%2C_02.jpg",
+        "hero_filename": "Santa maria delle carceri, esterno, 02.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1714149",
+        "osm_url": "https://www.openstreetmap.org/way/200950762"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1062114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.250719,
+          43.770153
+        ]
+      },
+      "properties": {
+        "id": "Q1062114",
+        "slug": "basilica-di-santa-trinita-q1062114",
+        "name": "basilica di Santa Trinita",
+        "church_type": "basilica",
+        "region": "Tuscany",
+        "date_display": "1250",
+        "date_kind": "year",
+        "start_year": 1250,
+        "end_year": 1250,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Basilica_di_Santa_Trinita%2C_Florence.jpg",
+        "hero_filename": "Basilica di Santa Trinita, Florence.jpg",
+        "website": "http://www.monaci.org/monastero-santa-trinita",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1062114",
+        "osm_url": "https://www.openstreetmap.org/way/478272186"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q377517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33225278,
+          43.31821111
+        ]
+      },
+      "properties": {
+        "id": "Q377517",
+        "slug": "cappella-di-piazza-q377517",
+        "name": "Cappella di Piazza",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1352",
+        "date_kind": "year",
+        "start_year": 1352,
+        "end_year": 1352,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Palazzo_Pubblico_Siena_01.JPG/1920px-Palazzo_Pubblico_Siena_01.JPG",
+        "hero_filename": "Palazzo Pubblico Siena 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q377517",
+        "osm_url": "https://www.openstreetmap.org/way/252463679"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3657606",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.31893333,
+          43.53207222
+        ]
+      },
+      "properties": {
+        "id": "Q3657606",
+        "slug": "cappella-di-san-michele-arcangelo-e-della-visitazione-di-maria-q3657606",
+        "name": "cappella di San Michele Arcangelo e della Visitazione di Maria",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1703",
+        "date_kind": "year",
+        "start_year": 1703,
+        "end_year": 1703,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cappella_di_San_Michele_Arcangelo_e_della_Visitazione_di_Maria%2C_Livorno.JPG/1920px-Cappella_di_San_Michele_Arcangelo_e_della_Visitazione_di_Maria%2C_Livorno.JPG",
+        "hero_filename": "Cappella di San Michele Arcangelo e della Visitazione di Maria, Livorno.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3657606",
+        "osm_url": "https://www.openstreetmap.org/way/145643576"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q124005573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4033413,
+          43.3068293
+        ]
+      },
+      "properties": {
+        "id": "Q124005573",
+        "slug": "cappella-di-sant-antonio-da-padova-q124005573",
+        "name": "cappella di Sant'Antonio da Padova",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1628",
+        "date_kind": "year",
+        "start_year": 1628,
+        "end_year": 1628,
+        "coordinate_source": "openstreetmap",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SienaPrescianoCappellaSantAntonioDaPadovaVillaPieriLovatelli2.jpg/1920px-SienaPrescianoCappellaSantAntonioDaPadovaVillaPieriLovatelli2.jpg",
+        "hero_filename": "SienaPrescianoCappellaSantAntonioDaPadovaVillaPieriLovatelli2.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q124005573",
+        "osm_url": "https://www.openstreetmap.org/way/141797318"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3657663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.114861111111,
+          42.75875
+        ]
+      },
+      "properties": {
+        "id": "Q3657663",
+        "slug": "cappella-di-santa-barbara-a-porta-vecchia-q3657663",
+        "name": "cappella di Santa Barbara a Porta Vecchia",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1605",
+        "date_kind": "year",
+        "start_year": 1605,
+        "end_year": 1605,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3657663",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3657685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.192396,
+          43.777901
+        ]
+      },
+      "properties": {
+        "id": "Q3657685",
+        "slug": "cappella-di-santa-maria-assunta-q3657685",
+        "name": "cappella di Santa Maria Assunta",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1752",
+        "date_kind": "year",
+        "start_year": 1752,
+        "end_year": 1752,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3657685",
+        "osm_url": "https://www.openstreetmap.org/way/306523267"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3667914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.309955,
+          43.552405
+        ]
+      },
+      "properties": {
+        "id": "Q3667914",
+        "slug": "chiesa-armena-di-san-gregorio-illuminatore-q3667914",
+        "name": "chiesa armena di San Gregorio Illuminatore",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1701",
+        "date_kind": "year",
+        "start_year": 1701,
+        "end_year": 1701,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chiesa_di_S.Gregorio_a_Livorno.jpg/1920px-Chiesa_di_S.Gregorio_a_Livorno.jpg",
+        "hero_filename": "Chiesa di S.Gregorio a Livorno.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3667914",
+        "osm_url": "https://www.openstreetmap.org/way/969523715"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2223430",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25207,
+          43.76924
+        ]
+      },
+      "properties": {
+        "id": "Q2223430",
+        "slug": "chiesa-dei-santi-apostoli-q2223430",
+        "name": "chiesa dei Santi Apostoli",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Piazza_del_limbo%2C_chiesa_dei_ss._apostoli%2C_01%2C0.jpg/1920px-Piazza_del_limbo%2C_chiesa_dei_ss._apostoli%2C_01%2C0.jpg",
+        "hero_filename": "Piazza del limbo, chiesa dei ss. apostoli, 01,0.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2223430",
+        "osm_url": "https://www.openstreetmap.org/way/451785463"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25012,
+          43.7937
+        ]
+      },
+      "properties": {
+        "id": "Q3668157",
+        "slug": "chiesa-dei-santi-francesco-e-chiara-q3668157",
+        "name": "chiesa dei Santi Francesco e Chiara",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1623",
+        "date_kind": "year",
+        "start_year": 1623,
+        "end_year": 1623,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Firenze_-_Chiesa_dei_Frati_minori_Cappuccini_di_Montughi.jpg/1920px-Firenze_-_Chiesa_dei_Frati_minori_Cappuccini_di_Montughi.jpg",
+        "hero_filename": "Firenze - Chiesa dei Frati minori Cappuccini di Montughi.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668157",
+        "osm_url": "https://www.openstreetmap.org/way/458974490"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q764060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25179167,
+          43.77245556
+        ]
+      },
+      "properties": {
+        "id": "Q764060",
+        "slug": "chiesa-dei-santi-michele-e-gaetano-q764060",
+        "name": "chiesa dei Santi Michele e Gaetano",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1597",
+        "date_kind": "year",
+        "start_year": 1597,
+        "end_year": 1597,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/San_Gaetano%2C_facciata_12.JPG",
+        "hero_filename": "San Gaetano, facciata 12.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q764060",
+        "osm_url": "https://www.openstreetmap.org/way/234429578"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.326834,
+          43.312634
+        ]
+      },
+      "properties": {
+        "id": "Q3668382",
+        "slug": "chiesa-dei-santi-pietro-e-paolo-q3668382",
+        "name": "chiesa dei Santi Pietro e Paolo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1622",
+        "date_kind": "year",
+        "start_year": 1622,
+        "end_year": 1622,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Santi_Pietro_e_Paolo_%28Siena%29_02.JPG/1920px-Santi_Pietro_e_Paolo_%28Siena%29_02.JPG",
+        "hero_filename": "Santi Pietro e Paolo (Siena) 02.JPG",
+        "website": "http://www.contradadellachiocciola.it/modules/edito/edito.php?idedito=10",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668382",
+        "osm_url": "https://www.openstreetmap.org/way/47984377"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1285138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26055556,
+          43.76972222
+        ]
+      },
+      "properties": {
+        "id": "Q1285138",
+        "slug": "chiesa-dei-santi-simone-e-giuda-q1285138",
+        "name": "chiesa dei Santi Simone e Giuda",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1243",
+        "date_kind": "year",
+        "start_year": 1243,
+        "end_year": 1243,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Piazza_san_simone%2C_chiesa_dei_santi_simone_e_giuda%2C_02%2C0.jpg/1920px-Piazza_san_simone%2C_chiesa_dei_santi_simone_e_giuda%2C_02%2C0.jpg",
+        "hero_filename": "Piazza san simone, chiesa dei santi simone e giuda, 02,0.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1285138",
+        "osm_url": "https://www.openstreetmap.org/way/307126295"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0987,
+          44.07853
+        ]
+      },
+      "properties": {
+        "id": "Q3668503",
+        "slug": "chiesa-del-carmine-q3668503",
+        "name": "chiesa del Carmine",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1605",
+        "date_kind": "year",
+        "start_year": 1605,
+        "end_year": 1605,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%C3%89glise_Carmine_-_Carrare_%28IT52%29_-_2022-08-28_-_3.jpg/1920px-%C3%89glise_Carmine_-_Carrare_%28IT52%29_-_2022-08-28_-_3.jpg",
+        "hero_filename": "Église Carmine - Carrare (IT52) - 2022-08-28 - 3.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668503",
+        "osm_url": "https://www.openstreetmap.org/way/269192941"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668695",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.339702,
+          43.315405
+        ]
+      },
+      "properties": {
+        "id": "Q3668695",
+        "slug": "chiesa-del-santuccio-q3668695",
+        "name": "chiesa del Santuccio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1352",
+        "date_kind": "year",
+        "start_year": 1352,
+        "end_year": 1352,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Siena%2C_chiesa_del_santuccio.JPG/1920px-Siena%2C_chiesa_del_santuccio.JPG",
+        "hero_filename": "Siena, chiesa del santuccio.JPG",
+        "website": "http://www.polomusealetoscana.beniculturali.it/index.php?it/146/istituti-e-luoghi-della-cultura",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668695",
+        "osm_url": "https://www.openstreetmap.org/way/47188323"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668903",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.310143,
+          43.552137
+        ]
+      },
+      "properties": {
+        "id": "Q3668903",
+        "slug": "chiesa-della-madonna-q3668903",
+        "name": "chiesa della Madonna",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1607",
+        "date_kind": "year",
+        "start_year": 1607,
+        "end_year": 1607,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chiesa_della_Madonna_Livorno.JPG/1920px-Chiesa_della_Madonna_Livorno.JPG",
+        "hero_filename": "Chiesa della Madonna Livorno.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668903",
+        "osm_url": "https://www.openstreetmap.org/way/294488831"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.399583333333,
+          43.716777777778
+        ]
+      },
+      "properties": {
+        "id": "Q3668916",
+        "slug": "chiesa-della-madonna-dei-galletti-q3668916",
+        "name": "chiesa della Madonna dei Galletti",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1757",
+        "date_kind": "year",
+        "start_year": 1757,
+        "end_year": 1757,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Madonna_dei_Galletti_-_2025-10-19.jpg/1920px-Madonna_dei_Galletti_-_2025-10-19.jpg",
+        "hero_filename": "Madonna dei Galletti - 2025-10-19.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668916",
+        "osm_url": "https://www.openstreetmap.org/way/341184390"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13812,
+          44.03478
+        ]
+      },
+      "properties": {
+        "id": "Q3668990",
+        "slug": "chiesa-della-madonna-della-misericordia-q3668990",
+        "name": "chiesa della Madonna della Misericordia",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1628",
+        "date_kind": "year",
+        "start_year": 1628,
+        "end_year": 1628,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Massa-chiesa_Misericordia-complesso1.jpg/1920px-Massa-chiesa_Misericordia-complesso1.jpg",
+        "hero_filename": "Massa-chiesa Misericordia-complesso1.jpg",
+        "website": "http://terredelfrigido.comune.massa.ms.it/node/45",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668990",
+        "osm_url": "https://www.openstreetmap.org/way/135541722"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1121100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26532,
+          43.78648
+        ]
+      },
+      "properties": {
+        "id": "Q1121100",
+        "slug": "chiesa-della-madonna-della-tosse-q1121100",
+        "name": "chiesa della Madonna della Tosse",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1603",
+        "date_kind": "year",
+        "start_year": 1603,
+        "end_year": 1603,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Santa_maria_della_tosse_02.JPG",
+        "hero_filename": "Santa maria della tosse 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1121100",
+        "osm_url": "https://www.openstreetmap.org/way/306368616"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3265,
+          43.3267
+        ]
+      },
+      "properties": {
+        "id": "Q3669071",
+        "slug": "chiesa-della-maria-santissima-del-rosario-q3669071",
+        "name": "chiesa della Maria Santissima del Rosario",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1348",
+        "date_kind": "year",
+        "start_year": 1348,
+        "end_year": 1348,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/SienaMariaSantissimaDelRosario5.jpg/1920px-SienaMariaSantissimaDelRosario5.jpg",
+        "hero_filename": "SienaMariaSantissimaDelRosario5.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669071",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3285,
+          43.3171
+        ]
+      },
+      "properties": {
+        "id": "Q3669184",
+        "slug": "chiesa-della-santissima-annunziata-q3669184",
+        "name": "chiesa della Santissima Annunziata",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1257",
+        "date_kind": "year",
+        "start_year": 1257,
+        "end_year": 1257,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Santissima_Annunziata_%28Siena%29_02.JPG/1920px-Santissima_Annunziata_%28Siena%29_02.JPG",
+        "hero_filename": "Santissima Annunziata (Siena) 02.JPG",
+        "website": "https://www.santamariadellascala.com/it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669184",
+        "osm_url": "https://www.openstreetmap.org/way/48174025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.310374,
+          43.551763
+        ]
+      },
+      "properties": {
+        "id": "Q3669167",
+        "slug": "chiesa-della-santissima-annunziata-q3669167",
+        "name": "chiesa della Santissima Annunziata",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1601",
+        "date_kind": "year",
+        "start_year": 1601,
+        "end_year": 1601,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Livorno%2C_chiesa_dei_greci_uniti%2C_esterno%2C_facciata_01.jpg/1920px-Livorno%2C_chiesa_dei_greci_uniti%2C_esterno%2C_facciata_01.jpg",
+        "hero_filename": "Livorno, chiesa dei greci uniti, esterno, facciata 01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669167",
+        "osm_url": "https://www.openstreetmap.org/way/1266847933"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2418,
+          43.8135
+        ]
+      },
+      "properties": {
+        "id": "Q3669276",
+        "slug": "chiesa-delle-suore-montalve-q3669276",
+        "name": "chiesa delle Suore Montalve",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1686",
+        "date_kind": "year",
+        "start_year": 1686,
+        "end_year": 1686,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Chiesa_delle_montalve.JPG/1920px-Chiesa_delle_montalve.JPG",
+        "hero_filename": "Chiesa delle montalve.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669276",
+        "osm_url": "https://www.openstreetmap.org/way/305822221"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.093725,
+          43.87803333
+        ]
+      },
+      "properties": {
+        "id": "Q3669286",
+        "slug": "chiesa-dello-spirito-santo-q3669286",
+        "name": "chiesa dello Spirito Santo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1340",
+        "date_kind": "year",
+        "start_year": 1340,
+        "end_year": 1340,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Spirito_Santo-the_church.jpg/1920px-Spirito_Santo-the_church.jpg",
+        "hero_filename": "Spirito Santo-the church.jpg",
+        "website": "http://www.diocesiprato.it/pagina_template.asp?id=35&page_id=224&page_id2=240&page_id3=372",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669286",
+        "osm_url": "https://www.openstreetmap.org/way/701934366"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2778991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24598,
+          43.77251
+        ]
+      },
+      "properties": {
+        "id": "Q2778991",
+        "slug": "chiesa-di-ognissanti-q2778991",
+        "name": "chiesa di Ognissanti",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1251",
+        "date_kind": "year",
+        "start_year": 1251,
+        "end_year": 1251,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chiesa_di_Ognissanti%2C_Firenze%2C_facciata.jpg/1920px-Chiesa_di_Ognissanti%2C_Firenze%2C_facciata.jpg",
+        "hero_filename": "Chiesa di Ognissanti, Firenze, facciata.jpg",
+        "website": "https://www.chiesaognissanti.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2778991",
+        "osm_url": "https://www.openstreetmap.org/way/167273908"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q860816",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25505,
+          43.77071
+        ]
+      },
+      "properties": {
+        "id": "Q860816",
+        "slug": "chiesa-di-orsanmichele-q860816",
+        "name": "chiesa di Orsanmichele",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1337",
+        "date_kind": "year",
+        "start_year": 1337,
+        "end_year": 1337,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La_chiesa_di_Orsanmichele%2C_detta_anticamente_anche_chiesa_di_San_Michele_in_Orto.jpg/1920px-La_chiesa_di_Orsanmichele%2C_detta_anticamente_anche_chiesa_di_San_Michele_in_Orto.jpg",
+        "hero_filename": "La chiesa di Orsanmichele, detta anticamente anche chiesa di San Michele in Orto.jpg",
+        "website": "https://bargellomusei.it/en/museum/orsanmichele/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q860816",
+        "osm_url": "https://www.openstreetmap.org/way/442508011"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1117930",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25399,
+          43.77784
+        ]
+      },
+      "properties": {
+        "id": "Q1117930",
+        "slug": "chiesa-di-san-barnaba-q1117930",
+        "name": "chiesa di San Barnaba",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Firenze_-_chiesa_di_San_Barnaba_-_facciata.jpg",
+        "hero_filename": "Firenze - chiesa di San Barnaba - facciata.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1117930",
+        "osm_url": "https://www.openstreetmap.org/way/306395974"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25529722,
+          43.77101944
+        ]
+      },
+      "properties": {
+        "id": "Q3669504",
+        "slug": "chiesa-di-san-bartolomeo-q3669504",
+        "name": "chiesa di San Bartolomeo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669504",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10191,
+          43.87928
+        ]
+      },
+      "properties": {
+        "id": "Q3669519",
+        "slug": "chiesa-di-san-bartolomeo-q3669519",
+        "name": "chiesa di San Bartolomeo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1316",
+        "date_kind": "year",
+        "start_year": 1316,
+        "end_year": 1316,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/San_bartolomeo.the_church.jpg/1920px-San_bartolomeo.the_church.jpg",
+        "hero_filename": "San bartolomeo.the church.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669519",
+        "osm_url": "https://www.openstreetmap.org/way/323059215"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.257254,
+          43.772329
+        ]
+      },
+      "properties": {
+        "id": "Q3669596",
+        "slug": "chiesa-di-san-benedetto-q3669596",
+        "name": "chiesa di San Benedetto",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1771",
+        "date_kind": "year",
+        "start_year": 1771,
+        "end_year": 1771,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piazza_san_benedetto%2C_retro_della_chiesa_di_san_benedetto_02.jpg/1920px-Piazza_san_benedetto%2C_retro_della_chiesa_di_san_benedetto_02.jpg",
+        "hero_filename": "Piazza san benedetto, retro della chiesa di san benedetto 02.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669596",
+        "osm_url": "https://www.openstreetmap.org/node/3127386260"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669825",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3316,
+          43.3201
+        ]
+      },
+      "properties": {
+        "id": "Q3669825",
+        "slug": "chiesa-di-san-cristoforo-q3669825",
+        "name": "chiesa di San Cristoforo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/3166SienaSCristoforo.JPG",
+        "hero_filename": "3166SienaSCristoforo.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669825",
+        "osm_url": "https://www.openstreetmap.org/way/45444510"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1121868",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39972222,
+          43.71111111
+        ]
+      },
+      "properties": {
+        "id": "Q1121868",
+        "slug": "chiesa-di-san-domenico-q1121868",
+        "name": "chiesa di San Domenico",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1385",
+        "date_kind": "year",
+        "start_year": 1385,
+        "end_year": 1385,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiesa_di_san_domenico_%28pisa%29%2C_esterno.JPG",
+        "hero_filename": "Chiesa di san domenico (pisa), esterno.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1121868",
+        "osm_url": "https://www.openstreetmap.org/way/232480572"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669925",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33149,
+          43.32189
+        ]
+      },
+      "properties": {
+        "id": "Q3669925",
+        "slug": "chiesa-di-san-donato-q3669925",
+        "name": "chiesa di San Donato",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SienaSanDonato4.jpg/1920px-SienaSanDonato4.jpg",
+        "hero_filename": "SienaSanDonato4.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669925",
+        "osm_url": "https://www.openstreetmap.org/way/53271879"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669937",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.252418,
+          43.771866
+        ]
+      },
+      "properties": {
+        "id": "Q3669937",
+        "slug": "chiesa-di-san-donato-dei-vecchietti-q3669937",
+        "name": "chiesa di San Donato dei Vecchietti",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1068",
+        "date_kind": "year",
+        "start_year": 1068,
+        "end_year": 1068,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669937",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3585329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.22609,
+          43.79052
+        ]
+      },
+      "properties": {
+        "id": "Q3585329",
+        "slug": "chiesa-di-san-donato-in-polverosa-q3585329",
+        "name": "chiesa di San Donato in Polverosa",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1187",
+        "date_kind": "year",
+        "start_year": 1187,
+        "end_year": 1187,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/San_donato_in_polverosa%2C_esterno_dopo_lavori%2C_01.jpg/1920px-San_donato_in_polverosa%2C_esterno_dopo_lavori%2C_01.jpg",
+        "hero_filename": "San donato in polverosa, esterno dopo lavori, 01.jpg",
+        "website": "https://www.sandonatoinpolverosa.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3585329",
+        "osm_url": "https://www.openstreetmap.org/way/294480509"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669946",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09398611,
+          43.88409722
+        ]
+      },
+      "properties": {
+        "id": "Q3669946",
+        "slug": "chiesa-di-san-fabiano-q3669946",
+        "name": "chiesa di San Fabiano",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1082",
+        "date_kind": "year",
+        "start_year": 1082,
+        "end_year": 1082,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Chiesa_di_San_Fabiano.JPG",
+        "hero_filename": "Chiesa di San Fabiano.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669946",
+        "osm_url": "https://www.openstreetmap.org/way/392063791"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.23989,
+          43.73978
+        ]
+      },
+      "properties": {
+        "id": "Q3669959",
+        "slug": "chiesa-di-san-felice-a-ema-q3669959",
+        "name": "chiesa di San Felice a Ema",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "9th century",
+        "date_kind": "century",
+        "start_year": 801,
+        "end_year": 900,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sanfeliceaema298.jpg/1920px-Sanfeliceaema298.jpg",
+        "hero_filename": "Sanfeliceaema298.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669959",
+        "osm_url": "https://www.openstreetmap.org/way/102979682"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3585333",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24766,
+          43.76517
+        ]
+      },
+      "properties": {
+        "id": "Q3585333",
+        "slug": "chiesa-di-san-felice-in-piazza-q3585333",
+        "name": "chiesa di San Felice in Piazza",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1060",
+        "date_kind": "year",
+        "start_year": 1060,
+        "end_year": 1060,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/0/09/San_felice_in_piazza%2C_facciata.JPG",
+        "hero_filename": "San felice in piazza, facciata.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3585333",
+        "osm_url": "https://www.openstreetmap.org/way/305683142"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3669962",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.30506,
+          43.55421
+        ]
+      },
+      "properties": {
+        "id": "Q3669962",
+        "slug": "chiesa-di-san-ferdinando-q3669962",
+        "name": "chiesa di San Ferdinando",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1707",
+        "date_kind": "year",
+        "start_year": 1707,
+        "end_year": 1707,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chiesa_San_Ferdinando_2%2C_Livorno.jpg/1920px-Chiesa_San_Ferdinando_2%2C_Livorno.jpg",
+        "hero_filename": "Chiesa San Ferdinando 2, Livorno.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3669962",
+        "osm_url": "https://www.openstreetmap.org/way/87422360"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1034,
+          44.07535
+        ]
+      },
+      "properties": {
+        "id": "Q3670031",
+        "slug": "chiesa-di-san-francesco-q3670031",
+        "name": "chiesa di San Francesco",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1623",
+        "date_kind": "year",
+        "start_year": 1623,
+        "end_year": 1623,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Carrara%2C_san_francesco%2C_esterno_01.jpg/1920px-Carrara%2C_san_francesco%2C_esterno_01.jpg",
+        "hero_filename": "Carrara, san francesco, esterno 01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670031",
+        "osm_url": "https://www.openstreetmap.org/way/466769727"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q93679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51127778,
+          43.84541667
+        ]
+      },
+      "properties": {
+        "id": "Q93679",
+        "slug": "chiesa-di-san-francesco-q93679",
+        "name": "chiesa di San Francesco",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1430",
+        "date_kind": "year",
+        "start_year": 1430,
+        "end_year": 1430,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/39/686LuccaSFrancesco.JPG",
+        "hero_filename": "686LuccaSFrancesco.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q93679",
+        "osm_url": "https://www.openstreetmap.org/way/169566154"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40675,
+          43.71875
+        ]
+      },
+      "properties": {
+        "id": "Q3670083",
+        "slug": "chiesa-di-san-francesco-q3670083",
+        "name": "chiesa di San Francesco",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "13th century",
+        "date_kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Chiesa_San_Francesco%2C_Pisa.JPG/1920px-Chiesa_San_Francesco%2C_Pisa.JPG",
+        "hero_filename": "Chiesa San Francesco, Pisa.JPG",
+        "website": "https://sanfrancescopisa.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670083",
+        "osm_url": "https://www.openstreetmap.org/way/106644870"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09711,
+          43.87923
+        ]
+      },
+      "properties": {
+        "id": "Q3670086",
+        "slug": "chiesa-di-san-francesco-q3670086",
+        "name": "chiesa di San Francesco",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1331",
+        "date_kind": "year",
+        "start_year": 1331,
+        "end_year": 1331,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Prato%2C_san_francesco%2C_facciata_%28dopo_restauro_2022%29_02-edit.jpg/1920px-Prato%2C_san_francesco%2C_facciata_%28dopo_restauro_2022%29_02-edit.jpg",
+        "hero_filename": "Prato, san francesco, facciata (dopo restauro 2022) 02-edit.jpg",
+        "website": "http://www.sanfrancescoprato.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670086",
+        "osm_url": "https://www.openstreetmap.org/way/180242607"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.23698,
+          43.76486
+        ]
+      },
+      "properties": {
+        "id": "Q3670163",
+        "slug": "chiesa-di-san-francesco-di-paola-q3670163",
+        "name": "chiesa di San Francesco di Paola",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1589",
+        "date_kind": "year",
+        "start_year": 1589,
+        "end_year": 1589,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/San_francesco_di_paola_%28florence%29_01.JPG/1920px-San_francesco_di_paola_%28florence%29_01.JPG",
+        "hero_filename": "San francesco di paola (florence) 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670163",
+        "osm_url": "https://www.openstreetmap.org/way/305428829"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1071192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24396667,
+          43.76999167
+        ]
+      },
+      "properties": {
+        "id": "Q1071192",
+        "slug": "chiesa-di-san-frediano-in-cestello-q1071192",
+        "name": "chiesa di San Frediano in Cestello",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1689",
+        "date_kind": "year",
+        "start_year": 1689,
+        "end_year": 1689,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Florence%2C_San_Frediano_in_Cestello_001.JPG",
+        "hero_filename": "Florence, San Frediano in Cestello 001.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1071192",
+        "osm_url": "https://www.openstreetmap.org/way/118416085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3581520",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.338898,
+          43.317805
+        ]
+      },
+      "properties": {
+        "id": "Q3581520",
+        "slug": "chiesa-di-san-gaetano-di-thiene-q3581520",
+        "name": "chiesa di San Gaetano di Thiene",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1685",
+        "date_kind": "year",
+        "start_year": 1685,
+        "end_year": 1685,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SienaChiesaSanGaetanoDiThiene2.jpg/1920px-SienaChiesaSanGaetanoDiThiene2.jpg",
+        "hero_filename": "SienaChiesaSanGaetanoDiThiene2.jpg",
+        "website": "http://www.nobilecontradadelnicchio.it/Rione.aspx",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3581520",
+        "osm_url": "https://www.openstreetmap.org/way/47088268"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2624,
+          43.7838
+        ]
+      },
+      "properties": {
+        "id": "Q3670196",
+        "slug": "chiesa-di-san-gallo-q3670196",
+        "name": "chiesa di San Gallo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1218",
+        "date_kind": "year",
+        "start_year": 1218,
+        "end_year": 1218,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Andrea_del_Sarto_-_The_Annunciation_-_WGA00359.jpg",
+        "hero_filename": "Andrea del Sarto - The Annunciation - WGA00359.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670196",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1102245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33624,
+          43.31758
+        ]
+      },
+      "properties": {
+        "id": "Q1102245",
+        "slug": "chiesa-di-san-giorgio-q1102245",
+        "name": "chiesa di San Giorgio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1081",
+        "date_kind": "year",
+        "start_year": 1081,
+        "end_year": 1081,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/SienaSanGiorgio3.jpg/1920px-SienaSanGiorgio3.jpg",
+        "hero_filename": "SienaSanGiorgio3.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1102245",
+        "osm_url": "https://www.openstreetmap.org/way/1184135752"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q783096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39715,
+          43.72177
+        ]
+      },
+      "properties": {
+        "id": "Q783096",
+        "slug": "chiesa-di-san-giorgio-ai-tedeschi-q783096",
+        "name": "chiesa di San Giorgio ai Tedeschi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1316",
+        "date_kind": "year",
+        "start_year": 1316,
+        "end_year": 1316,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pisa-_chiesa_di_san_giorgio_dei_tedeschi.JPG/1920px-Pisa-_chiesa_di_san_giorgio_dei_tedeschi.JPG",
+        "hero_filename": "Pisa- chiesa di san giorgio dei tedeschi.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q783096",
+        "osm_url": "https://www.openstreetmap.org/way/335634583"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3585340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25494,
+          43.7653
+        ]
+      },
+      "properties": {
+        "id": "Q3585340",
+        "slug": "chiesa-di-san-giorgio-alla-costa-q3585340",
+        "name": "chiesa di San Giorgio alla Costa",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_giorgio_alla_costa_11.JPG/1920px-San_giorgio_alla_costa_11.JPG",
+        "hero_filename": "San giorgio alla costa 11.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3585340",
+        "osm_url": "https://www.openstreetmap.org/way/474366870"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670458",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.331,
+          43.3168
+        ]
+      },
+      "properties": {
+        "id": "Q3670458",
+        "slug": "chiesa-di-san-giovanni-battista-q3670458",
+        "name": "chiesa di San Giovanni Battista",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1629",
+        "date_kind": "year",
+        "start_year": 1629,
+        "end_year": 1629,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Chiesa_di_san_Giovanni_Battista_a_Siena.JPG/1920px-Chiesa_di_san_Giovanni_Battista_a_Siena.JPG",
+        "hero_filename": "Chiesa di san Giovanni Battista a Siena.JPG",
+        "website": "http://www.contradadellaquila.com/la-contrada/la-sede-e-il-museo.html",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670458",
+        "osm_url": "https://www.openstreetmap.org/way/1185348842"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1109516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.306774,
+          43.552016
+        ]
+      },
+      "properties": {
+        "id": "Q1109516",
+        "slug": "chiesa-di-san-giovanni-battista-q1109516",
+        "name": "chiesa di San Giovanni Battista",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1624",
+        "date_kind": "year",
+        "start_year": 1624,
+        "end_year": 1624,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chiesa_San_Giovanni_Battista%2C_Livorno.jpg/1920px-Chiesa_San_Giovanni_Battista%2C_Livorno.jpg",
+        "hero_filename": "Chiesa San Giovanni Battista, Livorno.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1109516",
+        "osm_url": "https://www.openstreetmap.org/way/76654897"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3001779",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.241839,
+          43.761031
+        ]
+      },
+      "properties": {
+        "id": "Q3001779",
+        "slug": "chiesa-di-san-giovanni-battista-della-calza-q3001779",
+        "name": "chiesa di San Giovanni Battista della Calza",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1362",
+        "date_kind": "year",
+        "start_year": 1362,
+        "end_year": 1362,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/80/San_Giovanni_della_Calza_3.JPG",
+        "hero_filename": "San Giovanni della Calza 3.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3001779",
+        "osm_url": "https://www.openstreetmap.org/way/306222212"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14316,
+          44.03524
+        ]
+      },
+      "properties": {
+        "id": "Q3670507",
+        "slug": "chiesa-di-san-giovanni-decollato-q3670507",
+        "name": "chiesa di San Giovanni Decollato",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1639",
+        "date_kind": "year",
+        "start_year": 1639,
+        "end_year": 1639,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Esterno_della_chiesa_di_San_Giovanni_Decollato%2C_Massa_%281%29.jpg/1920px-Esterno_della_chiesa_di_San_Giovanni_Decollato%2C_Massa_%281%29.jpg",
+        "hero_filename": "Esterno della chiesa di San Giovanni Decollato, Massa (1).jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670507",
+        "osm_url": "https://www.openstreetmap.org/node/1496673204"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q111191245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921056,
+          43.931722
+        ]
+      },
+      "properties": {
+        "id": "Q111191245",
+        "slug": "chiesa-di-san-giovanni-decollato-q111191245",
+        "name": "chiesa di San Giovanni Decollato",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1337",
+        "date_kind": "year",
+        "start_year": 1337,
+        "end_year": 1337,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pistoia_-_Chiesa_di_San_Giovanni_Decollato_-_2023-09-28_13-30-10_001.jpg/1920px-Pistoia_-_Chiesa_di_San_Giovanni_Decollato_-_2023-09-28_13-30-10_001.jpg",
+        "hero_filename": "Pistoia - Chiesa di San Giovanni Decollato - 2023-09-28 13-30-10 001.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q111191245",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670542",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.403222222222,
+          43.713277777778
+        ]
+      },
+      "properties": {
+        "id": "Q3670542",
+        "slug": "chiesa-di-san-giovanni-dei-fieri-q3670542",
+        "name": "chiesa di San Giovanni dei Fieri",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1614",
+        "date_kind": "year",
+        "start_year": 1614,
+        "end_year": 1614,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/85/San_Giovanni_dei_Fieri%2C_pisa_01.JPG",
+        "hero_filename": "San Giovanni dei Fieri, pisa 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670542",
+        "osm_url": "https://www.openstreetmap.org/way/536750741"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40888333,
+          43.52184167
+        ]
+      },
+      "properties": {
+        "id": "Q3670530",
+        "slug": "chiesa-di-san-giovanni-gualberto-q3670530",
+        "name": "chiesa di San Giovanni Gualberto",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1692",
+        "date_kind": "year",
+        "start_year": 1692,
+        "end_year": 1692,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Livorno%2C_san_giovanni_gualberto_a_valle_benedetta%2C_esterno_07.jpg/1920px-Livorno%2C_san_giovanni_gualberto_a_valle_benedetta%2C_esterno_07.jpg",
+        "hero_filename": "Livorno, san giovanni gualberto a valle benedetta, esterno 07.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670530",
+        "osm_url": "https://www.openstreetmap.org/way/58760265"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2557,
+          43.7748
+        ]
+      },
+      "properties": {
+        "id": "Q3670564",
+        "slug": "chiesa-di-san-giovannino-degli-scolopi-q3670564",
+        "name": "chiesa di San Giovannino degli Scolopi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1579",
+        "date_kind": "year",
+        "start_year": 1579,
+        "end_year": 1579,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/San_Giovannino_degli_Scolopi.JPG",
+        "hero_filename": "San Giovannino degli Scolopi.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670564",
+        "osm_url": "https://www.openstreetmap.org/way/305683536"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2588,
+          43.78009
+        ]
+      },
+      "properties": {
+        "id": "Q3670567",
+        "slug": "chiesa-di-san-giovannino-dei-cavalieri-q3670567",
+        "name": "chiesa di San Giovannino dei Cavalieri",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1326",
+        "date_kind": "year",
+        "start_year": 1326,
+        "end_year": 1326,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/San_giovannino_dei_cavalieri%2C_facciata_02.JPG/1920px-San_giovannino_dei_cavalieri%2C_facciata_02.JPG",
+        "hero_filename": "San giovannino dei cavalieri, facciata 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670567",
+        "osm_url": "https://www.openstreetmap.org/way/781509450"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3347,
+          43.319
+        ]
+      },
+      "properties": {
+        "id": "Q3670565",
+        "slug": "chiesa-di-san-giovannino-della-staffa-q3670565",
+        "name": "chiesa di San Giovannino della Staffa",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1611",
+        "date_kind": "year",
+        "start_year": 1611,
+        "end_year": 1611,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/San_Giovannino_della_Staffa%2C_facciata.JPG/1920px-San_Giovannino_della_Staffa%2C_facciata.JPG",
+        "hero_filename": "San Giovannino della Staffa, facciata.JPG",
+        "website": "http://lnx.contradaleocorno.it/?page_id=41",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670565",
+        "osm_url": "https://www.openstreetmap.org/way/45758888"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.265525,
+          43.76806667
+        ]
+      },
+      "properties": {
+        "id": "Q3670618",
+        "slug": "chiesa-di-san-giuseppe-q3670618",
+        "name": "chiesa di San Giuseppe",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1759",
+        "date_kind": "year",
+        "start_year": 1759,
+        "end_year": 1759,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_giuseppe%2C_firenze%2C_facciata_01.JPG/1920px-San_giuseppe%2C_firenze%2C_facciata_01.JPG",
+        "hero_filename": "San giuseppe, firenze, facciata 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670618",
+        "osm_url": "https://www.openstreetmap.org/way/203496642"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33194444,
+          43.31527778
+        ]
+      },
+      "properties": {
+        "id": "Q3670652",
+        "slug": "chiesa-di-san-giuseppe-q3670652",
+        "name": "chiesa di San Giuseppe",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1653",
+        "date_kind": "year",
+        "start_year": 1653,
+        "end_year": 1653,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
+        "hero_filename": "Chiesa di san giuseppe siena.jpg",
+        "website": "http://www.contradacapitanadellonda.com/la-chiesa",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670652",
+        "osm_url": "https://www.openstreetmap.org/way/1186559509"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670697",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90431,
+          43.43142
+        ]
+      },
+      "properties": {
+        "id": "Q3670697",
+        "slug": "chiesa-di-san-gorgonio-q3670697",
+        "name": "chiesa di San Gorgonio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1723",
+        "date_kind": "year",
+        "start_year": 1723,
+        "end_year": 1723,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gorgona%2C_san_gorgonio_01.jpg/1920px-Gorgona%2C_san_gorgonio_01.jpg",
+        "hero_filename": "Gorgona, san gorgonio 01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670697",
+        "osm_url": "https://www.openstreetmap.org/way/1208073240"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670747",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.30596,
+          43.52959
+        ]
+      },
+      "properties": {
+        "id": "Q3670747",
+        "slug": "chiesa-di-san-jacopo-in-acquaviva-q3670747",
+        "name": "chiesa di San Jacopo in Acquaviva",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1163",
+        "date_kind": "year",
+        "start_year": 1163,
+        "end_year": 1163,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chiesa_di_San_Jacopo_a_Livorno.JPG/1920px-Chiesa_di_San_Jacopo_a_Livorno.JPG",
+        "hero_filename": "Chiesa di San Jacopo a Livorno.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670747",
+        "osm_url": "https://www.openstreetmap.org/way/633728245"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2518,
+          43.7764
+        ]
+      },
+      "properties": {
+        "id": "Q3670749",
+        "slug": "chiesa-di-san-jacopo-in-campo-corbolini-q3670749",
+        "name": "chiesa di San Jacopo in Campo Corbolini",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1311",
+        "date_kind": "year",
+        "start_year": 1311,
+        "end_year": 1311,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/32/San_Jacopo_in_Campo_Corbolini.JPG",
+        "hero_filename": "San Jacopo in Campo Corbolini.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670749",
+        "osm_url": "https://www.openstreetmap.org/way/306396529"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670741",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25068,
+          43.76813
+        ]
+      },
+      "properties": {
+        "id": "Q3670741",
+        "slug": "chiesa-di-san-jacopo-soprarno-q3670741",
+        "name": "chiesa di San Jacopo Soprarno",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1660",
+        "date_kind": "year",
+        "start_year": 1660,
+        "end_year": 1660,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_jacopo_soprarno%2C_retro_%28mattina%29_02.JPG/1920px-San_jacopo_soprarno%2C_retro_%28mattina%29_02.JPG",
+        "hero_filename": "San jacopo soprarno, retro (mattina) 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670741",
+        "osm_url": "https://www.openstreetmap.org/way/306811250"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q16540253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.338501,
+          43.315335
+        ]
+      },
+      "properties": {
+        "id": "Q16540253",
+        "slug": "chiesa-di-san-leonardo-q16540253",
+        "name": "chiesa di San Leonardo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1173",
+        "date_kind": "year",
+        "start_year": 1173,
+        "end_year": 1173,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/SienaSanLeonardo5.jpg/1920px-SienaSanLeonardo5.jpg",
+        "hero_filename": "SienaSanLeonardo5.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q16540253",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25531,
+          43.75972
+        ]
+      },
+      "properties": {
+        "id": "Q3670791",
+        "slug": "chiesa-di-san-leonardo-in-arcetri-q3670791",
+        "name": "chiesa di San Leonardo in Arcetri",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/18/SanLeonardoinArcetri01.jpg",
+        "hero_filename": "SanLeonardoinArcetri01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670791",
+        "osm_url": "https://www.openstreetmap.org/way/305680883"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670924",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2533622398,
+          43.8234654288
+        ]
+      },
+      "properties": {
+        "id": "Q3670924",
+        "slug": "chiesa-di-san-lorenzo-a-serpiolle-q3670924",
+        "name": "chiesa di San Lorenzo a Serpiolle",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1202",
+        "date_kind": "year",
+        "start_year": 1202,
+        "end_year": 1202,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/San_lorenzo_a_serpiolle_01.JPG/1920px-San_lorenzo_a_serpiolle_01.JPG",
+        "hero_filename": "San lorenzo a serpiolle 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670924",
+        "osm_url": "https://www.openstreetmap.org/way/305727652"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670973",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9268,
+          43.7173
+        ]
+      },
+      "properties": {
+        "id": "Q3670973",
+        "slug": "chiesa-di-san-mamante-q3670973",
+        "name": "chiesa di San Mamante",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1119",
+        "date_kind": "year",
+        "start_year": 1119,
+        "end_year": 1119,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/San_mamante_empoli.jpg/1920px-San_mamante_empoli.jpg",
+        "hero_filename": "San mamante empoli.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670973",
+        "osm_url": "https://www.openstreetmap.org/way/618546955"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3670984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2922,
+          43.752
+        ]
+      },
+      "properties": {
+        "id": "Q3670984",
+        "slug": "chiesa-di-san-marcellino-q3670984",
+        "name": "chiesa di San Marcellino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1197",
+        "date_kind": "year",
+        "start_year": 1197,
+        "end_year": 1197,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Chiesa_di_san_marcellino_01.JPG",
+        "hero_filename": "Chiesa di san marcellino 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3670984",
+        "osm_url": "https://www.openstreetmap.org/way/374064985"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26911,
+          43.79144
+        ]
+      },
+      "properties": {
+        "id": "Q3671004",
+        "slug": "chiesa-di-san-marco-vecchio-q3671004",
+        "name": "chiesa di San Marco Vecchio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1058",
+        "date_kind": "year",
+        "start_year": 1058,
+        "end_year": 1058,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chiesa_di_san_marco_vecchio_04.JPG",
+        "hero_filename": "Chiesa di san marco vecchio 04.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671004",
+        "osm_url": "https://www.openstreetmap.org/way/305870459"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34126944,
+          43.53291389
+        ]
+      },
+      "properties": {
+        "id": "Q3671047",
+        "slug": "chiesa-di-san-martino-q3671047",
+        "name": "chiesa di San Martino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1000",
+        "date_kind": "year",
+        "start_year": 1000,
+        "end_year": 1000,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chiesa_di_San_Martino%2C_Salviano%2C_Livorno_2.JPG/1920px-Chiesa_di_San_Martino%2C_Salviano%2C_Livorno_2.JPG",
+        "hero_filename": "Chiesa di San Martino, Salviano, Livorno 2.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671047",
+        "osm_url": "https://www.openstreetmap.org/way/121067709"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40475,
+          43.71275
+        ]
+      },
+      "properties": {
+        "id": "Q3671060",
+        "slug": "chiesa-di-san-martino-q3671060",
+        "name": "chiesa di San Martino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1331",
+        "date_kind": "year",
+        "start_year": 1331,
+        "end_year": 1331,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chiesa_di_San_Martino_-_Facade.jpg/1920px-Chiesa_di_San_Martino_-_Facade.jpg",
+        "hero_filename": "Chiesa di San Martino - Facade.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671060",
+        "osm_url": "https://www.openstreetmap.org/way/156079975"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30777,
+          43.78317
+        ]
+      },
+      "properties": {
+        "id": "Q3671101",
+        "slug": "chiesa-di-san-martino-a-mensola-q3671101",
+        "name": "chiesa di San Martino a Mensola",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1451",
+        "date_kind": "year",
+        "start_year": 1451,
+        "end_year": 1451,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Chiesa_di_san_martino_a_mensola.JPG",
+        "hero_filename": "Chiesa di san martino a mensola.JPG",
+        "website": "http://www.sanmartinoamensola.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671101",
+        "osm_url": "https://www.openstreetmap.org/way/276191579"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.254636111111,
+          43.792769444444
+        ]
+      },
+      "properties": {
+        "id": "Q3671105",
+        "slug": "chiesa-di-san-martino-a-montughi-q3671105",
+        "name": "chiesa di San Martino a Montughi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1222",
+        "date_kind": "year",
+        "start_year": 1222,
+        "end_year": 1222,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/San_martino_a_montughi%2C_ext%2C_01.JPG/1920px-San_martino_a_montughi%2C_ext%2C_01.JPG",
+        "hero_filename": "San martino a montughi, ext, 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671105",
+        "osm_url": "https://www.openstreetmap.org/way/110550849"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2448,
+          43.7759
+        ]
+      },
+      "properties": {
+        "id": "Q3671141",
+        "slug": "chiesa-di-san-martino-in-santa-maria-della-scala-q3671141",
+        "name": "chiesa di San Martino in Santa Maria della Scala",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1316",
+        "date_kind": "year",
+        "start_year": 1316,
+        "end_year": 1316,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Complesso_di_san_martino_alla_scala_01.JPG/1920px-Complesso_di_san_martino_alla_scala_01.JPG",
+        "hero_filename": "Complesso di san martino alla scala 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671141",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.23268,
+          43.82017
+        ]
+      },
+      "properties": {
+        "id": "Q3671341",
+        "slug": "chiesa-di-san-michele-a-castello-q3671341",
+        "name": "chiesa di San Michele a Castello",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1617",
+        "date_kind": "year",
+        "start_year": 1617,
+        "end_year": 1617,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Chiesa_di_San_Michele_a_Castello_%28Florence%29_-_Facade.jpg",
+        "hero_filename": "Chiesa di San Michele a Castello (Florence) - Facade.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671341",
+        "osm_url": "https://www.openstreetmap.org/way/179998044"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q692591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28671,
+          43.77201
+        ]
+      },
+      "properties": {
+        "id": "Q692591",
+        "slug": "chiesa-di-san-michele-a-san-salvi-q692591",
+        "name": "chiesa di San Michele a San Salvi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Chiesa_di_san_salvi.JPG",
+        "hero_filename": "Chiesa di san salvi.JPG",
+        "website": "http://www.mac.cat/cat/Seus/Barcelona",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q692591",
+        "osm_url": "https://www.openstreetmap.org/way/196374482"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.96252,
+          43.72207
+        ]
+      },
+      "properties": {
+        "id": "Q3671305",
+        "slug": "chiesa-di-san-michele-arcangelo-q3671305",
+        "name": "chiesa di San Michele Arcangelo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1192",
+        "date_kind": "year",
+        "start_year": 1192,
+        "end_year": 1192,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michele_a_pontorme.jpg/1920px-Michele_a_pontorme.jpg",
+        "hero_filename": "Michele a pontorme.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671305",
+        "osm_url": "https://www.openstreetmap.org/way/687747709"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q55156351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25726,
+          43.74018
+        ]
+      },
+      "properties": {
+        "id": "Q55156351",
+        "slug": "chiesa-di-san-michele-arcangelo-a-monteripaldi-q55156351",
+        "name": "chiesa di San Michele Arcangelo a Monteripaldi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1138",
+        "date_kind": "year",
+        "start_year": 1138,
+        "end_year": 1138,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/San_Michele_a_Monteripaldi_02.JPG/1920px-San_Michele_a_Monteripaldi_02.JPG",
+        "hero_filename": "San Michele a Monteripaldi 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q55156351",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3506865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40254167,
+          43.71689444
+        ]
+      },
+      "properties": {
+        "id": "Q3506865",
+        "slug": "chiesa-di-san-michele-in-borgo-q3506865",
+        "name": "chiesa di San Michele in Borgo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/San_Michele_in_Borgo%2C_Pisa.jpg/1920px-San_Michele_in_Borgo%2C_Pisa.jpg",
+        "hero_filename": "San Michele in Borgo, Pisa.jpg",
+        "website": "https://www.sanmicheleinborgo.info/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3506865",
+        "osm_url": "https://www.openstreetmap.org/way/159525352"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.258,
+          43.7739
+        ]
+      },
+      "properties": {
+        "id": "Q3671342",
+        "slug": "chiesa-di-san-michele-visdomini-q3671342",
+        "name": "chiesa di San Michele Visdomini",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1346",
+        "date_kind": "year",
+        "start_year": 1346,
+        "end_year": 1346,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/San_michele_visdomini%2C_esterno%2C_02.jpg/1920px-San_michele_visdomini%2C_esterno%2C_02.jpg",
+        "hero_filename": "San michele visdomini, esterno, 02.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671342",
+        "osm_url": "https://www.openstreetmap.org/way/266213439"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26117,
+          43.7646
+        ]
+      },
+      "properties": {
+        "id": "Q3671413",
+        "slug": "chiesa-di-san-niccolo-oltrarno-q3671413",
+        "name": "chiesa di San Niccolò Oltrarno",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1184",
+        "date_kind": "year",
+        "start_year": 1184,
+        "end_year": 1184,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Firenze_-_Florence_-_Via_di_San_Niccol%C3%B2_-_View_East_on_chiesa_di_San_Niccol%C3%B2_Oltrarno.jpg/1920px-Firenze_-_Florence_-_Via_di_San_Niccol%C3%B2_-_View_East_on_chiesa_di_San_Niccol%C3%B2_Oltrarno.jpg",
+        "hero_filename": "Firenze - Florence - Via di San Niccolò - View East on chiesa di San Niccolò Oltrarno.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671413",
+        "osm_url": "https://www.openstreetmap.org/way/599897663"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2477,
+          43.7727
+        ]
+      },
+      "properties": {
+        "id": "Q3671531",
+        "slug": "chiesa-di-san-paolino-q3671531",
+        "name": "chiesa di San Paolino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1094",
+        "date_kind": "year",
+        "start_year": 1094,
+        "end_year": 1094,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/38/San_paolino%2C_facciata.JPG",
+        "hero_filename": "San paolino, facciata.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671531",
+        "osm_url": "https://www.openstreetmap.org/way/800365632"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1423910",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3935,
+          43.71291667
+        ]
+      },
+      "properties": {
+        "id": "Q1423910",
+        "slug": "chiesa-di-san-paolo-a-ripa-d-arno-q1423910",
+        "name": "chiesa di San Paolo a Ripa d'Arno",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "10th century",
+        "date_kind": "century",
+        "start_year": 901,
+        "end_year": 1000,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pisa_-_Chiesa_di_San_Paolo_a_Ripa_02.JPG/1920px-Pisa_-_Chiesa_di_San_Paolo_a_Ripa_02.JPG",
+        "hero_filename": "Pisa - Chiesa di San Paolo a Ripa 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1423910",
+        "osm_url": "https://www.openstreetmap.org/way/127284631"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3506968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40444,
+          43.71756
+        ]
+      },
+      "properties": {
+        "id": "Q3506968",
+        "slug": "chiesa-di-san-paolo-all-orto-q3506968",
+        "name": "chiesa di San Paolo all'Orto",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "12th century",
+        "date_kind": "century",
+        "start_year": 1101,
+        "end_year": 1200,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pisa_san_Paolo_all%27Orto.JPG",
+        "hero_filename": "Pisa san Paolo all'Orto.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3506968",
+        "osm_url": "https://www.openstreetmap.org/way/241614966"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24412,
+          43.76317
+        ]
+      },
+      "properties": {
+        "id": "Q3671588",
+        "slug": "chiesa-di-san-pier-gattolino-q3671588",
+        "name": "chiesa di San Pier Gattolino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1390",
+        "date_kind": "year",
+        "start_year": 1390,
+        "end_year": 1390,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Via_romana%2C_san_pier_gattolino%2C_01.jpg/1920px-Via_romana%2C_san_pier_gattolino%2C_01.jpg",
+        "hero_filename": "Via romana, san pier gattolino, 01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671588",
+        "osm_url": "https://www.openstreetmap.org/way/306378148"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2564,
+          43.7689
+        ]
+      },
+      "properties": {
+        "id": "Q3671596",
+        "slug": "chiesa-di-san-pier-scheraggio-q3671596",
+        "name": "chiesa di San Pier Scheraggio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1068",
+        "date_kind": "year",
+        "start_year": 1068,
+        "end_year": 1068,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/View_of_Ancient_Florence_by_Fabio_Borbottoni_1820-1902_%2820%29.jpg/1920px-View_of_Ancient_Florence_by_Fabio_Borbottoni_1820-1902_%2820%29.jpg",
+        "hero_filename": "View of Ancient Florence by Fabio Borbottoni 1820-1902 (20).jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671596",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671748",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.18264,
+          43.77227
+        ]
+      },
+      "properties": {
+        "id": "Q3671748",
+        "slug": "chiesa-di-san-pietro-a-sollicciano-q3671748",
+        "name": "chiesa di San Pietro a Sollicciano",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1050",
+        "date_kind": "year",
+        "start_year": 1050,
+        "end_year": 1050,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Firenze%2C_san_pietro_a_sollicciano%2C_esterno_01.jpg/1920px-Firenze%2C_san_pietro_a_sollicciano%2C_esterno_01.jpg",
+        "hero_filename": "Firenze, san pietro a sollicciano, esterno 01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671748",
+        "osm_url": "https://www.openstreetmap.org/way/306224655"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671752",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30007,
+          43.76681
+        ]
+      },
+      "properties": {
+        "id": "Q3671752",
+        "slug": "chiesa-di-san-pietro-a-varlungo-q3671752",
+        "name": "chiesa di San Pietro a Varlungo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1107",
+        "date_kind": "year",
+        "start_year": 1107,
+        "end_year": 1107,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/San_pietro_a_varlungo%2C_ext.%2C_01.JPG/1920px-San_pietro_a_varlungo%2C_ext.%2C_01.JPG",
+        "hero_filename": "San pietro a varlungo, ext., 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671752",
+        "osm_url": "https://www.openstreetmap.org/way/306224847"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3504517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40386,
+          43.71632
+        ]
+      },
+      "properties": {
+        "id": "Q3504517",
+        "slug": "chiesa-di-san-pietro-in-vinculis-q3504517",
+        "name": "chiesa di San Pietro in Vinculis",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1072",
+        "date_kind": "year",
+        "start_year": 1072,
+        "end_year": 1072,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pisa_San_Pietro_in_Vinculis_%28facciata%29.JPG",
+        "hero_filename": "Pisa San Pietro in Vinculis (facciata).JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3504517",
+        "osm_url": "https://www.openstreetmap.org/way/105625234"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25873056,
+          43.77079444
+        ]
+      },
+      "properties": {
+        "id": "Q3671828",
+        "slug": "chiesa-di-san-procolo-q3671828",
+        "name": "chiesa di San Procolo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "13th century",
+        "date_kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Via_de%27_giraldi_angolo_via_pandolfini%2C_chiesa_di_san_procolo_01.jpg/1920px-Via_de%27_giraldi_angolo_via_pandolfini%2C_chiesa_di_san_procolo_01.jpg",
+        "hero_filename": "Via de' giraldi angolo via pandolfini, chiesa di san procolo 01.jpg",
+        "website": "https://www.conoscifirenze.it/luoghi-di-culto-a-firenze/684-Chiesa-di-San-Procolo.html",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671828",
+        "osm_url": "https://www.openstreetmap.org/way/306156989"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671846",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33916667,
+          43.31666667
+        ]
+      },
+      "properties": {
+        "id": "Q3671846",
+        "slug": "chiesa-di-san-raimondo-al-refugio-q3671846",
+        "name": "chiesa di San Raimondo al Refugio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1601",
+        "date_kind": "year",
+        "start_year": 1601,
+        "end_year": 1601,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/San_Raimondo_al_Refugio_01.JPG/1920px-San_Raimondo_al_Refugio_01.JPG",
+        "hero_filename": "San Raimondo al Refugio 01.JPG",
+        "website": "http://www.fondazioneconservatoririunitisiena.it/it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671846",
+        "osm_url": "https://www.openstreetmap.org/way/47188200"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1102884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39967,
+          43.71954
+        ]
+      },
+      "properties": {
+        "id": "Q1102884",
+        "slug": "chiesa-di-san-rocco-q1102884",
+        "name": "chiesa di San Rocco",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1634",
+        "date_kind": "year",
+        "start_year": 1634,
+        "end_year": 1634,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/San_Rocco_Pisa.jpg/1920px-San_Rocco_Pisa.jpg",
+        "hero_filename": "San Rocco Pisa.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1102884",
+        "osm_url": "https://www.openstreetmap.org/way/668631812"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2220029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26540556,
+          43.76158056
+        ]
+      },
+      "properties": {
+        "id": "Q2220029",
+        "slug": "chiesa-di-san-salvatore-al-monte-q2220029",
+        "name": "chiesa di San Salvatore al Monte",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1498",
+        "date_kind": "year",
+        "start_year": 1498,
+        "end_year": 1498,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/San_salvatore_al_monte.JPG",
+        "hero_filename": "San salvatore al monte.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2220029",
+        "osm_url": "https://www.openstreetmap.org/way/91371849"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.254059811194464,
+          43.77303782903239
+        ]
+      },
+      "properties": {
+        "id": "Q3671987",
+        "slug": "chiesa-di-san-salvatore-al-vescovo-q3671987",
+        "name": "chiesa di San Salvatore al Vescovo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1221",
+        "date_kind": "year",
+        "start_year": 1221,
+        "end_year": 1221,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/San_Salvatore_al_Vescovo.JPG",
+        "hero_filename": "San Salvatore al Vescovo.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671987",
+        "osm_url": "https://www.openstreetmap.org/node/4758517538"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.306109,
+          43.549147
+        ]
+      },
+      "properties": {
+        "id": "Q3672017",
+        "slug": "chiesa-di-san-sebastiano-q3672017",
+        "name": "chiesa di San Sebastiano",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1633",
+        "date_kind": "year",
+        "start_year": 1633,
+        "end_year": 1633,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chiesa_San_Sebastiano%2C_Livorno.jpg/1920px-Chiesa_San_Sebastiano%2C_Livorno.jpg",
+        "hero_filename": "Chiesa San Sebastiano, Livorno.jpg",
+        "website": "http://www.icrss.it/livorno/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672017",
+        "osm_url": "https://www.openstreetmap.org/node/630952981"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.327395,
+          43.317403
+        ]
+      },
+      "properties": {
+        "id": "Q3672030",
+        "slug": "chiesa-di-san-sebastiano-in-vallepiatta-q3672030",
+        "name": "chiesa di San Sebastiano in Vallepiatta",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Piazzetta_della_selva_01.JPG/1920px-Piazzetta_della_selva_01.JPG",
+        "hero_filename": "Piazzetta della selva 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672030",
+        "osm_url": "https://www.openstreetmap.org/way/47800501"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3504833",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.41016,
+          43.71438
+        ]
+      },
+      "properties": {
+        "id": "Q3504833",
+        "slug": "chiesa-di-san-silvestro-q3504833",
+        "name": "chiesa di San Silvestro",
+        "church_type": "former_church",
+        "region": "Tuscany",
+        "date_display": "1118",
+        "date_kind": "year",
+        "start_year": 1118,
+        "end_year": 1118,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chiesa_San_Silvestro%2C_Pisa.jpg/1920px-Chiesa_San_Silvestro%2C_Pisa.jpg",
+        "hero_filename": "Chiesa San Silvestro, Pisa.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3504833",
+        "osm_url": "https://www.openstreetmap.org/way/128393613"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3505132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39919,
+          43.71952
+        ]
+      },
+      "properties": {
+        "id": "Q3505132",
+        "slug": "chiesa-di-san-sisto-q3505132",
+        "name": "chiesa di San Sisto",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1133",
+        "date_kind": "year",
+        "start_year": 1133,
+        "end_year": 1133,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pisa_-_Chiesa_di_San_Sisto_01.JPG/1920px-Pisa_-_Chiesa_di_San_Sisto_01.JPG",
+        "hero_filename": "Pisa - Chiesa di San Sisto 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3505132",
+        "osm_url": "https://www.openstreetmap.org/way/140894052"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1102250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33138889,
+          43.31444444
+        ]
+      },
+      "properties": {
+        "id": "Q1102250",
+        "slug": "chiesa-di-sant-agostino-q1102250",
+        "name": "chiesa di Sant'Agostino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1258",
+        "date_kind": "year",
+        "start_year": 1258,
+        "end_year": 1258,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/SantAgostinoSiena2.JPG/1920px-SantAgostinoSiena2.JPG",
+        "hero_filename": "SantAgostinoSiena2.JPG",
+        "website": "https://www.viaesiena.it/it/mendicanti/itinerario_o/chiesa-sant-agostino",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1102250",
+        "osm_url": "https://www.openstreetmap.org/way/1189435410"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26668,
+          43.77152
+        ]
+      },
+      "properties": {
+        "id": "Q3672358",
+        "slug": "chiesa-di-sant-ambrogio-q3672358",
+        "name": "chiesa di Sant'Ambrogio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "8th century",
+        "date_kind": "century",
+        "start_year": 701,
+        "end_year": 800,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Firenze_-_Florence_-_Piazza_Sant%27Ambrogio_-_ICE_Photocompilation_Viewing_from_NE_to_East_on_Chiesa_di_Sant%27Ambrogio.jpg/1920px-Firenze_-_Florence_-_Piazza_Sant%27Ambrogio_-_ICE_Photocompilation_Viewing_from_NE_to_East_on_Chiesa_di_Sant%27Ambrogio.jpg",
+        "hero_filename": "Firenze - Florence - Piazza Sant'Ambrogio - ICE Photocompilation Viewing from NE to East on Chiesa di Sant'Ambrogio.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672358",
+        "osm_url": "https://www.openstreetmap.org/way/599901040"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10593611,
+          42.66722778
+        ]
+      },
+      "properties": {
+        "id": "Q3672660",
+        "slug": "chiesa-di-sant-antonio-abate-q3672660",
+        "name": "chiesa di Sant'Antonio Abate",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1587",
+        "date_kind": "year",
+        "start_year": 1587,
+        "end_year": 1587,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672660",
+        "osm_url": "https://www.openstreetmap.org/way/715599859"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39797,
+          43.71099
+        ]
+      },
+      "properties": {
+        "id": "Q3672682",
+        "slug": "chiesa-di-sant-antonio-abate-q3672682",
+        "name": "chiesa di Sant'Antonio Abate",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1341",
+        "date_kind": "year",
+        "start_year": 1341,
+        "end_year": 1341,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sant%27Antonio_Abate%2C_Pisa%2C_facciata.JPG/1920px-Sant%27Antonio_Abate%2C_Pisa%2C_facciata.JPG",
+        "hero_filename": "Sant'Antonio Abate, Pisa, facciata.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672682",
+        "osm_url": "https://www.openstreetmap.org/way/150277379"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q19843876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.07739,
+          44.10376
+        ]
+      },
+      "properties": {
+        "id": "Q19843876",
+        "slug": "chiesa-di-sant-antonio-abate-e-sant-anna-q19843876",
+        "name": "chiesa di Sant'Antonio Abate e Sant'Anna",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1741",
+        "date_kind": "year",
+        "start_year": 1741,
+        "end_year": 1741,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG/1920px-Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+        "hero_filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q19843876",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.373284,
+          43.71687
+        ]
+      },
+      "properties": {
+        "id": "Q3672727",
+        "slug": "chiesa-di-sant-apollinare-q3672727",
+        "name": "chiesa di Sant'Apollinare",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1782",
+        "date_kind": "year",
+        "start_year": 1782,
+        "end_year": 1782,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/San_Apollinare_Barbaricina%2C_Pisa.JPG/1920px-San_Apollinare_Barbaricina%2C_Pisa.JPG",
+        "hero_filename": "San Apollinare Barbaricina, Pisa.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672727",
+        "osm_url": "https://www.openstreetmap.org/way/308613214"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672859",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.260347,
+          43.767464
+        ]
+      },
+      "properties": {
+        "id": "Q3672859",
+        "slug": "chiesa-di-sant-onofrio-q3672859",
+        "name": "chiesa di Sant'Onofrio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1724",
+        "date_kind": "year",
+        "start_year": 1724,
+        "end_year": 1724,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672859",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q281259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401861111111,
+          43.719972222222
+        ]
+      },
+      "properties": {
+        "id": "Q281259",
+        "slug": "chiesa-di-santa-apollonia-q281259",
+        "name": "chiesa di Santa Apollonia",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1777",
+        "date_kind": "year",
+        "start_year": 1777,
+        "end_year": 1777,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_Apollonia%2C_Pisa_%2826655108776%29.jpg/1920px-Santa_Apollonia%2C_Pisa_%2826655108776%29.jpg",
+        "hero_filename": "Santa Apollonia, Pisa (26655108776).jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q281259",
+        "osm_url": "https://www.openstreetmap.org/way/216744137"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672897",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.286471,
+          43.752863
+        ]
+      },
+      "properties": {
+        "id": "Q3672897",
+        "slug": "chiesa-di-santa-brigida-al-paradiso-q3672897",
+        "name": "chiesa di Santa Brigida al Paradiso",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1390",
+        "date_kind": "year",
+        "start_year": 1390,
+        "end_year": 1390,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672897",
+        "osm_url": "https://www.openstreetmap.org/node/5328055520"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672904",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.30823,
+          43.5549
+        ]
+      },
+      "properties": {
+        "id": "Q3672904",
+        "slug": "chiesa-di-santa-caterina-q3672904",
+        "name": "chiesa di Santa Caterina",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1753",
+        "date_kind": "year",
+        "start_year": 1753,
+        "end_year": 1753,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Chiesa_Santa_Caterina%2C_Livorno.jpg/1920px-Chiesa_Santa_Caterina%2C_Livorno.jpg",
+        "hero_filename": "Chiesa Santa Caterina, Livorno.jpg",
+        "website": "http://www.chiesadisantacaterina.it/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672904",
+        "osm_url": "https://www.openstreetmap.org/way/121984159"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3505115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40465,
+          43.72113
+        ]
+      },
+      "properties": {
+        "id": "Q3505115",
+        "slug": "chiesa-di-santa-caterina-d-alessandria-q3505115",
+        "name": "chiesa di Santa Caterina d'Alessandria",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1250",
+        "date_kind": "year",
+        "start_year": 1250,
+        "end_year": 1250,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Santa_Caterina_%28Pisa%29_02.jpg/1920px-Santa_Caterina_%28Pisa%29_02.jpg",
+        "hero_filename": "Santa Caterina (Pisa) 02.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3505115",
+        "osm_url": "https://www.openstreetmap.org/way/95460603"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672942",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25481389,
+          43.76966944
+        ]
+      },
+      "properties": {
+        "id": "Q3672942",
+        "slug": "chiesa-di-santa-cecilia-q3672942",
+        "name": "chiesa di Santa Cecilia",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1637",
+        "date_kind": "year",
+        "start_year": 1637,
+        "end_year": 1637,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672942",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672967",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39566,
+          43.72176
+        ]
+      },
+      "properties": {
+        "id": "Q3672967",
+        "slug": "chiesa-di-santa-chiara-q3672967",
+        "name": "chiesa di Santa Chiara",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1277",
+        "date_kind": "year",
+        "start_year": 1277,
+        "end_year": 1277,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Chiesa_di_santa_chiara%2C_pisa.JPG",
+        "hero_filename": "Chiesa di santa chiara, pisa.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672967",
+        "osm_url": "https://www.openstreetmap.org/way/701045442"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q585547",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.400027777778,
+          43.715722222222
+        ]
+      },
+      "properties": {
+        "id": "Q585547",
+        "slug": "chiesa-di-santa-cristina-q585547",
+        "name": "chiesa di Santa Cristina",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1118",
+        "date_kind": "year",
+        "start_year": 1118,
+        "end_year": 1118,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chiesa_di_Santa_Cristina_%28Pisa%29.JPG",
+        "hero_filename": "Chiesa di Santa Cristina (Pisa).JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q585547",
+        "osm_url": "https://www.openstreetmap.org/way/184399190"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39828,
+          43.71972
+        ]
+      },
+      "properties": {
+        "id": "Q3673046",
+        "slug": "chiesa-di-santa-eufrasia-q3673046",
+        "name": "chiesa di Santa Eufrasia",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1124",
+        "date_kind": "year",
+        "start_year": 1124,
+        "end_year": 1124,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chiesa_Santa_Eufrasia%2C_Pisa.JPG/1920px-Chiesa_Santa_Eufrasia%2C_Pisa.JPG",
+        "hero_filename": "Chiesa Santa Eufrasia, Pisa.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673046",
+        "osm_url": "https://www.openstreetmap.org/way/669784441"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1069665",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.252636111111,
+          43.766833333333
+        ]
+      },
+      "properties": {
+        "id": "Q1069665",
+        "slug": "chiesa-di-santa-felicita-q1069665",
+        "name": "chiesa di Santa Felicita",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1050s",
+        "date_kind": "decade",
+        "start_year": 1050,
+        "end_year": 1059,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Santa_Felicita_%28Florence%29.jpg/1920px-Santa_Felicita_%28Florence%29.jpg",
+        "hero_filename": "Santa Felicita (Florence).jpg",
+        "website": "http://www.santafelicitafirenze.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1069665",
+        "osm_url": "https://www.openstreetmap.org/way/159394659"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.310079,
+          43.550103
+        ]
+      },
+      "properties": {
+        "id": "Q3673065",
+        "slug": "chiesa-di-santa-giulia-q3673065",
+        "name": "chiesa di Santa Giulia",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1602",
+        "date_kind": "year",
+        "start_year": 1602,
+        "end_year": 1602,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Livorno%2C_santa_giulia%2C_esterno%2C_01.jpg/1920px-Livorno%2C_santa_giulia%2C_esterno%2C_01.jpg",
+        "hero_filename": "Livorno, santa giulia, esterno, 01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673065",
+        "osm_url": "https://www.openstreetmap.org/way/1070318719"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25659,
+          43.77157
+        ]
+      },
+      "properties": {
+        "id": "Q3673187",
+        "slug": "chiesa-di-santa-margherita-in-santa-maria-de-ricci-q3673187",
+        "name": "chiesa di Santa Margherita in Santa Maria de' Ricci",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1508",
+        "date_kind": "year",
+        "start_year": 1508,
+        "end_year": 1508,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Santa_Margherita_in_Santa_Maria_de%27_Ricci_11.JPG",
+        "hero_filename": "Santa Margherita in Santa Maria de' Ricci 11.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673187",
+        "osm_url": "https://www.openstreetmap.org/way/307544546"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673580",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2185492916,
+          43.7960690459
+        ]
+      },
+      "properties": {
+        "id": "Q3673580",
+        "slug": "chiesa-di-santa-maria-a-novoli-q3673580",
+        "name": "chiesa di Santa Maria a Novoli",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1647",
+        "date_kind": "year",
+        "start_year": 1647,
+        "end_year": 1647,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Santa_maria_a_novoli_01.JPG/1920px-Santa_maria_a_novoli_01.JPG",
+        "hero_filename": "Santa maria a novoli 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673580",
+        "osm_url": "https://www.openstreetmap.org/way/307536891"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673595",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24085,
+          43.81875
+        ]
+      },
+      "properties": {
+        "id": "Q3673595",
+        "slug": "chiesa-di-santa-maria-a-quarto-q3673595",
+        "name": "chiesa di Santa Maria a Quarto",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1797",
+        "date_kind": "year",
+        "start_year": 1797,
+        "end_year": 1797,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Santa_maria_a_quarto_02.JPG/1920px-Santa_maria_a_quarto_02.JPG",
+        "hero_filename": "Santa maria a quarto 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673595",
+        "osm_url": "https://www.openstreetmap.org/way/305822225"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673629",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.235339,
+          43.772972
+        ]
+      },
+      "properties": {
+        "id": "Q3673629",
+        "slug": "chiesa-di-santa-maria-al-pignone-q3673629",
+        "name": "chiesa di Santa Maria al Pignone",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1786",
+        "date_kind": "year",
+        "start_year": 1786,
+        "end_year": 1786,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Santa_Maria_al_Pignone.JPG",
+        "hero_filename": "Santa Maria al Pignone.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673629",
+        "osm_url": "https://www.openstreetmap.org/way/305673947"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673664",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2636,
+          43.7755
+        ]
+      },
+      "properties": {
+        "id": "Q3673664",
+        "slug": "chiesa-di-santa-maria-degli-angiolini-q3673664",
+        "name": "chiesa di Santa Maria degli Angiolini",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1509",
+        "date_kind": "year",
+        "start_year": 1509,
+        "end_year": 1509,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Via_della_colonna%2C_chiesa_s.m.angiolini%2C_ext._01.JPG/1920px-Via_della_colonna%2C_chiesa_s.m.angiolini%2C_ext._01.JPG",
+        "hero_filename": "Via della colonna, chiesa s.m.angiolini, ext. 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673664",
+        "osm_url": "https://www.openstreetmap.org/way/306486070"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2547,
+          43.7668
+        ]
+      },
+      "properties": {
+        "id": "Q3673667",
+        "slug": "chiesa-di-santa-maria-dei-bardi-q3673667",
+        "name": "chiesa di Santa Maria dei Bardi",
+        "church_type": "former_church",
+        "region": "Tuscany",
+        "date_display": "1181",
+        "date_kind": "year",
+        "start_year": 1181,
+        "end_year": 1181,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Telemaco_Signorini%2C_Santa_Maria_de%27_Bardi_1870_100x75cm.jpg",
+        "hero_filename": "Telemaco Signorini, Santa Maria de' Bardi 1870 100x75cm.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673667",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673712",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40053,
+          43.71292
+        ]
+      },
+      "properties": {
+        "id": "Q3673712",
+        "slug": "chiesa-di-santa-maria-del-carmine-q3673712",
+        "name": "chiesa di Santa Maria del Carmine",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1328",
+        "date_kind": "year",
+        "start_year": 1328,
+        "end_year": 1328,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chiesa_Santa_Maria_del_Carmine%2C_Pisa.JPG/1920px-Chiesa_Santa_Maria_del_Carmine%2C_Pisa.JPG",
+        "hero_filename": "Chiesa Santa Maria del Carmine, Pisa.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673712",
+        "osm_url": "https://www.openstreetmap.org/way/156075405"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673734",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.27415,
+          43.797937
+        ]
+      },
+      "properties": {
+        "id": "Q3673734",
+        "slug": "chiesa-di-santa-maria-del-fiore-a-lapo-q3673734",
+        "name": "chiesa di Santa Maria del Fiore a Lapo",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1348",
+        "date_kind": "year",
+        "start_year": 1348,
+        "end_year": 1348,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Santa_Maria_del_Fiore_a_Lapo%2C_ext._02.JPG/1920px-Santa_Maria_del_Fiore_a_Lapo%2C_ext._02.JPG",
+        "hero_filename": "Santa Maria del Fiore a Lapo, ext. 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673734",
+        "osm_url": "https://www.openstreetmap.org/way/305870361"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673774",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.23200278,
+          43.75425556
+        ]
+      },
+      "properties": {
+        "id": "Q3673774",
+        "slug": "chiesa-di-santa-maria-del-santo-sepolcro-q3673774",
+        "name": "chiesa di Santa Maria del Santo Sepolcro",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1334",
+        "date_kind": "year",
+        "start_year": 1334,
+        "end_year": 1334,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ex-monastero_delle_campora%2C_resti_del_chiostro_06.jpg/1920px-Ex-monastero_delle_campora%2C_resti_del_chiostro_06.jpg",
+        "hero_filename": "Ex-monastero delle campora, resti del chiostro 06.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673774",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2685,
+          43.7667
+        ]
+      },
+      "properties": {
+        "id": "Q3673838",
+        "slug": "chiesa-di-santa-maria-della-croce-al-tempio-q3673838",
+        "name": "chiesa di Santa Maria della Croce al Tempio",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1366",
+        "date_kind": "year",
+        "start_year": 1366,
+        "end_year": 1366,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Firenze%2C_piazza_piave.JPG/1920px-Firenze%2C_piazza_piave.JPG",
+        "hero_filename": "Firenze, piazza piave.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673838",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1426967",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39673,
+          43.71524
+        ]
+      },
+      "properties": {
+        "id": "Q1426967",
+        "slug": "chiesa-di-santa-maria-della-spina-q1426967",
+        "name": "chiesa di Santa Maria della Spina",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "13th century",
+        "date_kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Esgl%C3%A9sia_de_Santa_Maria_della_Spina_de_Pisa.JPG/1920px-Esgl%C3%A9sia_de_Santa_Maria_della_Spina_de_Pisa.JPG",
+        "hero_filename": "Església de Santa Maria della Spina de Pisa.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1426967",
+        "osm_url": "https://www.openstreetmap.org/way/159405535"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33,
+          43.3215
+        ]
+      },
+      "properties": {
+        "id": "Q3674012",
+        "slug": "chiesa-di-santa-maria-delle-nevi-q3674012",
+        "name": "chiesa di Santa Maria delle Nevi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+        "hero_filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
+        "website": "http://www.polomusealetoscana.beniculturali.it/index.php?it/146/istituti-e-luoghi-della-cultura",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674012",
+        "osm_url": "https://www.openstreetmap.org/way/28838206"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33264,
+          43.32098
+        ]
+      },
+      "properties": {
+        "id": "Q3674085",
+        "slug": "chiesa-di-santa-maria-di-provenzano-q3674085",
+        "name": "chiesa di Santa Maria di Provenzano",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1611",
+        "date_kind": "year",
+        "start_year": 1611,
+        "end_year": 1611,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Siena%2C_basilica_di_provenzano%2C_esterno_01.jpg/1920px-Siena%2C_basilica_di_provenzano%2C_esterno_01.jpg",
+        "hero_filename": "Siena, basilica di provenzano, esterno 01.jpg",
+        "website": "http://www.collegiataprovenzano.siena.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674085",
+        "osm_url": "https://www.openstreetmap.org/way/53890174"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.28429222,
+          43.75063705
+        ]
+      },
+      "properties": {
+        "id": "Q3674092",
+        "slug": "chiesa-di-santa-maria-e-santa-brigida-al-paradiso-q3674092",
+        "name": "chiesa di Santa Maria e Santa Brigida al Paradiso",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1706",
+        "date_kind": "year",
+        "start_year": 1706,
+        "end_year": 1706,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sante_maria_e_brigida_al_paradiso%2C_ext._02.JPG/1920px-Sante_maria_e_brigida_al_paradiso%2C_ext._02.JPG",
+        "hero_filename": "Sante maria e brigida al paradiso, ext. 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674092",
+        "osm_url": "https://www.openstreetmap.org/way/374065004"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3263,
+          43.3257
+        ]
+      },
+      "properties": {
+        "id": "Q3674136",
+        "slug": "chiesa-di-santa-maria-in-portico-fontegiusta-q3674136",
+        "name": "chiesa di Santa Maria In Portico Fontegiusta",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chiesa_di_fontegiusta%2C_01.JPG/1920px-Chiesa_di_fontegiusta%2C_01.JPG",
+        "hero_filename": "Chiesa di fontegiusta, 01.JPG",
+        "website": "https://www.fontegiusta.it",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674136",
+        "osm_url": "https://www.openstreetmap.org/way/50185501"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1784984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26474,
+          43.77423
+        ]
+      },
+      "properties": {
+        "id": "Q1784984",
+        "slug": "chiesa-di-santa-maria-maddalena-dei-pazzi-q1784984",
+        "name": "chiesa di Santa Maria Maddalena dei Pazzi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Santa_Maria_Maddalena_de%27_Pazzi_ingresso.JPG",
+        "hero_filename": "Santa Maria Maddalena de' Pazzi ingresso.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1784984",
+        "osm_url": "https://www.openstreetmap.org/way/303278550"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40881,
+          43.71572
+        ]
+      },
+      "properties": {
+        "id": "Q3674172",
+        "slug": "chiesa-di-santa-marta-q3674172",
+        "name": "chiesa di Santa Marta",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1760",
+        "date_kind": "year",
+        "start_year": 1760,
+        "end_year": 1760,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Marta_Facciata.jpg/1920px-Santa_Marta_Facciata.jpg",
+        "hero_filename": "Santa Marta Facciata.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674172",
+        "osm_url": "https://www.openstreetmap.org/way/305872730"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3211,
+          43.3295
+        ]
+      },
+      "properties": {
+        "id": "Q3674189",
+        "slug": "chiesa-di-santa-petronilla-q3674189",
+        "name": "chiesa di Santa Petronilla",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1622",
+        "date_kind": "year",
+        "start_year": 1622,
+        "end_year": 1622,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SienaSantaPetronilla8b.jpg/1920px-SienaSantaPetronilla8b.jpg",
+        "hero_filename": "SienaSantaPetronilla8b.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674189",
+        "osm_url": "https://www.openstreetmap.org/relation/17203710"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q684119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25653,
+          43.773464
+        ]
+      },
+      "properties": {
+        "id": "Q684119",
+        "slug": "chiesa-di-santa-reparata-q684119",
+        "name": "chiesa di Santa Reparata",
+        "church_type": "cathedral",
+        "region": "Tuscany",
+        "date_display": "5th century",
+        "date_kind": "century",
+        "start_year": 401,
+        "end_year": 500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Scavi_di_santa_reparata_sotto_il_duomo_di_firenze%2C_06_absidi_e_altare.JPG/1920px-Scavi_di_santa_reparata_sotto_il_duomo_di_firenze%2C_06_absidi_e_altare.JPG",
+        "hero_filename": "Scavi di santa reparata sotto il duomo di firenze, 06 absidi e altare.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q684119",
+        "osm_url": "https://www.openstreetmap.org/node/5041557941"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q1049041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33742,
+          43.31792
+        ]
+      },
+      "properties": {
+        "id": "Q1049041",
+        "slug": "chiesa-di-santo-spirito-q1049041",
+        "name": "chiesa di Santo Spirito",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1498",
+        "date_kind": "year",
+        "start_year": 1498,
+        "end_year": 1498,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/SienaSantoSpirito2.jpg/1920px-SienaSantoSpirito2.jpg",
+        "hero_filename": "SienaSantoSpirito2.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1049041",
+        "osm_url": "https://www.openstreetmap.org/way/47003836"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.327354,
+          43.324344
+        ]
+      },
+      "properties": {
+        "id": "Q3674335",
+        "slug": "chiesa-di-santo-stefano-alla-lizza-q3674335",
+        "name": "chiesa di Santo Stefano alla Lizza",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1671",
+        "date_kind": "year",
+        "start_year": 1671,
+        "end_year": 1671,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SienaSantoStefano6.jpg/1920px-SienaSantoStefano6.jpg",
+        "hero_filename": "SienaSantoStefano6.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674335",
+        "osm_url": "https://www.openstreetmap.org/way/50133108"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40095278,
+          43.719325
+        ]
+      },
+      "properties": {
+        "id": "Q3674338",
+        "slug": "chiesa-di-santo-stefano-dei-cavalieri-q3674338",
+        "name": "chiesa di Santo Stefano dei Cavalieri",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1565",
+        "date_kind": "year",
+        "start_year": 1565,
+        "end_year": 1565,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg/1920px-Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
+        "hero_filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674338",
+        "osm_url": "https://www.openstreetmap.org/way/37098980"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40005,
+          43.72383
+        ]
+      },
+      "properties": {
+        "id": "Q3674348",
+        "slug": "chiesa-di-santo-stefano-extra-moenia-q3674348",
+        "name": "chiesa di Santo Stefano extra moenia",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1085",
+        "date_kind": "year",
+        "start_year": 1085,
+        "end_year": 1085,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pisa_-_Chiesa_di_santo_Stefano_extra_moenia.JPG/1920px-Pisa_-_Chiesa_di_santo_Stefano_extra_moenia.JPG",
+        "hero_filename": "Pisa - Chiesa di santo Stefano extra moenia.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674348",
+        "osm_url": "https://www.openstreetmap.org/way/253736904"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.331501,
+          43.313715
+        ]
+      },
+      "properties": {
+        "id": "Q3674373",
+        "slug": "chiesa-e-convento-della-maddalena-q3674373",
+        "name": "chiesa e convento della Maddalena",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1539",
+        "date_kind": "year",
+        "start_year": 1539,
+        "end_year": 1539,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chiesa_della_maddalena%2C_siena%2C_02.JPG/1920px-Chiesa_della_maddalena%2C_siena%2C_02.JPG",
+        "hero_filename": "Chiesa della maddalena, siena, 02.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674373",
+        "osm_url": "https://www.openstreetmap.org/way/47926881"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3284,
+          43.3131
+        ]
+      },
+      "properties": {
+        "id": "Q3674372",
+        "slug": "chiesa-e-convento-delle-sperandie-q3674372",
+        "name": "chiesa e convento delle Sperandie",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1297",
+        "date_kind": "year",
+        "start_year": 1297,
+        "end_year": 1297,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SienaMariaVisitazioneTrafisseSperandie2.jpg/1920px-SienaMariaVisitazioneTrafisseSperandie2.jpg",
+        "hero_filename": "SienaMariaVisitazioneTrafisseSperandie2.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674372",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674383",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3283,
+          43.3253
+        ]
+      },
+      "properties": {
+        "id": "Q3674383",
+        "slug": "chiesa-e-convento-di-san-girolamo-in-campansi-q3674383",
+        "name": "chiesa e convento di San Girolamo in Campansi",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1683",
+        "date_kind": "year",
+        "start_year": 1683,
+        "end_year": 1683,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SienaSanGirolamoInCampansi5.jpg/1920px-SienaSanGirolamoInCampansi5.jpg",
+        "hero_filename": "SienaSanGirolamoInCampansi5.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674383",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3674397",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3265,
+          43.3124
+        ]
+      },
+      "properties": {
+        "id": "Q3674397",
+        "slug": "chiesa-e-convento-di-santa-marta-q3674397",
+        "name": "chiesa e convento di Santa Marta",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1328",
+        "date_kind": "year",
+        "start_year": 1328,
+        "end_year": 1328,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Siena%2C_santa_marta_01.JPG/1920px-Siena%2C_santa_marta_01.JPG",
+        "hero_filename": "Siena, santa marta 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3674397",
+        "osm_url": "https://www.openstreetmap.org/way/1217117026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3689641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93083,
+          43.71961
+        ]
+      },
+      "properties": {
+        "id": "Q3689641",
+        "slug": "convento-e-chiesa-di-santa-maria-a-ripa-q3689641",
+        "name": "convento e chiesa di Santa Maria a Ripa",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1484",
+        "date_kind": "year",
+        "start_year": 1484,
+        "end_year": 1484,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Empoli%2C_santa_maria_a_ripa%2C_esterno_02.jpg/1920px-Empoli%2C_santa_maria_a_ripa%2C_esterno_02.jpg",
+        "hero_filename": "Empoli, santa maria a ripa, esterno 02.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3689641",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3689643",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9469,
+          43.7187
+        ]
+      },
+      "properties": {
+        "id": "Q3689643",
+        "slug": "convento-e-chiesa-di-santo-stefano-degli-agostiniani-q3689643",
+        "name": "convento e chiesa di Santo Stefano degli Agostiniani",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1367",
+        "date_kind": "year",
+        "start_year": 1367,
+        "end_year": 1367,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chiesa_Santo_Stefano_esterno..JPG",
+        "hero_filename": "Chiesa Santo Stefano esterno..JPG",
+        "website": "http://www.comune.empoli.fi.it/empoli/chi_ste.html",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3689643",
+        "osm_url": "https://www.openstreetmap.org/way/444462403"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3735826",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26683,
+          43.76905
+        ]
+      },
+      "properties": {
+        "id": "Q3735826",
+        "slug": "ex-chiesa-dei-santi-jacopo-e-lorenzo-q3735826",
+        "name": "ex chiesa dei Santi Jacopo e Lorenzo",
+        "church_type": "former_church",
+        "region": "Tuscany",
+        "date_display": "1542",
+        "date_kind": "year",
+        "start_year": 1542,
+        "end_year": 1542,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo_01.JPG",
+        "hero_filename": "Ex chiesa dei Santi Jacopo e Lorenzo 01.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3735826",
+        "osm_url": "https://www.openstreetmap.org/way/306985690"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3884413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25683056,
+          43.77085278
+        ]
+      },
+      "properties": {
+        "id": "Q3884413",
+        "slug": "oratorio-dei-buonomini-di-san-martino-q3884413",
+        "name": "oratorio dei Buonomini di San Martino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "15th century",
+        "date_kind": "century",
+        "start_year": 1401,
+        "end_year": 1500,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Piazza_san_martino%2C_oratorio_dei_buonomini_di_san_martino%2C_01.jpg/1920px-Piazza_san_martino%2C_oratorio_dei_buonomini_di_san_martino%2C_01.jpg",
+        "hero_filename": "Piazza san martino, oratorio dei buonomini di san martino, 01.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3884413",
+        "osm_url": "https://www.openstreetmap.org/node/3127418845"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3884450",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24719167,
+          43.77326667
+        ]
+      },
+      "properties": {
+        "id": "Q3884450",
+        "slug": "oratorio-dei-vanchetoni-q3884450",
+        "name": "oratorio dei Vanchetoni",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1602",
+        "date_kind": "year",
+        "start_year": 1602,
+        "end_year": 1602,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Oratorio_Vanchetoni.JPG",
+        "hero_filename": "Oratorio Vanchetoni.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3884450",
+        "osm_url": "https://www.openstreetmap.org/way/730876801"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q112798284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.310312,
+          43.550005
+        ]
+      },
+      "properties": {
+        "id": "Q112798284",
+        "slug": "oratorio-di-san-ranieri-q112798284",
+        "name": "Oratorio di San Ranieri",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1696",
+        "date_kind": "year",
+        "start_year": 1696,
+        "end_year": 1696,
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q112798284",
+        "osm_url": "https://www.openstreetmap.org/way/1310990450"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2028376",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33154452,
+          43.32305861
+        ]
+      },
+      "properties": {
+        "id": "Q2028376",
+        "slug": "oratorio-di-san-rocco-q2028376",
+        "name": "oratorio di San Rocco",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1511",
+        "date_kind": "year",
+        "start_year": 1511,
+        "end_year": 1511,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
+        "hero_filename": "Oratorio di San Rocco siena.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2028376",
+        "osm_url": "https://www.openstreetmap.org/way/1193136273"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3884771",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26119444,
+          43.773025
+        ]
+      },
+      "properties": {
+        "id": "Q3884771",
+        "slug": "oratorio-di-san-tommaso-d-aquino-q3884771",
+        "name": "oratorio di San Tommaso d'Aquino",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1568",
+        "date_kind": "year",
+        "start_year": 1568,
+        "end_year": 1568,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Oratorio_di_San_Tommaso_d%27Aquino_12.JPG",
+        "hero_filename": "Oratorio di San Tommaso d'Aquino 12.JPG",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3884771",
+        "osm_url": "https://www.openstreetmap.org/way/307281119"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3884805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32947,
+          43.31476
+        ]
+      },
+      "properties": {
+        "id": "Q3884805",
+        "slug": "oratorio-di-sant-antonio-da-padova-q3884805",
+        "name": "oratorio di Sant'Antonio da Padova",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1685",
+        "date_kind": "year",
+        "start_year": 1685,
+        "end_year": 1685,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SienaSantAntonioDiPadovaAlleMurellaTartuca.jpg/1920px-SienaSantAntonioDiPadovaAlleMurellaTartuca.jpg",
+        "hero_filename": "SienaSantAntonioDiPadovaAlleMurellaTartuca.jpg",
+        "website": "http://www.tartuca.it/joomla/sistema-museale-a-oratorio/oratorio",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3884805",
+        "osm_url": "https://www.openstreetmap.org/way/48185100"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q185303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.32829,
+          43.31986
+        ]
+      },
+      "properties": {
+        "id": "Q185303",
+        "slug": "santuario-di-santa-caterina-q185303",
+        "name": "santuario di Santa Caterina",
+        "church_type": "church",
+        "region": "Tuscany",
+        "date_display": "1700",
+        "date_kind": "year",
+        "start_year": 1700,
+        "end_year": 1700,
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Santuario_di_santa_caterina%2C_portico_dei_Comuni_d%27Italia%2C_1941-47.jpg/1920px-Santuario_di_santa_caterina%2C_portico_dei_Comuni_d%27Italia%2C_1941-47.jpg",
+        "hero_filename": "Santuario di santa caterina, portico dei Comuni d'Italia, 1941-47.jpg",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q185303",
+        "osm_url": "https://www.openstreetmap.org/way/50059765"
+      }
+    }
+  ]
+}

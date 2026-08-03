@@ -1,0 +1,417 @@
+{
+  "total_entities": 194,
+  "records_with_manual_overrides": 18,
+  "suppressed_duplicates": 0,
+  "manually_excluded": 0,
+  "remaining_review_counts": {
+    "dates": 7,
+    "coordinates": 2,
+    "types": 7,
+    "images": 0,
+    "duplicates": 2
+  },
+  "overridden_records": [
+    {
+      "wikidata_id": "Q3657663",
+      "name": "cappella di Santa Barbara a Porta Vecchia",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3657685",
+      "name": "cappella di Santa Maria Assunta",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q2593098",
+      "name": "cappella Tornabuoni",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3669504",
+      "name": "chiesa di San Bartolomeo",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3669937",
+      "name": "chiesa di San Donato dei Vecchietti",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3670652",
+      "name": "chiesa di San Giuseppe",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Chiesa di san giuseppe siena.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_san_giuseppe_siena.jpg",
+            "license": {
+              "name": "Copyrighted free use",
+              "url": null,
+              "usage_terms": "Copyrighted free use",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": null,
+              "text": null
+            },
+            "source": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3670697",
+      "name": "chiesa di San Gorgonio",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": {
+            "filename": "Gorgona, san gorgonio 01.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Gorgona%2C_san_gorgonio_01.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gorgona%2C_san_gorgonio_01.jpg/1920px-Gorgona%2C_san_gorgonio_01.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Gorgona,_san_gorgonio_01.jpg",
+            "license": {
+              "name": "CC BY 3.0",
+              "url": "https://creativecommons.org/licenses/by/3.0",
+              "usage_terms": "Creative Commons Attribution 3.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+              "text": "Sailko"
+            },
+            "score": 7
+          },
+          "new_value": {
+            "filename": "Gorgona, san gorgonio 01.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Gorgona%2C_san_gorgonio_01.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gorgona%2C_san_gorgonio_01.jpg/1920px-Gorgona%2C_san_gorgonio_01.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Gorgona,_san_gorgonio_01.jpg",
+            "license": {
+              "name": "CC BY 3.0",
+              "url": "https://creativecommons.org/licenses/by/3.0",
+              "usage_terms": "Creative Commons Attribution 3.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+              "text": "Sailko"
+            },
+            "source": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3672660",
+      "name": "chiesa di Sant'Antonio Abate",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q19843876",
+      "name": "chiesa di Sant'Antonio Abate e Sant'Anna",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG/1920px-Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
+            "license": {
+              "name": "CC BY-SA 4.0",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0",
+              "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:AndreaPoggianti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:AndreaPoggianti (page does not exist)\">AndreaPoggianti</a>",
+              "text": "AndreaPoggianti"
+            },
+            "source": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3672859",
+      "name": "chiesa di Sant'Onofrio",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3672897",
+      "name": "chiesa di Santa Brigida al Paradiso",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3672942",
+      "name": "chiesa di Santa Cecilia",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3674012",
+      "name": "chiesa di Santa Maria delle Nevi",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
+            "license": {
+              "name": "Copyrighted free use",
+              "url": null,
+              "usage_terms": "Copyrighted free use",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "sconosciuto",
+              "text": "sconosciuto"
+            },
+            "source": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q3674338",
+      "name": "chiesa di Santo Stefano dei Cavalieri",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg/1920px-Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Church_of_Santo_Stefano_dei_Cavalieri,_Pisa_(53110828760).jpg",
+            "license": {
+              "name": "CC BY 2.0",
+              "url": "https://creativecommons.org/licenses/by/2.0",
+              "usage_terms": "Creative Commons Attribution 2.0",
+              "attribution_required": "true",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21186555@N07\">. Ray in Manila</a>",
+              "text": ". Ray in Manila"
+            },
+            "source": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q112798284",
+      "name": "Oratorio di San Ranieri",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q2028376",
+      "name": "oratorio di San Rocco",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": {
+            "filename": "Oratorio di San Rocco siena.jpg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
+            "description_url": "https://commons.wikimedia.org/wiki/File:Oratorio_di_San_Rocco_siena.jpg",
+            "license": {
+              "name": "Copyrighted free use",
+              "url": null,
+              "usage_terms": "Copyrighted free use",
+              "attribution_required": "false",
+              "restrictions": null
+            },
+            "artist": {
+              "raw": null,
+              "text": null
+            },
+            "source": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q110944216",
+      "name": "Rotonda del Brunelleschi",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    },
+    {
+      "wikidata_id": "Q578805",
+      "name": "Sagrestia Vecchia",
+      "changes": [
+        {
+          "field": "hero_image",
+          "old_value": null,
+          "new_value": null
+        }
+      ]
+    }
+  ],
+  "suppressed_duplicate_records": [],
+  "excluded_records": [],
+  "remaining_reviews": {
+    "dates": [
+      {
+        "wikidata_id": "Q51175",
+        "name": "basilica di Santa Maria Novella"
+      },
+      {
+        "wikidata_id": "Q1996075",
+        "name": "cappella Brancacci"
+      },
+      {
+        "wikidata_id": "Q3657333",
+        "name": "cappella Capponi"
+      },
+      {
+        "wikidata_id": "Q600355",
+        "name": "cappella Pazzi"
+      },
+      {
+        "wikidata_id": "Q428178",
+        "name": "chiesa del Santo Sepolcro"
+      },
+      {
+        "wikidata_id": "Q3671856",
+        "name": "chiesa di San Remigio"
+      },
+      {
+        "wikidata_id": "Q3673138",
+        "name": "chiesa di Santa Lucia dei Magnoli"
+      }
+    ],
+    "coordinates": [
+      {
+        "wikidata_id": "Q3669552",
+        "name": "chiesa di San Bartolomeo a Monte Oliveto"
+      },
+      {
+        "wikidata_id": "Q1248706",
+        "name": "santuario della Madonna del Giglio"
+      }
+    ],
+    "types": [
+      {
+        "wikidata_id": "Q3635657",
+        "name": "basilica dei Santi Vincenzo e Caterina de' Ricci"
+      },
+      {
+        "wikidata_id": "Q1519975",
+        "name": "basilica di Santo Spirito"
+      },
+      {
+        "wikidata_id": "Q1066935",
+        "name": "battistero di San Giovanni"
+      },
+      {
+        "wikidata_id": "Q732511",
+        "name": "battistero di San Giovanni"
+      },
+      {
+        "wikidata_id": "Q191739",
+        "name": "Cattedrale di Santa Maria del Fiore"
+      },
+      {
+        "wikidata_id": "Q1236622",
+        "name": "duomo di Prato"
+      },
+      {
+        "wikidata_id": "Q578805",
+        "name": "Sagrestia Vecchia"
+      }
+    ],
+    "images": [],
+    "duplicates": [
+      {
+        "wikidata_id": "Q110944216",
+        "name": "Rotonda del Brunelleschi"
+      },
+      {
+        "wikidata_id": "Q19947673",
+        "name": "Rotonda di Brunelleschi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "total_records": 194,
+  "status_counts": {
+    "ready": 162,
+    "review": 13,
+    "out_of_scope": 19
+  },
+  "ready_records": 162,
+  "ready_with_hero_image": 153,
+  "ready_without_hero_image": 9,
+  "records_with_website": 44,
+  "records_with_hero_image": 182,
+  "records_without_hero_image": 12
+}
