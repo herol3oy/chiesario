@@ -396,6 +396,43 @@ h1 {
   font-size: 0.76rem;
 }
 
+.date-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+}
+
+.historical-phases {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.historical-phases li {
+  display: grid;
+  gap: 2px 10px;
+  grid-template-columns: minmax(105px, auto) 1fr;
+  align-items: baseline;
+}
+
+.historical-phases strong {
+  color: #5f3c29;
+  font-size: 0.74rem;
+}
+
+.historical-phases span,
+.historical-phases small {
+  color: #665144;
+  font-size: 0.76rem;
+}
+
+.historical-phases small,
+.historical-phases .source-link {
+  grid-column: 2;
+}
+
 .source-links {
   display: flex;
   flex-wrap: wrap;

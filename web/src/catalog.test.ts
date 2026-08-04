@@ -3,6 +3,8 @@ import { describe, expect, it } from "vitest";
 import {
   centuryForYear,
   filterChurches,
+  formatChurchDate,
+  formatPeriod,
   sortChurches,
 } from "./catalog";
 import type { ChurchFeature } from "./types";
@@ -33,8 +35,11 @@ function church(
       start_year: year,
       end_year: year,
       date_source: "wikidata",
+      date_basis: "inception",
       date_source_name: null,
       date_source_url: null,
+      date_sources: [],
+      historical_phases: [],
       coordinate_source: "wikidata",
       hero_image: null,
       hero_filename: null,
@@ -97,5 +102,34 @@ describe("century calculation", () => {
     expect(centuryForYear(1200)).toBe(12);
     expect(centuryForYear(1201)).toBe(13);
     expect(centuryForYear(1800)).toBe(18);
+  });
+
+  it("formats structured historical periods in Italian", () => {
+    expect(formatPeriod({
+      kind: "century",
+      start_year: 1201,
+      end_year: 1300,
+      display: "13th century",
+    })).toBe("XIII secolo");
+    expect(formatPeriod({
+      kind: "year_range",
+      start_year: 1690,
+      end_year: 1702,
+      display: "1690–1702",
+    })).toBe("1690–1702");
+    expect(formatPeriod({
+      kind: "mixed_range",
+      start_year: 1701,
+      end_year: 1872,
+      display: "18th century–1872",
+    })).toBe("XVIII secolo–1872");
+  });
+
+  it("labels documentary evidence without calling it construction", () => {
+    const record = church("Q4", "Chiesa documentata", 1354);
+    record.properties.date_basis = "documentary_attestation";
+    expect(formatChurchDate(record.properties)).toBe(
+      "Documentata entro il 1354",
+    );
   });
 });

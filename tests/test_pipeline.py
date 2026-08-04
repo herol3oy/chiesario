@@ -7,8 +7,14 @@ from unittest.mock import patch
 import build_catalog
 import build_web_data
 import fetch_entities
+from enrich_commons import mark_pending_manual_date_records
 from classify_types import type_review_required
 from enrich_beweb import parse_history, parse_information
+from resolve_historical_dates import (
+    canonical_eligibility,
+    normalize_period,
+    resolve_record,
+)
 from resolve_historic_scope import (
     apply_historic_scope,
     resolve_historic_scope,
@@ -53,6 +59,16 @@ class HistoricScopeTests(unittest.TestCase):
                 "historic_scope_review_required"
             ]
         )
+
+    def test_documentary_period_must_end_before_cutoff(self):
+        church = self.church(1701)
+        church["resolved_date"]["canonical"].update(
+            {
+                "end_year": 1800,
+                "basis": "documentary_attestation",
+            }
+        )
+        self.assertEqual(resolve_historic_scope(church), "unknown")
 
 
 class TypeCompatibilityTests(unittest.TestCase):
@@ -149,6 +165,36 @@ class EntityRefreshTests(unittest.TestCase):
                 )
 
 
+class DeferredEnrichmentTests(unittest.TestCase):
+    def test_pre1800_manual_date_keeps_late_enrichment(self):
+        churches = [
+            {
+                "wikidata_id": "Q1",
+                "derived": {"historic_scope": "unknown"},
+            }
+        ]
+        mark_pending_manual_date_records(
+            churches,
+            {
+                "records": {
+                    "Q1": {
+                        "canonical_date": {
+                            "kind": "year",
+                            "start_year": 1700,
+                            "end_year": 1700,
+                            "display": "1700",
+                        }
+                    }
+                }
+            },
+        )
+        self.assertTrue(
+            churches[0]["derived"][
+                "publication_enrichment_override_pending"
+            ]
+        )
+
+
 class BeWebParserTests(unittest.TestCase):
     def test_structured_history_is_preserved_without_normalizing(self):
         html = """
@@ -165,9 +211,11 @@ class BeWebParserTests(unittest.TestCase):
         self.assertEqual(len(entries), 2)
         self.assertEqual(entries[0]["period_raw"], "XI – XIII")
         self.assertEqual(entries[0]["intervention_raw"], "costruzione")
+        self.assertEqual(entries[0]["evidence_type"], "construction")
         self.assertEqual(entries[0]["building_part_raw"], "intero bene")
         self.assertIsNone(entries[0]["normalized_period"])
         self.assertEqual(entries[1]["intervention_raw"], "restauro")
+        self.assertEqual(entries[1]["evidence_type"], "restoration")
 
     def test_record_provenance_fields_are_extracted(self):
         html = """
@@ -182,6 +230,264 @@ class BeWebParserTests(unittest.TestCase):
             result["data_source_url"],
             "https://example.test/source",
         )
+
+    def test_generic_history_label_uses_narrow_origin_language(self):
+        html = """
+        <ul class="datalist">
+          <li><b>XI</b> (storia intero bene)
+            <ul><li>La chiesa ha origini antiche e fu edificata in questo periodo.</li></ul>
+          </li>
+        </ul>
+        """
+        self.assertEqual(
+            parse_history(html)[0]["evidence_type"],
+            "origin",
+        )
+
+    def test_devotion_origin_does_not_become_building_origin(self):
+        html = """
+        <ul class="datalist">
+          <li><b>XVIII - XIX</b> (storia intero bene)
+            <ul><li>La costruzione dell'edificio risale alla metà
+            dell'Ottocento. La devozione locale ha origini remote.</li></ul>
+          </li>
+        </ul>
+        """
+        self.assertEqual(
+            parse_history(html)[0]["evidence_type"],
+            "other",
+        )
+
+    def test_reconstruction_wording_overrides_construction_label(self):
+        html = """
+        <ul class="datalist">
+          <li><b>XVIII - 1872</b> (costruzione intero bene)
+            <ul><li>La chiesa attuale venne realizzata nel 1872
+            ristrutturando una costruzione preesistente.</li></ul>
+          </li>
+        </ul>
+        """
+        self.assertEqual(
+            parse_history(html)[0]["evidence_type"],
+            "reconstruction",
+        )
+
+    def test_inauguration_only_is_not_construction(self):
+        html = """
+        <ul class="datalist">
+          <li><b>1932</b> (costruzione intero bene)
+            <ul><li>La chiesa fu inaugurata nel 1932.</li></ul>
+          </li>
+        </ul>
+        """
+        self.assertEqual(
+            parse_history(html)[0]["evidence_type"],
+            "consecration",
+        )
+
+
+class HistoricalDateResolverTests(unittest.TestCase):
+    def church(self, year=None):
+        canonical = None
+        candidates = []
+        if year is not None:
+            canonical = {
+                "kind": "year",
+                "start_year": year,
+                "end_year": year,
+                "display": str(year),
+                "statement_id": "Q1$statement",
+            }
+            candidates = [canonical]
+        return {
+            "wikidata_id": "Q1",
+            "resolved_date": {
+                "canonical": canonical,
+                "candidates": candidates,
+                "review_required": canonical is None,
+                "reason": "unambiguous" if canonical else "no_usable_date",
+            },
+            "derived": {"display_name": "Chiesa di prova"},
+        }
+
+    def beweb(self, entries):
+        return {
+            "beweb_id": "12345",
+            "url": (
+                "https://www.beweb.chiesacattolica.it/"
+                "edificidiculto/edificio/12345/"
+            ),
+            "status": "structured_date",
+            "historical_evidence": [
+                {
+                    "source_section": "Notizie storiche",
+                    "entry_ordinal": index,
+                    "period_raw": period,
+                    "evidence_type": evidence_type,
+                    "building_part_raw": None,
+                    "short_evidence_excerpt": None,
+                    "normalized_period": None,
+                }
+                for index, (period, evidence_type) in enumerate(entries)
+            ],
+        }
+
+    def test_period_normalization_preserves_precision(self):
+        self.assertEqual(
+            normalize_period("sec. XIII"),
+            {
+                "kind": "century",
+                "start_year": 1201,
+                "end_year": 1300,
+                "display": "13th century",
+            },
+        )
+        self.assertEqual(
+            normalize_period("1969-1970")["kind"],
+            "year_range",
+        )
+        self.assertEqual(
+            normalize_period("circa 1420")["kind"],
+            "circa_year",
+        )
+        self.assertEqual(
+            normalize_period("XVIII ‐ 1872")["kind"],
+            "mixed_range",
+        )
+        self.assertIsNone(normalize_period("metà del XIII secolo"))
+
+    def test_modern_wikidata_reconstruction_does_not_hide_origin(self):
+        result = resolve_record(
+            self.church(1911),
+            self.beweb(
+                [
+                    ("sec. XIV", "origin"),
+                    ("1911", "reconstruction"),
+                ]
+            ),
+        )
+        self.assertEqual(result["canonical"]["source"], "beweb")
+        self.assertEqual(result["canonical"]["start_year"], 1301)
+        self.assertEqual(
+            result["reason"],
+            "beweb_disambiguates_wikidata_phase",
+        )
+
+    def test_unexplained_source_conflict_requires_review(self):
+        result = resolve_record(
+            self.church(1911),
+            self.beweb([("sec. XIV", "origin")]),
+        )
+        self.assertIsNone(result["canonical"])
+        self.assertTrue(result["review_required"])
+
+    def test_documentary_mention_is_not_labeled_construction(self):
+        result = resolve_record(
+            self.church(),
+            self.beweb([("1354", "documentary_attestation")]),
+        )
+        self.assertEqual(
+            result["canonical"]["basis"],
+            "documentary_attestation",
+        )
+        self.assertEqual(result["canonical"]["start_year"], 1354)
+
+    def test_building_component_cannot_become_canonical(self):
+        eligible, reason = canonical_eligibility(
+            {
+                "evidence_type": "construction",
+                "building_part_raw": "campanile",
+                "context_raw": "costruzione campanile",
+            }
+        )
+        self.assertFalse(eligible)
+        self.assertEqual(reason, "building_component:campanile")
+
+    def test_whole_building_construction_remains_eligible(self):
+        eligible, reason = canonical_eligibility(
+            {
+                "evidence_type": "construction",
+                "building_part_raw": "intero bene",
+                "context_raw": "costruzione intero bene",
+            }
+        )
+        self.assertTrue(eligible)
+        self.assertIsNone(reason)
+
+    def test_combined_predecessor_and_current_phase_is_ineligible(self):
+        eligible, reason = canonical_eligibility(
+            {
+                "evidence_type": "construction",
+                "building_part_raw": "intero bene",
+                "context_raw": "costruzione intero bene",
+                "short_evidence_excerpt": (
+                    "La chiesa fu edificata nel XIX secolo sui resti "
+                    "di un'antica basilica del V secolo."
+                ),
+                "normalized_period": {
+                    "start_year": 401,
+                    "end_year": 1900,
+                },
+            }
+        )
+        self.assertFalse(eligible)
+        self.assertEqual(
+            reason,
+            "combined_distinct_historical_phases",
+        )
+
+    def test_explicitly_uncertain_origin_is_ineligible(self):
+        eligible, reason = canonical_eligibility(
+            {
+                "evidence_type": "origin",
+                "building_part_raw": "intero bene",
+                "context_raw": "origine intero bene",
+                "short_evidence_excerpt": (
+                    "Secondo la tradizione la chiesa sarebbe stata "
+                    "fondata nel XIII secolo."
+                ),
+                "normalized_period": {
+                    "start_year": 1201,
+                    "end_year": 1300,
+                },
+            }
+        )
+        self.assertFalse(eligible)
+        self.assertEqual(reason, "source_language_is_uncertain")
+
+    def test_inferred_architectural_date_is_ineligible(self):
+        eligible, reason = canonical_eligibility(
+            {
+                "evidence_type": "construction",
+                "building_part_raw": "carattere generale",
+                "context_raw": "costruzione carattere generale",
+                "short_evidence_excerpt": (
+                    "La chiesa è del XIV secolo, come si può "
+                    "evincere dai particolari architettonici."
+                ),
+                "normalized_period": {
+                    "start_year": 1301,
+                    "end_year": 1400,
+                },
+            }
+        )
+        self.assertFalse(eligible)
+        self.assertEqual(reason, "source_language_is_uncertain")
+
+    def test_pronaos_date_is_a_component_phase(self):
+        eligible, reason = canonical_eligibility(
+            {
+                "evidence_type": "construction",
+                "building_part_raw": "pronao",
+                "context_raw": "costruzione pronao",
+                "normalized_period": {
+                    "start_year": 1922,
+                    "end_year": 1922,
+                },
+            }
+        )
+        self.assertFalse(eligible)
+        self.assertEqual(reason, "building_component:pronao")
 
 
 class WebDataTests(unittest.TestCase):
@@ -202,6 +508,9 @@ class WebDataTests(unittest.TestCase):
                 "date_display": "1700",
                 "start_year": 1700,
                 "date_source": "wikidata",
+                "date_basis": "inception",
+                "date_sources": [],
+                "historical_phases": [],
                 "wikidata_url": (
                     f"https://www.wikidata.org/wiki/{qid}"
                 ),

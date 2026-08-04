@@ -1,3034 +1,2808 @@
 {
-  "total_entities": 610,
-  "records_with_manual_overrides": 20,
-  "suppressed_duplicates": 0,
-  "manually_excluded": 0,
-  "withheld_unknown_scope": 557,
-  "remaining_review_counts": {
-    "dates": 0,
-    "historic_scope": 0,
-    "coordinates": 0,
-    "types": 0,
-    "images": 0,
-    "duplicates": 0
+  "total": 610,
+  "resolved": 53,
+  "unresolved": 557,
+  "by_source": {
+    "wikidata": 19,
+    "beweb": 34
   },
-  "overridden_records": [
-    {
-      "wikidata_id": "Q118353083",
-      "name": "chiesa del Carmine",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q3668604",
-      "name": "chiesa del Sacro Cuore di Gesù",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118362755",
-      "name": "chiesa dell'Assunzione di Maria Vergine",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352790",
-      "name": "chiesa della Madonna del Carmine",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352993",
-      "name": "chiesa di San Bartolomeo Apostolo",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352824",
-      "name": "chiesa di San Giacomo",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q111525622",
-      "name": "chiesa di San Giorgio",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352761",
-      "name": "chiesa di San Giorgio Martire",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352796",
-      "name": "chiesa di San Michele",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q3671431",
-      "name": "chiesa di San Nicola",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352737",
-      "name": "chiesa di San Nicola di Bari",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352736",
-      "name": "chiesa di San Rocco",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352933",
-      "name": "chiesa di San Rocco",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q19595627",
-      "name": "chiesa di Santa Maria Assunta",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352803",
-      "name": "chiesa di Santa Maria degli Angeli",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352770",
-      "name": "chiesa di Santa Maria del Carmine",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q3673847",
-      "name": "chiesa di Santa Maria della Libera",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118362703",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118362715",
-      "name": "chiesa di Santa Maria di Costantinopoli",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    },
-    {
-      "wikidata_id": "Q118352775",
-      "name": "chiesa di Santa Maria Maggiore",
-      "changes": [
-        {
-          "field": "hero_image",
-          "old_value": null,
-          "new_value": null
-        }
-      ]
-    }
-  ],
-  "suppressed_duplicate_records": [],
-  "excluded_records": [],
-  "withheld_records": [
+  "by_basis": {
+    "inception": 19,
+    "construction": 31,
+    "documentary_attestation": 1,
+    "origin": 2
+  },
+  "unresolved_reasons": {
+    "no_usable_date": 19,
+    "beweb_has_no_eligible_date": 535,
+    "wikidata_beweb_origin_conflict": 2,
+    "multiple_beweb_origin_periods": 1
+  },
+  "review_records": [
     {
       "wikidata_id": "Q123197001",
       "name": "Basilica di Saepinum-Altilia",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q18210767",
       "name": "basilica di San Nicandro",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353008",
       "name": "Cappella del Calvario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352978",
       "name": "Cappella del Cuore Immacolato di Maria",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362705",
       "name": "Cappella dell'Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352966",
       "name": "Cappella dell'Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362751",
       "name": "Cappella dell'Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352861",
       "name": "Cappella dell'Episcopio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352755",
       "name": "Cappella dell'Incoronata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362749",
       "name": "Cappella dell'Incoronata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352957",
       "name": "Cappella della Madonna del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352884",
       "name": "Cappella della Madonna del Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352885",
       "name": "Cappella della Madonna dell'Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353072",
       "name": "Cappella della Madonna di Loreto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352860",
       "name": "Cappella della Sacra Famiglia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q24950464",
       "name": "cappella di San Donato",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353078",
       "name": "Cappella di San Felice da Cantalice",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352673",
       "name": "Cappella di San Giacomo Apostolo e San Cristoforo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353052",
       "name": "Cappella di San Giovanni",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q28003598",
       "name": "cappella di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352900",
       "name": "Cappella di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352943",
       "name": "Cappella di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353010",
       "name": "Cappella di San Sebastiano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352902",
       "name": "Cappella di San Vincenzo Ferreri",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353011",
       "name": "Cappella di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353012",
       "name": "Cappella di Sant'Ilario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353017",
       "name": "Cappella di Sant'Urbano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353034",
       "name": "Cappella di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352903",
       "name": "Cappella di Santa Lucia al Monte",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352979",
       "name": "Cappella di Santa Maria degli Angeli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353070",
       "name": "Cappella di Santa Maria degli Angeli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352997",
       "name": "Cappella di Santa Maria del Carmelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q2942838",
       "name": "cattedrale dei Santi Nazario, Celso e Vittore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987256",
       "name": "chiesa Ammond",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118362701",
       "name": "chiesa dei Morti",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352637",
       "name": "chiesa dei Santi Angelo e Mercurio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353053",
       "name": "chiesa dei Santi Apostoli Pietro e Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352638",
       "name": "chiesa dei Santi Bartolomeo e Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353067",
       "name": "chiesa dei santi Cosma e Damiano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987697",
       "name": "chiesa dei Santi Giovanni e Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352874",
       "name": "chiesa dei Santi Pietro e Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352939",
       "name": "chiesa dei santi Pietro e Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352789",
       "name": "chiesa dei Santi Pietro e Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352926",
       "name": "chiesa dei Santi Simone e Giuda",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352771",
       "name": "chiesa del Beato Roberto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352793",
       "name": "chiesa del Beato Stefano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987253",
       "name": "chiesa del Carmelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q25112908",
       "name": "chiesa del Cristo",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352879",
       "name": "chiesa del Purgatorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q24950468",
       "name": "chiesa del Purgatorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352862",
       "name": "chiesa del Purgatorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352694",
       "name": "chiesa del Purgatorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352711",
       "name": "chiesa del Purgatorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352980",
       "name": "chiesa del Sacro Cuore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352664",
       "name": "chiesa del Sacro Cuore del Gesù",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q123585991",
       "name": "chiesa del Sacro Cuore di Gesù",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352951",
       "name": "chiesa del Santissimo Crocifisso",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362717",
       "name": "chiesa del Santissimo Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362702",
       "name": "chiesa del Santissimo Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362759",
       "name": "chiesa del Santissimo Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352981",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352857",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362720",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353025",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362732",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362733",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352655",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352686",
       "name": "chiesa del Santissimo Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352940",
       "name": "chiesa del Santo Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353065",
       "name": "chiesa dell'Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352810",
       "name": "chiesa dell'Annunziata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q63457618",
       "name": "chiesa dell'Annunziata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362746",
       "name": "chiesa dell'Assunzione",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362737",
       "name": "chiesa dell'Immacolata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353020",
       "name": "chiesa dell'Immacolata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352983",
       "name": "chiesa dell'Immacolata Concezione",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118315029",
       "name": "chiesa della Beata Maria Vergine delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353013",
       "name": "chiesa della Beata Vergine del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362754",
       "name": "chiesa della Beata Vergine del Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362697",
       "name": "chiesa della Beata Vergine di Lourdes",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362708",
       "name": "chiesa della Beata Vergine Incoronata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352907",
       "name": "chiesa della Concezione",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352786",
       "name": "chiesa della Cripta del Santissimo Sacramento",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352834",
       "name": "chiesa della Madonna del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352659",
       "name": "chiesa della Madonna del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q19895971",
       "name": "chiesa della Madonna del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352704",
       "name": "chiesa della Madonna del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352767",
       "name": "chiesa della Madonna del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352705",
       "name": "chiesa della Madonna del Colle",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352952",
       "name": "chiesa della Madonna del Marzone",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352967",
       "name": "chiesa della Madonna del Perpetuo Soccorso",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362757",
       "name": "chiesa della Madonna del Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352628",
       "name": "chiesa della Madonna del Rosario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352929",
       "name": "chiesa della Madonna dell'Arco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987693",
       "name": "chiesa della Madonna dell'Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352680",
       "name": "chiesa della Madonna della Libera",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352826",
       "name": "chiesa della Madonna della Stella",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352949",
       "name": "chiesa della Madonna delle fontane",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352844",
       "name": "chiesa della Madonna delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352918",
       "name": "chiesa della Madonna delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362738",
       "name": "chiesa della Madonna delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352687",
       "name": "chiesa della Madonna delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352706",
       "name": "chiesa della Madonna delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352779",
       "name": "chiesa della Madonna di Santa Giusta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352887",
       "name": "chiesa della Santissima Annunziata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q25052363",
       "name": "chiesa della Santissima Annunziata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352953",
       "name": "chiesa della Santissima Concezione",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352982",
       "name": "chiesa della Santissima Trinità",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55083367",
       "name": "chiesa della Santissima Trinità",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352835",
       "name": "chiesa della Santissima Trinità",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353037",
       "name": "chiesa della Santissima Trinità",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352863",
       "name": "chiesa della Santissima Trinità",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352864",
       "name": "chiesa della Santissima Trinità",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352877",
       "name": "chiesa della Santissima Trinità",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352908",
       "name": "chiesa delle Anime del Purgatorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353054",
       "name": "chiesa dello Spirito Santo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352649",
       "name": "chiesa dello Spirito Santo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353045",
       "name": "chiesa di Assunzione di Maria Vergine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353046",
       "name": "chiesa di Assunzione di Maria Vergine nuova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353047",
       "name": "chiesa di Assunzione di Maria Vergine vecchia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362734",
       "name": "chiesa di Beata Vergine del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352901",
       "name": "chiesa di Maria Santissima Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352652",
       "name": "chiesa di Maria Santissima Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352665",
       "name": "chiesa di Maria Santissima Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352968",
       "name": "chiesa di Maria Santissima Annunziata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352656",
       "name": "chiesa di Maria Santissima Annunziata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352747",
       "name": "chiesa di Maria Santissima Annunziata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352888",
       "name": "chiesa di Maria Santissima Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352846",
       "name": "chiesa di Maria Santissima del Monte Carmelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352847",
       "name": "chiesa di Maria Santissima Della Vittoria in Valentino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352768",
       "name": "chiesa di Maria Santissima di Bisaccia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352890",
       "name": "chiesa di Maria Santissima di Costantinopoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352889",
       "name": "chiesa di Maria Santissima di Costantinopoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362758",
       "name": "chiesa di Maria Santissima di Vallisbona",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352998",
       "name": "chiesa di Maria Santissima Incoronata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352841",
       "name": "chiesa di Maria Santissima Incoronata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353057",
       "name": "chiesa di Nostra Signora del Sacro Cuore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362725",
       "name": "chiesa di Nostra Signora di Fatima",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353073",
       "name": "chiesa di Sacro Cuore di Maria",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3669487",
       "name": "chiesa di San Bartolomeo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353026",
       "name": "chiesa di San Bartolomeo Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353038",
       "name": "chiesa di San Bartolomeo Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352712",
       "name": "chiesa di San Bartolomeo Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352804",
       "name": "chiesa di San Basilio Magno",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352865",
       "name": "chiesa di San Benedetto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352880",
       "name": "chiesa di San Bernardino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352930",
       "name": "chiesa di San Bernardino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353018",
       "name": "chiesa di San Biagio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113574257",
       "name": "chiesa di San Biagio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352958",
       "name": "chiesa di San Biagio Vescovo e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352891",
       "name": "chiesa di San Biase Vescovo e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352969",
       "name": "chiesa di San Carlo Borromeo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352866",
       "name": "chiesa di San Casto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987255",
       "name": "chiesa di San Domenico",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352984",
       "name": "chiesa di San Donato vecchia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352970",
       "name": "chiesa di San Donato Vescovo e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352809",
       "name": "chiesa di San Felice",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352721",
       "name": "chiesa di San Felice",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353079",
       "name": "chiesa di San Felice da Cantalice",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q124080463",
       "name": "chiesa di San Felice Papa",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352914",
       "name": "chiesa di San Filippo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352985",
       "name": "chiesa di San Francesco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q19359397",
       "name": "chiesa di San Francesco",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352829",
       "name": "chiesa di San Francesco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q19461818",
       "name": "chiesa di San Francesco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352731",
       "name": "chiesa di San Francesco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q111525769",
       "name": "chiesa di San Francesco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352735",
       "name": "chiesa di San Gennaro",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362718",
       "name": "chiesa di San Germano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q106337584",
       "name": "chiesa di San Giacomo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353041",
       "name": "chiesa di San Giacomo Maggiore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3670295",
       "name": "chiesa di San Giorgio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353048",
       "name": "chiesa di San Giorgio Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352688",
       "name": "chiesa di San Giorgio Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3670356",
       "name": "chiesa di San Giovannello",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352999",
       "name": "chiesa di San Giovanni Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352941",
       "name": "chiesa di San Giovanni Apostolo ed Evangelista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q106337710",
       "name": "chiesa di San Giovanni Battista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353021",
       "name": "chiesa di San Giovanni Battista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q98418733",
       "name": "chiesa di San Giovanni Battista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352904",
       "name": "chiesa di San Giovanni Battista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352931",
       "name": "chiesa di San Giovanni Battista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113574267",
       "name": "chiesa di San Giovanni Battista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352695",
       "name": "chiesa di San Giovanni Battista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353075",
       "name": "chiesa di San Giovanni Bosco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352701",
       "name": "chiesa di San Giovanni Bosco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352875",
       "name": "chiesa di San Giovanni Eremita",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352813",
       "name": "chiesa di San Giuliano Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352815",
       "name": "chiesa di San Giuseppe",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352919",
       "name": "chiesa di San Giuseppe",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362698",
       "name": "chiesa di San Giuseppe",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352867",
       "name": "chiesa di San Giuseppe Artigiano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352986",
       "name": "chiesa di San Giuseppe Lavoratore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352787",
       "name": "chiesa di San Gregorio Magno",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3670761",
       "name": "chiesa di San Leonardo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352946",
       "name": "chiesa di San Leonardo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352669",
       "name": "chiesa di San Leonardo Confessore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353043",
       "name": "chiesa di San Leonardo di Limoges",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352805",
       "name": "chiesa di San Lorenzo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352836",
       "name": "chiesa di San Lorenzo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353035",
       "name": "chiesa di San Lorenzo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353039",
       "name": "chiesa di San Lorenzo Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113485204",
       "name": "chiesa di San Lorenzo Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353027",
       "name": "chiesa di San Luca Evangelista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353084",
       "name": "chiesa di San Luigi Orione",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q72397889",
       "name": "chiesa di San Marco Evangelista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352674",
       "name": "chiesa di San Marco Evangelista e San Pietro da Verona",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353040",
       "name": "chiesa di San Mariano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352915",
       "name": "chiesa di San Martino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352645",
       "name": "chiesa di San Martino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352920",
       "name": "chiesa di San Martino Vescovo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55083363",
       "name": "chiesa di San Matteo",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352817",
       "name": "chiesa di San Michele",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352821",
       "name": "chiesa di San Michele",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352748",
       "name": "chiesa di San Michele",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362747",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362752",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113631037",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352962",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352801",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353058",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353063",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353080",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352909",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362726",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113574286",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352629",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352646",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352892",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353066",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352739",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352756",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352794",
       "name": "chiesa di San Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352772",
       "name": "chiesa di San Nazario",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353022",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362707",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353000",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353044",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987257",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352868",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352921",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352932",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352633",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352690",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q111523335",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352715",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352713",
       "name": "chiesa di San Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362721",
       "name": "chiesa di San Nicola da Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q106337989",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55167441",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353014",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352971",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352995",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352806",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352856",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362719",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353061",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353081",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352697",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352893",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352698",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352752",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362700",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352670",
       "name": "chiesa di San Nicola di Bari",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987691",
       "name": "chiesa di San Nicola Vescovo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352740",
       "name": "chiesa di San Nicola Vescovo di Mira",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352660",
       "name": "chiesa di San Oto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q16540356",
       "name": "chiesa di San Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118353085",
       "name": "chiesa di San Paolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352769",
       "name": "chiesa di San Paolo Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353086",
       "name": "chiesa di San Pasquale Baylon",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352666",
       "name": "chiesa di San Pieto in Vincoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352830",
       "name": "chiesa di San Pietro",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352894",
       "name": "chiesa di San Pietro a Maiella",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352639",
       "name": "chiesa di San Pietro Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352972",
       "name": "chiesa di San Pietro Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352816",
       "name": "chiesa di San Pietro Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352895",
       "name": "chiesa di San Pietro Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q96315464",
       "name": "chiesa di San Pietro in Vincoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353059",
       "name": "chiesa di San Pietro in Vincoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352963",
       "name": "chiesa di San Pietro Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352831",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362748",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352973",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352994",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352996",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352807",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352811",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352818",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352827",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352858",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362712",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353031",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352910",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352916",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352661",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352682",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352716",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352749",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352753",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352764",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352780",
       "name": "chiesa di San Rocco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352896",
       "name": "chiesa di San Rocco alla Ripa",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113643616",
       "name": "chiesa di San Rocco Confraternita del Purgatorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362739",
       "name": "chiesa di San Rocco piccola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352717",
       "name": "chiesa di San Sabino Vescovo e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352675",
       "name": "chiesa di San Salvatore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353042",
       "name": "chiesa di San Sebastiano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353087",
       "name": "chiesa di San Sebastiano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352745",
       "name": "chiesa di San Silvestro Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352944",
       "name": "chiesa di San Silvestro Papa",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352762",
       "name": "chiesa di San Silvestro Papa",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352691",
       "name": "chiesa di San Sisto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352707",
       "name": "chiesa di San Tommaso Becket",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353029",
       "name": "chiesa di San Vincenzo Ferreri",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352869",
       "name": "chiesa di Sant' Anna in Maiella",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362740",
       "name": "chiesa di Sant'Agata Vergine e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352709",
       "name": "chiesa di Sant'Agnese",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q111525772",
       "name": "chiesa di Sant'Agostino",
-      "reason": "unknown_historic_scope"
+      "reason": "wikidata_beweb_origin_conflict"
     },
     {
       "wikidata_id": "Q118352696",
       "name": "chiesa di Sant'Alfonso Maria de' Liguori",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55083353",
       "name": "chiesa di Sant'Amico",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353055",
       "name": "chiesa di Sant'Amico",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353056",
       "name": "chiesa di Sant'Amico al Bosco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352886",
       "name": "chiesa di Sant'Anastasio Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352726",
       "name": "chiesa di Sant'Andrea Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352744",
       "name": "chiesa di Sant'Andrea Apostolo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353091",
       "name": "chiesa di Sant'Angelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352852",
       "name": "chiesa di Sant'Anna",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352832",
       "name": "chiesa di Sant'Anna",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352976",
       "name": "chiesa di Sant'Anna",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352936",
       "name": "chiesa di Sant'Anna",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352651",
       "name": "chiesa di Sant'Anna",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353004",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352812",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352823",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353051",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352913",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362723",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352948",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352746",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352776",
       "name": "chiesa di Sant'Antonio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362711",
       "name": "chiesa di Sant'Antonio a Valle",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3672622",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352802",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352814",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352937",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352955",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352956",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352723",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362696",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352788",
       "name": "chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352833",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353002",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q60791286",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352925",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352938",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352950",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q123586512",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352760",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352800",
       "name": "chiesa di Sant'Antonio da Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352640",
       "name": "chiesa di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352977",
       "name": "chiesa di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352872",
       "name": "chiesa di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352906",
       "name": "chiesa di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352672",
       "name": "chiesa di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352710",
       "name": "chiesa di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352724",
       "name": "chiesa di Sant'Antonio di Padova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353092",
       "name": "chiesa di Sant'Antuono",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55187633",
       "name": "chiesa di Sant'Elia Profeta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113643748",
       "name": "chiesa di Sant'Emidio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113643759",
       "name": "chiesa di Sant'Emidio nuova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55083359",
       "name": "chiesa di Sant'Emidio Vescovo e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113624925",
       "name": "chiesa di Sant'Erasmo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q109968618",
       "name": "chiesa di Sant'Eusanio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353077",
       "name": "chiesa di Sant'Eustachio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352942",
       "name": "chiesa di Sant'Onofrio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352898",
       "name": "chiesa di Sant'Onofrio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352703",
       "name": "chiesa di Sant'Onofrio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362727",
       "name": "chiesa di Santa Caterina d'Alessandria",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55083356",
       "name": "chiesa di Santa Chiara",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352676",
       "name": "chiesa di Santa Chiara",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q112845030",
       "name": "chiesa di Santa Chiara",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352837",
       "name": "chiesa di Santa Cristina",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352881",
       "name": "chiesa di Santa Croce",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352870",
       "name": "chiesa di Santa Croce",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352897",
       "name": "chiesa di Santa Croce",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352702",
       "name": "chiesa di Santa Croce",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352662",
       "name": "chiesa di Santa Giusta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q27987695",
       "name": "chiesa di Santa Liberata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353003",
       "name": "chiesa di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353032",
       "name": "chiesa di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353049",
       "name": "chiesa di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352934",
       "name": "chiesa di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352677",
       "name": "chiesa di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362709",
       "name": "chiesa di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362710",
       "name": "chiesa di Santa Lucia",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352927",
       "name": "chiesa di Santa Lucia al Verrino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352766",
       "name": "chiesa di Santa Lucia Vergine e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352692",
       "name": "chiesa di Santa Margherita",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352741",
       "name": "chiesa di Santa Maria",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352784",
       "name": "chiesa di Santa Maria",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352650",
       "name": "chiesa di Santa Maria a Mare",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352683",
       "name": "chiesa di Santa Maria a Monte",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352718",
       "name": "chiesa di Santa Maria a Quadrano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352765",
       "name": "chiesa di Santa Maria ad Nives",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352657",
       "name": "chiesa di Santa Maria Addolorata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352988",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352738",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362745",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352964",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352975",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352838",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353030",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353071",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353076",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q123586615",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q27987252",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352871",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352935",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362728",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362736",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q100276059",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352947",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q19572918",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q24906549",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q25112618",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352699",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352708",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352742",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352750",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352791",
       "name": "chiesa di Santa Maria Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352828",
       "name": "chiesa di Santa Maria Assunta in Cielo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352644",
       "name": "chiesa di Santa Maria Assunta in Cielo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352759",
       "name": "chiesa di Santa Maria Assunta in Cielo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352757",
       "name": "chiesa di Santa Maria Assunta in Cielo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352777",
       "name": "chiesa di Santa Maria Assunta in Cielo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352799",
       "name": "chiesa di Santa Maria Assunta in Cielo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362750",
       "name": "chiesa di Santa Maria Assunta o Madonna del Fiume",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353006",
       "name": "chiesa di Santa Maria Ausiliatrice",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352819",
       "name": "chiesa di Santa Maria Ausiliatrice",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353062",
       "name": "chiesa di Santa Maria Bambina",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352965",
       "name": "chiesa di Santa Maria Casale",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352911",
       "name": "chiesa di Santa Maria degli Angeli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352693",
       "name": "chiesa di Santa Maria degli Angeli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362724",
       "name": "chiesa di Santa Maria degli Angeli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352743",
       "name": "chiesa di Santa Maria degli Angeli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113643654",
       "name": "chiesa di Santa Maria dei Rivoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353023",
       "name": "chiesa di Santa Maria del Bagno",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352785",
       "name": "chiesa di Santa Maria del Carmelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353064",
       "name": "chiesa di Santa Maria del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352876",
       "name": "chiesa di Santa Maria del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352945",
       "name": "chiesa di Santa Maria del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352635",
       "name": "chiesa di Santa Maria del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352647",
       "name": "chiesa di Santa Maria del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352653",
       "name": "chiesa di Santa Maria del Carmine",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352658",
       "name": "chiesa di Santa Maria del Giardino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352882",
       "name": "chiesa di Santa Maria del Guglieto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55110590",
       "name": "chiesa di Santa Maria del Monte",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q113625314",
       "name": "chiesa di Santa Maria del Parco",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353019",
       "name": "chiesa di Santa Maria del Piano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352648",
       "name": "chiesa di Santa Maria del Romitorio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352795",
       "name": "chiesa di Santa Maria del Suffragio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352808",
       "name": "chiesa di Santa Maria dell'Acquabona",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352797",
       "name": "chiesa di Santa Maria della Concezione",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3673834",
       "name": "chiesa di Santa Maria della Croce",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352685",
       "name": "chiesa di Santa Maria della Croce",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352922",
       "name": "chiesa di Santa Maria della Libera",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352928",
       "name": "chiesa di Santa Maria della Libera",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q113643669",
       "name": "chiesa di Santa Maria della Libera",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352923",
       "name": "chiesa di Santa Maria della Mercede",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352989",
       "name": "chiesa di Santa Maria della Neve",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352630",
       "name": "chiesa di Santa Maria della Neve",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352720",
       "name": "chiesa di Santa Maria della Neve",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352990",
       "name": "chiesa di Santa Maria della Pace",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352678",
       "name": "chiesa di Santa Maria della Pietà",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352727",
       "name": "chiesa di Santa Maria della Pietà",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352671",
       "name": "chiesa di Santa Maria della Salute",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q7419721",
       "name": "chiesa di Santa Maria della Strada",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q118352719",
       "name": "chiesa di Santa Maria della Valle",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352714",
       "name": "chiesa di Santa Maria della Vittoria",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352820",
       "name": "chiesa di Santa Maria delle Fratte",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352822",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362713",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353028",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353068",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353082",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362756",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352959",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352631",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352632",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352663",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352679",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353036",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352725",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352754",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352763",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362694",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q25052953",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353089",
       "name": "chiesa di Santa Maria delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353050",
       "name": "chiesa di Santa Maria delle Grotte",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352883",
       "name": "chiesa di Santa Maria delle Macchie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352634",
       "name": "chiesa di Santa Maria delle Rose",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352773",
       "name": "chiesa di Santa Maria di Casalpiano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q106337908",
       "name": "chiesa di Santa Maria di Costantinopoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352842",
       "name": "chiesa di Santa Maria di Costantinopoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362695",
       "name": "chiesa di Santa Maria di Costantinopoli",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353015",
       "name": "chiesa di Santa Maria di Loreto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352859",
       "name": "chiesa di Santa Maria di Loreto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352912",
       "name": "chiesa di Santa Maria di Loreto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362735",
       "name": "chiesa di Santa Maria di Loreto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352778",
       "name": "chiesa di Santa Maria di Loreto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353090",
       "name": "chiesa di Santa Maria di Loreto",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352798",
       "name": "chiesa di Santa Maria di Monte Castello",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352751",
       "name": "chiesa di Santa Maria di Monteverde",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362729",
       "name": "chiesa di Santa Maria di Vallebruna",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362716",
       "name": "chiesa di Santa Maria Divina",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353060",
       "name": "chiesa di Santa Maria e Giacomo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q19572924",
       "name": "chiesa di Santa Maria Ester",
-      "reason": "unknown_historic_scope"
+      "reason": "multiple_beweb_origin_periods"
     },
     {
       "wikidata_id": "Q118352905",
       "name": "chiesa di Santa Maria in Cielo Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353001",
       "name": "chiesa di Santa Maria in Pantano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352636",
       "name": "chiesa di Santa Maria in Valle",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352781",
       "name": "chiesa di Santa Maria la Nova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352924",
       "name": "chiesa di Santa Maria Maddalena",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q19572927",
       "name": "chiesa di Santa Maria Maggiore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352689",
       "name": "chiesa di Santa Maria Maggiore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352732",
       "name": "chiesa di Santa Maria Maggiore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362714",
       "name": "chiesa di Santa Pia Vergine e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352758",
       "name": "chiesa di Santa Reparata",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353016",
       "name": "chiesa di Santa Teresa d'Avila",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352700",
       "name": "chiesa di Santa Teresa di Gesù Bambino",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353033",
       "name": "chiesa di Santa Vittoria Vergine e Martire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118362744",
       "name": "chiesa di Santo Stefano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352728",
       "name": "chiesa di Santo Stefano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352733",
       "name": "chiesa di Santo Stefano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352917",
       "name": "chiesa di Santo Stefano Protomartire",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q16540846",
       "name": "chiesa e convento di San Giovanni del Gelsi",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352825",
       "name": "chiesa Greca",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352641",
       "name": "chiesa Madonna del Ponte",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352667",
       "name": "chiesa Madonna delle Grazie",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352960",
       "name": "chiesa Maria Santissima Assunta",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352668",
       "name": "chiesa nuova",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55170137",
       "name": "chiesa parrocchiale di San Matteo Evangelista",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q55083355",
       "name": "chiesa parrocchiale di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353069",
       "name": "chiesa San Giorgio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3045554",
       "name": "Duomo di Larino",
-      "reason": "unknown_historic_scope"
+      "reason": "wikidata_beweb_origin_conflict"
     },
     {
       "wikidata_id": "Q60229524",
       "name": "Eremo dei Santi Cosmo e Damiano",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q116031345",
       "name": "Eremo di Sant'Egidio",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q139575080",
       "name": "Eremo di Sant'Egidio, frosolone",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q55088171",
       "name": "ex chiesa di Sant'Antonio Abate",
-      "reason": "unknown_historic_scope"
+      "reason": "no_usable_date"
     },
     {
       "wikidata_id": "Q25042679",
       "name": "Immacolata Concezione",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q23807323",
       "name": "Insigne collegiata parrocchiale di Santa Maria Maggiore",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353007",
       "name": "Madonna di Fatima",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118353024",
       "name": "S. Michele Arcangelo",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352992",
       "name": "San Pio",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q24950469",
       "name": "Santi Martino e Nicola",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q118352654",
       "name": "Santuario della Madonna della Difesa",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     },
     {
       "wikidata_id": "Q3949672",
       "name": "santuario della Madonna Grande",
-      "reason": "unknown_historic_scope"
+      "reason": "beweb_has_no_eligible_date"
     }
-  ],
-  "remaining_reviews": {
-    "dates": [],
-    "historic_scope": [],
-    "coordinates": [],
-    "types": [],
-    "images": [],
-    "duplicates": []
-  }
+  ]
 }

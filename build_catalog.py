@@ -140,6 +140,35 @@ def build_date(church):
     if not canonical:
         return None
 
+    source = canonical.get(
+        "source",
+        "wikidata",
+    )
+    source_name = canonical.get("source_name")
+    source_url = canonical.get("source_url")
+    sources = canonical.get("sources") or []
+    if not sources and (source_name or source_url):
+        sources = [
+            {
+                "name": source_name or source,
+                "url": source_url,
+                "source_id": None,
+            }
+        ]
+
+    historical_phases = [
+        {
+            "evidence_type": phase.get("evidence_type"),
+            "period": phase.get("period"),
+            "period_raw": phase.get("period_raw"),
+            "building_part": phase.get("building_part"),
+            "source_name": phase.get("source_name"),
+            "source_url": phase.get("source_url"),
+        }
+        for phase in resolved.get("historical_phases", [])
+        if phase.get("period")
+    ]
+
     return {
         "display":
             canonical.get(
@@ -161,21 +190,28 @@ def build_date(church):
                 "end_year"
             ),
 
-        "source":
+        "basis":
             canonical.get(
-                "source",
-                "wikidata",
+                "basis",
+                "inception",
             ),
 
-        "source_name":
+        "source": source,
+
+        "source_name": source_name,
+
+        "source_url": source_url,
+
+        "sources": sources,
+
+        "evidence_refs":
             canonical.get(
-                "source_name"
+                "evidence_refs",
+                [],
             ),
 
-        "source_url":
-            canonical.get(
-                "source_url"
-            ),
+        "historical_phases":
+            historical_phases,
     }
 
 

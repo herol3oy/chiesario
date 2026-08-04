@@ -1,37 +1,99 @@
 {
-  "total_churches": 15,
-  "unique_files": 10,
-  "files_enriched": 10,
+  "total_churches": 610,
+  "churches_enriched_for_publication": 31,
+  "churches_deferred": 579,
+  "unique_files": 11,
+  "files_enriched": 11,
   "missing_files": 0,
   "files_missing_license_metadata": 0,
-  "churches_without_wikidata_images": 5,
+  "churches_without_wikidata_images": 20,
   "license_counts": {
+    "CC BY-SA 3.0": 5,
     "CC BY-SA 4.0": 5,
-    "CC BY-SA 3.0": 3,
-    "Public domain": 2
+    "Public domain": 1
   },
   "missing_file_records": [],
   "missing_license_records": [],
   "churches_without_images": [
     {
+      "wikidata_id": "Q118353083",
+      "name": "chiesa del Carmine"
+    },
+    {
       "wikidata_id": "Q3668604",
       "name": "chiesa del Sacro Cuore di Gesù"
+    },
+    {
+      "wikidata_id": "Q118362755",
+      "name": "chiesa dell'Assunzione di Maria Vergine"
+    },
+    {
+      "wikidata_id": "Q118352790",
+      "name": "chiesa della Madonna del Carmine"
+    },
+    {
+      "wikidata_id": "Q118352993",
+      "name": "chiesa di San Bartolomeo Apostolo"
+    },
+    {
+      "wikidata_id": "Q118352824",
+      "name": "chiesa di San Giacomo"
     },
     {
       "wikidata_id": "Q111525622",
       "name": "chiesa di San Giorgio"
     },
     {
+      "wikidata_id": "Q118352761",
+      "name": "chiesa di San Giorgio Martire"
+    },
+    {
+      "wikidata_id": "Q118352796",
+      "name": "chiesa di San Michele"
+    },
+    {
       "wikidata_id": "Q3671431",
       "name": "chiesa di San Nicola"
     },
     {
-      "wikidata_id": "Q111525772",
-      "name": "chiesa di Sant'Agostino"
+      "wikidata_id": "Q118352737",
+      "name": "chiesa di San Nicola di Bari"
+    },
+    {
+      "wikidata_id": "Q118352736",
+      "name": "chiesa di San Rocco"
+    },
+    {
+      "wikidata_id": "Q118352933",
+      "name": "chiesa di San Rocco"
+    },
+    {
+      "wikidata_id": "Q19595627",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q118352803",
+      "name": "chiesa di Santa Maria degli Angeli"
+    },
+    {
+      "wikidata_id": "Q118352770",
+      "name": "chiesa di Santa Maria del Carmine"
     },
     {
       "wikidata_id": "Q3673847",
       "name": "chiesa di Santa Maria della Libera"
+    },
+    {
+      "wikidata_id": "Q118362703",
+      "name": "chiesa di Santa Maria delle Grazie"
+    },
+    {
+      "wikidata_id": "Q118362715",
+      "name": "chiesa di Santa Maria di Costantinopoli"
+    },
+    {
+      "wikidata_id": "Q118352775",
+      "name": "chiesa di Santa Maria Maggiore"
     }
   ]
 }

@@ -3,6 +3,7 @@
   "records_with_manual_overrides": 34,
   "suppressed_duplicates": 1,
   "manually_excluded": 0,
+  "withheld_unknown_scope": 0,
   "remaining_review_counts": {
     "dates": 0,
     "historic_scope": 0,
@@ -36,8 +37,17 @@
             "end_year": 1278,
             "display": "1278",
             "source": "manual",
+            "basis": "origin",
             "source_name": "Florence As It Was",
             "source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+            "sources": [
+              {
+                "name": "Florence As It Was",
+                "url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+                "source_id": null
+              }
+            ],
+            "evidence_refs": [],
             "note": "Building materials for the new Santa Maria Novella were being assembled in 1278; the cornerstone was laid in 1279. The 1458 value relates to the Renaissance facade, while 2001 relates to the modern Opera association."
           }
         }
@@ -89,8 +99,17 @@
             "end_year": 1386,
             "display": "c. 1386",
             "source": "manual",
+            "basis": "origin",
             "source_name": "FeelFlorence",
             "source_url": "https://www.feelflorence.it/it/punti-di-interesse/cappella-brancacci",
+            "sources": [
+              {
+                "name": "FeelFlorence",
+                "url": "https://www.feelflorence.it/it/punti-di-interesse/cappella-brancacci",
+                "source_id": null
+              }
+            ],
+            "evidence_refs": [],
             "note": "The chapel was built by/before 1386. The 1424 date refers to the fresco decoration rather than construction of the chapel."
           }
         }
@@ -109,8 +128,17 @@
             "end_year": 1420,
             "display": "c. 1420",
             "source": "manual",
+            "basis": "origin",
             "source_name": "Catalogo Generale dei Beni Culturali",
             "source_url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900156269-3",
+            "sources": [
+              {
+                "name": "Catalogo Generale dei Beni Culturali",
+                "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900156269-3",
+                "source_id": null
+              }
+            ],
+            "evidence_refs": [],
             "note": "The cultural heritage catalogue dates Brunelleschi's work on the chapel to circa 1420, explaining the competing 1419 and 1420 statements."
           }
         }
@@ -151,8 +179,17 @@
             "end_year": 1443,
             "display": "1443",
             "source": "manual",
+            "basis": "origin",
             "source_name": "Opera di Santa Croce",
             "source_url": "https://www.santacroceopera.it/en/places/cloisters/pazzi-chapel/",
+            "sources": [
+              {
+                "name": "Opera di Santa Croce",
+                "url": "https://www.santacroceopera.it/en/places/cloisters/pazzi-chapel/",
+                "source_id": null
+              }
+            ],
+            "evidence_refs": [],
             "note": "Brunelleschi designed the chapel earlier, but the official Santa Croce history states that construction began in 1443."
           }
         }
@@ -193,8 +230,17 @@
             "end_year": 1113,
             "display": "c. 1113",
             "source": "manual",
+            "basis": "origin",
             "source_name": "Comune di Pisa - Turismo",
             "source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+            "sources": [
+              {
+                "name": "Comune di Pisa - Turismo",
+                "url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+                "source_id": null
+              }
+            ],
+            "evidence_refs": [],
             "note": "The Comune di Pisa describes the church as founded by the Hospitallers around 1113, with its first surviving mention in 1138."
           }
         }
@@ -328,8 +374,17 @@
             "end_year": 1100,
             "display": "11th century",
             "source": "manual",
+            "basis": "origin",
             "source_name": "Florence As It Was",
             "source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+            "sources": [
+              {
+                "name": "Florence As It Was",
+                "url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+                "source_id": null
+              }
+            ],
+            "evidence_refs": [],
             "note": "The church is documented by 1040 and has an 11th-century predecessor. The present Gothic form substantially reflects later reconstruction in the 13th-14th centuries."
           }
         }
@@ -420,8 +475,17 @@
             "end_year": 1078,
             "display": "1078",
             "source": "manual",
+            "basis": "origin",
             "source_name": "Firenze Oltrarno",
             "source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+            "sources": [
+              {
+                "name": "Firenze Oltrarno",
+                "url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+                "source_id": null
+              }
+            ],
+            "evidence_refs": [],
             "note": "The church was founded in 1078. Later dates refer to subsequent events and alterations rather than its original foundation."
           }
         }
@@ -632,6 +696,7 @@
     }
   ],
   "excluded_records": [],
+  "withheld_records": [],
   "remaining_reviews": {
     "dates": [],
     "historic_scope": [],

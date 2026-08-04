@@ -124,6 +124,11 @@ def build_feature(church):
                     "source"
                 ),
 
+            "date_basis":
+                date.get(
+                    "basis"
+                ),
+
             "date_source_name":
                 date.get(
                     "source_name"
@@ -132,6 +137,18 @@ def build_feature(church):
             "date_source_url":
                 date.get(
                     "source_url"
+                ),
+
+            "date_sources":
+                date.get(
+                    "sources",
+                    [],
+                ),
+
+            "historical_phases":
+                date.get(
+                    "historical_phases",
+                    [],
                 ),
 
             "coordinate_source":

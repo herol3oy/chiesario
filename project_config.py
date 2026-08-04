@@ -108,6 +108,13 @@ HISTORICAL_EVIDENCE_REPORT_FILE = (
     PROCESSED_DIR / "historical_evidence_report.json"
 )
 
+HISTORICAL_DATES_FILE = (
+    PROCESSED_DIR / "churches_historical_dates.json"
+)
+HISTORICAL_DATE_REPORT_FILE = (
+    PROCESSED_DIR / "historical_date_report.json"
+)
+
 COMMONS_CACHE_FILE = CACHE_DIR / "commons_file_metadata.json"
 COMMONS_FILE = PROCESSED_DIR / "churches_commons.json"
 COMMONS_REPORT_FILE = PROCESSED_DIR / "commons_report.json"

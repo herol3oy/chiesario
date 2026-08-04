@@ -1,9 +1,178 @@
 {
-  "total_entities": 15,
-  "candidate_pairs": 0,
-  "entities_flagged": 0,
+  "total_entities": 610,
+  "candidate_pairs": 9,
+  "entities_flagged": 18,
   "high_confidence_pairs": 0,
-  "medium_confidence_pairs": 0,
-  "low_confidence_pairs": 0,
-  "candidate_records": []
+  "medium_confidence_pairs": 2,
+  "low_confidence_pairs": 7,
+  "candidate_records": [
+    {
+      "qid_1": "Q118315029",
+      "name_1": "chiesa della Beata Maria Vergine delle Grazie",
+      "qid_2": "Q118315042",
+      "name_2": "chiesa nuova della Beata Maria Vergine delle Grazie",
+      "name_similarity": 0.938,
+      "distance_meters": 15.92,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 75,
+      "confidence": "medium",
+      "reasons": [
+        {
+          "distance_meters": 15.92
+        },
+        {
+          "name_similarity": 0.938
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118352697",
+      "name_1": "chiesa di San Nicola di Bari",
+      "qid_2": "Q118352698",
+      "name_2": "chiesa di San Nicola di Bari",
+      "name_similarity": 1.0,
+      "distance_meters": 69.27,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 70,
+      "confidence": "medium",
+      "reasons": [
+        {
+          "distance_meters": 69.27
+        },
+        {
+          "name_similarity": 1.0
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118352735",
+      "name_1": "chiesa di San Gennaro",
+      "qid_2": "Q118362707",
+      "name_2": "chiesa di San Nicola",
+      "name_similarity": 0.78,
+      "distance_meters": 0.0,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "distance_meters": 0.0
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118353091",
+      "name_1": "chiesa di Sant'Angelo",
+      "qid_2": "Q118353092",
+      "name_2": "chiesa di Sant'Antuono",
+      "name_similarity": 0.837,
+      "distance_meters": 9.82,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "distance_meters": 9.82
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118352890",
+      "name_1": "chiesa di Maria Santissima di Costantinopoli",
+      "qid_2": "Q118352889",
+      "name_2": "chiesa di Maria Santissima di Costantinopoli",
+      "name_similarity": 1.0,
+      "distance_meters": 106.41,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "name_similarity": 1.0
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118353078",
+      "name_1": "Cappella di San Felice da Cantalice",
+      "qid_2": "Q118353079",
+      "name_2": "chiesa di San Felice da Cantalice",
+      "name_similarity": 1.0,
+      "distance_meters": null,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "name_similarity": 1.0
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118352863",
+      "name_1": "chiesa della Santissima Trinità",
+      "qid_2": "Q118352864",
+      "name_2": "chiesa della Santissima Trinità",
+      "name_similarity": 1.0,
+      "distance_meters": null,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "name_similarity": 1.0
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118352955",
+      "name_1": "chiesa di Sant'Antonio Abate",
+      "qid_2": "Q118352956",
+      "name_2": "chiesa di Sant'Antonio Abate",
+      "name_similarity": 1.0,
+      "distance_meters": null,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "name_similarity": 1.0
+        },
+        "shared_location_id"
+      ]
+    },
+    {
+      "qid_1": "Q118352631",
+      "name_1": "chiesa di Santa Maria delle Grazie",
+      "qid_2": "Q118352632",
+      "name_2": "chiesa di Santa Maria delle Grazie",
+      "name_similarity": 1.0,
+      "distance_meters": null,
+      "shared_location": true,
+      "shared_osm_objects": [],
+      "score": 50,
+      "confidence": "low",
+      "reasons": [
+        {
+          "name_similarity": 1.0
+        },
+        "shared_location_id"
+      ]
+    }
+  ]
 }

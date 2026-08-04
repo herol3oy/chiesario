@@ -9,6 +9,7 @@ from project_config import (
     COMMONS_FILE,
     COMMONS_REPORT_FILE,
     HISTORIC_SCOPE_FILE,
+    OVERRIDES_FILE,
 )
 
 INPUT_FILE = HISTORIC_SCOPE_FILE
@@ -77,6 +78,53 @@ def filename_key(filename):
         .strip()
         .casefold()
     )
+
+
+def needs_publication_enrichment(church):
+    derived = church.get("derived", {})
+    # Type overrides are applied later, so every confirmed-historic
+    # record must retain image enrichment even when its automatic
+    # type is currently out of scope.
+    return (
+        derived.get("historic_scope") == "historic"
+        or derived.get(
+            "publication_enrichment_override_pending",
+            False,
+        )
+    )
+
+
+def mark_pending_manual_date_records(churches, overrides):
+    record_overrides = overrides.get("records", {})
+    for church in churches:
+        date = record_overrides.get(
+            church["wikidata_id"],
+            {},
+        ).get("canonical_date")
+        if not isinstance(date, dict):
+            continue
+        start_year = date.get("start_year")
+        end_year = date.get("end_year")
+        basis = date.get("basis", "origin")
+        if basis in {
+            "documentary_attestation",
+            "predecessor",
+        }:
+            historic = (
+                isinstance(end_year, int)
+                and not isinstance(end_year, bool)
+                and end_year < 1800
+            )
+        else:
+            historic = (
+                isinstance(start_year, int)
+                and not isinstance(start_year, bool)
+                and start_year < 1800
+            )
+        if historic:
+            church.setdefault("derived", {})[
+                "publication_enrichment_override_pending"
+            ] = True
 
 
 # --------------------------------------------------
@@ -361,6 +409,9 @@ def collect_filenames(churches):
 
     for church in churches:
 
+        if not needs_publication_enrichment(church):
+            continue
+
         for image in church.get(
             "images",
             [],
@@ -514,6 +565,12 @@ def attach_commons(
 ):
     for church in churches:
 
+        if not needs_publication_enrichment(church):
+            church.setdefault("derived", {})[
+                "commons_enrichment_status"
+            ] = "deferred"
+            continue
+
         images = church.get(
             "images",
             [],
@@ -564,6 +621,10 @@ def attach_commons(
         ]
 
         derived[
+            "commons_enrichment_status"
+        ] = "complete"
+
+        derived[
             "commons_image_count"
         ] = len(usable)
 
@@ -590,6 +651,9 @@ def build_report(churches):
     churches_without_images = []
 
     for church in churches:
+
+        if not needs_publication_enrichment(church):
+            continue
 
         images = church.get(
             "images",
@@ -691,6 +755,20 @@ def build_report(churches):
         "total_churches":
             len(churches),
 
+        "churches_enriched_for_publication":
+            sum(
+                1
+                for church in churches
+                if needs_publication_enrichment(church)
+            ),
+
+        "churches_deferred":
+            sum(
+                1
+                for church in churches
+                if not needs_publication_enrichment(church)
+            ),
+
         "unique_files":
             len(files),
 
@@ -745,6 +823,17 @@ def main():
     churches = load_json(
         INPUT_FILE,
         [],
+    )
+
+    mark_pending_manual_date_records(
+        churches,
+        load_json(
+            OVERRIDES_FILE,
+            {
+                "records": {},
+                "duplicate_pairs": [],
+            },
+        ),
     )
 
     cache = load_json(

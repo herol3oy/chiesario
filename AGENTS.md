@@ -129,6 +129,10 @@ resolve_coordinates.py
   ↓
 resolve_dates.py
   ↓
+enrich_beweb.py (optional)
+  ↓
+resolve_historical_dates.py
+  ↓
 resolve_historic_scope.py
   ↓
 enrich_commons.py
@@ -165,9 +169,8 @@ uv run apply_overrides.py
 uv run build_catalog.py
 uv run qa.py
 uv run build_geojson.py
-
-cp data/catalog/churches.geojson \
-  web/public/data/churches.geojson
+uv run qa.py --geojson
+uv run publish.py
 ```
 
 Do not rerun source-fetching stages unnecessarily.
@@ -186,6 +189,7 @@ uv run classify_types.py
 uv run enrich_osm.py
 uv run resolve_coordinates.py
 uv run resolve_dates.py
+uv run resolve_historical_dates.py
 uv run resolve_historic_scope.py
 uv run enrich_commons.py
 uv run select_images.py
@@ -199,8 +203,7 @@ uv run build_geojson.py
 Then:
 
 ```bash
-cp data/catalog/churches.geojson \
-  web/public/data/churches.geojson
+uv run publish.py
 ```
 
 ---
@@ -671,8 +674,7 @@ uv run build_geojson.py
 When publication data is updated:
 
 ```bash
-cp data/catalog/churches.geojson \
-  web/public/data/churches.geojson
+uv run publish.py
 ```
 
 Confirm:

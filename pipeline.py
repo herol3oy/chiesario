@@ -26,6 +26,8 @@ STAGES = [
     "enrich_osm.py",
     "resolve_coordinates.py",
     "resolve_dates.py",
+    "enrich_beweb.py",
+    "resolve_historical_dates.py",
     "resolve_historic_scope.py",
     "enrich_commons.py",
     "select_images.py",
@@ -111,6 +113,15 @@ def main():
     )
 
     parser.add_argument(
+        "--stop-after",
+        choices=STAGES,
+        help=(
+            "Stop after a specific stage without running "
+            "publication QA or GeoJSON generation."
+        ),
+    )
+
+    parser.add_argument(
         "--resume-entities",
         action="store_true",
         help=(
@@ -119,7 +130,44 @@ def main():
         ),
     )
 
+    parser.add_argument(
+        "--with-beweb",
+        action="store_true",
+        help=(
+            "Collect cached/public BeWeb history and use it "
+            "in conservative historical-date resolution."
+        ),
+    )
+
+    parser.add_argument(
+        "--refresh-beweb",
+        action="store_true",
+        help=(
+            "Refetch BeWeb pages instead of reusing complete "
+            "raw cache entries. Requires --with-beweb."
+        ),
+    )
+
     args = parser.parse_args()
+
+    if args.refresh_beweb and not args.with_beweb:
+        parser.error("--refresh-beweb requires --with-beweb")
+
+    if (
+        args.start_at == "enrich_beweb.py"
+        and not args.with_beweb
+    ):
+        parser.error(
+            "Starting at enrich_beweb.py requires --with-beweb"
+        )
+
+    if (
+        args.stop_after == "enrich_beweb.py"
+        and not args.with_beweb
+    ):
+        parser.error(
+            "Stopping after enrich_beweb.py requires --with-beweb"
+        )
 
     region_slug = args.region
     region = regions[region_slug]
@@ -146,18 +194,31 @@ def main():
         region["wikidata_id"],
     )
 
-    stages = STAGES
+    start_index = 0
+    stop_index = len(STAGES) - 1
 
     if args.start_at:
-        start_index = stages.index(
+        start_index = STAGES.index(
             args.start_at
         )
 
-        stages = stages[
-            start_index:
-        ]
+    if args.stop_after:
+        stop_index = STAGES.index(
+            args.stop_after
+        )
+
+    if start_index > stop_index:
+        parser.error("--start-at must not come after --stop-after")
+
+    stages = STAGES[start_index:stop_index + 1]
+    executed = []
 
     for script in stages:
+        if script == "enrich_beweb.py" and not args.with_beweb:
+            print()
+            print("Skipping optional enrich_beweb.py")
+            continue
+
         extra_args = (
             ["--resume"]
             if (
@@ -167,11 +228,34 @@ def main():
             else []
         )
 
+        if (
+            script == "enrich_beweb.py"
+            and args.refresh_beweb
+        ):
+            extra_args = ["--refresh"]
+
+        if (
+            script == "resolve_historical_dates.py"
+            and args.with_beweb
+        ):
+            extra_args = ["--use-beweb"]
+
         run_stage(
             script,
             env,
             extra_args,
         )
+        executed.append(script)
+
+    if "build_catalog.py" not in executed:
+        print()
+        print("=" * 60)
+        print("Pipeline stopped at requested research stage")
+        print("=" * 60)
+        print()
+        print(f"Region: {region['name']}")
+        print(f"Last stage: {executed[-1] if executed else 'none'}")
+        return 0
 
     # ------------------------------------------
     # Publication QA gate
@@ -181,6 +265,7 @@ def main():
         [
             sys.executable,
             "qa.py",
+            "--strict-publication",
         ],
         env,
     )
@@ -200,6 +285,7 @@ def main():
             sys.executable,
             "qa.py",
             "--geojson",
+            "--strict-publication",
         ],
         env,
     )

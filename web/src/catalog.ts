@@ -1,6 +1,8 @@
 import type {
-  CatalogFilters,
-  ChurchFeature,
+    CatalogFilters,
+    ChurchFeature,
+    ChurchProperties,
+    HistoricalPeriod,
 } from "./types";
 
 
@@ -9,6 +11,18 @@ export const TYPE_LABELS: Record<string, string> = {
   cathedral: "Cattedrale",
   basilica: "Basilica",
   former_church: "Ex chiesa",
+};
+
+export const PHASE_LABELS: Record<string, string> = {
+  origin: "Origine",
+  foundation: "Fondazione",
+  construction: "Costruzione",
+  documentary_attestation: "Attestazione documentaria",
+  predecessor: "Edificio precedente",
+  reconstruction: "Ricostruzione",
+  restoration: "Restauro",
+  consecration: "Consacrazione",
+  other: "Fase storica",
 };
 
 
@@ -57,6 +71,59 @@ export function romanNumeral(value: number): string {
 
 export function centuryLabel(century: number): string {
   return `${romanNumeral(century)} secolo`;
+}
+
+
+export function formatPeriod(
+  period: Pick<
+    HistoricalPeriod,
+    "kind" | "start_year" | "end_year" | "display"
+  >,
+): string {
+  if (period.kind === "year") {
+    return String(period.start_year);
+  }
+  if (period.kind === "circa_year") {
+    return `circa ${period.start_year}`;
+  }
+  if (period.kind === "decade") {
+    return `anni ${period.start_year}`;
+  }
+  if (period.kind === "year_range") {
+    return `${period.start_year}–${period.end_year}`;
+  }
+  if (period.kind === "century") {
+    return centuryLabel(centuryForYear(period.start_year));
+  }
+  if (period.kind === "century_range") {
+    const first = centuryForYear(period.start_year);
+    const last = centuryForYear(period.end_year);
+    return `${romanNumeral(first)}–${romanNumeral(last)} secolo`;
+  }
+  if (period.kind === "mixed_range") {
+    const first = centuryForYear(period.start_year);
+    return `${romanNumeral(first)} secolo–${period.end_year}`;
+  }
+  return period.display;
+}
+
+
+export function formatChurchDate(
+  properties: ChurchProperties,
+): string {
+  const period = formatPeriod({
+    kind: properties.date_kind,
+    start_year: properties.start_year,
+    end_year: properties.end_year,
+    display: properties.date_display,
+  });
+  if (properties.date_basis === "documentary_attestation") {
+    return `Documentata entro il ${period}`;
+  }
+  if (properties.date_basis === "predecessor") {
+    return `Origini documentate entro il ${period}`;
+  }
+  return period;
 }
 
 

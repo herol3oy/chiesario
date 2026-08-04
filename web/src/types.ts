@@ -10,8 +10,11 @@ export interface ChurchProperties {
   start_year: number;
   end_year: number;
   date_source: string | null;
+  date_basis: string;
   date_source_name: string | null;
   date_source_url: string | null;
+  date_sources: DateSource[];
+  historical_phases: HistoricalPhase[];
   coordinate_source: string | null;
   hero_image: string | null;
   hero_filename: string | null;
@@ -22,6 +25,28 @@ export interface ChurchProperties {
   website: string | null;
   wikidata_url: string;
   osm_url: string | null;
+}
+
+export interface DateSource {
+  name: string;
+  url: string | null;
+  source_id: string | null;
+}
+
+export interface HistoricalPeriod {
+  kind: string;
+  start_year: number;
+  end_year: number;
+  display: string;
+}
+
+export interface HistoricalPhase {
+  evidence_type: string;
+  period: HistoricalPeriod;
+  period_raw: string | null;
+  building_part: string | null;
+  source_name: string | null;
+  source_url: string | null;
 }
 
 export interface ChurchFeature {

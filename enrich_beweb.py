@@ -42,6 +42,11 @@ INTERVENTION_LABELS = (
     "costruzione",
     "edificazione",
     "fondazione",
+    "origine",
+    "origini",
+    "preesistenza",
+    "attestazione",
+    "menzione",
     "rifacimento",
     "ricostruzione",
     "restauro",
@@ -51,6 +56,25 @@ INTERVENTION_LABELS = (
     "storia",
     "consacrazione",
 )
+
+INTERVENTION_TYPES = {
+    "costruzione": "construction",
+    "edificazione": "construction",
+    "fondazione": "foundation",
+    "origine": "origin",
+    "origini": "origin",
+    "preesistenza": "predecessor",
+    "attestazione": "documentary_attestation",
+    "menzione": "documentary_attestation",
+    "rifacimento": "reconstruction",
+    "ricostruzione": "reconstruction",
+    "ristrutturazione": "reconstruction",
+    "restauro": "restoration",
+    "consacrazione": "consecration",
+    "lavori": "other",
+    "committenza": "other",
+    "storia": "other",
+}
 
 
 def load_json(path):
@@ -230,6 +254,99 @@ def split_context(context):
     return None, None, context or None
 
 
+def classify_evidence(
+    intervention,
+    context,
+    narrative,
+):
+    detail_text = (narrative or context or "").casefold()
+    text = " ".join(
+        item
+        for item in (context, narrative)
+        if item
+    ).casefold()
+
+    mapped = INTERVENTION_TYPES.get(intervention)
+    if mapped == "construction":
+        if any(
+            marker in detail_text
+            for marker in (
+                "ricostruit",
+                "ricostruzion",
+                "ristruttur",
+                "rifacimento",
+                "ampliat",
+            )
+        ):
+            return "reconstruction"
+        if (
+            any(
+                marker in detail_text
+                for marker in (
+                    "inaugurat",
+                    "consacrat",
+                    "benedett",
+                )
+            )
+            and not any(
+                marker in detail_text
+                for marker in (
+                    "costru",
+                    "edificat",
+                    "realizzat",
+                    "lavori",
+                )
+            )
+        ):
+            return "consecration"
+    if mapped and mapped != "other":
+        return mapped
+
+    # These fallbacks are deliberately narrow. They identify
+    # the semantic class but never select a canonical date.
+    patterns = (
+        (
+            "predecessor",
+            (
+                "chiesa preesistente",
+                "edificio preesistente",
+                "preesistente chiesa",
+            ),
+        ),
+        (
+            "documentary_attestation",
+            (
+                "prima menzione",
+                "prime notizie",
+                "documentata",
+                "documentato",
+                "attestata",
+                "attestato",
+            ),
+        ),
+        (
+            "origin",
+            (
+                "la chiesa ha origini",
+                "l'edificio ha origini",
+                "le origini della chiesa",
+                "le origini dell'edificio",
+                "origini risalgono",
+                "venne edificata",
+                "fu edificata",
+                "venne costruita",
+                "fu costruita",
+            ),
+        ),
+    )
+
+    for evidence_type, phrases in patterns:
+        if any(phrase in text for phrase in phrases):
+            return evidence_type
+
+    return "other"
+
+
 def parse_history(html):
     parser = HistoryParser()
     parser.feed(html)
@@ -242,6 +359,11 @@ def parse_history(html):
         intervention, building_part, context_raw = (
             split_context(context)
         )
+        evidence_type = classify_evidence(
+            intervention,
+            context_raw,
+            narrative,
+        )
 
         evidence.append(
             {
@@ -249,6 +371,7 @@ def parse_history(html):
                 "entry_ordinal": ordinal,
                 "period_raw": period or None,
                 "intervention_raw": intervention,
+                "evidence_type": evidence_type,
                 "building_part_raw": building_part,
                 "context_raw": context_raw,
                 "short_evidence_excerpt": (
@@ -435,7 +558,15 @@ def load_cached_record(beweb_id):
     ):
         return None
 
-    return load_json(metadata_file)
+    metadata = load_json(metadata_file)
+    responses = metadata.get("responses", {})
+    if any(
+        responses.get(section, {}).get("status") != 200
+        for section in ("page", "history", "information")
+    ):
+        return None
+
+    return metadata
 
 
 def build_evidence(beweb_id, metadata):
@@ -507,9 +638,17 @@ def main():
         )
     )
     parser.add_argument(
+        "--refresh",
+        action="store_true",
+        help="Refetch records even when a complete raw cache exists.",
+    )
+    parser.add_argument(
         "--resume",
         action="store_true",
-        help="Reuse complete raw BeWeb cache entries.",
+        help=(
+            "Deprecated compatibility flag; complete cache entries "
+            "are reused by default."
+        ),
     )
     parser.add_argument(
         "--limit",
@@ -565,9 +704,9 @@ def main():
 
     for index, (church, beweb_id) in enumerate(linked, 1):
         metadata = (
-            load_cached_record(beweb_id)
-            if args.resume
-            else None
+            None
+            if args.refresh
+            else load_cached_record(beweb_id)
         )
         fetched = metadata is None
         if fetched:
@@ -598,6 +737,9 @@ def main():
         "no_history": counts["no_history"],
         "fetch_failed": counts["fetch_failed"],
         "canonical_dates_changed": 0,
+        "cache_policy": (
+            "refresh" if args.refresh else "reuse_complete"
+        ),
     }
     save_json(REPORT_FILE, report)
 

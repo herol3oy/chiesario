@@ -1,0 +1,2189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Q2942612",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6598,
+          41.5605
+        ]
+      },
+      "properties": {
+        "id": "Q2942612",
+        "slug": "cattedrale-della-santissima-trinita-q2942612",
+        "name": "cattedrale della Santissima Trinità",
+        "church_type": "cathedral",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1504",
+        "date_kind": "year",
+        "start_year": 1504,
+        "end_year": 1504,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2942612",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2942612",
+            "source_id": "Q2942612"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 1829,
+              "end_year": 1829,
+              "display": "1829"
+            },
+            "period_raw": "1829",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70422/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1855,
+              "end_year": 1859,
+              "display": "1855–1859"
+            },
+            "period_raw": "1855 ‐ 1859",
+            "building_part": null,
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70422/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 2013,
+              "end_year": 2013,
+              "display": "2013"
+            },
+            "period_raw": "2013",
+            "building_part": "campanile",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70422/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+        "hero_filename": "Cattedrale campobasso.jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg",
+        "hero_artist": "Chrychry97 at Italian Wikipedia",
+        "hero_license_name": "CC BY-SA 3.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2942612",
+        "osm_url": "https://www.openstreetmap.org/way/261652486"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2942559",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.226694444444444,
+          41.58991666666667
+        ]
+      },
+      "properties": {
+        "id": "Q2942559",
+        "slug": "cattedrale-di-isernia-q2942559",
+        "name": "cattedrale di Isernia",
+        "church_type": "cathedral",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1349",
+        "date_kind": "year",
+        "start_year": 1349,
+        "end_year": 1349,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2942559",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2942559",
+            "source_id": "Q2942559"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "century",
+              "start_year": 1301,
+              "end_year": 1400,
+              "display": "14th century"
+            },
+            "period_raw": "XIV",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73086/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 2018,
+              "end_year": 2018,
+              "display": "2018"
+            },
+            "period_raw": "2018",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73086/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+        "hero_filename": "Cattedrale e Torre Civica (1925) (Isernia).jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_e_Torre_Civica_(1925)_(Isernia).jpg",
+        "hero_artist": "Thefab4",
+        "hero_license_name": "CC BY-SA 3.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "website": "https://www.cattedraleisernia.org/",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2942559",
+        "osm_url": "https://www.openstreetmap.org/way/302442175"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2942828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9972,
+          42.0053
+        ]
+      },
+      "properties": {
+        "id": "Q2942828",
+        "slug": "cattedrale-di-santa-maria-della-purificazione-q2942828",
+        "name": "cattedrale di Santa Maria della Purificazione",
+        "church_type": "cathedral",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "13th century",
+        "date_kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2942828",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2942828",
+            "source_id": "Q2942828"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "century_range",
+              "start_year": 1001,
+              "end_year": 1300,
+              "display": "11th–13th century"
+            },
+            "period_raw": "XI ‐ XIII",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26658/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "century",
+              "start_year": 1701,
+              "end_year": 1800,
+              "display": "18th century"
+            },
+            "period_raw": "XVIII",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26658/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1931,
+              "end_year": 1933,
+              "display": "1931–1933"
+            },
+            "period_raw": "1931 ‐ 1933",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26658/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1961,
+              "end_year": 1961,
+              "display": "1961"
+            },
+            "period_raw": "1961",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26658/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1962,
+              "end_year": 1969,
+              "display": "1962–1969"
+            },
+            "period_raw": "1962 ‐ 1969",
+            "building_part": "ingresso",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26658/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year_range",
+              "start_year": 2016,
+              "end_year": 2017,
+              "display": "2016–2017"
+            },
+            "period_raw": "2016 ‐ 2017",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26658/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Duomo_Termoli_1.JPG/1920px-Duomo_Termoli_1.JPG",
+        "hero_filename": "Duomo Termoli 1.JPG",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Duomo_Termoli_1.JPG",
+        "hero_artist": "Zitumassin",
+        "hero_license_name": "Public domain",
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2942828",
+        "osm_url": "https://www.openstreetmap.org/way/223438227"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118353083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.038694,
+          41.482917
+        ]
+      },
+      "properties": {
+        "id": "Q118353083",
+        "slug": "chiesa-del-carmine-q118353083",
+        "name": "chiesa del Carmine",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "16th century",
+        "date_kind": "century",
+        "start_year": 1501,
+        "end_year": 1600,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73163/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73163/",
+            "source_id": "73163"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "century",
+              "start_year": 1501,
+              "end_year": 1600,
+              "display": "16th century"
+            },
+            "period_raw": "XVI",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73163/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 2022,
+              "end_year": 2022,
+              "display": "2022"
+            },
+            "period_raw": "2022",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73163/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118353083",
+        "osm_url": "https://www.openstreetmap.org/way/183346930"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3668604",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6696,
+          41.5614
+        ]
+      },
+      "properties": {
+        "id": "Q3668604",
+        "slug": "chiesa-del-sacro-cuore-di-gesu-q3668604",
+        "name": "chiesa del Sacro Cuore di Gesù",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1589",
+        "date_kind": "year",
+        "start_year": 1589,
+        "end_year": 1589,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668604",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668604",
+            "source_id": "Q3668604"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3668604",
+        "osm_url": "https://www.openstreetmap.org/way/261652700"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118362755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.276806,
+          41.573556
+        ]
+      },
+      "properties": {
+        "id": "Q118362755",
+        "slug": "chiesa-dell-assunzione-di-maria-vergine-q118362755",
+        "name": "chiesa dell'Assunzione di Maria Vergine",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "18th century",
+        "date_kind": "century",
+        "start_year": 1701,
+        "end_year": 1800,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73124/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73124/",
+            "source_id": "73124"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "century",
+              "start_year": 1701,
+              "end_year": 1800,
+              "display": "18th century"
+            },
+            "period_raw": "XVIII",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73124/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 2019,
+              "end_year": 2019,
+              "display": "2019"
+            },
+            "period_raw": "2019",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73124/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118362755",
+        "osm_url": "https://www.openstreetmap.org/way/267884034"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.007078,
+          41.914806
+        ]
+      },
+      "properties": {
+        "id": "Q118352790",
+        "slug": "chiesa-della-madonna-del-carmine-q118352790",
+        "name": "chiesa della Madonna del Carmine",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1635",
+        "date_kind": "year",
+        "start_year": 1635,
+        "end_year": 1635,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26634/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26634/",
+            "source_id": "26634"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year",
+              "start_year": 1635,
+              "end_year": 1635,
+              "display": "1635"
+            },
+            "period_raw": "1635",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26634/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352790",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.244361,
+          41.519778
+        ]
+      },
+      "properties": {
+        "id": "Q118352993",
+        "slug": "chiesa-di-san-bartolomeo-apostolo-q118352993",
+        "name": "chiesa di San Bartolomeo Apostolo",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "16th century",
+        "date_kind": "century",
+        "start_year": 1501,
+        "end_year": 1600,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73103/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73103/",
+            "source_id": "73103"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "century",
+              "start_year": 1501,
+              "end_year": 1600,
+              "display": "16th century"
+            },
+            "period_raw": "XVI",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73103/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 2021,
+              "end_year": 2021,
+              "display": "2021"
+            },
+            "period_raw": "2021",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73103/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352993",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352824",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.990222,
+          41.710778
+        ]
+      },
+      "properties": {
+        "id": "Q118352824",
+        "slug": "chiesa-di-san-giacomo-q118352824",
+        "name": "chiesa di San Giacomo",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1727",
+        "date_kind": "year",
+        "start_year": 1727,
+        "end_year": 1727,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26653/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26653/",
+            "source_id": "26653"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year",
+              "start_year": 1727,
+              "end_year": 1727,
+              "display": "1727"
+            },
+            "period_raw": "1727",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26653/"
+          },
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year",
+              "start_year": 1875,
+              "end_year": 1875,
+              "display": "1875"
+            },
+            "period_raw": "1875",
+            "building_part": "campanile",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26653/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year_range",
+              "start_year": 2002,
+              "end_year": 2012,
+              "display": "2002–2012"
+            },
+            "period_raw": "2002 ‐ 2012",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26653/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352824",
+        "osm_url": "https://www.openstreetmap.org/way/327333972"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q111525622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69491,
+          41.69279
+        ]
+      },
+      "properties": {
+        "id": "Q111525622",
+        "slug": "chiesa-di-san-giorgio-q111525622",
+        "name": "chiesa di San Giorgio",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1100",
+        "date_kind": "year",
+        "start_year": 1100,
+        "end_year": 1100,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q111525622",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q111525622",
+            "source_id": "Q111525622"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q111525622",
+        "osm_url": "https://www.openstreetmap.org/way/864198740"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.836722,
+          41.903222
+        ]
+      },
+      "properties": {
+        "id": "Q118352761",
+        "slug": "chiesa-di-san-giorgio-martire-q118352761",
+        "name": "chiesa di San Giorgio Martire",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1618",
+        "date_kind": "year",
+        "start_year": 1618,
+        "end_year": 1618,
+        "date_source": "beweb",
+        "date_basis": "documentary_attestation",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26610/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26610/",
+            "source_id": "26610"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "documentary_attestation",
+            "period": {
+              "kind": "year",
+              "start_year": 1618,
+              "end_year": 1618,
+              "display": "1618"
+            },
+            "period_raw": "1618",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26610/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1755,
+              "end_year": 1755,
+              "display": "1755"
+            },
+            "period_raw": "1755",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26610/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 1861,
+              "end_year": 1861,
+              "display": "1861"
+            },
+            "period_raw": "1861",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26610/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1968,
+              "end_year": 1975,
+              "display": "1968–1975"
+            },
+            "period_raw": "1968 ‐ 1975",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26610/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352761",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352796",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.822167,
+          41.689639
+        ]
+      },
+      "properties": {
+        "id": "Q118352796",
+        "slug": "chiesa-di-san-michele-q118352796",
+        "name": "chiesa di San Michele",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1733",
+        "date_kind": "year",
+        "start_year": 1733,
+        "end_year": 1733,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26639/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26639/",
+            "source_id": "26639"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year",
+              "start_year": 1733,
+              "end_year": 1733,
+              "display": "1733"
+            },
+            "period_raw": "1733",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26639/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352796",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3671431",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.231939,
+          41.855323
+        ]
+      },
+      "properties": {
+        "id": "Q3671431",
+        "slug": "chiesa-di-san-nicola-q3671431",
+        "name": "chiesa di San Nicola",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1727",
+        "date_kind": "year",
+        "start_year": 1727,
+        "end_year": 1727,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671431",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671431",
+            "source_id": "Q3671431"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": "http://www.comune.casteldelgiudice.is.it/parrocchia.htm",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3671431",
+        "osm_url": "https://www.openstreetmap.org/way/376271073"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352737",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.733383,
+          41.761917
+        ]
+      },
+      "properties": {
+        "id": "Q118352737",
+        "slug": "chiesa-di-san-nicola-di-bari-q118352737",
+        "name": "chiesa di San Nicola di Bari",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "date_source": "beweb",
+        "date_basis": "origin",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26608/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26608/",
+            "source_id": "26608"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "origin",
+            "period": {
+              "kind": "century",
+              "start_year": 1001,
+              "end_year": 1100,
+              "display": "11th century"
+            },
+            "period_raw": "XI",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26608/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1582,
+              "end_year": 1582,
+              "display": "1582"
+            },
+            "period_raw": "1582",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26608/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "century",
+              "start_year": 1901,
+              "end_year": 2000,
+              "display": "20th century"
+            },
+            "period_raw": "XX",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26608/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352737",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q98249147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.487863,
+          41.542212
+        ]
+      },
+      "properties": {
+        "id": "Q98249147",
+        "slug": "chiesa-di-san-pietro-apostolo-spinete-q98249147",
+        "name": "chiesa di San Pietro Apostolo Spinete",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "13th century",
+        "date_kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q98249147",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q98249147",
+            "source_id": "Q98249147"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Pietro_Spinete.jpg/1920px-San_Pietro_Spinete.jpg",
+        "hero_filename": "San Pietro Spinete.jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:San_Pietro_Spinete.jpg",
+        "hero_artist": "Goldmund100",
+        "hero_license_name": "CC BY-SA 4.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q98249147",
+        "osm_url": "https://www.openstreetmap.org/way/1469546724"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.22425,
+          41.585494
+        ]
+      },
+      "properties": {
+        "id": "Q118352987",
+        "slug": "chiesa-di-san-pietro-celestino-q118352987",
+        "name": "chiesa di San Pietro Celestino",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "17th century",
+        "date_kind": "century",
+        "start_year": 1601,
+        "end_year": 1700,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73091/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73091/",
+            "source_id": "73091"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "century",
+              "start_year": 1601,
+              "end_year": 1700,
+              "display": "17th century"
+            },
+            "period_raw": "XVII",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73091/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year",
+              "start_year": 2016,
+              "end_year": 2016,
+              "display": "2016"
+            },
+            "period_raw": "2016",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73091/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chiesa_San_Pietro_Celestino_%28Isernia%29.JPG/1920px-Chiesa_San_Pietro_Celestino_%28Isernia%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "hero_filename": "Chiesa San Pietro Celestino (Isernia).JPG",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_San_Pietro_Celestino_(Isernia).JPG",
+        "hero_artist": "TheFab4",
+        "hero_license_name": "CC BY-SA 3.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352987",
+        "osm_url": "https://www.openstreetmap.org/way/1183971709"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.688806,
+          41.730139
+        ]
+      },
+      "properties": {
+        "id": "Q118352736",
+        "slug": "chiesa-di-san-rocco-q118352736",
+        "name": "chiesa di San Rocco",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "16th century",
+        "date_kind": "century",
+        "start_year": 1501,
+        "end_year": 1600,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26605/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26605/",
+            "source_id": "26605"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "century",
+              "start_year": 1501,
+              "end_year": 1600,
+              "display": "16th century"
+            },
+            "period_raw": "XVI",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26605/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year",
+              "start_year": 1702,
+              "end_year": 1702,
+              "display": "1702"
+            },
+            "period_raw": "1702",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26605/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352736",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352933",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.111331,
+          41.668056
+        ]
+      },
+      "properties": {
+        "id": "Q118352933",
+        "slug": "chiesa-di-san-rocco-q118352933",
+        "name": "chiesa di San Rocco",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1655",
+        "date_kind": "year",
+        "start_year": 1655,
+        "end_year": 1655,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73046/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73046/",
+            "source_id": "73046"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year",
+              "start_year": 1655,
+              "end_year": 1655,
+              "display": "1655"
+            },
+            "period_raw": "1655",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73046/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 2021,
+              "end_year": 2021,
+              "display": "2021"
+            },
+            "period_raw": "2021",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/73046/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352933",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3672048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.458308,
+          41.706455
+        ]
+      },
+      "properties": {
+        "id": "Q3672048",
+        "slug": "chiesa-di-san-silvestro-q3672048",
+        "name": "chiesa di San Silvestro",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "13th century",
+        "date_kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672048",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672048",
+            "source_id": "Q3672048"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+        "hero_filename": "PanoramaChiesaSanSilvestro BagnoliDelTrigno.jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+        "hero_artist": "Luigi Salimbeni",
+        "hero_license_name": "CC BY-SA 3.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3672048",
+        "osm_url": "https://www.openstreetmap.org/way/369107371"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q19595627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80731,
+          41.68886
+        ]
+      },
+      "properties": {
+        "id": "Q19595627",
+        "slug": "chiesa-di-santa-maria-assunta-q19595627",
+        "name": "chiesa di Santa Maria Assunta",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1731–1744",
+        "date_kind": "year_range",
+        "start_year": 1731,
+        "end_year": 1744,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26637/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26637/",
+            "source_id": "26637"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1731,
+              "end_year": 1744,
+              "display": "1731–1744"
+            },
+            "period_raw": "1731 ‐ 1744",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26637/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year",
+              "start_year": 2017,
+              "end_year": 2017,
+              "display": "2017"
+            },
+            "period_raw": "2017",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26637/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q19595627",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q98217148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.487333333333334,
+          41.54419444444444
+        ]
+      },
+      "properties": {
+        "id": "Q98217148",
+        "slug": "chiesa-di-santa-maria-assunta-in-cielo-q98217148",
+        "name": "chiesa di Santa Maria Assunta in Cielo",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1241",
+        "date_kind": "year",
+        "start_year": 1241,
+        "end_year": 1241,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q98217148",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q98217148",
+            "source_id": "Q98217148"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg/1920px-Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+        "hero_filename": "Chiesa di Santa Maria Assunta Spinete.jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+        "hero_artist": "Goldmund100",
+        "hero_license_name": "CC BY-SA 4.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q98217148",
+        "osm_url": "https://www.openstreetmap.org/way/378932621"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352803",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.004056,
+          41.749861
+        ]
+      },
+      "properties": {
+        "id": "Q118352803",
+        "slug": "chiesa-di-santa-maria-degli-angeli-q118352803",
+        "name": "chiesa di Santa Maria degli Angeli",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1728–1744",
+        "date_kind": "year_range",
+        "start_year": 1728,
+        "end_year": 1744,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26641/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26641/",
+            "source_id": "26641"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1728,
+              "end_year": 1744,
+              "display": "1728–1744"
+            },
+            "period_raw": "1728 ‐ 1744",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26641/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year",
+              "start_year": 1888,
+              "end_year": 1888,
+              "display": "1888"
+            },
+            "period_raw": "1888",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26641/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352803",
+        "osm_url": "https://www.openstreetmap.org/way/267586779"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352770",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.932639,
+          41.760583
+        ]
+      },
+      "properties": {
+        "id": "Q118352770",
+        "slug": "chiesa-di-santa-maria-del-carmine-q118352770",
+        "name": "chiesa di Santa Maria del Carmine",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "18th–19th century",
+        "date_kind": "century_range",
+        "start_year": 1701,
+        "end_year": 1900,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26620/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26620/",
+            "source_id": "26620"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "century_range",
+              "start_year": 1701,
+              "end_year": 1900,
+              "display": "18th–19th century"
+            },
+            "period_raw": "XVIII ‐ XIX",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26620/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352770",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q98408389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.486687,
+          41.545086
+        ]
+      },
+      "properties": {
+        "id": "Q98408389",
+        "slug": "chiesa-di-santa-maria-del-carmine-spinete-q98408389",
+        "name": "chiesa di Santa Maria del Carmine Spinete",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "12th century",
+        "date_kind": "century",
+        "start_year": 1101,
+        "end_year": 1200,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q98408389",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q98408389",
+            "source_id": "Q98408389"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+        "hero_filename": "Santa Maria del Carmine Spinete.jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Carmine_Spinete.jpg",
+        "hero_artist": "Goldmund100",
+        "hero_license_name": "CC BY-SA 4.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q98408389",
+        "osm_url": "https://www.openstreetmap.org/way/378932616"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q3673847",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6589,
+          41.5579
+        ]
+      },
+      "properties": {
+        "id": "Q3673847",
+        "slug": "chiesa-di-santa-maria-della-libera-q3673847",
+        "name": "chiesa di Santa Maria della Libera",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1320",
+        "date_kind": "year",
+        "start_year": 1320,
+        "end_year": 1320,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673847",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673847",
+            "source_id": "Q3673847"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1824,
+              "end_year": 1824,
+              "display": "1824"
+            },
+            "period_raw": "1824",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70423/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 2015,
+              "end_year": 2015,
+              "display": "2015"
+            },
+            "period_raw": "2015",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70423/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q3673847",
+        "osm_url": "https://www.openstreetmap.org/way/261652725"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.010647,
+          41.815028
+        ]
+      },
+      "properties": {
+        "id": "Q118352878",
+        "slug": "chiesa-di-santa-maria-delle-grazie-q118352878",
+        "name": "chiesa di Santa Maria delle Grazie",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1718",
+        "date_kind": "year",
+        "start_year": 1718,
+        "end_year": 1718,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/",
+            "source_id": "26670"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1540,
+              "end_year": 1540,
+              "display": "1540"
+            },
+            "period_raw": "1540",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/"
+          },
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year",
+              "start_year": 1718,
+              "end_year": 1718,
+              "display": "1718"
+            },
+            "period_raw": "1718",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1730,
+              "end_year": 1731,
+              "display": "1730–1731"
+            },
+            "period_raw": "1730 ‐ 1731",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1760,
+              "end_year": 1760,
+              "display": "1760"
+            },
+            "period_raw": "1760",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "century_range",
+              "start_year": 1801,
+              "end_year": 2000,
+              "display": "19th–20th century"
+            },
+            "period_raw": "XIX ‐ XX",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1969,
+              "end_year": 1999,
+              "display": "1969–1999"
+            },
+            "period_raw": "1969 ‐ 1999",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1999,
+              "end_year": 1999,
+              "display": "1999"
+            },
+            "period_raw": "1999",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26670/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Chiesa_di_Santa_Maria_delle_Grazie%2C_Ururi%2C_Molise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "hero_filename": "Chiesa di Santa Maria delle Grazie, Ururi, Molise.jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_delle_Grazie,_Ururi,_Molise.jpg",
+        "hero_artist": "Ragazzo fortunato at Italian Wikipedia",
+        "hero_license_name": "CC BY-SA 3.0",
+        "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352878",
+        "osm_url": "https://www.openstreetmap.org/way/862515979"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118362703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.913222,
+          41.915056
+        ]
+      },
+      "properties": {
+        "id": "Q118362703",
+        "slug": "chiesa-di-santa-maria-delle-grazie-q118362703",
+        "name": "chiesa di Santa Maria delle Grazie",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1643",
+        "date_kind": "year",
+        "start_year": 1643,
+        "end_year": 1643,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26591/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26591/",
+            "source_id": "26591"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year",
+              "start_year": 1643,
+              "end_year": 1643,
+              "display": "1643"
+            },
+            "period_raw": "1643",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26591/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1672,
+              "end_year": 1672,
+              "display": "1672"
+            },
+            "period_raw": "1672",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26591/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "year",
+              "start_year": 1868,
+              "end_year": 1868,
+              "display": "1868"
+            },
+            "period_raw": "1868",
+            "building_part": "carattere generale",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26591/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year_range",
+              "start_year": 2002,
+              "end_year": 2007,
+              "display": "2002–2007"
+            },
+            "period_raw": "2002 ‐ 2007",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26591/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118362703",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118362715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698444,
+          41.891111
+        ]
+      },
+      "properties": {
+        "id": "Q118362715",
+        "slug": "chiesa-di-santa-maria-di-costantinopoli-q118362715",
+        "name": "chiesa di Santa Maria di Costantinopoli",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1200",
+        "date_kind": "year",
+        "start_year": 1200,
+        "end_year": 1200,
+        "date_source": "beweb",
+        "date_basis": "origin",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26643/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26643/",
+            "source_id": "26643"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "origin",
+            "period": {
+              "kind": "year",
+              "start_year": 1200,
+              "end_year": 1200,
+              "display": "1200"
+            },
+            "period_raw": "1200",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26643/"
+          },
+          {
+            "evidence_type": "other",
+            "period": {
+              "kind": "century",
+              "start_year": 1501,
+              "end_year": 1600,
+              "display": "16th century"
+            },
+            "period_raw": "XVI",
+            "building_part": null,
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26643/"
+          },
+          {
+            "evidence_type": "reconstruction",
+            "period": {
+              "kind": "year",
+              "start_year": 1764,
+              "end_year": 1764,
+              "display": "1764"
+            },
+            "period_raw": "1764",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26643/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "decade",
+              "start_year": 1990,
+              "end_year": 1999,
+              "display": "1990s"
+            },
+            "period_raw": "1990 ‐ 1999",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26643/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118362715",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q118352775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.776694,
+          41.712639
+        ]
+      },
+      "properties": {
+        "id": "Q118352775",
+        "slug": "chiesa-di-santa-maria-maggiore-q118352775",
+        "name": "chiesa di Santa Maria Maggiore",
+        "church_type": "church",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1720–1730",
+        "date_kind": "year_range",
+        "start_year": 1720,
+        "end_year": 1730,
+        "date_source": "beweb",
+        "date_basis": "construction",
+        "date_source_name": "BeWeb",
+        "date_source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26621/",
+        "date_sources": [
+          {
+            "name": "BeWeb",
+            "url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26621/",
+            "source_id": "26621"
+          }
+        ],
+        "historical_phases": [
+          {
+            "evidence_type": "construction",
+            "period": {
+              "kind": "year_range",
+              "start_year": 1720,
+              "end_year": 1730,
+              "display": "1720–1730"
+            },
+            "period_raw": "1720 ‐ 1730",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26621/"
+          },
+          {
+            "evidence_type": "restoration",
+            "period": {
+              "kind": "year",
+              "start_year": 2019,
+              "end_year": 2019,
+              "display": "2019"
+            },
+            "period_raw": "2019",
+            "building_part": "intero bene",
+            "source_name": "BeWeb",
+            "source_url": "https://www.beweb.chiesacattolica.it/edificidiculto/edificio/26621/"
+          }
+        ],
+        "coordinate_source": "wikidata",
+        "hero_image": null,
+        "hero_filename": null,
+        "hero_description_url": null,
+        "hero_artist": null,
+        "hero_license_name": null,
+        "hero_license_url": null,
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q118352775",
+        "osm_url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2942593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4726,
+          41.4819
+        ]
+      },
+      "properties": {
+        "id": "Q2942593",
+        "slug": "concattedrale-di-san-bartolomeo-q2942593",
+        "name": "concattedrale di San Bartolomeo",
+        "church_type": "cathedral",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "1073",
+        "date_kind": "year",
+        "start_year": 1073,
+        "end_year": 1073,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2942593",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2942593",
+            "source_id": "Q2942593"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/San_Bartolomeo_%28Bojano%29.jpg/1920px-San_Bartolomeo_%28Bojano%29.jpg",
+        "hero_filename": "San Bartolomeo (Bojano).jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:San_Bartolomeo_(Bojano).jpg",
+        "hero_artist": "Goldmund100",
+        "hero_license_name": "CC BY-SA 4.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "website": "http://www.comune.bojano.cb.it/page.php?IDPagina=20",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2942593",
+        "osm_url": "https://www.openstreetmap.org/way/160425095"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "Q2942847",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.03841,
+          41.48385
+        ]
+      },
+      "properties": {
+        "id": "Q2942847",
+        "slug": "concattedrale-di-santa-maria-assunta-q2942847",
+        "name": "concattedrale di Santa Maria Assunta",
+        "church_type": "cathedral",
+        "region": "Molise",
+        "historic_scope": "historic",
+        "date_display": "11th century",
+        "date_kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "date_source": "wikidata",
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2942847",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2942847",
+            "source_id": "Q2942847"
+          }
+        ],
+        "historical_phases": [],
+        "coordinate_source": "wikidata",
+        "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg/1920px-Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+        "hero_filename": "Venafro - concattedrale di Santa Maria Assunta - facciata.jpg",
+        "hero_description_url": "https://commons.wikimedia.org/wiki/File:Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+        "hero_artist": "Obelix89",
+        "hero_license_name": "CC BY-SA 4.0",
+        "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "website": null,
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2942847",
+        "osm_url": "https://www.openstreetmap.org/way/183346931"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "total": 194,
+  "resolved": 187,
+  "unresolved": 7,
+  "by_source": {
+    "wikidata": 187
+  },
+  "by_basis": {
+    "inception": 187
+  },
+  "unresolved_reasons": {
+    "multiple_competing_dates": 7
+  },
+  "review_records": [
+    {
+      "wikidata_id": "Q51175",
+      "name": "basilica di Santa Maria Novella",
+      "reason": "multiple_competing_dates"
+    },
+    {
+      "wikidata_id": "Q1996075",
+      "name": "cappella Brancacci",
+      "reason": "multiple_competing_dates"
+    },
+    {
+      "wikidata_id": "Q3657333",
+      "name": "cappella Capponi",
+      "reason": "multiple_competing_dates"
+    },
+    {
+      "wikidata_id": "Q600355",
+      "name": "cappella Pazzi",
+      "reason": "multiple_competing_dates"
+    },
+    {
+      "wikidata_id": "Q428178",
+      "name": "chiesa del Santo Sepolcro",
+      "reason": "multiple_competing_dates"
+    },
+    {
+      "wikidata_id": "Q3671856",
+      "name": "chiesa di San Remigio",
+      "reason": "multiple_competing_dates"
+    },
+    {
+      "wikidata_id": "Q3673138",
+      "name": "chiesa di Santa Lucia dei Magnoli",
+      "reason": "multiple_competing_dates"
+    }
+  ]
+}

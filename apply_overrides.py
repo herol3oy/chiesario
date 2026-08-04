@@ -208,6 +208,22 @@ def override_date(
         )
     )
 
+    source_name = value.get(
+        "source_name"
+    )
+    source_url = value.get(
+        "source_url"
+    )
+    sources = value.get("sources") or []
+    if not sources and (source_name or source_url):
+        sources = [
+            {
+                "name": source_name or "Manual research",
+                "url": source_url,
+                "source_id": None,
+            }
+        ]
+
     canonical = {
         "kind":
             value["kind"],
@@ -224,14 +240,24 @@ def override_date(
         "source":
             "manual",
 
-        "source_name":
+        "basis":
             value.get(
-                "source_name"
+                "basis",
+                "origin",
             ),
 
+        "source_name":
+            source_name,
+
         "source_url":
+            source_url,
+
+        "sources": sources,
+
+        "evidence_refs":
             value.get(
-                "source_url"
+                "evidence_refs",
+                [],
             ),
 
         "note":
@@ -298,6 +324,12 @@ def override_date(
     derived[
         "canonical_date_source"
     ] = "manual"
+
+    derived[
+        "canonical_date_basis"
+    ] = canonical[
+        "basis"
+    ]
 
     record_override(
         church,
@@ -894,6 +926,7 @@ def build_report(churches):
     suppressed = []
 
     excluded = []
+    withheld = []
 
     remaining_reviews = {
         "dates": [],
@@ -969,12 +1002,27 @@ def build_report(churches):
                 }
             )
 
+        historic_scope = derived.get("historic_scope")
+        if historic_scope == "unknown":
+            withheld.append(
+                {
+                    "wikidata_id": qid,
+                    "name": name,
+                    "reason": "unknown_historic_scope",
+                }
+            )
+            continue
+
+        if (
+            historic_scope != "historic"
+            or derived.get("manually_excluded")
+            or derived.get("suppressed_as_duplicate")
+        ):
+            continue
+
         checks = {
             "dates":
                 "date_review_required",
-
-            "historic_scope":
-                "historic_scope_review_required",
 
             "coordinates":
                 "coordinate_review_required",
@@ -1018,6 +1066,9 @@ def build_report(churches):
         "manually_excluded":
             len(excluded),
 
+        "withheld_unknown_scope":
+            len(withheld),
+
         "remaining_review_counts": {
             key: len(value)
             for key, value in (
@@ -1034,6 +1085,9 @@ def build_report(churches):
 
         "excluded_records":
             excluded,
+
+        "withheld_records":
+            withheld,
 
         "remaining_reviews":
             remaining_reviews,
@@ -1171,6 +1225,13 @@ def main():
         "Manually excluded:",
         report[
             "manually_excluded"
+        ],
+    )
+
+    print(
+        "Withheld (unknown historic scope):",
+        report[
+            "withheld_unknown_scope"
         ],
     )
 

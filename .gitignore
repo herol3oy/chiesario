@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Resumable source caches. These preserve fetched HTML locally but are
+# too large, volatile, and source-licensed to commit as project data.
+data/regions/*/raw/beweb/

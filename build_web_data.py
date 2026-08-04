@@ -73,6 +73,7 @@ def load_region_geojson(slug, region):
         "date_display",
         "start_year",
         "date_source",
+        "date_basis",
         "wikidata_url",
     }
     for feature in features:
@@ -97,6 +98,20 @@ def load_region_geojson(slug, region):
             raise ValueError(
                 f"{properties.get('id')} is not confirmed historic"
             )
+        if properties.get("date_source") == "beweb":
+            sources = properties.get("date_sources") or []
+            if (
+                not properties.get("date_source_url")
+                or not any(
+                    source.get("source_id")
+                    and source.get("url")
+                    for source in sources
+                )
+            ):
+                raise ValueError(
+                    f"{properties.get('id')} has a BeWeb date "
+                    "without stable provenance"
+                )
         if properties.get("hero_image"):
             image_missing = [
                 field

@@ -28249,7 +28249,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "abbey",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [

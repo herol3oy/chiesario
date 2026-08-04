@@ -8,10 +8,13 @@ import {
 import "maplibre-gl/dist/maplibre-gl.css";
 
 import {
+  PHASE_LABELS,
   TYPE_LABELS,
   availableCenturies,
   centuryLabel,
   filterChurches,
+  formatChurchDate,
+  formatPeriod,
   sortChurches,
   uniqueValues,
 } from "./catalog";
@@ -288,33 +291,76 @@ function showDetails(feature: ChurchFeature, moveMap = false): void {
   dateTitle.textContent = "Data storica";
   const dateValue = document.createElement("p");
   dateValue.className = "primary-date";
-  dateValue.textContent = properties.date_display;
+  dateValue.textContent = formatChurchDate(properties);
   dateBlock.append(dateTitle, dateValue);
 
-  const dateSourceLabel = properties.date_source_name ?? (
-    properties.date_source === "manual"
-      ? "Fonte verificata manualmente"
-      : properties.date_source === "wikidata"
-        ? "Fonte: Wikidata"
-        : "Fonte non specificata"
-  );
-  const dateSource = createLink(
-    dateSourceLabel,
-    properties.date_source_url ?? (
-      properties.date_source === "wikidata"
-        ? properties.wikidata_url
-        : null
-    ),
-  );
-  if (dateSource) {
-    dateBlock.appendChild(dateSource);
-  } else {
-    const sourceText = document.createElement("p");
-    sourceText.className = "source-note";
-    sourceText.textContent = dateSourceLabel;
-    dateBlock.appendChild(sourceText);
+  const dateSources = properties.date_sources.length
+    ? properties.date_sources
+    : [{
+        name: properties.date_source_name ?? (
+          properties.date_source === "manual"
+            ? "Fonte verificata manualmente"
+            : properties.date_source === "wikidata"
+              ? "Wikidata"
+              : "Fonte non specificata"
+        ),
+        url: properties.date_source_url ?? (
+          properties.date_source === "wikidata"
+            ? properties.wikidata_url
+            : null
+        ),
+        source_id: null,
+      }];
+  const dateSourceList = document.createElement("div");
+  dateSourceList.className = "date-sources";
+  for (const source of dateSources) {
+    const sourceLink = createLink(source.name, source.url);
+    if (sourceLink) {
+      dateSourceList.appendChild(sourceLink);
+    } else {
+      const sourceText = document.createElement("span");
+      sourceText.className = "source-note";
+      sourceText.textContent = source.name;
+      dateSourceList.appendChild(sourceText);
+    }
   }
+  dateBlock.appendChild(dateSourceList);
   detailContent.appendChild(dateBlock);
+
+  if (properties.historical_phases.length) {
+    const phasesBlock = document.createElement("section");
+    phasesBlock.className = "detail-section";
+    const phasesTitle = document.createElement("h3");
+    phasesTitle.textContent = "Fasi storiche documentate";
+    const phasesList = document.createElement("ul");
+    phasesList.className = "historical-phases";
+    for (const phase of properties.historical_phases) {
+      const item = document.createElement("li");
+      const label = document.createElement("strong");
+      label.textContent = (
+        PHASE_LABELS[phase.evidence_type]
+        ?? PHASE_LABELS.other
+      );
+      const period = document.createElement("span");
+      period.textContent = formatPeriod(phase.period);
+      item.append(label, period);
+      if (phase.building_part) {
+        const part = document.createElement("small");
+        part.textContent = phase.building_part;
+        item.appendChild(part);
+      }
+      const phaseSource = createLink(
+        phase.source_name ?? "Fonte",
+        phase.source_url,
+      );
+      if (phaseSource) {
+        item.appendChild(phaseSource);
+      }
+      phasesList.appendChild(item);
+    }
+    phasesBlock.append(phasesTitle, phasesList);
+    detailContent.appendChild(phasesBlock);
+  }
 
   const sources = document.createElement("section");
   sources.className = "detail-section";
@@ -369,7 +415,7 @@ function renderList(): void {
     card.dataset.qid = properties.id;
     card.setAttribute(
       "aria-label",
-      `Apri ${properties.name}, ${properties.date_display}`,
+      `Apri ${properties.name}, ${formatChurchDate(properties)}`,
     );
 
     if (properties.hero_image) {
@@ -392,7 +438,7 @@ function renderList(): void {
     title.textContent = properties.name;
     const metadata = document.createElement("span");
     metadata.textContent = [
-      properties.date_display,
+      formatChurchDate(properties),
       TYPE_LABELS[properties.church_type] ?? properties.church_type,
     ].join(" · ");
     copy.append(title, metadata);

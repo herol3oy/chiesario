@@ -128,6 +128,10 @@ resolve_coordinates.py
   ↓
 resolve_dates.py
   ↓
+enrich_beweb.py (optional evidence fetch)
+  ↓
+resolve_historical_dates.py
+  ↓
 resolve_historic_scope.py
   ↓
 enrich_commons.py
@@ -152,7 +156,10 @@ Individual stages read `CHURCHES_REGION` (default: `tuscany`). The pipeline runn
 ```bash
 uv run pipeline.py --region tuscany
 uv run pipeline.py --region tuscany --resume-entities
+uv run pipeline.py --region molise --with-beweb --stop-after resolve_historic_scope.py
 ```
+
+`--stop-after` supports research-only runs without publication. `--with-beweb` reuses complete BeWeb caches by default; add `--refresh-beweb` only when a deliberate source refresh is required.
 
 ---
 
@@ -173,6 +180,8 @@ data/
         ├── processed/
         │   ├── churches.json
         │   ├── churches_dates.json
+        │   ├── churches_historical_evidence.json
+        │   ├── churches_historical_dates.json
         │   ├── churches_historic_scope.json
         │   └── reports and downstream stage outputs
         ├── reviews/
@@ -446,17 +455,37 @@ note
 
 ---
 
-## 8. Historic Scope Resolution
+## 8. BeWeb Historical Evidence
+
+```bash
+uv run enrich_beweb.py
+```
+
+Fetches public BeWeb history conservatively and stores raw HTML, hashes, retrieval metadata, licensing, stable URLs, and structured historical phases. Complete caches are reused by default; `--refresh` performs a deliberate refetch. This stage does not select canonical dates.
+
+---
+
+## 9. Historical Date Resolution
+
+```bash
+uv run resolve_historical_dates.py --use-beweb
+```
+
+Combines Wikidata dates with optional BeWeb evidence. Clear origin, foundation, or construction evidence may resolve automatically. Documentary mentions remain explicitly labelled as attestations, while reconstruction, restoration, and consecration dates remain separate historical phases. Competing or semantically unclear claims stay unresolved.
+
+---
+
+## 10. Historic Scope Resolution
 
 ```bash
 uv run resolve_historic_scope.py
 ```
 
-Classifies each record from its canonical date as historic, modern, or unknown. Records without a usable canonical date remain unknown and are withheld from publication; the stage does not invent dates.
+Classifies each record from the conservatively resolved historical date as historic, modern, or unknown. Documentary evidence must end strictly before 1800 to prove historic scope. Records without usable evidence remain unknown and are withheld from publication.
 
 ---
 
-## 9. Wikimedia Commons Enrichment
+## 11. Wikimedia Commons Enrichment
 
 ```bash
 uv run enrich_commons.py
@@ -773,7 +802,7 @@ uv run build_catalog.py
 uv run qa.py
 uv run build_geojson.py
 uv run qa.py --geojson
-uv run build_web_data.py
+uv run publish.py
 ```
 
 If QA fails, resolve the listed records before continuing.
@@ -798,10 +827,10 @@ into:
 data/regions/<region>/catalog/churches.geojson
 ```
 
-The regional GeoJSON contains only QA-approved `ready` records. Build the deterministic combined frontend dataset from regions marked `publish: true` with:
+The regional GeoJSON contains only QA-approved `ready` records. Strictly validate every region marked `publish: true` and build the deterministic combined frontend dataset with:
 
 ```bash
-uv run build_web_data.py
+uv run publish.py
 ```
 
 ---
@@ -893,29 +922,14 @@ uv run build_catalog.py
 uv run qa.py
 uv run build_geojson.py
 uv run qa.py --geojson
-uv run build_web_data.py
+uv run publish.py
 ```
 
-For a full data refresh:
+For a full Tuscany refresh without BeWeb:
 
 ```bash
-uv run discover.py
-uv run fetch_entities.py
-uv run normalize.py
-uv run classify_types.py
-uv run enrich_osm.py
-uv run resolve_coordinates.py
-uv run resolve_dates.py
-uv run resolve_historic_scope.py
-uv run enrich_commons.py
-uv run select_images.py
-uv run detect_duplicates.py
-uv run apply_overrides.py
-uv run build_catalog.py
-uv run qa.py
-uv run build_geojson.py
-uv run qa.py --geojson
-uv run build_web_data.py
+uv run pipeline.py --region tuscany
+uv run publish.py
 ```
 
 ---
@@ -946,15 +960,41 @@ QA must contain no blocking review records
 publish the verified historic subset
 ```
 
-## Optional BeWeb evidence collection
+## New-region research and publication
+
+First add the region with publication disabled. The key is the CLI slug
+and `wikidata_id` is the region's Wikidata QID:
+
+```json
+{
+  "umbria": {
+    "name": "Umbria",
+    "wikidata_id": "Q1280",
+    "publish": false
+  }
+}
+```
+
+Add that entry to `config/regions.json`. The pipeline creates the region's
+raw, processed, review, and catalog directories when it starts; an absent
+override file is treated as an empty review layer.
 
 BeWeb evidence is collected separately from canonical date resolution:
 
 ```bash
-CHURCHES_REGION=molise uv run enrich_beweb.py --resume
+uv run pipeline.py \
+  --region umbria \
+  --with-beweb \
+  --stop-after resolve_historic_scope.py
 ```
 
-This stores raw public HTML under the selected region's `raw/beweb/` directory and writes structured evidence plus provenance to a processed research file. It does not change canonical dates or historic scope. BeWeb identifiers without historical content remain explicit `no_history` results.
+Inspect the type, coordinate, historical-date, and historic-scope reports before running Commons or publication stages. After generic issues and genuine overrides are resolved, continue with:
+
+```bash
+uv run pipeline.py --region umbria --start-at enrich_commons.py
+```
+
+Keep the region at `publish: false` until strict QA and visual review pass. Then enable it in `config/regions.json` and run `uv run publish.py`.
 
 The objective is not zero manual work.
 

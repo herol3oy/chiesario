@@ -158,6 +158,62 @@ def check_catalog():
                 "ready record is not confirmed historic"
             )
 
+        date = record.get("date") or {}
+        basis = date.get("basis")
+        if basis not in {
+            "inception",
+            "origin",
+            "foundation",
+            "construction",
+            "documentary_attestation",
+            "predecessor",
+        }:
+            errors.append(
+                f"{record.get('id')} | "
+                f"{record.get('name')} | "
+                f"ready record has invalid date basis {basis!r}"
+            )
+
+        if not date.get("source"):
+            errors.append(
+                f"{record.get('id')} | "
+                f"{record.get('name')} | "
+                "ready record has no date source"
+            )
+
+        if date.get("source") == "beweb":
+            sources = date.get("sources") or []
+            if (
+                not date.get("source_url")
+                or not any(
+                    source.get("source_id")
+                    and source.get("url")
+                    for source in sources
+                )
+            ):
+                errors.append(
+                    f"{record.get('id')} | "
+                    f"{record.get('name')} | "
+                    "BeWeb date lacks stable provenance"
+                )
+
+        if (
+            basis in {
+                "documentary_attestation",
+                "predecessor",
+            }
+            and (
+                not isinstance(date.get("end_year"), int)
+                or date["end_year"] >= 1800
+            )
+        ):
+            errors.append(
+                f"{record.get('id')} | "
+                f"{record.get('name')} | "
+                "documentary evidence does not prove a "
+                "strictly pre-1800 date"
+            )
+
     for record in records:
         if (
             record.get("status") == "withheld"
@@ -393,9 +449,32 @@ def main():
         ),
     )
 
+    parser.add_argument(
+        "--strict-publication",
+        action="store_true",
+        help=(
+            "Also reject ready records with unresolved "
+            "non-blocking image review."
+        ),
+    )
+
     args = parser.parse_args()
 
     errors = check_catalog()
+
+    if args.strict_publication and CATALOG_ALL_FILE.exists():
+        for record in load_json(CATALOG_ALL_FILE):
+            if (
+                record.get("status") == "ready"
+                and record.get("review", {}).get(
+                    "image_review_required"
+                )
+            ):
+                errors.append(
+                    f"{record.get('id')} | "
+                    f"{record.get('name')} | "
+                    "ready record still requires image review"
+                )
 
     if args.geojson:
         errors.extend(

@@ -11,9 +11,21 @@
       "kind": "year",
       "start_year": 1731,
       "end_year": 1731,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3603204",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3603204",
+          "source_id": "Q3603204"
+        }
+      ],
+      "evidence_refs": [
+        "Q3603204$C1D33A2D-18FF-485C-94F6-80AAF8E92903"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.75532,
@@ -62,9 +74,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3635657",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3635657",
+          "source_id": "Q3635657"
+        }
+      ],
+      "evidence_refs": [
+        "Q3635657$9A34D567-334D-44A2-88D6-57AF26833088"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.8818,
@@ -113,9 +137,21 @@
       "kind": "year",
       "start_year": 1250,
       "end_year": 1250,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2287001",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2287001",
+          "source_id": "Q2287001"
+        }
+      ],
+      "evidence_refs": [
+        "Q2287001$a7ba9ca1-49d6-f52e-6ae1-2dbd29643bc5"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7769,
@@ -167,9 +203,21 @@
       "kind": "year",
       "start_year": 1421,
       "end_year": 1421,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q573881",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q573881",
+          "source_id": "Q573881"
+        }
+      ],
+      "evidence_refs": [
+        "Q573881$0C46B237-D289-4F33-8741-767C716FB661"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.775,
@@ -221,9 +269,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1152774",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1152774",
+          "source_id": "Q1152774"
+        }
+      ],
+      "evidence_refs": [
+        "Q1152774$BD855DAC-AE8C-4A96-B86D-0135BC80782D"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.778316666667,
@@ -272,9 +332,21 @@
       "kind": "year",
       "start_year": 1018,
       "end_year": 1018,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q844337",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q844337",
+          "source_id": "Q844337"
+        }
+      ],
+      "evidence_refs": [
+        "Q844337$A59670FE-D081-4B38-88E5-91C995BECEA0"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.759444,
@@ -326,9 +398,21 @@
       "kind": "year",
       "start_year": 1294,
       "end_year": 1294,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q51177",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q51177",
+          "source_id": "Q51177"
+        }
+      ],
+      "evidence_refs": [
+        "Q51177$9EFB1929-82A2-4F3E-ABD4-8B35CDE78F40"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76845,
@@ -380,9 +464,21 @@
       "kind": "year",
       "start_year": 1268,
       "end_year": 1268,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1042634",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1042634",
+          "source_id": "Q1042634"
+        }
+      ],
+      "evidence_refs": [
+        "Q1042634$f696a52c-492b-d2ae-3ee1-03453dc3422c"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.767777777778,
@@ -434,9 +530,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1714149",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1714149",
+          "source_id": "Q1714149"
+        }
+      ],
+      "evidence_refs": [
+        "Q1714149$94C4A030-44BC-4760-9D55-588CBD23315A"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.87941667,
@@ -485,9 +593,19 @@
       "kind": "year",
       "start_year": 1278,
       "end_year": 1278,
+      "basis": "origin",
       "source": "manual",
       "source_name": "Florence As It Was",
-      "source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn"
+      "source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+      "sources": [
+        {
+          "name": "Florence As It Was",
+          "url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+          "source_id": null
+        }
+      ],
+      "evidence_refs": [],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7743,
@@ -539,9 +657,21 @@
       "kind": "year",
       "start_year": 1250,
       "end_year": 1250,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1062114",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1062114",
+          "source_id": "Q1062114"
+        }
+      ],
+      "evidence_refs": [
+        "Q1062114$703FF6AE-CCC5-4DAE-AE4D-ADDA4BBA9CA0"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.770153,
@@ -593,9 +723,21 @@
       "kind": "year",
       "start_year": 1252,
       "end_year": 1252,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1519975",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1519975",
+          "source_id": "Q1519975"
+        }
+      ],
+      "evidence_refs": [
+        "Q1519975$E46D4589-D60E-43A4-B6EC-724EAF57904F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76722222,
@@ -647,9 +789,21 @@
       "kind": "year",
       "start_year": 1352,
       "end_year": 1352,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q377517",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q377517",
+          "source_id": "Q377517"
+        }
+      ],
+      "evidence_refs": [
+        "Q377517$0F81DAD4-41F4-4CFB-A440-D81176FC8700"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31821111,
@@ -698,9 +852,21 @@
       "kind": "year",
       "start_year": 1703,
       "end_year": 1703,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3657606",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3657606",
+          "source_id": "Q3657606"
+        }
+      ],
+      "evidence_refs": [
+        "Q3657606$6D1B4081-C938-4D31-8121-16073DB0043B"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.53207222,
@@ -749,9 +915,21 @@
       "kind": "year",
       "start_year": 1628,
       "end_year": 1628,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q124005573",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q124005573",
+          "source_id": "Q124005573"
+        }
+      ],
+      "evidence_refs": [
+        "Q124005573$1eec23be-4afe-17ae-17e8-8c12910da70c"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3068293,
@@ -800,9 +978,21 @@
       "kind": "year",
       "start_year": 1605,
       "end_year": 1605,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3657663",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3657663",
+          "source_id": "Q3657663"
+        }
+      ],
+      "evidence_refs": [
+        "Q3657663$AF42379A-6BCD-4851-86B3-0DAE74ABCDAE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 42.75875,
@@ -834,9 +1024,21 @@
       "kind": "year",
       "start_year": 1752,
       "end_year": 1752,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3657685",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3657685",
+          "source_id": "Q3657685"
+        }
+      ],
+      "evidence_refs": [
+        "Q3657685$C34FF0F5-7BAC-4657-9E0B-919B5F3BAD63"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.777901,
@@ -872,9 +1074,21 @@
       "kind": "year",
       "start_year": 1296,
       "end_year": 1296,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q191739",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q191739",
+          "source_id": "Q191739"
+        }
+      ],
+      "evidence_refs": [
+        "Q191739$E1D00351-9170-4157-B9FE-28715026A1C5"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77305555555556,
@@ -926,9 +1140,21 @@
       "kind": "year",
       "start_year": 1701,
       "end_year": 1701,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3667914",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3667914",
+          "source_id": "Q3667914"
+        }
+      ],
+      "evidence_refs": [
+        "Q3667914$0A533BD2-B6B9-4AFB-AA98-1BEC7C063E22"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.552405,
@@ -977,9 +1203,21 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2223430",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2223430",
+          "source_id": "Q2223430"
+        }
+      ],
+      "evidence_refs": [
+        "Q2223430$485175DD-8E18-4B09-857B-96EDFB40DE57"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76924,
@@ -1028,9 +1266,21 @@
       "kind": "year",
       "start_year": 1623,
       "end_year": 1623,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3668157",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3668157",
+          "source_id": "Q3668157"
+        }
+      ],
+      "evidence_refs": [
+        "Q3668157$12CBF358-329E-4886-A243-F5F6C775E4B7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7937,
@@ -1079,9 +1329,21 @@
       "kind": "year",
       "start_year": 1597,
       "end_year": 1597,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q764060",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q764060",
+          "source_id": "Q764060"
+        }
+      ],
+      "evidence_refs": [
+        "Q764060$5876671A-B47A-4376-BAAB-0FE75BD077E7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77245556,
@@ -1130,9 +1392,21 @@
       "kind": "year",
       "start_year": 1622,
       "end_year": 1622,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3668382",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3668382",
+          "source_id": "Q3668382"
+        }
+      ],
+      "evidence_refs": [
+        "Q3668382$1BC175B9-C533-4D4C-870C-7AAC0AA4A198"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.312634,
@@ -1184,9 +1458,21 @@
       "kind": "year",
       "start_year": 1243,
       "end_year": 1243,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1285138",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1285138",
+          "source_id": "Q1285138"
+        }
+      ],
+      "evidence_refs": [
+        "Q1285138$FE988EE6-6B11-415D-B560-97A44C4F40D1"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76972222,
@@ -1235,9 +1521,21 @@
       "kind": "year",
       "start_year": 1605,
       "end_year": 1605,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3668503",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3668503",
+          "source_id": "Q3668503"
+        }
+      ],
+      "evidence_refs": [
+        "Q3668503$13A790DB-AE17-4BE1-8D99-98007B5EC11A"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 44.07853,
@@ -1286,9 +1584,19 @@
       "kind": "circa_year",
       "start_year": 1113,
       "end_year": 1113,
+      "basis": "origin",
       "source": "manual",
       "source_name": "Comune di Pisa - Turismo",
-      "source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro"
+      "source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+      "sources": [
+        {
+          "name": "Comune di Pisa - Turismo",
+          "url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+          "source_id": null
+        }
+      ],
+      "evidence_refs": [],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71446,
@@ -1340,9 +1648,21 @@
       "kind": "year",
       "start_year": 1352,
       "end_year": 1352,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3668695",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3668695",
+          "source_id": "Q3668695"
+        }
+      ],
+      "evidence_refs": [
+        "Q3668695$41CAF1C9-B9BB-4709-847F-27BDE4969FE0"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.315405,
@@ -1394,9 +1714,21 @@
       "kind": "year",
       "start_year": 1607,
       "end_year": 1607,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3668903",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3668903",
+          "source_id": "Q3668903"
+        }
+      ],
+      "evidence_refs": [
+        "Q3668903$41B2973F-29AD-4690-A474-1A067E4622E5"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.552137,
@@ -1445,9 +1777,21 @@
       "kind": "year",
       "start_year": 1757,
       "end_year": 1757,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3668916",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3668916",
+          "source_id": "Q3668916"
+        }
+      ],
+      "evidence_refs": [
+        "Q3668916$32757CA4-EA73-4F0D-9CB7-562FF838DA80"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.716777777778,
@@ -1496,9 +1840,21 @@
       "kind": "year",
       "start_year": 1628,
       "end_year": 1628,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3668990",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3668990",
+          "source_id": "Q3668990"
+        }
+      ],
+      "evidence_refs": [
+        "Q3668990$3A9E8360-1695-44AE-8673-8B4D6C3CCE0C"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 44.03478,
@@ -1550,9 +1906,21 @@
       "kind": "year",
       "start_year": 1603,
       "end_year": 1603,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1121100",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1121100",
+          "source_id": "Q1121100"
+        }
+      ],
+      "evidence_refs": [
+        "Q1121100$9307F981-9460-4410-826F-656A667F4AA3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.78648,
@@ -1601,9 +1969,21 @@
       "kind": "year",
       "start_year": 1348,
       "end_year": 1348,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669071",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669071",
+          "source_id": "Q3669071"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669071$ABDBDF95-845F-42BB-8AC7-355EB5336CB3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3267,
@@ -1648,9 +2028,21 @@
       "kind": "year",
       "start_year": 1257,
       "end_year": 1257,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669184",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669184",
+          "source_id": "Q3669184"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669184$E93D2C36-B341-4758-9159-3E8E3E125590"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3171,
@@ -1702,9 +2094,21 @@
       "kind": "year",
       "start_year": 1601,
       "end_year": 1601,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669167",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669167",
+          "source_id": "Q3669167"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669167$283209D6-30CC-44CE-9976-A568E125E011"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.551763,
@@ -1753,9 +2157,21 @@
       "kind": "year",
       "start_year": 1686,
       "end_year": 1686,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669276",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669276",
+          "source_id": "Q3669276"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669276$5BEBF2C9-F993-4149-8D97-D8003149DCDF"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.8135,
@@ -1804,9 +2220,21 @@
       "kind": "year",
       "start_year": 1340,
       "end_year": 1340,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669286",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669286",
+          "source_id": "Q3669286"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669286$9f771046-431c-1ab5-5472-ae69b8a84934"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.87803333,
@@ -1858,9 +2286,21 @@
       "kind": "year",
       "start_year": 1251,
       "end_year": 1251,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2778991",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2778991",
+          "source_id": "Q2778991"
+        }
+      ],
+      "evidence_refs": [
+        "Q2778991$c1124434-491f-9f4a-ffd9-41c15adf45d4"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77251,
@@ -1912,9 +2352,21 @@
       "kind": "year",
       "start_year": 1337,
       "end_year": 1337,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q860816",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q860816",
+          "source_id": "Q860816"
+        }
+      ],
+      "evidence_refs": [
+        "Q860816$3567D988-1F05-4470-99F3-20C95EFE3DC7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77071,
@@ -1966,9 +2418,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1117930",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1117930",
+          "source_id": "Q1117930"
+        }
+      ],
+      "evidence_refs": [
+        "Q1117930$0CD72FE7-8371-470D-8C85-DE6F5DE6213E"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77784,
@@ -2017,9 +2481,21 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669504",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669504",
+          "source_id": "Q3669504"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669504$10af1288-4b8f-e9dd-0cc4-0383a8e02c3c"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77101944,
@@ -2051,9 +2527,21 @@
       "kind": "year",
       "start_year": 1316,
       "end_year": 1316,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669519",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669519",
+          "source_id": "Q3669519"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669519$6cf8542d-4d75-5c20-43fc-c319b445165f"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.87928,
@@ -2102,9 +2590,21 @@
       "kind": "year",
       "start_year": 1454,
       "end_year": 1454,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669552",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669552",
+          "source_id": "Q3669552"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669552$A197F954-A996-4948-BDB5-3D25AD921BD7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7712902,
@@ -2153,9 +2653,21 @@
       "kind": "year",
       "start_year": 1771,
       "end_year": 1771,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669596",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669596",
+          "source_id": "Q3669596"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669596$F1CA1395-B043-40F3-9E3B-2F6B3A96DD8B"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.772329,
@@ -2204,9 +2716,21 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669825",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669825",
+          "source_id": "Q3669825"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669825$F05B6796-BDCF-4629-9DDD-4B7BD52E3AB7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3201,
@@ -2255,9 +2779,21 @@
       "kind": "year",
       "start_year": 1385,
       "end_year": 1385,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1121868",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1121868",
+          "source_id": "Q1121868"
+        }
+      ],
+      "evidence_refs": [
+        "Q1121868$439B5C30-19B6-4691-9EE1-B7BA4D8E3685"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71111111,
@@ -2306,9 +2842,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669925",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669925",
+          "source_id": "Q3669925"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669925$F1E6332E-4934-4AE6-B9F0-8997861C572E"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.32189,
@@ -2357,9 +2905,21 @@
       "kind": "year",
       "start_year": 1068,
       "end_year": 1068,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669937",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669937",
+          "source_id": "Q3669937"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669937$B86049F9-7143-4A40-8FC1-BEAD039919D4"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.771866,
@@ -2391,9 +2951,21 @@
       "kind": "year",
       "start_year": 1187,
       "end_year": 1187,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3585329",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3585329",
+          "source_id": "Q3585329"
+        }
+      ],
+      "evidence_refs": [
+        "Q3585329$73DAD697-EED4-401C-94ED-29D554696E6C"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.79052,
@@ -2445,9 +3017,21 @@
       "kind": "year",
       "start_year": 1082,
       "end_year": 1082,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669946",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669946",
+          "source_id": "Q3669946"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669946$d6fec0ff-477b-4a87-0948-ea2272383cfa"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.88409722,
@@ -2496,9 +3080,21 @@
       "kind": "century",
       "start_year": 801,
       "end_year": 900,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669959",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669959",
+          "source_id": "Q3669959"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669959$859a8f9f-4e19-1f64-cf7e-e355f0bc84ce"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.73978,
@@ -2547,9 +3143,21 @@
       "kind": "year",
       "start_year": 1060,
       "end_year": 1060,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3585333",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3585333",
+          "source_id": "Q3585333"
+        }
+      ],
+      "evidence_refs": [
+        "Q3585333$291F8BBD-0D1B-4C4D-867D-CA82658747FD"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76517,
@@ -2598,9 +3206,21 @@
       "kind": "year",
       "start_year": 1707,
       "end_year": 1707,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3669962",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3669962",
+          "source_id": "Q3669962"
+        }
+      ],
+      "evidence_refs": [
+        "Q3669962$D759AB09-2A31-49CA-8FE4-6EE9EC767BAE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.55421,
@@ -2649,9 +3269,21 @@
       "kind": "year",
       "start_year": 1623,
       "end_year": 1623,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670031",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670031",
+          "source_id": "Q3670031"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670031$7BD9ECA7-5676-4623-851A-9EF47FB14404"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 44.07535,
@@ -2700,9 +3332,21 @@
       "kind": "year",
       "start_year": 1430,
       "end_year": 1430,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q93679",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q93679",
+          "source_id": "Q93679"
+        }
+      ],
+      "evidence_refs": [
+        "Q93679$E656B469-AF18-4AF6-A5ED-8DF14FB4DDC0"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.84541667,
@@ -2751,9 +3395,21 @@
       "kind": "century",
       "start_year": 1201,
       "end_year": 1300,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670083",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670083",
+          "source_id": "Q3670083"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670083$B9E1467C-6F8C-4317-87D9-45A86A173AE5"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71875,
@@ -2805,9 +3461,21 @@
       "kind": "year",
       "start_year": 1331,
       "end_year": 1331,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670086",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670086",
+          "source_id": "Q3670086"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670086$CCD44CEC-D533-4546-A186-9AC660257249"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.87923,
@@ -2859,9 +3527,21 @@
       "kind": "year",
       "start_year": 1589,
       "end_year": 1589,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670163",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670163",
+          "source_id": "Q3670163"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670163$4345867B-F077-4385-9621-E315C141EBD5"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76486,
@@ -2910,9 +3590,21 @@
       "kind": "year",
       "start_year": 1689,
       "end_year": 1689,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1071192",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1071192",
+          "source_id": "Q1071192"
+        }
+      ],
+      "evidence_refs": [
+        "Q1071192$13BF2B7C-770E-4D0F-9020-339BAF20E020"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76999167,
@@ -2961,9 +3653,21 @@
       "kind": "year",
       "start_year": 1685,
       "end_year": 1685,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3581520",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3581520",
+          "source_id": "Q3581520"
+        }
+      ],
+      "evidence_refs": [
+        "Q3581520$1328F342-C1F7-4605-800B-9ED73BC9B0D3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.317805,
@@ -3015,9 +3719,21 @@
       "kind": "year",
       "start_year": 1218,
       "end_year": 1218,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670196",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670196",
+          "source_id": "Q3670196"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670196$828E0747-DDFE-4006-87F8-EC22428F346F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7838,
@@ -3062,9 +3778,21 @@
       "kind": "year",
       "start_year": 1081,
       "end_year": 1081,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1102245",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1102245",
+          "source_id": "Q1102245"
+        }
+      ],
+      "evidence_refs": [
+        "Q1102245$874DAD7A-D475-48CB-9C4E-C2F0F307BF5B"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31758,
@@ -3113,9 +3841,21 @@
       "kind": "year",
       "start_year": 1316,
       "end_year": 1316,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q783096",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q783096",
+          "source_id": "Q783096"
+        }
+      ],
+      "evidence_refs": [
+        "Q783096$185EB120-3957-4054-99D6-185F063BFA06"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.72177,
@@ -3164,9 +3904,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3585340",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3585340",
+          "source_id": "Q3585340"
+        }
+      ],
+      "evidence_refs": [
+        "Q3585340$E234DBFE-D29F-44CD-A5CD-E1020DFB31F7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7653,
@@ -3215,9 +3967,21 @@
       "kind": "year",
       "start_year": 1629,
       "end_year": 1629,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670458",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670458",
+          "source_id": "Q3670458"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670458$622F05BA-F075-4A92-8EF8-74F73DC79902"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3168,
@@ -3269,9 +4033,21 @@
       "kind": "year",
       "start_year": 1624,
       "end_year": 1624,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1109516",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1109516",
+          "source_id": "Q1109516"
+        }
+      ],
+      "evidence_refs": [
+        "Q1109516$957607F6-9442-4355-B058-9D5A49781090"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.552016,
@@ -3320,9 +4096,21 @@
       "kind": "year",
       "start_year": 1362,
       "end_year": 1362,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3001779",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3001779",
+          "source_id": "Q3001779"
+        }
+      ],
+      "evidence_refs": [
+        "Q3001779$43B4D642-8777-4E0A-BE71-F6FB4C008CE1"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.761031,
@@ -3371,9 +4159,21 @@
       "kind": "year",
       "start_year": 1639,
       "end_year": 1639,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670507",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670507",
+          "source_id": "Q3670507"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670507$CCA6F66F-383D-41F0-AFA0-03150118DA46"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 44.03524,
@@ -3422,9 +4222,21 @@
       "kind": "year",
       "start_year": 1337,
       "end_year": 1337,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q111191245",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q111191245",
+          "source_id": "Q111191245"
+        }
+      ],
+      "evidence_refs": [
+        "Q111191245$8aca9855-4737-7024-6dd2-0cbb91a21b24"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.931722,
@@ -3469,9 +4281,21 @@
       "kind": "year",
       "start_year": 1614,
       "end_year": 1614,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670542",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670542",
+          "source_id": "Q3670542"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670542$5A7FF5F1-ED76-477B-8D49-6AC55CB7E04F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.713277777778,
@@ -3520,9 +4344,21 @@
       "kind": "year",
       "start_year": 1692,
       "end_year": 1692,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670530",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670530",
+          "source_id": "Q3670530"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670530$87F71F4F-0C60-41FA-942B-E8F1FD61C44F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.52184167,
@@ -3571,9 +4407,21 @@
       "kind": "year",
       "start_year": 1579,
       "end_year": 1579,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670564",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670564",
+          "source_id": "Q3670564"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670564$26620712-59AF-4930-9827-B2608294EC5A"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7748,
@@ -3622,9 +4470,21 @@
       "kind": "year",
       "start_year": 1326,
       "end_year": 1326,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670567",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670567",
+          "source_id": "Q3670567"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670567$E5AE1CE7-6C70-424D-BFA2-CB147A2A3785"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.78009,
@@ -3673,9 +4533,21 @@
       "kind": "year",
       "start_year": 1611,
       "end_year": 1611,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670565",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670565",
+          "source_id": "Q3670565"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670565$F1A1A9DE-B891-4D8E-81E0-CEDD267D7858"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.319,
@@ -3727,9 +4599,21 @@
       "kind": "year",
       "start_year": 1759,
       "end_year": 1759,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670618",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670618",
+          "source_id": "Q3670618"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670618$68330F67-A53F-44EC-82DB-77BFD795C547"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76806667,
@@ -3778,9 +4662,21 @@
       "kind": "year",
       "start_year": 1653,
       "end_year": 1653,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670652",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670652",
+          "source_id": "Q3670652"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670652$3CF91457-F28B-4A64-85D8-7DA5459C673C"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31527778,
@@ -3832,9 +4728,21 @@
       "kind": "year",
       "start_year": 1723,
       "end_year": 1723,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670697",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670697",
+          "source_id": "Q3670697"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670697$948B2724-FED7-40F6-9760-D4F543B01DC0"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.43142,
@@ -3883,9 +4791,21 @@
       "kind": "year",
       "start_year": 1163,
       "end_year": 1163,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670747",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670747",
+          "source_id": "Q3670747"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670747$136D387E-8B0E-4A18-A746-B9D4A0B9CF50"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.52959,
@@ -3934,9 +4854,21 @@
       "kind": "year",
       "start_year": 1311,
       "end_year": 1311,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670749",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670749",
+          "source_id": "Q3670749"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670749$61132C91-F4BF-400F-BD07-ED352C580544"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7764,
@@ -3985,9 +4917,21 @@
       "kind": "year",
       "start_year": 1660,
       "end_year": 1660,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670741",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670741",
+          "source_id": "Q3670741"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670741$D2D0C264-818F-4578-8A9B-047B192D40B1"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76813,
@@ -4036,9 +4980,21 @@
       "kind": "year",
       "start_year": 1173,
       "end_year": 1173,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q16540253",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q16540253",
+          "source_id": "Q16540253"
+        }
+      ],
+      "evidence_refs": [
+        "Q16540253$206FC1A4-7061-4592-BB5A-076C83946E87"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.315335,
@@ -4083,9 +5039,21 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670791",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670791",
+          "source_id": "Q3670791"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670791$1DF250B9-E1CE-4541-BCBF-83EF3DA02B68"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.75972,
@@ -4134,9 +5102,21 @@
       "kind": "year",
       "start_year": 1202,
       "end_year": 1202,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670924",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670924",
+          "source_id": "Q3670924"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670924$243C9ED4-9FBC-41C2-8318-D99BBA963D7D"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.8234654288,
@@ -4185,9 +5165,21 @@
       "kind": "year",
       "start_year": 1119,
       "end_year": 1119,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670973",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670973",
+          "source_id": "Q3670973"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670973$4C3C7EF2-8473-423C-B337-88BE79997615"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7173,
@@ -4236,9 +5228,21 @@
       "kind": "year",
       "start_year": 1197,
       "end_year": 1197,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3670984",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3670984",
+          "source_id": "Q3670984"
+        }
+      ],
+      "evidence_refs": [
+        "Q3670984$50A295BB-C165-4AAD-906E-D55C7CA31753"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.752,
@@ -4287,9 +5291,21 @@
       "kind": "year",
       "start_year": 1058,
       "end_year": 1058,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671004",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671004",
+          "source_id": "Q3671004"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671004$E3BB6CB7-9A17-4D36-8EA3-D219667E8451"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.79144,
@@ -4338,9 +5354,21 @@
       "kind": "year",
       "start_year": 1000,
       "end_year": 1000,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671047",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671047",
+          "source_id": "Q3671047"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671047$45041993-D7DE-40BB-B373-AB7469F9EABF"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.53291389,
@@ -4389,9 +5417,21 @@
       "kind": "year",
       "start_year": 1331,
       "end_year": 1331,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671060",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671060",
+          "source_id": "Q3671060"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671060$CD73F72C-3B2B-456A-AF98-8F6A5655A2D1"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71275,
@@ -4440,9 +5480,21 @@
       "kind": "year",
       "start_year": 1451,
       "end_year": 1451,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671101",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671101",
+          "source_id": "Q3671101"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671101$F3458072-46EE-408A-9575-7B79451D14B6"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.78317,
@@ -4494,9 +5546,21 @@
       "kind": "year",
       "start_year": 1222,
       "end_year": 1222,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671105",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671105",
+          "source_id": "Q3671105"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671105$1342FEF9-BE5F-4F30-A3C9-5D1870B5237B"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.792769444444,
@@ -4545,9 +5609,21 @@
       "kind": "year",
       "start_year": 1316,
       "end_year": 1316,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671141",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671141",
+          "source_id": "Q3671141"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671141$3C23150F-882F-4564-82B6-0F9342E38584"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7759,
@@ -4592,9 +5668,21 @@
       "kind": "year",
       "start_year": 1617,
       "end_year": 1617,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671341",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671341",
+          "source_id": "Q3671341"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671341$5EFC74AD-D84E-46AA-BC5B-008E240A87F6"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.82017,
@@ -4643,9 +5731,21 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q692591",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q692591",
+          "source_id": "Q692591"
+        }
+      ],
+      "evidence_refs": [
+        "Q692591$DE775628-C839-4D36-BFFA-869818E084E1"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77201,
@@ -4697,9 +5797,21 @@
       "kind": "year",
       "start_year": 1192,
       "end_year": 1192,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671305",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671305",
+          "source_id": "Q3671305"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671305$1FA7C3A2-65E9-4A49-B918-E37ABC4F84CE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.72207,
@@ -4748,9 +5860,21 @@
       "kind": "year",
       "start_year": 1138,
       "end_year": 1138,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q55156351",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q55156351",
+          "source_id": "Q55156351"
+        }
+      ],
+      "evidence_refs": [
+        "Q55156351$D723C537-D441-4A9F-AE05-7D2F0D25CFED"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.74018,
@@ -4795,9 +5919,21 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3506865",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3506865",
+          "source_id": "Q3506865"
+        }
+      ],
+      "evidence_refs": [
+        "Q3506865$ACDCBE9A-E710-4B0F-B8A4-A5C358E830F9"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71689444,
@@ -4849,9 +5985,21 @@
       "kind": "year",
       "start_year": 1346,
       "end_year": 1346,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671342",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671342",
+          "source_id": "Q3671342"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671342$BFD8A005-E2BA-4C64-AD4A-564F3DF65481"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7739,
@@ -4900,9 +6048,21 @@
       "kind": "year",
       "start_year": 1184,
       "end_year": 1184,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671413",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671413",
+          "source_id": "Q3671413"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671413$5260cec3-4f6a-fbbb-44e1-81c814ceadfb"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7646,
@@ -4951,9 +6111,21 @@
       "kind": "year",
       "start_year": 1094,
       "end_year": 1094,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671531",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671531",
+          "source_id": "Q3671531"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671531$7F4E6A32-6CB7-4A68-B86A-4A2CFF8E8710"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7727,
@@ -5002,9 +6174,21 @@
       "kind": "century",
       "start_year": 901,
       "end_year": 1000,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1423910",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1423910",
+          "source_id": "Q1423910"
+        }
+      ],
+      "evidence_refs": [
+        "Q1423910$3071DB04-533E-42EF-BAFA-60B547E05639"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71291667,
@@ -5053,9 +6237,21 @@
       "kind": "century",
       "start_year": 1101,
       "end_year": 1200,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3506968",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3506968",
+          "source_id": "Q3506968"
+        }
+      ],
+      "evidence_refs": [
+        "Q3506968$87ce1677-46ec-0b13-84da-3e8dc79ba780"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71756,
@@ -5104,9 +6300,21 @@
       "kind": "year",
       "start_year": 1390,
       "end_year": 1390,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671588",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671588",
+          "source_id": "Q3671588"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671588$D2554307-3DEC-4A98-90F4-1C79CFEF3C8D"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76317,
@@ -5155,9 +6363,21 @@
       "kind": "year",
       "start_year": 1068,
       "end_year": 1068,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671596",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671596",
+          "source_id": "Q3671596"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671596$f2e248c4-4483-1e73-5cb0-021e35cddb18"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7689,
@@ -5202,9 +6422,21 @@
       "kind": "year",
       "start_year": 1050,
       "end_year": 1050,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671748",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671748",
+          "source_id": "Q3671748"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671748$9B7648F1-D36A-4F5C-9AE7-F8330A6DCB9E"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77227,
@@ -5253,9 +6485,21 @@
       "kind": "year",
       "start_year": 1107,
       "end_year": 1107,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671752",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671752",
+          "source_id": "Q3671752"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671752$6ADF2468-F196-4321-875A-60CA6BB34822"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76681,
@@ -5304,9 +6548,21 @@
       "kind": "year",
       "start_year": 1072,
       "end_year": 1072,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3504517",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3504517",
+          "source_id": "Q3504517"
+        }
+      ],
+      "evidence_refs": [
+        "Q3504517$959C8999-FF85-4FF6-BB1E-8E582F55ACA5"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71632,
@@ -5355,9 +6611,21 @@
       "kind": "century",
       "start_year": 1201,
       "end_year": 1300,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671828",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671828",
+          "source_id": "Q3671828"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671828$8F0B7D7A-D67C-4446-8C76-3049504FA171"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77079444,
@@ -5409,9 +6677,21 @@
       "kind": "year",
       "start_year": 1601,
       "end_year": 1601,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671846",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671846",
+          "source_id": "Q3671846"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671846$1BE03F81-25B8-4651-9EBC-64F2913892D1"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31666667,
@@ -5463,9 +6743,19 @@
       "kind": "century",
       "start_year": 1001,
       "end_year": 1100,
+      "basis": "origin",
       "source": "manual",
       "source_name": "Florence As It Was",
-      "source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation"
+      "source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+      "sources": [
+        {
+          "name": "Florence As It Was",
+          "url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+          "source_id": null
+        }
+      ],
+      "evidence_refs": [],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76838,
@@ -5514,9 +6804,21 @@
       "kind": "year",
       "start_year": 1634,
       "end_year": 1634,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1102884",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1102884",
+          "source_id": "Q1102884"
+        }
+      ],
+      "evidence_refs": [
+        "Q1102884$A50AC6BD-4742-4EF5-9AE5-E306138B2E44"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71954,
@@ -5565,9 +6867,21 @@
       "kind": "year",
       "start_year": 1498,
       "end_year": 1498,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2220029",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2220029",
+          "source_id": "Q2220029"
+        }
+      ],
+      "evidence_refs": [
+        "Q2220029$1880DEB6-8C6D-494A-B104-17039C4FFC9F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76158056,
@@ -5616,9 +6930,21 @@
       "kind": "year",
       "start_year": 1221,
       "end_year": 1221,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3671987",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3671987",
+          "source_id": "Q3671987"
+        }
+      ],
+      "evidence_refs": [
+        "Q3671987$04E85F5A-4534-4CE1-8488-BF7C81B0C370"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77303782903239,
@@ -5667,9 +6993,21 @@
       "kind": "year",
       "start_year": 1633,
       "end_year": 1633,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672017",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672017",
+          "source_id": "Q3672017"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672017$397E13DF-4695-4EF5-9F57-23533DAD0B5A"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.549147,
@@ -5721,9 +7059,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672030",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672030",
+          "source_id": "Q3672030"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672030$FC4CC099-E6DD-43E9-B239-2AC9D2D79352"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.317403,
@@ -5772,9 +7122,21 @@
       "kind": "year",
       "start_year": 1118,
       "end_year": 1118,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3504833",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3504833",
+          "source_id": "Q3504833"
+        }
+      ],
+      "evidence_refs": [
+        "Q3504833$38F93E1C-E015-43D4-A75D-31CC45E6F9F4"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71438,
@@ -5823,9 +7185,21 @@
       "kind": "year",
       "start_year": 1133,
       "end_year": 1133,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3505132",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3505132",
+          "source_id": "Q3505132"
+        }
+      ],
+      "evidence_refs": [
+        "Q3505132$88F6B064-70B3-4B04-B25E-3096AB7D3988"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71952,
@@ -5874,9 +7248,21 @@
       "kind": "year",
       "start_year": 1258,
       "end_year": 1258,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1102250",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1102250",
+          "source_id": "Q1102250"
+        }
+      ],
+      "evidence_refs": [
+        "Q1102250$38FBC3BA-A6AB-4819-962B-D68C6CE6C8CB"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31444444,
@@ -5928,9 +7314,21 @@
       "kind": "century",
       "start_year": 701,
       "end_year": 800,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672358",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672358",
+          "source_id": "Q3672358"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672358$04410892-3D77-4DF4-A174-7B32BFD0E5E3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77152,
@@ -5979,9 +7377,21 @@
       "kind": "year",
       "start_year": 1587,
       "end_year": 1587,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672660",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672660",
+          "source_id": "Q3672660"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672660$B79A2E7A-0356-42A6-AF4E-48C214193F48"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 42.66722778,
@@ -6017,9 +7427,21 @@
       "kind": "year",
       "start_year": 1341,
       "end_year": 1341,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672682",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672682",
+          "source_id": "Q3672682"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672682$b0b9f61b-4df8-d2bf-86de-393db3987b13"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71099,
@@ -6068,9 +7490,21 @@
       "kind": "year",
       "start_year": 1741,
       "end_year": 1741,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q19843876",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19843876",
+          "source_id": "Q19843876"
+        }
+      ],
+      "evidence_refs": [
+        "Q19843876$DEB5A46C-8A92-4291-AABC-6129928B0BC3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 44.10376,
@@ -6115,9 +7549,21 @@
       "kind": "year",
       "start_year": 1782,
       "end_year": 1782,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672727",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672727",
+          "source_id": "Q3672727"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672727$744F9E83-00C1-4792-A781-FA7C3B55691C"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71687,
@@ -6166,9 +7612,21 @@
       "kind": "year",
       "start_year": 1724,
       "end_year": 1724,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672859",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672859",
+          "source_id": "Q3672859"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672859$E66B6240-A314-46F7-9728-48523F94F3E3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.767464,
@@ -6200,9 +7658,21 @@
       "kind": "year",
       "start_year": 1777,
       "end_year": 1777,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q281259",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q281259",
+          "source_id": "Q281259"
+        }
+      ],
+      "evidence_refs": [
+        "Q281259$0CFA2E24-5730-498F-B5ED-79D7B42E7D4F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.719972222222,
@@ -6251,9 +7721,21 @@
       "kind": "year",
       "start_year": 1390,
       "end_year": 1390,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672897",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672897",
+          "source_id": "Q3672897"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672897$810691E5-265E-41B2-B145-1D6CE1E72F37"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.752863,
@@ -6289,9 +7771,21 @@
       "kind": "year",
       "start_year": 1753,
       "end_year": 1753,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672904",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672904",
+          "source_id": "Q3672904"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672904$7A33EAB8-F198-4FA0-8D84-63D4BA5C0AD6"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.5549,
@@ -6343,9 +7837,21 @@
       "kind": "year",
       "start_year": 1250,
       "end_year": 1250,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3505115",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3505115",
+          "source_id": "Q3505115"
+        }
+      ],
+      "evidence_refs": [
+        "Q3505115$A0821ACC-22E8-464B-B9C5-A43F3CDDDBE9"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.72113,
@@ -6394,9 +7900,21 @@
       "kind": "year",
       "start_year": 1637,
       "end_year": 1637,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672942",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672942",
+          "source_id": "Q3672942"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672942$111058B9-FEAB-4337-B249-9C516EE8FEC6"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76966944,
@@ -6428,9 +7946,21 @@
       "kind": "year",
       "start_year": 1277,
       "end_year": 1277,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3672967",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3672967",
+          "source_id": "Q3672967"
+        }
+      ],
+      "evidence_refs": [
+        "Q3672967$09a794db-44f3-77df-0940-a2669eac687a"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.72176,
@@ -6479,9 +8009,21 @@
       "kind": "year",
       "start_year": 1118,
       "end_year": 1118,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q585547",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q585547",
+          "source_id": "Q585547"
+        }
+      ],
+      "evidence_refs": [
+        "Q585547$E6BA25AD-98ED-4FCA-A88A-9AB268177871"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.715722222222,
@@ -6530,9 +8072,21 @@
       "kind": "year",
       "start_year": 1124,
       "end_year": 1124,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673046",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673046",
+          "source_id": "Q3673046"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673046$1FF384C4-6BD3-4756-AA74-761CC631E7DF"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71972,
@@ -6581,9 +8135,21 @@
       "kind": "decade",
       "start_year": 1050,
       "end_year": 1059,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1069665",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1069665",
+          "source_id": "Q1069665"
+        }
+      ],
+      "evidence_refs": [
+        "Q1069665$66d96b3f-4529-8695-b2eb-fe0224afb975"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.766833333333,
@@ -6635,9 +8201,21 @@
       "kind": "year",
       "start_year": 1602,
       "end_year": 1602,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673065",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673065",
+          "source_id": "Q3673065"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673065$CB5BF5FC-B545-422E-B213-726B297D2BC7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.550103,
@@ -6686,9 +8264,19 @@
       "kind": "year",
       "start_year": 1078,
       "end_year": 1078,
+      "basis": "origin",
       "source": "manual",
       "source_name": "Firenze Oltrarno",
-      "source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php"
+      "source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+      "sources": [
+        {
+          "name": "Firenze Oltrarno",
+          "url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+          "source_id": null
+        }
+      ],
+      "evidence_refs": [],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76549,
@@ -6737,9 +8325,21 @@
       "kind": "year",
       "start_year": 1508,
       "end_year": 1508,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673187",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673187",
+          "source_id": "Q3673187"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673187$4C7A686D-F4B0-4EDB-A3BF-23BB5EA5C7ED"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77157,
@@ -6788,9 +8388,21 @@
       "kind": "year",
       "start_year": 1647,
       "end_year": 1647,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673580",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673580",
+          "source_id": "Q3673580"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673580$2C07D24C-C116-472A-A4AD-05E5F5E7624D"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7960690459,
@@ -6839,9 +8451,21 @@
       "kind": "year",
       "start_year": 1797,
       "end_year": 1797,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673595",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673595",
+          "source_id": "Q3673595"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673595$8D7C87F4-AB44-435A-8B26-C04A04505C9F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.81875,
@@ -6890,9 +8514,21 @@
       "kind": "year",
       "start_year": 1786,
       "end_year": 1786,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673629",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673629",
+          "source_id": "Q3673629"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673629$C658323C-B188-4E5C-B655-B57EAE97A348"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.772972,
@@ -6941,9 +8577,21 @@
       "kind": "year",
       "start_year": 1509,
       "end_year": 1509,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673664",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673664",
+          "source_id": "Q3673664"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673664$06EC8B0C-853F-476F-B616-989AA808A2F3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7755,
@@ -6992,9 +8640,21 @@
       "kind": "year",
       "start_year": 1181,
       "end_year": 1181,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673667",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673667",
+          "source_id": "Q3673667"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673667$B10B0615-F994-4BBF-88AB-E632752F672A"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7668,
@@ -7039,9 +8699,21 @@
       "kind": "year",
       "start_year": 1328,
       "end_year": 1328,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673712",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673712",
+          "source_id": "Q3673712"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673712$D0CA661B-988B-45D5-8228-8D11B8492EDE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71292,
@@ -7090,9 +8762,21 @@
       "kind": "year",
       "start_year": 1348,
       "end_year": 1348,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673734",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673734",
+          "source_id": "Q3673734"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673734$78FA0936-06E1-4DE1-B3BD-AF63FA5BA2F4"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.797937,
@@ -7141,9 +8825,21 @@
       "kind": "year",
       "start_year": 1334,
       "end_year": 1334,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673774",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673774",
+          "source_id": "Q3673774"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673774$B3D8FC11-B53F-486C-ACA4-0B34E98E382F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.75425556,
@@ -7188,9 +8884,21 @@
       "kind": "year",
       "start_year": 1366,
       "end_year": 1366,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673838",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673838",
+          "source_id": "Q3673838"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673838$79D83452-BEB1-4BEE-B8BB-67E8741D0E64"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7667,
@@ -7235,9 +8943,21 @@
       "kind": "year",
       "start_year": 1530,
       "end_year": 1530,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3673876",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3673876",
+          "source_id": "Q3673876"
+        }
+      ],
+      "evidence_refs": [
+        "Q3673876$D512CBF0-1493-452A-B161-D990181D5E13"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76077,
@@ -7269,9 +8989,21 @@
       "kind": "century",
       "start_year": 1201,
       "end_year": 1300,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1426967",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1426967",
+          "source_id": "Q1426967"
+        }
+      ],
+      "evidence_refs": [
+        "Q1426967$4703B423-B49B-43B1-B963-A58117E0B0BE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71524,
@@ -7320,9 +9052,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674012",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674012",
+          "source_id": "Q3674012"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674012$3A1444EB-2CB6-4C79-918A-A96D9278D326"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3215,
@@ -7374,9 +9118,21 @@
       "kind": "year",
       "start_year": 1611,
       "end_year": 1611,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674085",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674085",
+          "source_id": "Q3674085"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674085$25582553-5754-4B2E-B19E-BF8D6778196E"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.32098,
@@ -7428,9 +9184,21 @@
       "kind": "year",
       "start_year": 1706,
       "end_year": 1706,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674092",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674092",
+          "source_id": "Q3674092"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674092$D44C7C56-A937-4DE1-96E7-01B7CAFDF5AE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.75063705,
@@ -7479,9 +9247,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674136",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674136",
+          "source_id": "Q3674136"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674136$795DA4A4-8A18-42E9-9E42-774C864C78BF"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3257,
@@ -7533,9 +9313,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1784984",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1784984",
+          "source_id": "Q1784984"
+        }
+      ],
+      "evidence_refs": [
+        "Q1784984$0657F71C-2063-41DB-9095-EB40241857CE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77423,
@@ -7584,9 +9376,21 @@
       "kind": "year",
       "start_year": 1760,
       "end_year": 1760,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674172",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674172",
+          "source_id": "Q3674172"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674172$0182ECA9-1D7A-4EE7-8881-2654D1D38116"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71572,
@@ -7635,9 +9439,21 @@
       "kind": "year",
       "start_year": 1622,
       "end_year": 1622,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674189",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674189",
+          "source_id": "Q3674189"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674189$4E48141C-CDB5-4DBE-B19C-8CE53E2D5B6A"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3295,
@@ -7686,9 +9502,21 @@
       "kind": "century",
       "start_year": 401,
       "end_year": 500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q684119",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q684119",
+          "source_id": "Q684119"
+        }
+      ],
+      "evidence_refs": [
+        "Q684119$e0be0525-44a8-462c-6b4c-ca017bcb262c"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.773464,
@@ -7737,9 +9565,21 @@
       "kind": "year",
       "start_year": 1498,
       "end_year": 1498,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1049041",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1049041",
+          "source_id": "Q1049041"
+        }
+      ],
+      "evidence_refs": [
+        "Q1049041$894A4F39-6090-49C9-B6BC-503A5BD12FC7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31792,
@@ -7788,9 +9628,21 @@
       "kind": "year",
       "start_year": 1671,
       "end_year": 1671,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674335",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674335",
+          "source_id": "Q3674335"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674335$73A998B3-E49D-4622-A17B-5D23CA02CDCE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.324344,
@@ -7839,9 +9691,21 @@
       "kind": "year",
       "start_year": 1565,
       "end_year": 1565,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674338",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674338",
+          "source_id": "Q3674338"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674338$F40DE6A1-51B8-44E7-A78F-B4761934E857"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.719325,
@@ -7890,9 +9754,21 @@
       "kind": "year",
       "start_year": 1085,
       "end_year": 1085,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674348",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674348",
+          "source_id": "Q3674348"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674348$794362CB-4475-4F47-9B24-ACC3B173F552"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.72383,
@@ -7941,9 +9817,21 @@
       "kind": "year",
       "start_year": 1539,
       "end_year": 1539,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674373",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674373",
+          "source_id": "Q3674373"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674373$CEFA8589-2835-49E7-B99A-0CBC0BFE323A"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.313715,
@@ -7992,9 +9880,21 @@
       "kind": "year",
       "start_year": 1297,
       "end_year": 1297,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674372",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674372",
+          "source_id": "Q3674372"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674372$6C73BBD4-2E51-407C-B8DE-1D855F48CE94"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3131,
@@ -8039,9 +9939,21 @@
       "kind": "year",
       "start_year": 1683,
       "end_year": 1683,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674383",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674383",
+          "source_id": "Q3674383"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674383$39B77516-3E87-450E-9FC1-612614C10993"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3253,
@@ -8086,9 +9998,21 @@
       "kind": "year",
       "start_year": 1328,
       "end_year": 1328,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3674397",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3674397",
+          "source_id": "Q3674397"
+        }
+      ],
+      "evidence_refs": [
+        "Q3674397$FA7646B2-24AF-436A-BA4E-84A8CBAB884B"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.3124,
@@ -8137,9 +10061,21 @@
       "kind": "year",
       "start_year": 1484,
       "end_year": 1484,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3689641",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3689641",
+          "source_id": "Q3689641"
+        }
+      ],
+      "evidence_refs": [
+        "Q3689641$9314B8E1-11DA-4A38-854F-6FD6B13C15C8"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.71961,
@@ -8184,9 +10120,21 @@
       "kind": "year",
       "start_year": 1367,
       "end_year": 1367,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3689643",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3689643",
+          "source_id": "Q3689643"
+        }
+      ],
+      "evidence_refs": [
+        "Q3689643$226EC0F8-30FF-48B3-964B-840645BCFB97"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.7187,
@@ -8238,9 +10186,21 @@
       "kind": "century",
       "start_year": 901,
       "end_year": 1000,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1236622",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1236622",
+          "source_id": "Q1236622"
+        }
+      ],
+      "evidence_refs": [
+        "Q1236622$9A5E7BD9-87AB-4DCA-9BBF-493A7BB36566"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.88194444,
@@ -8292,9 +10252,21 @@
       "kind": "year",
       "start_year": 1542,
       "end_year": 1542,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3735826",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3735826",
+          "source_id": "Q3735826"
+        }
+      ],
+      "evidence_refs": [
+        "Q3735826$A826A733-8E41-4FF7-8205-9EEF66F11AB9"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.76905,
@@ -8343,9 +10315,21 @@
       "kind": "century",
       "start_year": 1401,
       "end_year": 1500,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3884413",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3884413",
+          "source_id": "Q3884413"
+        }
+      ],
+      "evidence_refs": [
+        "Q3884413$008D0172-BC19-418C-968E-BF0B2E929BB3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77085278,
@@ -8394,9 +10378,21 @@
       "kind": "year",
       "start_year": 1602,
       "end_year": 1602,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3884450",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3884450",
+          "source_id": "Q3884450"
+        }
+      ],
+      "evidence_refs": [
+        "Q3884450$6CEEEF00-08CB-4BBC-988C-F7A5AD06AE45"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77326667,
@@ -8445,9 +10441,21 @@
       "kind": "year",
       "start_year": 1696,
       "end_year": 1696,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q112798284",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q112798284",
+          "source_id": "Q112798284"
+        }
+      ],
+      "evidence_refs": [
+        "Q112798284$7de239f2-4719-9e75-5366-f78ed124f150"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.550005,
@@ -8483,9 +10491,21 @@
       "kind": "year",
       "start_year": 1511,
       "end_year": 1511,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q2028376",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q2028376",
+          "source_id": "Q2028376"
+        }
+      ],
+      "evidence_refs": [
+        "Q2028376$F54E3A59-ACBE-4F0C-8EE8-A8D0F5CF5DBE"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.32305861,
@@ -8534,9 +10554,21 @@
       "kind": "year",
       "start_year": 1568,
       "end_year": 1568,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3884771",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3884771",
+          "source_id": "Q3884771"
+        }
+      ],
+      "evidence_refs": [
+        "Q3884771$B17A01E1-FF8A-486F-B43C-3F92E53AD734"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.773025,
@@ -8585,9 +10617,21 @@
       "kind": "year",
       "start_year": 1685,
       "end_year": 1685,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q3884805",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q3884805",
+          "source_id": "Q3884805"
+        }
+      ],
+      "evidence_refs": [
+        "Q3884805$F3909529-78B2-482C-BA25-82CB8A79A67F"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31476,
@@ -8639,9 +10683,21 @@
       "kind": "year",
       "start_year": 1434,
       "end_year": 1434,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q19947673",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q19947673",
+          "source_id": "Q19947673"
+        }
+      ],
+      "evidence_refs": [
+        "Q19947673$EEEA8E88-356D-4C14-BAC3-9A230296B3F3"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.77531083,
@@ -8690,9 +10746,21 @@
       "kind": "year",
       "start_year": 1680,
       "end_year": 1680,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q1248706",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1248706",
+          "source_id": "Q1248706"
+        }
+      ],
+      "evidence_refs": [
+        "Q1248706$435B434B-E068-47AB-97E3-ED728E0656C7"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.8781684,
@@ -8741,9 +10809,21 @@
       "kind": "year",
       "start_year": 1700,
       "end_year": 1700,
+      "basis": "inception",
       "source": "wikidata",
-      "source_name": null,
-      "source_url": null
+      "source_name": "Wikidata",
+      "source_url": "https://www.wikidata.org/wiki/Q185303",
+      "sources": [
+        {
+          "name": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q185303",
+          "source_id": "Q185303"
+        }
+      ],
+      "evidence_refs": [
+        "Q185303$BA41D981-200E-4195-82D1-A62466E8C9D8"
+      ],
+      "historical_phases": []
     },
     "coordinates": {
       "latitude": 43.31986,

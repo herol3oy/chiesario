@@ -23,8 +23,17 @@
         "start_year": 1731,
         "end_year": 1731,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3603204",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3603204",
+            "source_id": "Q3603204"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bartolomeo_a_ripoli_01.JPG",
         "hero_filename": "Bartolomeo a ripoli 01.JPG",
@@ -59,8 +68,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3635657",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3635657",
+            "source_id": "Q3635657"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Basilica_di_Santa_Caterina_de%27_Ricci_01.JPG",
         "hero_filename": "Basilica di Santa Caterina de' Ricci 01.JPG",
@@ -95,8 +113,17 @@
         "start_year": 1250,
         "end_year": 1250,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2287001",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2287001",
+            "source_id": "Q2287001"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Palazzo_budini_gattai%2C_vista_verso_piazza_santissima_annunziata%2C_basilica_04.jpg/1920px-Palazzo_budini_gattai%2C_vista_verso_piazza_santissima_annunziata%2C_basilica_04.jpg",
         "hero_filename": "Palazzo budini gattai, vista verso piazza santissima annunziata, basilica 04.jpg",
@@ -131,8 +158,17 @@
         "start_year": 1421,
         "end_year": 1421,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q573881",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q573881",
+            "source_id": "Q573881"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Florencia%2C_Italia_-_panoramio_%282%29.jpg/1920px-Florencia%2C_Italia_-_panoramio_%282%29.jpg",
         "hero_filename": "Florencia, Italia - panoramio (2).jpg",
@@ -167,8 +203,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1152774",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1152774",
+            "source_id": "Q1152774"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Marco_%28Florence%29_%2721.jpg/1920px-San_Marco_%28Florence%29_%2721.jpg",
         "hero_filename": "San Marco (Florence) '21.jpg",
@@ -203,8 +248,17 @@
         "start_year": 1018,
         "end_year": 1018,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q844337",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q844337",
+            "source_id": "Q844337"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sanminiato.jpg/1920px-Sanminiato.jpg",
         "hero_filename": "Sanminiato.jpg",
@@ -239,8 +293,17 @@
         "start_year": 1294,
         "end_year": 1294,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q51177",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q51177",
+            "source_id": "Q51177"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_di_Santa_Croce_%2812437%29.jpg/1920px-Basilica_di_Santa_Croce_%2812437%29.jpg",
         "hero_filename": "Basilica di Santa Croce (12437).jpg",
@@ -275,8 +338,17 @@
         "start_year": 1268,
         "end_year": 1268,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1042634",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1042634",
+            "source_id": "Q1042634"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Piazza_del_Carmine%2C_veduta_sulla_chiesa_del_carmine.jpg/1920px-Piazza_del_Carmine%2C_veduta_sulla_chiesa_del_carmine.jpg",
         "hero_filename": "Piazza del Carmine, veduta sulla chiesa del carmine.jpg",
@@ -311,8 +383,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1714149",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1714149",
+            "source_id": "Q1714149"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Santa_maria_delle_carceri%2C_esterno%2C_02.jpg/1920px-Santa_maria_delle_carceri%2C_esterno%2C_02.jpg",
         "hero_filename": "Santa maria delle carceri, esterno, 02.jpg",
@@ -347,8 +428,17 @@
         "start_year": 1278,
         "end_year": 1278,
         "date_source": "manual",
+        "date_basis": "origin",
         "date_source_name": "Florence As It Was",
         "date_source_url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+        "date_sources": [
+          {
+            "name": "Florence As It Was",
+            "url": "https://florenceasitwas.wlu.edu/sources/borghigiani-smn",
+            "source_id": null
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1920px-Santa_Maria_Novella_%28Florence%29.jpg",
         "hero_filename": "Santa Maria Novella (Florence).jpg",
@@ -383,8 +473,17 @@
         "start_year": 1250,
         "end_year": 1250,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1062114",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1062114",
+            "source_id": "Q1062114"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Basilica_di_Santa_Trinita%2C_Florence.jpg",
         "hero_filename": "Basilica di Santa Trinita, Florence.jpg",
@@ -419,8 +518,17 @@
         "start_year": 1252,
         "end_year": 1252,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1519975",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1519975",
+            "source_id": "Q1519975"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chiesa_Santo_Spirito%2C_Firenze.jpg/1920px-Chiesa_Santo_Spirito%2C_Firenze.jpg",
         "hero_filename": "Chiesa Santo Spirito, Firenze.jpg",
@@ -455,8 +563,17 @@
         "start_year": 1352,
         "end_year": 1352,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q377517",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q377517",
+            "source_id": "Q377517"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Palazzo_Pubblico_Siena_01.JPG/1920px-Palazzo_Pubblico_Siena_01.JPG",
         "hero_filename": "Palazzo Pubblico Siena 01.JPG",
@@ -491,8 +608,17 @@
         "start_year": 1703,
         "end_year": 1703,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3657606",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3657606",
+            "source_id": "Q3657606"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cappella_di_San_Michele_Arcangelo_e_della_Visitazione_di_Maria%2C_Livorno.JPG/1920px-Cappella_di_San_Michele_Arcangelo_e_della_Visitazione_di_Maria%2C_Livorno.JPG",
         "hero_filename": "Cappella di San Michele Arcangelo e della Visitazione di Maria, Livorno.JPG",
@@ -527,8 +653,17 @@
         "start_year": 1628,
         "end_year": 1628,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q124005573",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q124005573",
+            "source_id": "Q124005573"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "openstreetmap",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SienaPrescianoCappellaSantAntonioDaPadovaVillaPieriLovatelli2.jpg/1920px-SienaPrescianoCappellaSantAntonioDaPadovaVillaPieriLovatelli2.jpg",
         "hero_filename": "SienaPrescianoCappellaSantAntonioDaPadovaVillaPieriLovatelli2.jpg",
@@ -563,8 +698,17 @@
         "start_year": 1605,
         "end_year": 1605,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3657663",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3657663",
+            "source_id": "Q3657663"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -599,8 +743,17 @@
         "start_year": 1752,
         "end_year": 1752,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3657685",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3657685",
+            "source_id": "Q3657685"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -635,8 +788,17 @@
         "start_year": 1296,
         "end_year": 1296,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q191739",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q191739",
+            "source_id": "Q191739"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Florence_Duomo_from_Michelangelo_hill.jpg/1920px-Florence_Duomo_from_Michelangelo_hill.jpg",
         "hero_filename": "Florence Duomo from Michelangelo hill.jpg",
@@ -671,8 +833,17 @@
         "start_year": 1701,
         "end_year": 1701,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3667914",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3667914",
+            "source_id": "Q3667914"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chiesa_di_S.Gregorio_a_Livorno.jpg/1920px-Chiesa_di_S.Gregorio_a_Livorno.jpg",
         "hero_filename": "Chiesa di S.Gregorio a Livorno.jpg",
@@ -707,8 +878,17 @@
         "start_year": 1001,
         "end_year": 1100,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2223430",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2223430",
+            "source_id": "Q2223430"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Piazza_del_limbo%2C_chiesa_dei_ss._apostoli%2C_01%2C0.jpg/1920px-Piazza_del_limbo%2C_chiesa_dei_ss._apostoli%2C_01%2C0.jpg",
         "hero_filename": "Piazza del limbo, chiesa dei ss. apostoli, 01,0.jpg",
@@ -743,8 +923,17 @@
         "start_year": 1623,
         "end_year": 1623,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668157",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668157",
+            "source_id": "Q3668157"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Firenze_-_Chiesa_dei_Frati_minori_Cappuccini_di_Montughi.jpg/1920px-Firenze_-_Chiesa_dei_Frati_minori_Cappuccini_di_Montughi.jpg",
         "hero_filename": "Firenze - Chiesa dei Frati minori Cappuccini di Montughi.jpg",
@@ -779,8 +968,17 @@
         "start_year": 1597,
         "end_year": 1597,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q764060",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q764060",
+            "source_id": "Q764060"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/San_Gaetano%2C_facciata_12.JPG",
         "hero_filename": "San Gaetano, facciata 12.JPG",
@@ -815,8 +1013,17 @@
         "start_year": 1622,
         "end_year": 1622,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668382",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668382",
+            "source_id": "Q3668382"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Santi_Pietro_e_Paolo_%28Siena%29_02.JPG/1920px-Santi_Pietro_e_Paolo_%28Siena%29_02.JPG",
         "hero_filename": "Santi Pietro e Paolo (Siena) 02.JPG",
@@ -851,8 +1058,17 @@
         "start_year": 1243,
         "end_year": 1243,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1285138",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1285138",
+            "source_id": "Q1285138"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Piazza_san_simone%2C_chiesa_dei_santi_simone_e_giuda%2C_02%2C0.jpg/1920px-Piazza_san_simone%2C_chiesa_dei_santi_simone_e_giuda%2C_02%2C0.jpg",
         "hero_filename": "Piazza san simone, chiesa dei santi simone e giuda, 02,0.jpg",
@@ -887,8 +1103,17 @@
         "start_year": 1605,
         "end_year": 1605,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668503",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668503",
+            "source_id": "Q3668503"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%C3%89glise_Carmine_-_Carrare_%28IT52%29_-_2022-08-28_-_3.jpg/1920px-%C3%89glise_Carmine_-_Carrare_%28IT52%29_-_2022-08-28_-_3.jpg",
         "hero_filename": "Église Carmine - Carrare (IT52) - 2022-08-28 - 3.jpg",
@@ -923,8 +1148,17 @@
         "start_year": 1113,
         "end_year": 1113,
         "date_source": "manual",
+        "date_basis": "origin",
         "date_source_name": "Comune di Pisa - Turismo",
         "date_source_url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+        "date_sources": [
+          {
+            "name": "Comune di Pisa - Turismo",
+            "url": "https://www.turismo.pisa.it/index.php/en/place/church-of-santo-sepolcro",
+            "source_id": null
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pisa_-_Chiesa_del_Santo_Sepolcro%2C_01-edit.jpg/1920px-Pisa_-_Chiesa_del_Santo_Sepolcro%2C_01-edit.jpg",
         "hero_filename": "Pisa - Chiesa del Santo Sepolcro, 01-edit.jpg",
@@ -959,8 +1193,17 @@
         "start_year": 1352,
         "end_year": 1352,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668695",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668695",
+            "source_id": "Q3668695"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Siena%2C_chiesa_del_santuccio.JPG/1920px-Siena%2C_chiesa_del_santuccio.JPG",
         "hero_filename": "Siena, chiesa del santuccio.JPG",
@@ -995,8 +1238,17 @@
         "start_year": 1607,
         "end_year": 1607,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668903",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668903",
+            "source_id": "Q3668903"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chiesa_della_Madonna_Livorno.JPG/1920px-Chiesa_della_Madonna_Livorno.JPG",
         "hero_filename": "Chiesa della Madonna Livorno.JPG",
@@ -1031,8 +1283,17 @@
         "start_year": 1757,
         "end_year": 1757,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668916",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668916",
+            "source_id": "Q3668916"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Madonna_dei_Galletti_-_2025-10-19.jpg/1920px-Madonna_dei_Galletti_-_2025-10-19.jpg",
         "hero_filename": "Madonna dei Galletti - 2025-10-19.jpg",
@@ -1067,8 +1328,17 @@
         "start_year": 1628,
         "end_year": 1628,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3668990",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3668990",
+            "source_id": "Q3668990"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Massa-chiesa_Misericordia-complesso1.jpg/1920px-Massa-chiesa_Misericordia-complesso1.jpg",
         "hero_filename": "Massa-chiesa Misericordia-complesso1.jpg",
@@ -1103,8 +1373,17 @@
         "start_year": 1603,
         "end_year": 1603,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1121100",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1121100",
+            "source_id": "Q1121100"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Santa_maria_della_tosse_02.JPG",
         "hero_filename": "Santa maria della tosse 02.JPG",
@@ -1139,8 +1418,17 @@
         "start_year": 1348,
         "end_year": 1348,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669071",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669071",
+            "source_id": "Q3669071"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/SienaMariaSantissimaDelRosario5.jpg/1920px-SienaMariaSantissimaDelRosario5.jpg",
         "hero_filename": "SienaMariaSantissimaDelRosario5.jpg",
@@ -1175,8 +1463,17 @@
         "start_year": 1257,
         "end_year": 1257,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669184",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669184",
+            "source_id": "Q3669184"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Santissima_Annunziata_%28Siena%29_02.JPG/1920px-Santissima_Annunziata_%28Siena%29_02.JPG",
         "hero_filename": "Santissima Annunziata (Siena) 02.JPG",
@@ -1211,8 +1508,17 @@
         "start_year": 1601,
         "end_year": 1601,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669167",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669167",
+            "source_id": "Q3669167"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Livorno%2C_chiesa_dei_greci_uniti%2C_esterno%2C_facciata_01.jpg/1920px-Livorno%2C_chiesa_dei_greci_uniti%2C_esterno%2C_facciata_01.jpg",
         "hero_filename": "Livorno, chiesa dei greci uniti, esterno, facciata 01.jpg",
@@ -1247,8 +1553,17 @@
         "start_year": 1686,
         "end_year": 1686,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669276",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669276",
+            "source_id": "Q3669276"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Chiesa_delle_montalve.JPG/1920px-Chiesa_delle_montalve.JPG",
         "hero_filename": "Chiesa delle montalve.JPG",
@@ -1283,8 +1598,17 @@
         "start_year": 1340,
         "end_year": 1340,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669286",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669286",
+            "source_id": "Q3669286"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Spirito_Santo-the_church.jpg/1920px-Spirito_Santo-the_church.jpg",
         "hero_filename": "Spirito Santo-the church.jpg",
@@ -1319,8 +1643,17 @@
         "start_year": 1251,
         "end_year": 1251,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2778991",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2778991",
+            "source_id": "Q2778991"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chiesa_di_Ognissanti%2C_Firenze%2C_facciata.jpg/1920px-Chiesa_di_Ognissanti%2C_Firenze%2C_facciata.jpg",
         "hero_filename": "Chiesa di Ognissanti, Firenze, facciata.jpg",
@@ -1355,8 +1688,17 @@
         "start_year": 1337,
         "end_year": 1337,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q860816",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q860816",
+            "source_id": "Q860816"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La_chiesa_di_Orsanmichele%2C_detta_anticamente_anche_chiesa_di_San_Michele_in_Orto.jpg/1920px-La_chiesa_di_Orsanmichele%2C_detta_anticamente_anche_chiesa_di_San_Michele_in_Orto.jpg",
         "hero_filename": "La chiesa di Orsanmichele, detta anticamente anche chiesa di San Michele in Orto.jpg",
@@ -1391,8 +1733,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1117930",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1117930",
+            "source_id": "Q1117930"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Firenze_-_chiesa_di_San_Barnaba_-_facciata.jpg",
         "hero_filename": "Firenze - chiesa di San Barnaba - facciata.jpg",
@@ -1427,8 +1778,17 @@
         "start_year": 1001,
         "end_year": 1100,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669504",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669504",
+            "source_id": "Q3669504"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -1463,8 +1823,17 @@
         "start_year": 1316,
         "end_year": 1316,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669519",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669519",
+            "source_id": "Q3669519"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/San_bartolomeo.the_church.jpg/1920px-San_bartolomeo.the_church.jpg",
         "hero_filename": "San bartolomeo.the church.jpg",
@@ -1499,8 +1868,17 @@
         "start_year": 1454,
         "end_year": 1454,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669552",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669552",
+            "source_id": "Q3669552"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "manual",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/San_bartolomeo_a_monteoliveto%2C_esterno%2C_05.jpg/1920px-San_bartolomeo_a_monteoliveto%2C_esterno%2C_05.jpg",
         "hero_filename": "San bartolomeo a monteoliveto, esterno, 05.jpg",
@@ -1535,8 +1913,17 @@
         "start_year": 1771,
         "end_year": 1771,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669596",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669596",
+            "source_id": "Q3669596"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piazza_san_benedetto%2C_retro_della_chiesa_di_san_benedetto_02.jpg/1920px-Piazza_san_benedetto%2C_retro_della_chiesa_di_san_benedetto_02.jpg",
         "hero_filename": "Piazza san benedetto, retro della chiesa di san benedetto 02.jpg",
@@ -1571,8 +1958,17 @@
         "start_year": 1001,
         "end_year": 1100,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669825",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669825",
+            "source_id": "Q3669825"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/3166SienaSCristoforo.JPG",
         "hero_filename": "3166SienaSCristoforo.JPG",
@@ -1607,8 +2003,17 @@
         "start_year": 1385,
         "end_year": 1385,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1121868",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1121868",
+            "source_id": "Q1121868"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chiesa_di_san_domenico_%28pisa%29%2C_esterno.JPG",
         "hero_filename": "Chiesa di san domenico (pisa), esterno.JPG",
@@ -1643,8 +2048,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669925",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669925",
+            "source_id": "Q3669925"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SienaSanDonato4.jpg/1920px-SienaSanDonato4.jpg",
         "hero_filename": "SienaSanDonato4.jpg",
@@ -1679,8 +2093,17 @@
         "start_year": 1068,
         "end_year": 1068,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669937",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669937",
+            "source_id": "Q3669937"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -1715,8 +2138,17 @@
         "start_year": 1187,
         "end_year": 1187,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3585329",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3585329",
+            "source_id": "Q3585329"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/San_donato_in_polverosa%2C_esterno_dopo_lavori%2C_01.jpg/1920px-San_donato_in_polverosa%2C_esterno_dopo_lavori%2C_01.jpg",
         "hero_filename": "San donato in polverosa, esterno dopo lavori, 01.jpg",
@@ -1751,8 +2183,17 @@
         "start_year": 1082,
         "end_year": 1082,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669946",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669946",
+            "source_id": "Q3669946"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Chiesa_di_San_Fabiano.JPG",
         "hero_filename": "Chiesa di San Fabiano.JPG",
@@ -1787,8 +2228,17 @@
         "start_year": 801,
         "end_year": 900,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669959",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669959",
+            "source_id": "Q3669959"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sanfeliceaema298.jpg/1920px-Sanfeliceaema298.jpg",
         "hero_filename": "Sanfeliceaema298.jpg",
@@ -1823,8 +2273,17 @@
         "start_year": 1060,
         "end_year": 1060,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3585333",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3585333",
+            "source_id": "Q3585333"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/0/09/San_felice_in_piazza%2C_facciata.JPG",
         "hero_filename": "San felice in piazza, facciata.JPG",
@@ -1859,8 +2318,17 @@
         "start_year": 1707,
         "end_year": 1707,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3669962",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3669962",
+            "source_id": "Q3669962"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chiesa_San_Ferdinando_2%2C_Livorno.jpg/1920px-Chiesa_San_Ferdinando_2%2C_Livorno.jpg",
         "hero_filename": "Chiesa San Ferdinando 2, Livorno.jpg",
@@ -1895,8 +2363,17 @@
         "start_year": 1623,
         "end_year": 1623,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670031",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670031",
+            "source_id": "Q3670031"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Carrara%2C_san_francesco%2C_esterno_01.jpg/1920px-Carrara%2C_san_francesco%2C_esterno_01.jpg",
         "hero_filename": "Carrara, san francesco, esterno 01.jpg",
@@ -1931,8 +2408,17 @@
         "start_year": 1430,
         "end_year": 1430,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q93679",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q93679",
+            "source_id": "Q93679"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/39/686LuccaSFrancesco.JPG",
         "hero_filename": "686LuccaSFrancesco.JPG",
@@ -1967,8 +2453,17 @@
         "start_year": 1201,
         "end_year": 1300,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670083",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670083",
+            "source_id": "Q3670083"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Chiesa_San_Francesco%2C_Pisa.JPG/1920px-Chiesa_San_Francesco%2C_Pisa.JPG",
         "hero_filename": "Chiesa San Francesco, Pisa.JPG",
@@ -2003,8 +2498,17 @@
         "start_year": 1331,
         "end_year": 1331,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670086",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670086",
+            "source_id": "Q3670086"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Prato%2C_san_francesco%2C_facciata_%28dopo_restauro_2022%29_02-edit.jpg/1920px-Prato%2C_san_francesco%2C_facciata_%28dopo_restauro_2022%29_02-edit.jpg",
         "hero_filename": "Prato, san francesco, facciata (dopo restauro 2022) 02-edit.jpg",
@@ -2039,8 +2543,17 @@
         "start_year": 1589,
         "end_year": 1589,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670163",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670163",
+            "source_id": "Q3670163"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/San_francesco_di_paola_%28florence%29_01.JPG/1920px-San_francesco_di_paola_%28florence%29_01.JPG",
         "hero_filename": "San francesco di paola (florence) 01.JPG",
@@ -2075,8 +2588,17 @@
         "start_year": 1689,
         "end_year": 1689,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1071192",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1071192",
+            "source_id": "Q1071192"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Florence%2C_San_Frediano_in_Cestello_001.JPG",
         "hero_filename": "Florence, San Frediano in Cestello 001.JPG",
@@ -2111,8 +2633,17 @@
         "start_year": 1685,
         "end_year": 1685,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3581520",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3581520",
+            "source_id": "Q3581520"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SienaChiesaSanGaetanoDiThiene2.jpg/1920px-SienaChiesaSanGaetanoDiThiene2.jpg",
         "hero_filename": "SienaChiesaSanGaetanoDiThiene2.jpg",
@@ -2147,8 +2678,17 @@
         "start_year": 1218,
         "end_year": 1218,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670196",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670196",
+            "source_id": "Q3670196"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Andrea_del_Sarto_-_The_Annunciation_-_WGA00359.jpg",
         "hero_filename": "Andrea del Sarto - The Annunciation - WGA00359.jpg",
@@ -2183,8 +2723,17 @@
         "start_year": 1081,
         "end_year": 1081,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1102245",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1102245",
+            "source_id": "Q1102245"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/SienaSanGiorgio3.jpg/1920px-SienaSanGiorgio3.jpg",
         "hero_filename": "SienaSanGiorgio3.jpg",
@@ -2219,8 +2768,17 @@
         "start_year": 1316,
         "end_year": 1316,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q783096",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q783096",
+            "source_id": "Q783096"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pisa-_chiesa_di_san_giorgio_dei_tedeschi.JPG/1920px-Pisa-_chiesa_di_san_giorgio_dei_tedeschi.JPG",
         "hero_filename": "Pisa- chiesa di san giorgio dei tedeschi.JPG",
@@ -2255,8 +2813,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3585340",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3585340",
+            "source_id": "Q3585340"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_giorgio_alla_costa_11.JPG/1920px-San_giorgio_alla_costa_11.JPG",
         "hero_filename": "San giorgio alla costa 11.JPG",
@@ -2291,8 +2858,17 @@
         "start_year": 1629,
         "end_year": 1629,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670458",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670458",
+            "source_id": "Q3670458"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Chiesa_di_san_Giovanni_Battista_a_Siena.JPG/1920px-Chiesa_di_san_Giovanni_Battista_a_Siena.JPG",
         "hero_filename": "Chiesa di san Giovanni Battista a Siena.JPG",
@@ -2327,8 +2903,17 @@
         "start_year": 1624,
         "end_year": 1624,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1109516",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1109516",
+            "source_id": "Q1109516"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chiesa_San_Giovanni_Battista%2C_Livorno.jpg/1920px-Chiesa_San_Giovanni_Battista%2C_Livorno.jpg",
         "hero_filename": "Chiesa San Giovanni Battista, Livorno.jpg",
@@ -2363,8 +2948,17 @@
         "start_year": 1362,
         "end_year": 1362,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3001779",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3001779",
+            "source_id": "Q3001779"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/80/San_Giovanni_della_Calza_3.JPG",
         "hero_filename": "San Giovanni della Calza 3.JPG",
@@ -2399,8 +2993,17 @@
         "start_year": 1639,
         "end_year": 1639,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670507",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670507",
+            "source_id": "Q3670507"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Esterno_della_chiesa_di_San_Giovanni_Decollato%2C_Massa_%281%29.jpg/1920px-Esterno_della_chiesa_di_San_Giovanni_Decollato%2C_Massa_%281%29.jpg",
         "hero_filename": "Esterno della chiesa di San Giovanni Decollato, Massa (1).jpg",
@@ -2435,8 +3038,17 @@
         "start_year": 1337,
         "end_year": 1337,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q111191245",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q111191245",
+            "source_id": "Q111191245"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pistoia_-_Chiesa_di_San_Giovanni_Decollato_-_2023-09-28_13-30-10_001.jpg/1920px-Pistoia_-_Chiesa_di_San_Giovanni_Decollato_-_2023-09-28_13-30-10_001.jpg",
         "hero_filename": "Pistoia - Chiesa di San Giovanni Decollato - 2023-09-28 13-30-10 001.jpg",
@@ -2471,8 +3083,17 @@
         "start_year": 1614,
         "end_year": 1614,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670542",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670542",
+            "source_id": "Q3670542"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/85/San_Giovanni_dei_Fieri%2C_pisa_01.JPG",
         "hero_filename": "San Giovanni dei Fieri, pisa 01.JPG",
@@ -2507,8 +3128,17 @@
         "start_year": 1692,
         "end_year": 1692,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670530",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670530",
+            "source_id": "Q3670530"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Livorno%2C_san_giovanni_gualberto_a_valle_benedetta%2C_esterno_07.jpg/1920px-Livorno%2C_san_giovanni_gualberto_a_valle_benedetta%2C_esterno_07.jpg",
         "hero_filename": "Livorno, san giovanni gualberto a valle benedetta, esterno 07.jpg",
@@ -2543,8 +3173,17 @@
         "start_year": 1579,
         "end_year": 1579,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670564",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670564",
+            "source_id": "Q3670564"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/San_Giovannino_degli_Scolopi.JPG",
         "hero_filename": "San Giovannino degli Scolopi.JPG",
@@ -2579,8 +3218,17 @@
         "start_year": 1326,
         "end_year": 1326,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670567",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670567",
+            "source_id": "Q3670567"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/San_giovannino_dei_cavalieri%2C_facciata_02.JPG/1920px-San_giovannino_dei_cavalieri%2C_facciata_02.JPG",
         "hero_filename": "San giovannino dei cavalieri, facciata 02.JPG",
@@ -2615,8 +3263,17 @@
         "start_year": 1611,
         "end_year": 1611,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670565",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670565",
+            "source_id": "Q3670565"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/San_Giovannino_della_Staffa%2C_facciata.JPG/1920px-San_Giovannino_della_Staffa%2C_facciata.JPG",
         "hero_filename": "San Giovannino della Staffa, facciata.JPG",
@@ -2651,8 +3308,17 @@
         "start_year": 1759,
         "end_year": 1759,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670618",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670618",
+            "source_id": "Q3670618"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_giuseppe%2C_firenze%2C_facciata_01.JPG/1920px-San_giuseppe%2C_firenze%2C_facciata_01.JPG",
         "hero_filename": "San giuseppe, firenze, facciata 01.JPG",
@@ -2687,8 +3353,17 @@
         "start_year": 1653,
         "end_year": 1653,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670652",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670652",
+            "source_id": "Q3670652"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chiesa_di_san_giuseppe_siena.jpg",
         "hero_filename": "Chiesa di san giuseppe siena.jpg",
@@ -2723,8 +3398,17 @@
         "start_year": 1723,
         "end_year": 1723,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670697",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670697",
+            "source_id": "Q3670697"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gorgona%2C_san_gorgonio_01.jpg/1920px-Gorgona%2C_san_gorgonio_01.jpg",
         "hero_filename": "Gorgona, san gorgonio 01.jpg",
@@ -2759,8 +3443,17 @@
         "start_year": 1163,
         "end_year": 1163,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670747",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670747",
+            "source_id": "Q3670747"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chiesa_di_San_Jacopo_a_Livorno.JPG/1920px-Chiesa_di_San_Jacopo_a_Livorno.JPG",
         "hero_filename": "Chiesa di San Jacopo a Livorno.JPG",
@@ -2795,8 +3488,17 @@
         "start_year": 1311,
         "end_year": 1311,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670749",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670749",
+            "source_id": "Q3670749"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/32/San_Jacopo_in_Campo_Corbolini.JPG",
         "hero_filename": "San Jacopo in Campo Corbolini.JPG",
@@ -2831,8 +3533,17 @@
         "start_year": 1660,
         "end_year": 1660,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670741",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670741",
+            "source_id": "Q3670741"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/San_jacopo_soprarno%2C_retro_%28mattina%29_02.JPG/1920px-San_jacopo_soprarno%2C_retro_%28mattina%29_02.JPG",
         "hero_filename": "San jacopo soprarno, retro (mattina) 02.JPG",
@@ -2867,8 +3578,17 @@
         "start_year": 1173,
         "end_year": 1173,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q16540253",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q16540253",
+            "source_id": "Q16540253"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/SienaSanLeonardo5.jpg/1920px-SienaSanLeonardo5.jpg",
         "hero_filename": "SienaSanLeonardo5.jpg",
@@ -2903,8 +3623,17 @@
         "start_year": 1001,
         "end_year": 1100,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670791",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670791",
+            "source_id": "Q3670791"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/18/SanLeonardoinArcetri01.jpg",
         "hero_filename": "SanLeonardoinArcetri01.jpg",
@@ -2939,8 +3668,17 @@
         "start_year": 1202,
         "end_year": 1202,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670924",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670924",
+            "source_id": "Q3670924"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/San_lorenzo_a_serpiolle_01.JPG/1920px-San_lorenzo_a_serpiolle_01.JPG",
         "hero_filename": "San lorenzo a serpiolle 01.JPG",
@@ -2975,8 +3713,17 @@
         "start_year": 1119,
         "end_year": 1119,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670973",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670973",
+            "source_id": "Q3670973"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/San_mamante_empoli.jpg/1920px-San_mamante_empoli.jpg",
         "hero_filename": "San mamante empoli.jpg",
@@ -3011,8 +3758,17 @@
         "start_year": 1197,
         "end_year": 1197,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3670984",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3670984",
+            "source_id": "Q3670984"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Chiesa_di_san_marcellino_01.JPG",
         "hero_filename": "Chiesa di san marcellino 01.JPG",
@@ -3047,8 +3803,17 @@
         "start_year": 1058,
         "end_year": 1058,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671004",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671004",
+            "source_id": "Q3671004"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chiesa_di_san_marco_vecchio_04.JPG",
         "hero_filename": "Chiesa di san marco vecchio 04.JPG",
@@ -3083,8 +3848,17 @@
         "start_year": 1000,
         "end_year": 1000,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671047",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671047",
+            "source_id": "Q3671047"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chiesa_di_San_Martino%2C_Salviano%2C_Livorno_2.JPG/1920px-Chiesa_di_San_Martino%2C_Salviano%2C_Livorno_2.JPG",
         "hero_filename": "Chiesa di San Martino, Salviano, Livorno 2.JPG",
@@ -3119,8 +3893,17 @@
         "start_year": 1331,
         "end_year": 1331,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671060",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671060",
+            "source_id": "Q3671060"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chiesa_di_San_Martino_-_Facade.jpg/1920px-Chiesa_di_San_Martino_-_Facade.jpg",
         "hero_filename": "Chiesa di San Martino - Facade.jpg",
@@ -3155,8 +3938,17 @@
         "start_year": 1451,
         "end_year": 1451,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671101",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671101",
+            "source_id": "Q3671101"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Chiesa_di_san_martino_a_mensola.JPG",
         "hero_filename": "Chiesa di san martino a mensola.JPG",
@@ -3191,8 +3983,17 @@
         "start_year": 1222,
         "end_year": 1222,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671105",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671105",
+            "source_id": "Q3671105"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/San_martino_a_montughi%2C_ext%2C_01.JPG/1920px-San_martino_a_montughi%2C_ext%2C_01.JPG",
         "hero_filename": "San martino a montughi, ext, 01.JPG",
@@ -3227,8 +4028,17 @@
         "start_year": 1316,
         "end_year": 1316,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671141",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671141",
+            "source_id": "Q3671141"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Complesso_di_san_martino_alla_scala_01.JPG/1920px-Complesso_di_san_martino_alla_scala_01.JPG",
         "hero_filename": "Complesso di san martino alla scala 01.JPG",
@@ -3263,8 +4073,17 @@
         "start_year": 1617,
         "end_year": 1617,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671341",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671341",
+            "source_id": "Q3671341"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Chiesa_di_San_Michele_a_Castello_%28Florence%29_-_Facade.jpg",
         "hero_filename": "Chiesa di San Michele a Castello (Florence) - Facade.jpg",
@@ -3299,8 +4118,17 @@
         "start_year": 1001,
         "end_year": 1100,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q692591",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q692591",
+            "source_id": "Q692591"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Chiesa_di_san_salvi.JPG",
         "hero_filename": "Chiesa di san salvi.JPG",
@@ -3335,8 +4163,17 @@
         "start_year": 1192,
         "end_year": 1192,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671305",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671305",
+            "source_id": "Q3671305"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michele_a_pontorme.jpg/1920px-Michele_a_pontorme.jpg",
         "hero_filename": "Michele a pontorme.jpg",
@@ -3371,8 +4208,17 @@
         "start_year": 1138,
         "end_year": 1138,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q55156351",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q55156351",
+            "source_id": "Q55156351"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/San_Michele_a_Monteripaldi_02.JPG/1920px-San_Michele_a_Monteripaldi_02.JPG",
         "hero_filename": "San Michele a Monteripaldi 02.JPG",
@@ -3407,8 +4253,17 @@
         "start_year": 1001,
         "end_year": 1100,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3506865",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3506865",
+            "source_id": "Q3506865"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/San_Michele_in_Borgo%2C_Pisa.jpg/1920px-San_Michele_in_Borgo%2C_Pisa.jpg",
         "hero_filename": "San Michele in Borgo, Pisa.jpg",
@@ -3443,8 +4298,17 @@
         "start_year": 1346,
         "end_year": 1346,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671342",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671342",
+            "source_id": "Q3671342"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/San_michele_visdomini%2C_esterno%2C_02.jpg/1920px-San_michele_visdomini%2C_esterno%2C_02.jpg",
         "hero_filename": "San michele visdomini, esterno, 02.jpg",
@@ -3479,8 +4343,17 @@
         "start_year": 1184,
         "end_year": 1184,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671413",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671413",
+            "source_id": "Q3671413"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Firenze_-_Florence_-_Via_di_San_Niccol%C3%B2_-_View_East_on_chiesa_di_San_Niccol%C3%B2_Oltrarno.jpg/1920px-Firenze_-_Florence_-_Via_di_San_Niccol%C3%B2_-_View_East_on_chiesa_di_San_Niccol%C3%B2_Oltrarno.jpg",
         "hero_filename": "Firenze - Florence - Via di San Niccolò - View East on chiesa di San Niccolò Oltrarno.jpg",
@@ -3515,8 +4388,17 @@
         "start_year": 1094,
         "end_year": 1094,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671531",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671531",
+            "source_id": "Q3671531"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/38/San_paolino%2C_facciata.JPG",
         "hero_filename": "San paolino, facciata.JPG",
@@ -3551,8 +4433,17 @@
         "start_year": 901,
         "end_year": 1000,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1423910",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1423910",
+            "source_id": "Q1423910"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pisa_-_Chiesa_di_San_Paolo_a_Ripa_02.JPG/1920px-Pisa_-_Chiesa_di_San_Paolo_a_Ripa_02.JPG",
         "hero_filename": "Pisa - Chiesa di San Paolo a Ripa 02.JPG",
@@ -3587,8 +4478,17 @@
         "start_year": 1101,
         "end_year": 1200,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3506968",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3506968",
+            "source_id": "Q3506968"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Pisa_san_Paolo_all%27Orto.JPG",
         "hero_filename": "Pisa san Paolo all'Orto.JPG",
@@ -3623,8 +4523,17 @@
         "start_year": 1390,
         "end_year": 1390,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671588",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671588",
+            "source_id": "Q3671588"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Via_romana%2C_san_pier_gattolino%2C_01.jpg/1920px-Via_romana%2C_san_pier_gattolino%2C_01.jpg",
         "hero_filename": "Via romana, san pier gattolino, 01.jpg",
@@ -3659,8 +4568,17 @@
         "start_year": 1068,
         "end_year": 1068,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671596",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671596",
+            "source_id": "Q3671596"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/View_of_Ancient_Florence_by_Fabio_Borbottoni_1820-1902_%2820%29.jpg/1920px-View_of_Ancient_Florence_by_Fabio_Borbottoni_1820-1902_%2820%29.jpg",
         "hero_filename": "View of Ancient Florence by Fabio Borbottoni 1820-1902 (20).jpg",
@@ -3695,8 +4613,17 @@
         "start_year": 1050,
         "end_year": 1050,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671748",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671748",
+            "source_id": "Q3671748"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Firenze%2C_san_pietro_a_sollicciano%2C_esterno_01.jpg/1920px-Firenze%2C_san_pietro_a_sollicciano%2C_esterno_01.jpg",
         "hero_filename": "Firenze, san pietro a sollicciano, esterno 01.jpg",
@@ -3731,8 +4658,17 @@
         "start_year": 1107,
         "end_year": 1107,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671752",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671752",
+            "source_id": "Q3671752"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/San_pietro_a_varlungo%2C_ext.%2C_01.JPG/1920px-San_pietro_a_varlungo%2C_ext.%2C_01.JPG",
         "hero_filename": "San pietro a varlungo, ext., 01.JPG",
@@ -3767,8 +4703,17 @@
         "start_year": 1072,
         "end_year": 1072,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3504517",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3504517",
+            "source_id": "Q3504517"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pisa_San_Pietro_in_Vinculis_%28facciata%29.JPG",
         "hero_filename": "Pisa San Pietro in Vinculis (facciata).JPG",
@@ -3803,8 +4748,17 @@
         "start_year": 1201,
         "end_year": 1300,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671828",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671828",
+            "source_id": "Q3671828"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Via_de%27_giraldi_angolo_via_pandolfini%2C_chiesa_di_san_procolo_01.jpg/1920px-Via_de%27_giraldi_angolo_via_pandolfini%2C_chiesa_di_san_procolo_01.jpg",
         "hero_filename": "Via de' giraldi angolo via pandolfini, chiesa di san procolo 01.jpg",
@@ -3839,8 +4793,17 @@
         "start_year": 1601,
         "end_year": 1601,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671846",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671846",
+            "source_id": "Q3671846"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/San_Raimondo_al_Refugio_01.JPG/1920px-San_Raimondo_al_Refugio_01.JPG",
         "hero_filename": "San Raimondo al Refugio 01.JPG",
@@ -3875,8 +4838,17 @@
         "start_year": 1001,
         "end_year": 1100,
         "date_source": "manual",
+        "date_basis": "origin",
         "date_source_name": "Florence As It Was",
         "date_source_url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+        "date_sources": [
+          {
+            "name": "Florence As It Was",
+            "url": "https://florenceasitwas.wlu.edu/sources/walter-and-elisabeth-paatz-die-kirchen-von-florenz-vol-v-5-18-english-translation",
+            "source_id": null
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Piazza_san_remigio%2C_chiesa_di_san_remigio_01%2C0.jpg/1920px-Piazza_san_remigio%2C_chiesa_di_san_remigio_01%2C0.jpg",
         "hero_filename": "Piazza san remigio, chiesa di san remigio 01,0.jpg",
@@ -3911,8 +4883,17 @@
         "start_year": 1634,
         "end_year": 1634,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1102884",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1102884",
+            "source_id": "Q1102884"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/San_Rocco_Pisa.jpg/1920px-San_Rocco_Pisa.jpg",
         "hero_filename": "San Rocco Pisa.jpg",
@@ -3947,8 +4928,17 @@
         "start_year": 1498,
         "end_year": 1498,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2220029",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2220029",
+            "source_id": "Q2220029"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/San_salvatore_al_monte.JPG",
         "hero_filename": "San salvatore al monte.JPG",
@@ -3983,8 +4973,17 @@
         "start_year": 1221,
         "end_year": 1221,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3671987",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3671987",
+            "source_id": "Q3671987"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/San_Salvatore_al_Vescovo.JPG",
         "hero_filename": "San Salvatore al Vescovo.JPG",
@@ -4019,8 +5018,17 @@
         "start_year": 1633,
         "end_year": 1633,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672017",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672017",
+            "source_id": "Q3672017"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chiesa_San_Sebastiano%2C_Livorno.jpg/1920px-Chiesa_San_Sebastiano%2C_Livorno.jpg",
         "hero_filename": "Chiesa San Sebastiano, Livorno.jpg",
@@ -4055,8 +5063,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672030",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672030",
+            "source_id": "Q3672030"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Piazzetta_della_selva_01.JPG/1920px-Piazzetta_della_selva_01.JPG",
         "hero_filename": "Piazzetta della selva 01.JPG",
@@ -4091,8 +5108,17 @@
         "start_year": 1118,
         "end_year": 1118,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3504833",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3504833",
+            "source_id": "Q3504833"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Chiesa_San_Silvestro%2C_Pisa.jpg/1920px-Chiesa_San_Silvestro%2C_Pisa.jpg",
         "hero_filename": "Chiesa San Silvestro, Pisa.jpg",
@@ -4127,8 +5153,17 @@
         "start_year": 1133,
         "end_year": 1133,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3505132",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3505132",
+            "source_id": "Q3505132"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pisa_-_Chiesa_di_San_Sisto_01.JPG/1920px-Pisa_-_Chiesa_di_San_Sisto_01.JPG",
         "hero_filename": "Pisa - Chiesa di San Sisto 01.JPG",
@@ -4163,8 +5198,17 @@
         "start_year": 1258,
         "end_year": 1258,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1102250",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1102250",
+            "source_id": "Q1102250"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/SantAgostinoSiena2.JPG/1920px-SantAgostinoSiena2.JPG",
         "hero_filename": "SantAgostinoSiena2.JPG",
@@ -4199,8 +5243,17 @@
         "start_year": 701,
         "end_year": 800,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672358",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672358",
+            "source_id": "Q3672358"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Firenze_-_Florence_-_Piazza_Sant%27Ambrogio_-_ICE_Photocompilation_Viewing_from_NE_to_East_on_Chiesa_di_Sant%27Ambrogio.jpg/1920px-Firenze_-_Florence_-_Piazza_Sant%27Ambrogio_-_ICE_Photocompilation_Viewing_from_NE_to_East_on_Chiesa_di_Sant%27Ambrogio.jpg",
         "hero_filename": "Firenze - Florence - Piazza Sant'Ambrogio - ICE Photocompilation Viewing from NE to East on Chiesa di Sant'Ambrogio.jpg",
@@ -4235,8 +5288,17 @@
         "start_year": 1587,
         "end_year": 1587,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672660",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672660",
+            "source_id": "Q3672660"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -4271,8 +5333,17 @@
         "start_year": 1341,
         "end_year": 1341,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672682",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672682",
+            "source_id": "Q3672682"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sant%27Antonio_Abate%2C_Pisa%2C_facciata.JPG/1920px-Sant%27Antonio_Abate%2C_Pisa%2C_facciata.JPG",
         "hero_filename": "Sant'Antonio Abate, Pisa, facciata.JPG",
@@ -4307,8 +5378,17 @@
         "start_year": 1741,
         "end_year": 1741,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q19843876",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q19843876",
+            "source_id": "Q19843876"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG/1920px-Facciata_Chiesa_Sant%27Antonio_Abate_e_Sant%27Anna_Noceto_Carrara.JPG",
         "hero_filename": "Facciata Chiesa Sant'Antonio Abate e Sant'Anna Noceto Carrara.JPG",
@@ -4343,8 +5423,17 @@
         "start_year": 1782,
         "end_year": 1782,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672727",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672727",
+            "source_id": "Q3672727"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/San_Apollinare_Barbaricina%2C_Pisa.JPG/1920px-San_Apollinare_Barbaricina%2C_Pisa.JPG",
         "hero_filename": "San Apollinare Barbaricina, Pisa.JPG",
@@ -4379,8 +5468,17 @@
         "start_year": 1724,
         "end_year": 1724,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672859",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672859",
+            "source_id": "Q3672859"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -4415,8 +5513,17 @@
         "start_year": 1777,
         "end_year": 1777,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q281259",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q281259",
+            "source_id": "Q281259"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Santa_Apollonia%2C_Pisa_%2826655108776%29.jpg/1920px-Santa_Apollonia%2C_Pisa_%2826655108776%29.jpg",
         "hero_filename": "Santa Apollonia, Pisa (26655108776).jpg",
@@ -4451,8 +5558,17 @@
         "start_year": 1390,
         "end_year": 1390,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672897",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672897",
+            "source_id": "Q3672897"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -4487,8 +5603,17 @@
         "start_year": 1753,
         "end_year": 1753,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672904",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672904",
+            "source_id": "Q3672904"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Chiesa_Santa_Caterina%2C_Livorno.jpg/1920px-Chiesa_Santa_Caterina%2C_Livorno.jpg",
         "hero_filename": "Chiesa Santa Caterina, Livorno.jpg",
@@ -4523,8 +5648,17 @@
         "start_year": 1250,
         "end_year": 1250,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3505115",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3505115",
+            "source_id": "Q3505115"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Santa_Caterina_%28Pisa%29_02.jpg/1920px-Santa_Caterina_%28Pisa%29_02.jpg",
         "hero_filename": "Santa Caterina (Pisa) 02.jpg",
@@ -4559,8 +5693,17 @@
         "start_year": 1637,
         "end_year": 1637,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672942",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672942",
+            "source_id": "Q3672942"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -4595,8 +5738,17 @@
         "start_year": 1277,
         "end_year": 1277,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3672967",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3672967",
+            "source_id": "Q3672967"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Chiesa_di_santa_chiara%2C_pisa.JPG",
         "hero_filename": "Chiesa di santa chiara, pisa.JPG",
@@ -4631,8 +5783,17 @@
         "start_year": 1118,
         "end_year": 1118,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q585547",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q585547",
+            "source_id": "Q585547"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chiesa_di_Santa_Cristina_%28Pisa%29.JPG",
         "hero_filename": "Chiesa di Santa Cristina (Pisa).JPG",
@@ -4667,8 +5828,17 @@
         "start_year": 1124,
         "end_year": 1124,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673046",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673046",
+            "source_id": "Q3673046"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chiesa_Santa_Eufrasia%2C_Pisa.JPG/1920px-Chiesa_Santa_Eufrasia%2C_Pisa.JPG",
         "hero_filename": "Chiesa Santa Eufrasia, Pisa.JPG",
@@ -4703,8 +5873,17 @@
         "start_year": 1050,
         "end_year": 1059,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1069665",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1069665",
+            "source_id": "Q1069665"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Santa_Felicita_%28Florence%29.jpg/1920px-Santa_Felicita_%28Florence%29.jpg",
         "hero_filename": "Santa Felicita (Florence).jpg",
@@ -4739,8 +5918,17 @@
         "start_year": 1602,
         "end_year": 1602,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673065",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673065",
+            "source_id": "Q3673065"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Livorno%2C_santa_giulia%2C_esterno%2C_01.jpg/1920px-Livorno%2C_santa_giulia%2C_esterno%2C_01.jpg",
         "hero_filename": "Livorno, santa giulia, esterno, 01.jpg",
@@ -4775,8 +5963,17 @@
         "start_year": 1078,
         "end_year": 1078,
         "date_source": "manual",
+        "date_basis": "origin",
         "date_source_name": "Firenze Oltrarno",
         "date_source_url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+        "date_sources": [
+          {
+            "name": "Firenze Oltrarno",
+            "url": "https://www.firenze-oltrarno.net/english/arte/santaluciademagnoli.php",
+            "source_id": null
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Santa_lucia_dei_magnoli_01.JPG",
         "hero_filename": "Santa lucia dei magnoli 01.JPG",
@@ -4811,8 +6008,17 @@
         "start_year": 1508,
         "end_year": 1508,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673187",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673187",
+            "source_id": "Q3673187"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Santa_Margherita_in_Santa_Maria_de%27_Ricci_11.JPG",
         "hero_filename": "Santa Margherita in Santa Maria de' Ricci 11.JPG",
@@ -4847,8 +6053,17 @@
         "start_year": 1647,
         "end_year": 1647,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673580",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673580",
+            "source_id": "Q3673580"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Santa_maria_a_novoli_01.JPG/1920px-Santa_maria_a_novoli_01.JPG",
         "hero_filename": "Santa maria a novoli 01.JPG",
@@ -4883,8 +6098,17 @@
         "start_year": 1797,
         "end_year": 1797,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673595",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673595",
+            "source_id": "Q3673595"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Santa_maria_a_quarto_02.JPG/1920px-Santa_maria_a_quarto_02.JPG",
         "hero_filename": "Santa maria a quarto 02.JPG",
@@ -4919,8 +6143,17 @@
         "start_year": 1786,
         "end_year": 1786,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673629",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673629",
+            "source_id": "Q3673629"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Santa_Maria_al_Pignone.JPG",
         "hero_filename": "Santa Maria al Pignone.JPG",
@@ -4955,8 +6188,17 @@
         "start_year": 1509,
         "end_year": 1509,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673664",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673664",
+            "source_id": "Q3673664"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Via_della_colonna%2C_chiesa_s.m.angiolini%2C_ext._01.JPG/1920px-Via_della_colonna%2C_chiesa_s.m.angiolini%2C_ext._01.JPG",
         "hero_filename": "Via della colonna, chiesa s.m.angiolini, ext. 01.JPG",
@@ -4991,8 +6233,17 @@
         "start_year": 1181,
         "end_year": 1181,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673667",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673667",
+            "source_id": "Q3673667"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Telemaco_Signorini%2C_Santa_Maria_de%27_Bardi_1870_100x75cm.jpg",
         "hero_filename": "Telemaco Signorini, Santa Maria de' Bardi 1870 100x75cm.jpg",
@@ -5027,8 +6278,17 @@
         "start_year": 1328,
         "end_year": 1328,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673712",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673712",
+            "source_id": "Q3673712"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Chiesa_Santa_Maria_del_Carmine%2C_Pisa.JPG/1920px-Chiesa_Santa_Maria_del_Carmine%2C_Pisa.JPG",
         "hero_filename": "Chiesa Santa Maria del Carmine, Pisa.JPG",
@@ -5063,8 +6323,17 @@
         "start_year": 1348,
         "end_year": 1348,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673734",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673734",
+            "source_id": "Q3673734"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Santa_Maria_del_Fiore_a_Lapo%2C_ext._02.JPG/1920px-Santa_Maria_del_Fiore_a_Lapo%2C_ext._02.JPG",
         "hero_filename": "Santa Maria del Fiore a Lapo, ext. 02.JPG",
@@ -5099,8 +6368,17 @@
         "start_year": 1334,
         "end_year": 1334,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673774",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673774",
+            "source_id": "Q3673774"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ex-monastero_delle_campora%2C_resti_del_chiostro_06.jpg/1920px-Ex-monastero_delle_campora%2C_resti_del_chiostro_06.jpg",
         "hero_filename": "Ex-monastero delle campora, resti del chiostro 06.jpg",
@@ -5135,8 +6413,17 @@
         "start_year": 1366,
         "end_year": 1366,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673838",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673838",
+            "source_id": "Q3673838"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Firenze%2C_piazza_piave.JPG/1920px-Firenze%2C_piazza_piave.JPG",
         "hero_filename": "Firenze, piazza piave.JPG",
@@ -5171,8 +6458,17 @@
         "start_year": 1530,
         "end_year": 1530,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3673876",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3673876",
+            "source_id": "Q3673876"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "manual",
         "hero_image": null,
         "hero_filename": null,
@@ -5207,8 +6503,17 @@
         "start_year": 1201,
         "end_year": 1300,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1426967",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1426967",
+            "source_id": "Q1426967"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Esgl%C3%A9sia_de_Santa_Maria_della_Spina_de_Pisa.JPG/1920px-Esgl%C3%A9sia_de_Santa_Maria_della_Spina_de_Pisa.JPG",
         "hero_filename": "Església de Santa Maria della Spina de Pisa.JPG",
@@ -5243,8 +6548,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674012",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674012",
+            "source_id": "Q3674012"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chiesa_di_Santa_Maria_delle_Nevi_siena.jpg",
         "hero_filename": "Chiesa di Santa Maria delle Nevi siena.jpg",
@@ -5279,8 +6593,17 @@
         "start_year": 1611,
         "end_year": 1611,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674085",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674085",
+            "source_id": "Q3674085"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Siena%2C_basilica_di_provenzano%2C_esterno_01.jpg/1920px-Siena%2C_basilica_di_provenzano%2C_esterno_01.jpg",
         "hero_filename": "Siena, basilica di provenzano, esterno 01.jpg",
@@ -5315,8 +6638,17 @@
         "start_year": 1706,
         "end_year": 1706,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674092",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674092",
+            "source_id": "Q3674092"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sante_maria_e_brigida_al_paradiso%2C_ext._02.JPG/1920px-Sante_maria_e_brigida_al_paradiso%2C_ext._02.JPG",
         "hero_filename": "Sante maria e brigida al paradiso, ext. 02.JPG",
@@ -5351,8 +6683,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674136",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674136",
+            "source_id": "Q3674136"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chiesa_di_fontegiusta%2C_01.JPG/1920px-Chiesa_di_fontegiusta%2C_01.JPG",
         "hero_filename": "Chiesa di fontegiusta, 01.JPG",
@@ -5387,8 +6728,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1784984",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1784984",
+            "source_id": "Q1784984"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Santa_Maria_Maddalena_de%27_Pazzi_ingresso.JPG",
         "hero_filename": "Santa Maria Maddalena de' Pazzi ingresso.JPG",
@@ -5423,8 +6773,17 @@
         "start_year": 1760,
         "end_year": 1760,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674172",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674172",
+            "source_id": "Q3674172"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Marta_Facciata.jpg/1920px-Santa_Marta_Facciata.jpg",
         "hero_filename": "Santa Marta Facciata.jpg",
@@ -5459,8 +6818,17 @@
         "start_year": 1622,
         "end_year": 1622,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674189",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674189",
+            "source_id": "Q3674189"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SienaSantaPetronilla8b.jpg/1920px-SienaSantaPetronilla8b.jpg",
         "hero_filename": "SienaSantaPetronilla8b.jpg",
@@ -5495,8 +6863,17 @@
         "start_year": 401,
         "end_year": 500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q684119",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q684119",
+            "source_id": "Q684119"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Scavi_di_santa_reparata_sotto_il_duomo_di_firenze%2C_06_absidi_e_altare.JPG/1920px-Scavi_di_santa_reparata_sotto_il_duomo_di_firenze%2C_06_absidi_e_altare.JPG",
         "hero_filename": "Scavi di santa reparata sotto il duomo di firenze, 06 absidi e altare.JPG",
@@ -5531,8 +6908,17 @@
         "start_year": 1498,
         "end_year": 1498,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1049041",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1049041",
+            "source_id": "Q1049041"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/SienaSantoSpirito2.jpg/1920px-SienaSantoSpirito2.jpg",
         "hero_filename": "SienaSantoSpirito2.jpg",
@@ -5567,8 +6953,17 @@
         "start_year": 1671,
         "end_year": 1671,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674335",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674335",
+            "source_id": "Q3674335"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SienaSantoStefano6.jpg/1920px-SienaSantoStefano6.jpg",
         "hero_filename": "SienaSantoStefano6.jpg",
@@ -5603,8 +6998,17 @@
         "start_year": 1565,
         "end_year": 1565,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674338",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674338",
+            "source_id": "Q3674338"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg/1920px-Church_of_Santo_Stefano_dei_Cavalieri%2C_Pisa_%2853110828760%29.jpg",
         "hero_filename": "Church of Santo Stefano dei Cavalieri, Pisa (53110828760).jpg",
@@ -5639,8 +7043,17 @@
         "start_year": 1085,
         "end_year": 1085,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674348",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674348",
+            "source_id": "Q3674348"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pisa_-_Chiesa_di_santo_Stefano_extra_moenia.JPG/1920px-Pisa_-_Chiesa_di_santo_Stefano_extra_moenia.JPG",
         "hero_filename": "Pisa - Chiesa di santo Stefano extra moenia.JPG",
@@ -5675,8 +7088,17 @@
         "start_year": 1539,
         "end_year": 1539,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674373",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674373",
+            "source_id": "Q3674373"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chiesa_della_maddalena%2C_siena%2C_02.JPG/1920px-Chiesa_della_maddalena%2C_siena%2C_02.JPG",
         "hero_filename": "Chiesa della maddalena, siena, 02.JPG",
@@ -5711,8 +7133,17 @@
         "start_year": 1297,
         "end_year": 1297,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674372",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674372",
+            "source_id": "Q3674372"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SienaMariaVisitazioneTrafisseSperandie2.jpg/1920px-SienaMariaVisitazioneTrafisseSperandie2.jpg",
         "hero_filename": "SienaMariaVisitazioneTrafisseSperandie2.jpg",
@@ -5747,8 +7178,17 @@
         "start_year": 1683,
         "end_year": 1683,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674383",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674383",
+            "source_id": "Q3674383"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SienaSanGirolamoInCampansi5.jpg/1920px-SienaSanGirolamoInCampansi5.jpg",
         "hero_filename": "SienaSanGirolamoInCampansi5.jpg",
@@ -5783,8 +7223,17 @@
         "start_year": 1328,
         "end_year": 1328,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3674397",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3674397",
+            "source_id": "Q3674397"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Siena%2C_santa_marta_01.JPG/1920px-Siena%2C_santa_marta_01.JPG",
         "hero_filename": "Siena, santa marta 01.JPG",
@@ -5819,8 +7268,17 @@
         "start_year": 1484,
         "end_year": 1484,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3689641",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3689641",
+            "source_id": "Q3689641"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Empoli%2C_santa_maria_a_ripa%2C_esterno_02.jpg/1920px-Empoli%2C_santa_maria_a_ripa%2C_esterno_02.jpg",
         "hero_filename": "Empoli, santa maria a ripa, esterno 02.jpg",
@@ -5855,8 +7313,17 @@
         "start_year": 1367,
         "end_year": 1367,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3689643",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3689643",
+            "source_id": "Q3689643"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chiesa_Santo_Stefano_esterno..JPG",
         "hero_filename": "Chiesa Santo Stefano esterno..JPG",
@@ -5891,8 +7358,17 @@
         "start_year": 901,
         "end_year": 1000,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1236622",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1236622",
+            "source_id": "Q1236622"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Piazza_del_Duomo_e_Cattedrale_Santo_Stefano_Prato.jpg/1920px-Piazza_del_Duomo_e_Cattedrale_Santo_Stefano_Prato.jpg",
         "hero_filename": "Piazza del Duomo e Cattedrale Santo Stefano Prato.jpg",
@@ -5927,8 +7403,17 @@
         "start_year": 1542,
         "end_year": 1542,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3735826",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3735826",
+            "source_id": "Q3735826"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo_01.JPG",
         "hero_filename": "Ex chiesa dei Santi Jacopo e Lorenzo 01.JPG",
@@ -5963,8 +7448,17 @@
         "start_year": 1401,
         "end_year": 1500,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3884413",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3884413",
+            "source_id": "Q3884413"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Piazza_san_martino%2C_oratorio_dei_buonomini_di_san_martino%2C_01.jpg/1920px-Piazza_san_martino%2C_oratorio_dei_buonomini_di_san_martino%2C_01.jpg",
         "hero_filename": "Piazza san martino, oratorio dei buonomini di san martino, 01.jpg",
@@ -5999,8 +7493,17 @@
         "start_year": 1602,
         "end_year": 1602,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3884450",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3884450",
+            "source_id": "Q3884450"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Oratorio_Vanchetoni.JPG",
         "hero_filename": "Oratorio Vanchetoni.JPG",
@@ -6035,8 +7538,17 @@
         "start_year": 1696,
         "end_year": 1696,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q112798284",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q112798284",
+            "source_id": "Q112798284"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": null,
         "hero_filename": null,
@@ -6071,8 +7583,17 @@
         "start_year": 1511,
         "end_year": 1511,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q2028376",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q2028376",
+            "source_id": "Q2028376"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Oratorio_di_San_Rocco_siena.jpg",
         "hero_filename": "Oratorio di San Rocco siena.jpg",
@@ -6107,8 +7628,17 @@
         "start_year": 1568,
         "end_year": 1568,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3884771",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3884771",
+            "source_id": "Q3884771"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Oratorio_di_San_Tommaso_d%27Aquino_12.JPG",
         "hero_filename": "Oratorio di San Tommaso d'Aquino 12.JPG",
@@ -6143,8 +7673,17 @@
         "start_year": 1685,
         "end_year": 1685,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q3884805",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q3884805",
+            "source_id": "Q3884805"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SienaSantAntonioDiPadovaAlleMurellaTartuca.jpg/1920px-SienaSantAntonioDiPadovaAlleMurellaTartuca.jpg",
         "hero_filename": "SienaSantAntonioDiPadovaAlleMurellaTartuca.jpg",
@@ -6179,8 +7718,17 @@
         "start_year": 1434,
         "end_year": 1434,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q19947673",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q19947673",
+            "source_id": "Q19947673"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rotonda_del_brunelleschi_12.JPG/1920px-Rotonda_del_brunelleschi_12.JPG",
         "hero_filename": "Rotonda del brunelleschi 12.JPG",
@@ -6215,8 +7763,17 @@
         "start_year": 1680,
         "end_year": 1680,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q1248706",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q1248706",
+            "source_id": "Q1248706"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "manual",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Madonna_del_Giglio_sanctuary_3.jpg/1920px-Madonna_del_Giglio_sanctuary_3.jpg",
         "hero_filename": "Madonna del Giglio sanctuary 3.jpg",
@@ -6251,8 +7808,17 @@
         "start_year": 1700,
         "end_year": 1700,
         "date_source": "wikidata",
-        "date_source_name": null,
-        "date_source_url": null,
+        "date_basis": "inception",
+        "date_source_name": "Wikidata",
+        "date_source_url": "https://www.wikidata.org/wiki/Q185303",
+        "date_sources": [
+          {
+            "name": "Wikidata",
+            "url": "https://www.wikidata.org/wiki/Q185303",
+            "source_id": "Q185303"
+          }
+        ],
+        "historical_phases": [],
         "coordinate_source": "wikidata",
         "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Santuario_di_santa_caterina%2C_portico_dei_Comuni_d%27Italia%2C_1941-47.jpg/1920px-Santuario_di_santa_caterina%2C_portico_dei_Comuni_d%27Italia%2C_1941-47.jpg",
         "hero_filename": "Santuario di santa caterina, portico dei Comuni d'Italia, 1941-47.jpg",

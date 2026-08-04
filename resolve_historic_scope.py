@@ -1,13 +1,13 @@
 import json
 
 from project_config import (
-    DATES_FILE,
+    HISTORICAL_DATES_FILE,
     HISTORIC_SCOPE_FILE,
     HISTORIC_SCOPE_REPORT_FILE,
 )
 
 
-INPUT_FILE = DATES_FILE
+INPUT_FILE = HISTORICAL_DATES_FILE
 OUTPUT_FILE = HISTORIC_SCOPE_FILE
 REPORT_FILE = HISTORIC_SCOPE_REPORT_FILE
 
@@ -77,6 +77,25 @@ def resolve_historic_scope(church):
     if start_year is None:
         return "unknown"
 
+    canonical = church.get(
+        "resolved_date",
+        {},
+    ).get("canonical") or {}
+    basis = canonical.get("basis")
+
+    if basis in {
+        "documentary_attestation",
+        "predecessor",
+    }:
+        end_year = canonical.get("end_year")
+        if (
+            isinstance(end_year, int)
+            and not isinstance(end_year, bool)
+            and end_year < HISTORIC_CUTOFF_YEAR
+        ):
+            return "historic"
+        return "unknown"
+
     if start_year < HISTORIC_CUTOFF_YEAR:
         return "historic"
 
@@ -139,7 +158,7 @@ def main():
     if not INPUT_FILE.exists():
         raise FileNotFoundError(
             f"{INPUT_FILE} not found.\n"
-            "Run resolve_dates.py first."
+            "Run resolve_historical_dates.py first."
         )
 
     churches = load_json(

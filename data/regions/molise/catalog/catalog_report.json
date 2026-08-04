@@ -1,13 +1,14 @@
 {
-  "total_records": 15,
+  "total_records": 610,
   "status_counts": {
-    "ready": 13,
-    "review": 2
+    "withheld": 533,
+    "out_of_scope": 46,
+    "ready": 31
   },
-  "ready_records": 13,
-  "ready_with_hero_image": 8,
-  "ready_without_hero_image": 5,
-  "records_with_website": 3,
-  "records_with_hero_image": 10,
-  "records_without_hero_image": 5
+  "ready_records": 31,
+  "ready_with_hero_image": 11,
+  "ready_without_hero_image": 20,
+  "records_with_website": 9,
+  "records_with_hero_image": 11,
+  "records_without_hero_image": 599
 }

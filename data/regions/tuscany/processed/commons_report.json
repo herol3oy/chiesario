@@ -1,5 +1,7 @@
 {
   "total_churches": 194,
+  "churches_enriched_for_publication": 194,
+  "churches_deferred": 0,
   "unique_files": 205,
   "files_enriched": 205,
   "missing_files": 0,

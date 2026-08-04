@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
-  "total_features": 174,
+  "total_features": 205,
   "regions": [
     {
       "slug": "tuscany",
       "name": "Tuscany",
       "feature_count": 174
+    },
+    {
+      "slug": "molise",
+      "name": "Molise",
+      "feature_count": 31
     }
   ]
 }

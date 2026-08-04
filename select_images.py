@@ -516,6 +516,19 @@ def score_image(
 # --------------------------------------------------
 
 
+def needs_publication_selection(church):
+    derived = church.get("derived", {})
+    # Type overrides are applied later, so every confirmed-historic
+    # record must retain image selection.
+    return (
+        derived.get("historic_scope") == "historic"
+        or derived.get(
+            "publication_enrichment_override_pending",
+            False,
+        )
+    )
+
+
 def select_for_church(
     church,
 ):
@@ -704,7 +717,7 @@ def build_report(churches):
                 record
             )
 
-        else:
+        elif result["reason"] != "deferred":
             record["reason"] = (
                 result["reason"]
             )
@@ -730,6 +743,13 @@ def build_report(churches):
     return {
         "total":
             len(churches),
+
+        "deferred":
+            sum(
+                1
+                for church in churches
+                if church["image_selection"]["reason"] == "deferred"
+            ),
 
         "hero_images_auto_selected":
             len(
@@ -768,10 +788,16 @@ def main():
     )
 
     for church in churches:
-
-        result = select_for_church(
-            church
-        )
+        if needs_publication_selection(church):
+            result = select_for_church(
+                church
+            )
+        else:
+            result = {
+                "hero_image": None,
+                "review_required": False,
+                "reason": "deferred",
+            }
 
         church[
             "image_selection"
@@ -794,6 +820,14 @@ def main():
         ] = result[
             "review_required"
         ]
+
+        derived[
+            "image_selection_status"
+        ] = (
+            "deferred"
+            if result["reason"] == "deferred"
+            else "complete"
+        )
 
     save_json(
         OUTPUT_FILE,
@@ -844,6 +878,11 @@ def main():
         report[
             "no_images"
         ],
+    )
+
+    print(
+        "Deferred:",
+        report["deferred"],
     )
 
     print()

@@ -1,8 +1,9 @@
 {
-  "total": 15,
-  "hero_images_auto_selected": 10,
-  "image_review_required": 5,
-  "no_images": 5,
+  "total": 610,
+  "deferred": 579,
+  "hero_images_auto_selected": 11,
+  "image_review_required": 20,
+  "no_images": 20,
   "auto_selected_records": [
     {
       "wikidata_id": "Q2942612",
@@ -25,6 +26,11 @@
       "hero_image": "San Pietro Spinete.jpg"
     },
     {
+      "wikidata_id": "Q118352987",
+      "name": "chiesa di San Pietro Celestino",
+      "hero_image": "Chiesa San Pietro Celestino (Isernia).JPG"
+    },
+    {
       "wikidata_id": "Q3672048",
       "name": "chiesa di San Silvestro",
       "hero_image": "PanoramaChiesaSanSilvestro BagnoliDelTrigno.jpg"
@@ -40,6 +46,11 @@
       "hero_image": "Santa Maria del Carmine Spinete.jpg"
     },
     {
+      "wikidata_id": "Q118352878",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "hero_image": "Chiesa di Santa Maria delle Grazie, Ururi, Molise.jpg"
+    },
+    {
       "wikidata_id": "Q2942593",
       "name": "concattedrale di San Bartolomeo",
       "hero_image": "San Bartolomeo (Bojano).jpg"
@@ -48,17 +59,42 @@
       "wikidata_id": "Q2942847",
       "name": "concattedrale di Santa Maria Assunta",
       "hero_image": "Venafro - concattedrale di Santa Maria Assunta - facciata.jpg"
-    },
-    {
-      "wikidata_id": "Q3045554",
-      "name": "Duomo di Larino",
-      "hero_image": "Duomo Larino 5.JPG"
     }
   ],
   "review_records": [
     {
+      "wikidata_id": "Q118353083",
+      "name": "chiesa del Carmine",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
       "wikidata_id": "Q3668604",
       "name": "chiesa del Sacro Cuore di Gesù",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118362755",
+      "name": "chiesa dell'Assunzione di Maria Vergine",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352790",
+      "name": "chiesa della Madonna del Carmine",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352993",
+      "name": "chiesa di San Bartolomeo Apostolo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352824",
+      "name": "chiesa di San Giacomo",
       "reason": "no_images",
       "best_candidate": null
     },
@@ -69,20 +105,80 @@
       "best_candidate": null
     },
     {
+      "wikidata_id": "Q118352761",
+      "name": "chiesa di San Giorgio Martire",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352796",
+      "name": "chiesa di San Michele",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
       "wikidata_id": "Q3671431",
       "name": "chiesa di San Nicola",
       "reason": "no_images",
       "best_candidate": null
     },
     {
-      "wikidata_id": "Q111525772",
-      "name": "chiesa di Sant'Agostino",
+      "wikidata_id": "Q118352737",
+      "name": "chiesa di San Nicola di Bari",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352736",
+      "name": "chiesa di San Rocco",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352933",
+      "name": "chiesa di San Rocco",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q19595627",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352803",
+      "name": "chiesa di Santa Maria degli Angeli",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352770",
+      "name": "chiesa di Santa Maria del Carmine",
       "reason": "no_images",
       "best_candidate": null
     },
     {
       "wikidata_id": "Q3673847",
       "name": "chiesa di Santa Maria della Libera",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118362703",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118362715",
+      "name": "chiesa di Santa Maria di Costantinopoli",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118352775",
+      "name": "chiesa di Santa Maria Maggiore",
       "reason": "no_images",
       "best_candidate": null
     }
