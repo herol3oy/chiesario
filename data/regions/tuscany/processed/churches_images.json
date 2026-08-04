@@ -211,6 +211,8 @@
       "canonical_date_start_year": 1731,
       "canonical_date_end_year": 1731,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -480,8 +482,8 @@
             },
             {
               "name_tokens": [
-                "ricci",
-                "caterina"
+                "caterina",
+                "ricci"
               ]
             },
             "landscape_or_square"
@@ -521,6 +523,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -845,6 +849,8 @@
       "canonical_date_start_year": 1250,
       "canonical_date_end_year": 1250,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -1284,6 +1290,8 @@
       "canonical_date_start_year": 1421,
       "canonical_date_end_year": 1421,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -1605,6 +1613,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -1911,6 +1921,8 @@
       "canonical_date_start_year": 1018,
       "canonical_date_end_year": 1018,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -2254,6 +2266,8 @@
       "canonical_date_start_year": 1294,
       "canonical_date_end_year": 1294,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -2620,8 +2634,8 @@
             },
             {
               "name_tokens": [
-                "maria",
-                "carmine"
+                "carmine",
+                "maria"
               ]
             },
             "landscape_or_square"
@@ -2662,6 +2676,8 @@
       "canonical_date_start_year": 1268,
       "canonical_date_end_year": 1268,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -2930,8 +2946,8 @@
             },
             {
               "name_tokens": [
-                "maria",
-                "carceri"
+                "carceri",
+                "maria"
               ]
             },
             "landscape_or_square"
@@ -2970,6 +2986,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -3410,6 +3428,8 @@
       "canonical_date_start_year": null,
       "canonical_date_end_year": null,
       "canonical_date_kind": null,
+      "historic_scope": "unknown",
+      "historic_scope_review_required": true,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -3780,6 +3800,8 @@
       "canonical_date_start_year": 1250,
       "canonical_date_end_year": 1250,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -4116,6 +4138,8 @@
       "canonical_date_start_year": 1252,
       "canonical_date_end_year": 1252,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -4430,7 +4454,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "baptistery",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -4452,6 +4476,8 @@
       "canonical_date_start_year": 1317,
       "canonical_date_end_year": 1317,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -4805,8 +4831,8 @@
             },
             {
               "name_tokens": [
-                "battistero",
-                "giovanni"
+                "giovanni",
+                "battistero"
               ]
             },
             "landscape_or_square"
@@ -4849,6 +4875,8 @@
       "canonical_date_start_year": 1059,
       "canonical_date_end_year": 1059,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -5192,6 +5220,8 @@
       "canonical_date_start_year": 1635,
       "canonical_date_end_year": 1635,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -5464,6 +5494,8 @@
       "canonical_date_start_year": 1318,
       "canonical_date_end_year": 1318,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -5945,6 +5977,8 @@
       "canonical_date_start_year": null,
       "canonical_date_end_year": null,
       "canonical_date_kind": null,
+      "historic_scope": "unknown",
+      "historic_scope_review_required": true,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -6274,6 +6308,8 @@
       "canonical_date_start_year": null,
       "canonical_date_end_year": null,
       "canonical_date_kind": null,
+      "historic_scope": "unknown",
+      "historic_scope_review_required": true,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -6588,6 +6624,8 @@
       "canonical_date_start_year": 1340,
       "canonical_date_end_year": 1349,
       "canonical_date_kind": "decade",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -6862,6 +6900,8 @@
       "canonical_date_start_year": 1352,
       "canonical_date_end_year": 1352,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -7153,10 +7193,10 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "maria",
                 "visitazione",
-                "arcangelo",
-                "michele"
+                "michele",
+                "maria",
+                "arcangelo"
               ]
             },
             "landscape_or_square"
@@ -7194,6 +7234,8 @@
       "canonical_date_start_year": 1703,
       "canonical_date_end_year": 1703,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -7465,9 +7507,9 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "sant",
                 "padova",
-                "antonio"
+                "antonio",
+                "sant"
               ]
             },
             "landscape_or_square"
@@ -7505,6 +7547,8 @@
       "canonical_date_start_year": 1628,
       "canonical_date_end_year": 1628,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -7730,6 +7774,8 @@
       "canonical_date_start_year": 1605,
       "canonical_date_end_year": 1605,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 0,
       "commons_licensed_image_count": 0,
       "image_relevance_review_required": false,
@@ -7901,6 +7947,8 @@
       "canonical_date_start_year": 1752,
       "canonical_date_end_year": 1752,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 0,
       "commons_licensed_image_count": 0,
       "image_relevance_review_required": false,
@@ -8204,6 +8252,8 @@
       "canonical_date_start_year": null,
       "canonical_date_end_year": null,
       "canonical_date_kind": null,
+      "historic_scope": "unknown",
+      "historic_scope_review_required": true,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -8540,6 +8590,8 @@
       "canonical_date_start_year": 1318,
       "canonical_date_end_year": 1318,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -8859,6 +8911,8 @@
       "canonical_date_start_year": 1480,
       "canonical_date_end_year": 1489,
       "canonical_date_kind": "decade",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -9213,6 +9267,8 @@
       "canonical_date_start_year": 1340,
       "canonical_date_end_year": 1349,
       "canonical_date_kind": "decade",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -9740,6 +9796,8 @@
       "canonical_date_start_year": 1301,
       "canonical_date_end_year": 1400,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 3,
       "commons_licensed_image_count": 3,
       "image_relevance_review_required": true,
@@ -10002,7 +10060,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "cathedral",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -10024,6 +10082,8 @@
       "canonical_date_start_year": 1296,
       "canonical_date_end_year": 1296,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -10377,8 +10437,8 @@
             },
             {
               "name_tokens": [
-                "gregorio",
-                "illuminatore"
+                "illuminatore",
+                "gregorio"
               ]
             }
           ]
@@ -10415,6 +10475,8 @@
       "canonical_date_start_year": 1701,
       "canonical_date_end_year": 1701,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -10725,6 +10787,8 @@
       "canonical_date_start_year": 1001,
       "canonical_date_end_year": 1100,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -11060,6 +11124,8 @@
       "canonical_date_start_year": 1623,
       "canonical_date_end_year": 1623,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -11397,6 +11463,8 @@
       "canonical_date_start_year": 1597,
       "canonical_date_end_year": 1597,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -11731,6 +11799,8 @@
       "canonical_date_start_year": 1622,
       "canonical_date_end_year": 1622,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -12064,6 +12134,8 @@
       "canonical_date_start_year": 1243,
       "canonical_date_end_year": 1243,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -12399,6 +12471,8 @@
       "canonical_date_start_year": 1605,
       "canonical_date_end_year": 1605,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -12771,6 +12845,8 @@
       "canonical_date_start_year": null,
       "canonical_date_end_year": null,
       "canonical_date_kind": null,
+      "historic_scope": "unknown",
+      "historic_scope_review_required": true,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -13102,6 +13178,8 @@
       "canonical_date_start_year": 1352,
       "canonical_date_end_year": 1352,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -13461,6 +13539,8 @@
       "canonical_date_start_year": 1492,
       "canonical_date_end_year": 1492,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -13804,6 +13884,8 @@
       "canonical_date_start_year": 1607,
       "canonical_date_end_year": 1607,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -14141,6 +14223,8 @@
       "canonical_date_start_year": 1757,
       "canonical_date_end_year": 1757,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -14482,6 +14566,8 @@
       "canonical_date_start_year": 1628,
       "canonical_date_end_year": 1628,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -14812,6 +14898,8 @@
       "canonical_date_start_year": 1603,
       "canonical_date_end_year": 1603,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -15095,8 +15183,8 @@
             },
             {
               "name_tokens": [
-                "maria",
                 "santissima",
+                "maria",
                 "rosario"
               ]
             }
@@ -15134,6 +15222,8 @@
       "canonical_date_start_year": 1348,
       "canonical_date_end_year": 1348,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -15410,6 +15500,8 @@
       "canonical_date_start_year": 1257,
       "canonical_date_end_year": 1257,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -15758,6 +15850,8 @@
       "canonical_date_start_year": 1601,
       "canonical_date_end_year": 1601,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -16027,9 +16121,9 @@
             },
             {
               "name_tokens": [
-                "sant",
                 "ansano",
-                "carceri"
+                "carceri",
+                "sant"
               ]
             },
             "landscape_or_square"
@@ -16068,6 +16162,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -16364,6 +16460,8 @@
       "canonical_date_start_year": 1686,
       "canonical_date_end_year": 1686,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -16660,6 +16758,8 @@
       "canonical_date_start_year": 1340,
       "canonical_date_end_year": 1340,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -16984,6 +17084,8 @@
       "canonical_date_start_year": 1251,
       "canonical_date_end_year": 1251,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -17321,6 +17423,8 @@
       "canonical_date_start_year": 1337,
       "canonical_date_end_year": 1337,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -17631,6 +17735,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -17926,6 +18032,8 @@
       "canonical_date_start_year": 1001,
       "canonical_date_end_year": 1100,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -18200,6 +18308,8 @@
       "canonical_date_start_year": 1316,
       "canonical_date_end_year": 1316,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -18533,6 +18643,8 @@
       "canonical_date_start_year": 1454,
       "canonical_date_end_year": 1454,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -18864,6 +18976,8 @@
       "canonical_date_start_year": 1771,
       "canonical_date_end_year": 1771,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -19162,6 +19276,8 @@
       "canonical_date_start_year": 1001,
       "canonical_date_end_year": 1100,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -19508,6 +19624,8 @@
       "canonical_date_start_year": 1385,
       "canonical_date_end_year": 1385,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -19809,6 +19927,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -20142,6 +20262,8 @@
       "canonical_date_start_year": 1068,
       "canonical_date_end_year": 1068,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -20430,6 +20552,8 @@
       "canonical_date_start_year": 1187,
       "canonical_date_end_year": 1187,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -20727,6 +20851,8 @@
       "canonical_date_start_year": 1082,
       "canonical_date_end_year": 1082,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -21023,6 +21149,8 @@
       "canonical_date_start_year": 801,
       "canonical_date_end_year": 900,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -21350,6 +21478,8 @@
       "canonical_date_start_year": 1060,
       "canonical_date_end_year": 1060,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -21686,6 +21816,8 @@
       "canonical_date_start_year": 1707,
       "canonical_date_end_year": 1707,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -22021,6 +22153,8 @@
       "canonical_date_start_year": 1623,
       "canonical_date_end_year": 1623,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -22363,6 +22497,8 @@
       "canonical_date_start_year": 1430,
       "canonical_date_end_year": 1430,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -22663,6 +22799,8 @@
       "canonical_date_start_year": 1201,
       "canonical_date_end_year": 1300,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -23019,6 +23157,8 @@
       "canonical_date_start_year": 1331,
       "canonical_date_end_year": 1331,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -23351,6 +23491,8 @@
       "canonical_date_start_year": 1589,
       "canonical_date_end_year": 1589,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -23686,6 +23828,8 @@
       "canonical_date_start_year": 1689,
       "canonical_date_end_year": 1689,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -24024,6 +24168,8 @@
       "canonical_date_start_year": 1685,
       "canonical_date_end_year": 1685,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -24444,6 +24590,8 @@
       "canonical_date_start_year": 1218,
       "canonical_date_end_year": 1218,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -24734,6 +24882,8 @@
       "canonical_date_start_year": 1081,
       "canonical_date_end_year": 1081,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -25027,8 +25177,8 @@
             },
             {
               "name_tokens": [
-                "tedeschi",
-                "giorgio"
+                "giorgio",
+                "tedeschi"
               ]
             },
             "landscape_or_square"
@@ -25066,6 +25216,8 @@
       "canonical_date_start_year": 1316,
       "canonical_date_end_year": 1316,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -25325,8 +25477,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "giorgio",
-                "costa"
+                "costa",
+                "giorgio"
               ]
             },
             "landscape_or_square"
@@ -25364,6 +25516,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -25661,8 +25815,8 @@
             },
             {
               "name_tokens": [
-                "battista",
-                "giovanni"
+                "giovanni",
+                "battista"
               ]
             }
           ]
@@ -25701,6 +25855,8 @@
       "canonical_date_start_year": 1629,
       "canonical_date_end_year": 1629,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -26004,8 +26160,8 @@
             },
             {
               "name_tokens": [
-                "battista",
-                "giovanni"
+                "giovanni",
+                "battista"
               ]
             },
             "landscape_or_square"
@@ -26043,6 +26199,8 @@
       "canonical_date_start_year": 1624,
       "canonical_date_end_year": 1624,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -26349,6 +26507,8 @@
       "canonical_date_start_year": 1362,
       "canonical_date_end_year": 1362,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -26648,8 +26808,8 @@
             },
             {
               "name_tokens": [
-                "decollato",
-                "giovanni"
+                "giovanni",
+                "decollato"
               ]
             }
           ]
@@ -26686,6 +26846,8 @@
       "canonical_date_start_year": 1639,
       "canonical_date_end_year": 1639,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -26967,8 +27129,8 @@
             },
             {
               "name_tokens": [
-                "decollato",
-                "giovanni"
+                "giovanni",
+                "decollato"
               ]
             }
           ]
@@ -27005,6 +27167,8 @@
       "canonical_date_start_year": 1337,
       "canonical_date_end_year": 1337,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -27292,6 +27456,8 @@
       "canonical_date_start_year": 1614,
       "canonical_date_end_year": 1614,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -27587,8 +27753,8 @@
             },
             {
               "name_tokens": [
-                "gualberto",
-                "giovanni"
+                "giovanni",
+                "gualberto"
               ]
             },
             "landscape_or_square"
@@ -27626,6 +27792,8 @@
       "canonical_date_start_year": 1692,
       "canonical_date_end_year": 1692,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -28050,6 +28218,8 @@
       "canonical_date_start_year": 1579,
       "canonical_date_end_year": 1579,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -28387,6 +28557,8 @@
       "canonical_date_start_year": 1326,
       "canonical_date_end_year": 1326,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -28727,6 +28899,8 @@
       "canonical_date_start_year": 1611,
       "canonical_date_end_year": 1611,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -29066,6 +29240,8 @@
       "canonical_date_start_year": 1759,
       "canonical_date_end_year": 1759,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -29389,6 +29565,8 @@
       "canonical_date_start_year": 1653,
       "canonical_date_end_year": 1653,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -29732,6 +29910,8 @@
       "canonical_date_start_year": 1723,
       "canonical_date_end_year": 1723,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -30013,8 +30193,8 @@
             },
             {
               "name_tokens": [
-                "jacopo",
-                "acquaviva"
+                "acquaviva",
+                "jacopo"
               ]
             },
             "landscape_or_square"
@@ -30052,6 +30232,8 @@
       "canonical_date_start_year": 1163,
       "canonical_date_end_year": 1163,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -30315,9 +30497,9 @@
             },
             {
               "name_tokens": [
-                "jacopo",
+                "campo",
                 "corbolini",
-                "campo"
+                "jacopo"
               ]
             }
           ]
@@ -30354,6 +30536,8 @@
       "canonical_date_start_year": 1311,
       "canonical_date_end_year": 1311,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -30649,8 +30833,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "jacopo",
-                "soprarno"
+                "soprarno",
+                "jacopo"
               ]
             }
           ]
@@ -30687,6 +30871,8 @@
       "canonical_date_start_year": 1660,
       "canonical_date_end_year": 1660,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -31200,6 +31386,8 @@
       "canonical_date_start_year": 1173,
       "canonical_date_end_year": 1173,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 3,
       "commons_licensed_image_count": 3,
       "image_relevance_review_required": true,
@@ -31432,6 +31620,8 @@
       "canonical_date_start_year": 1001,
       "canonical_date_end_year": 1100,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -31748,6 +31938,8 @@
       "canonical_date_start_year": 1202,
       "canonical_date_end_year": 1202,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -32080,6 +32272,8 @@
       "canonical_date_start_year": 1119,
       "canonical_date_end_year": 1119,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -32402,6 +32596,8 @@
       "canonical_date_start_year": 1197,
       "canonical_date_end_year": 1197,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -32724,6 +32920,8 @@
       "canonical_date_start_year": 1058,
       "canonical_date_end_year": 1058,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -33046,6 +33244,8 @@
       "canonical_date_start_year": 1000,
       "canonical_date_end_year": 1000,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -33367,6 +33567,8 @@
       "canonical_date_start_year": 1331,
       "canonical_date_end_year": 1331,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -33653,8 +33855,8 @@
             },
             {
               "name_tokens": [
-                "martino",
-                "mensola"
+                "mensola",
+                "martino"
               ]
             },
             "landscape_or_square"
@@ -33694,6 +33896,8 @@
       "canonical_date_start_year": 1451,
       "canonical_date_end_year": 1451,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -33972,8 +34176,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "martino",
-                "montughi"
+                "montughi",
+                "martino"
               ]
             },
             "landscape_or_square"
@@ -34011,6 +34215,8 @@
       "canonical_date_start_year": 1222,
       "canonical_date_end_year": 1222,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -34266,8 +34472,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "martino",
-                "scala"
+                "scala",
+                "martino"
               ]
             },
             "landscape_or_square"
@@ -34305,6 +34511,8 @@
       "canonical_date_start_year": 1316,
       "canonical_date_end_year": 1316,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -34558,8 +34766,8 @@
             },
             {
               "name_tokens": [
-                "castello",
-                "michele"
+                "michele",
+                "castello"
               ]
             },
             "landscape_or_square"
@@ -34597,6 +34805,8 @@
       "canonical_date_start_year": 1617,
       "canonical_date_end_year": 1617,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -34897,6 +35107,8 @@
       "canonical_date_start_year": 1001,
       "canonical_date_end_year": 1100,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -35196,8 +35408,8 @@
             },
             {
               "name_tokens": [
-                "arcangelo",
-                "michele"
+                "michele",
+                "arcangelo"
               ]
             },
             "landscape_or_square"
@@ -35235,6 +35447,8 @@
       "canonical_date_start_year": 1192,
       "canonical_date_end_year": 1192,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -35515,8 +35729,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "monteripaldi",
-                "michele"
+                "michele",
+                "monteripaldi"
               ]
             },
             "landscape_or_square"
@@ -35611,8 +35825,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "monteripaldi",
-                "michele"
+                "michele",
+                "monteripaldi"
               ]
             },
             "landscape_or_square"
@@ -35650,6 +35864,8 @@
       "canonical_date_start_year": 1138,
       "canonical_date_end_year": 1138,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -35908,6 +36124,8 @@
       "canonical_date_start_year": 1001,
       "canonical_date_end_year": 1100,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -36235,6 +36453,8 @@
       "canonical_date_start_year": 1346,
       "canonical_date_end_year": 1346,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -36669,8 +36889,8 @@
             },
             {
               "name_tokens": [
-                "oltrarno",
-                "niccolo"
+                "niccolo",
+                "oltrarno"
               ]
             }
           ]
@@ -36707,6 +36927,8 @@
       "canonical_date_start_year": 1184,
       "canonical_date_end_year": 1184,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -37031,6 +37253,8 @@
       "canonical_date_start_year": 1094,
       "canonical_date_end_year": 1094,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -37288,8 +37512,8 @@
             },
             {
               "name_tokens": [
-                "ripa",
-                "paolo"
+                "paolo",
+                "ripa"
               ]
             },
             "landscape_or_square"
@@ -37327,6 +37551,8 @@
       "canonical_date_start_year": 901,
       "canonical_date_end_year": 1000,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -37625,6 +37851,8 @@
       "canonical_date_start_year": 1101,
       "canonical_date_end_year": 1200,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -37942,6 +38170,8 @@
       "canonical_date_start_year": 1390,
       "canonical_date_end_year": 1390,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -38309,8 +38539,8 @@
             },
             {
               "name_tokens": [
-                "scheraggio",
-                "pier"
+                "pier",
+                "scheraggio"
               ]
             }
           ]
@@ -38347,6 +38577,8 @@
       "canonical_date_start_year": 1068,
       "canonical_date_end_year": 1068,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -38731,6 +38963,8 @@
       "canonical_date_start_year": 1050,
       "canonical_date_end_year": 1050,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -39013,8 +39247,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "pietro",
-                "varlungo"
+                "varlungo",
+                "pietro"
               ]
             },
             "landscape_or_square"
@@ -39109,8 +39343,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "pietro",
-                "varlungo"
+                "varlungo",
+                "pietro"
               ]
             },
             "landscape_or_square"
@@ -39148,6 +39382,8 @@
       "canonical_date_start_year": 1107,
       "canonical_date_end_year": 1107,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -39472,6 +39708,8 @@
       "canonical_date_start_year": 1072,
       "canonical_date_end_year": 1072,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -39829,6 +40067,8 @@
       "canonical_date_start_year": 1201,
       "canonical_date_end_year": 1300,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -40164,6 +40404,8 @@
       "canonical_date_start_year": 1601,
       "canonical_date_end_year": 1601,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -40582,6 +40824,8 @@
       "canonical_date_start_year": null,
       "canonical_date_end_year": null,
       "canonical_date_kind": null,
+      "historic_scope": "unknown",
+      "historic_scope_review_required": true,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -40914,6 +41158,8 @@
       "canonical_date_start_year": 1634,
       "canonical_date_end_year": 1634,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -41236,6 +41482,8 @@
       "canonical_date_start_year": 1498,
       "canonical_date_end_year": 1498,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -41518,8 +41766,8 @@
             },
             {
               "name_tokens": [
-                "salvatore",
-                "vescovo"
+                "vescovo",
+                "salvatore"
               ]
             }
           ]
@@ -41556,6 +41804,8 @@
       "canonical_date_start_year": 1221,
       "canonical_date_end_year": 1221,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -41888,6 +42138,8 @@
       "canonical_date_start_year": 1633,
       "canonical_date_end_year": 1633,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -42186,6 +42438,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -42516,6 +42770,8 @@
       "canonical_date_start_year": 1118,
       "canonical_date_end_year": 1118,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -42856,6 +43112,8 @@
       "canonical_date_start_year": 1133,
       "canonical_date_end_year": 1133,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -43178,6 +43436,8 @@
       "canonical_date_start_year": 1258,
       "canonical_date_end_year": 1258,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -43452,8 +43712,8 @@
             },
             {
               "name_tokens": [
-                "sant",
-                "ambrogio"
+                "ambrogio",
+                "sant"
               ]
             },
             "landscape_or_square"
@@ -43491,6 +43751,8 @@
       "canonical_date_start_year": 701,
       "canonical_date_end_year": 800,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -43796,9 +44058,9 @@
             },
             {
               "name_tokens": [
-                "sant",
                 "abate",
-                "antonio"
+                "antonio",
+                "sant"
               ]
             },
             "landscape_or_square"
@@ -43836,6 +44098,8 @@
       "canonical_date_start_year": 1587,
       "canonical_date_end_year": 1587,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -43953,9 +44217,9 @@
           },
           {
             "name_tokens": [
-              "sant",
               "abate",
-              "antonio"
+              "antonio",
+              "sant"
             ]
           },
           "landscape_or_square"
@@ -44103,9 +44367,9 @@
             },
             {
               "name_tokens": [
-                "sant",
                 "abate",
-                "antonio"
+                "antonio",
+                "sant"
               ]
             }
           ]
@@ -44142,6 +44406,8 @@
       "canonical_date_start_year": 1341,
       "canonical_date_end_year": 1341,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -44453,10 +44719,10 @@
             },
             {
               "name_tokens": [
-                "sant",
-                "abate",
                 "anna",
-                "antonio"
+                "abate",
+                "antonio",
+                "sant"
               ]
             },
             "landscape_or_square"
@@ -44494,6 +44760,8 @@
       "canonical_date_start_year": 1741,
       "canonical_date_end_year": 1741,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -44574,10 +44842,10 @@
           },
           {
             "name_tokens": [
-              "sant",
-              "abate",
               "anna",
-              "antonio"
+              "abate",
+              "antonio",
+              "sant"
             ]
           },
           "landscape_or_square"
@@ -44802,6 +45070,8 @@
       "canonical_date_start_year": 1782,
       "canonical_date_end_year": 1782,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -45134,6 +45404,8 @@
       "canonical_date_start_year": 1724,
       "canonical_date_end_year": 1724,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -45422,6 +45694,8 @@
       "canonical_date_start_year": 1777,
       "canonical_date_end_year": 1777,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -45744,6 +46018,8 @@
       "canonical_date_start_year": 1390,
       "canonical_date_end_year": 1390,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -46076,6 +46352,8 @@
       "canonical_date_start_year": 1753,
       "canonical_date_end_year": 1753,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -46404,6 +46682,8 @@
       "canonical_date_start_year": 1250,
       "canonical_date_end_year": 1250,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -46740,6 +47020,8 @@
       "canonical_date_start_year": 1637,
       "canonical_date_end_year": 1637,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -46998,6 +47280,8 @@
       "canonical_date_start_year": 1277,
       "canonical_date_end_year": 1277,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -47327,6 +47611,8 @@
       "canonical_date_start_year": 1118,
       "canonical_date_end_year": 1118,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -47665,6 +47951,8 @@
       "canonical_date_start_year": 1124,
       "canonical_date_end_year": 1124,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -47955,6 +48243,8 @@
       "canonical_date_start_year": 1050,
       "canonical_date_end_year": 1059,
       "canonical_date_kind": "decade",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -48292,6 +48582,8 @@
       "canonical_date_start_year": 1602,
       "canonical_date_end_year": 1602,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -48604,6 +48896,8 @@
       "canonical_date_start_year": null,
       "canonical_date_end_year": null,
       "canonical_date_kind": null,
+      "historic_scope": "unknown",
+      "historic_scope_review_required": true,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -48888,8 +49182,8 @@
             {
               "name_tokens": [
                 "ricci",
-                "maria",
-                "margherita"
+                "margherita",
+                "maria"
               ]
             }
           ]
@@ -48926,6 +49220,8 @@
       "canonical_date_start_year": 1508,
       "canonical_date_end_year": 1508,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -49221,8 +49517,8 @@
             },
             {
               "name_tokens": [
-                "maria",
-                "novoli"
+                "novoli",
+                "maria"
               ]
             },
             "landscape_or_square"
@@ -49260,6 +49556,8 @@
       "canonical_date_start_year": 1647,
       "canonical_date_end_year": 1647,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -49549,8 +49847,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "maria",
-                "quarto"
+                "quarto",
+                "maria"
               ]
             }
           ]
@@ -49587,6 +49885,8 @@
       "canonical_date_start_year": 1797,
       "canonical_date_end_year": 1797,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -49882,8 +50182,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "maria",
-                "pignone"
+                "pignone",
+                "maria"
               ]
             },
             "landscape_or_square"
@@ -49921,6 +50221,8 @@
       "canonical_date_start_year": 1786,
       "canonical_date_end_year": 1786,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -50247,6 +50549,8 @@
       "canonical_date_start_year": 1509,
       "canonical_date_end_year": 1509,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -50523,8 +50827,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "bardi",
-                "maria"
+                "maria",
+                "bardi"
               ]
             }
           ]
@@ -50562,6 +50866,8 @@
       "canonical_date_start_year": 1181,
       "canonical_date_end_year": 1181,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -50778,8 +51084,8 @@
             },
             {
               "name_tokens": [
-                "maria",
-                "carmine"
+                "carmine",
+                "maria"
               ]
             },
             "landscape_or_square"
@@ -50817,6 +51123,8 @@
       "canonical_date_start_year": 1328,
       "canonical_date_end_year": 1328,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -51094,9 +51402,9 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "fiore",
+                "lapo",
                 "maria",
-                "lapo"
+                "fiore"
               ]
             },
             "landscape_or_square"
@@ -51134,6 +51442,8 @@
       "canonical_date_start_year": 1348,
       "canonical_date_end_year": 1348,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -51452,6 +51762,8 @@
       "canonical_date_start_year": 1334,
       "canonical_date_end_year": 1334,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -51735,6 +52047,8 @@
       "canonical_date_start_year": 1366,
       "canonical_date_end_year": 1366,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -51993,6 +52307,8 @@
       "canonical_date_start_year": 1530,
       "canonical_date_end_year": 1530,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -52197,8 +52513,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "maria",
-                "spina"
+                "spina",
+                "maria"
               ]
             },
             "landscape_or_square"
@@ -52236,6 +52552,8 @@
       "canonical_date_start_year": 1201,
       "canonical_date_end_year": 1300,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -52514,8 +52832,8 @@
             },
             {
               "name_tokens": [
-                "maria",
-                "nevi"
+                "nevi",
+                "maria"
               ]
             },
             "license_requires_review"
@@ -52555,6 +52873,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -52686,8 +53006,8 @@
           },
           {
             "name_tokens": [
-              "maria",
-              "nevi"
+              "nevi",
+              "maria"
             ]
           },
           "license_requires_review"
@@ -52916,6 +53236,8 @@
       "canonical_date_start_year": 1611,
       "canonical_date_end_year": 1611,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -53355,6 +53677,8 @@
       "canonical_date_start_year": 1706,
       "canonical_date_end_year": 1706,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -53720,8 +54044,8 @@
             },
             {
               "name_tokens": [
-                "maria",
                 "fontegiusta",
+                "maria",
                 "portico"
               ]
             }
@@ -53761,6 +54085,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -54033,9 +54359,9 @@
             },
             {
               "name_tokens": [
-                "maria",
+                "pazzi",
                 "maddalena",
-                "pazzi"
+                "maria"
               ]
             },
             "landscape_or_square"
@@ -54073,6 +54399,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -54405,6 +54733,8 @@
       "canonical_date_start_year": 1760,
       "canonical_date_end_year": 1760,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -54840,6 +55170,8 @@
       "canonical_date_start_year": 1622,
       "canonical_date_end_year": 1622,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 2,
       "commons_licensed_image_count": 2,
       "image_relevance_review_required": true,
@@ -55236,6 +55568,8 @@
       "canonical_date_start_year": 401,
       "canonical_date_end_year": 500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -55582,6 +55916,8 @@
       "canonical_date_start_year": 1498,
       "canonical_date_end_year": 1498,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -55897,8 +56233,8 @@
             },
             {
               "name_tokens": [
-                "lizza",
-                "stefano"
+                "stefano",
+                "lizza"
               ]
             }
           ]
@@ -55935,6 +56271,8 @@
       "canonical_date_start_year": 1671,
       "canonical_date_end_year": 1671,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -56237,16 +56575,16 @@
             },
             {
               "hard_reject_terms": [
+                "fresco",
                 "interior",
                 "sculpture",
-                "fresco",
                 "painting"
               ]
             },
             {
               "name_tokens": [
-                "cavalieri",
-                "stefano"
+                "stefano",
+                "cavalieri"
               ]
             },
             "landscape_or_square"
@@ -56284,6 +56622,8 @@
       "canonical_date_start_year": 1565,
       "canonical_date_end_year": 1565,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -56405,16 +56745,16 @@
           },
           {
             "hard_reject_terms": [
+              "fresco",
               "interior",
               "sculpture",
-              "fresco",
               "painting"
             ]
           },
           {
             "name_tokens": [
-              "cavalieri",
-              "stefano"
+              "stefano",
+              "cavalieri"
             ]
           },
           "landscape_or_square"
@@ -56591,9 +56931,9 @@
             },
             {
               "name_tokens": [
-                "extra",
+                "stefano",
                 "moenia",
-                "stefano"
+                "extra"
               ]
             },
             "landscape_or_square"
@@ -56631,6 +56971,8 @@
       "canonical_date_start_year": 1085,
       "canonical_date_end_year": 1085,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -56952,6 +57294,8 @@
       "canonical_date_start_year": 1539,
       "canonical_date_end_year": 1539,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -57286,6 +57630,8 @@
       "canonical_date_start_year": 1297,
       "canonical_date_end_year": 1297,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -57577,6 +57923,8 @@
       "canonical_date_start_year": 1683,
       "canonical_date_end_year": 1683,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -57796,8 +58144,8 @@
             },
             {
               "name_tokens": [
-                "fossabanda",
-                "croce"
+                "croce",
+                "fossabanda"
               ]
             },
             "landscape_or_square"
@@ -57836,6 +58184,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -58178,6 +58528,8 @@
       "canonical_date_start_year": 1328,
       "canonical_date_end_year": 1328,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -58505,6 +58857,8 @@
       "canonical_date_start_year": 1484,
       "canonical_date_end_year": 1484,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -58855,6 +59209,8 @@
       "canonical_date_start_year": 1367,
       "canonical_date_end_year": 1367,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -59144,7 +59500,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": true,
       "directory_type": "cathedral",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -59166,6 +59522,8 @@
       "canonical_date_start_year": 901,
       "canonical_date_end_year": 1000,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -59463,8 +59821,8 @@
             },
             {
               "name_tokens": [
-                "jacopo",
                 "lorenzo",
+                "jacopo",
                 "santi"
               ]
             }
@@ -59503,6 +59861,8 @@
       "canonical_date_start_year": 1542,
       "canonical_date_end_year": 1542,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -59782,8 +60142,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "monastero",
-                "clemente"
+                "clemente",
+                "monastero"
               ]
             },
             "landscape_or_square"
@@ -59822,6 +60182,8 @@
       "canonical_date_start_year": 1345,
       "canonical_date_end_year": 1345,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -60090,9 +60452,9 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "martino",
+                "oratorio",
                 "buonomini",
-                "oratorio"
+                "martino"
               ]
             },
             "landscape_or_square"
@@ -60130,6 +60492,8 @@
       "canonical_date_start_year": 1401,
       "canonical_date_end_year": 1500,
       "canonical_date_kind": "century",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -60425,8 +60789,8 @@
             },
             {
               "name_tokens": [
-                "vanchetoni",
-                "oratorio"
+                "oratorio",
+                "vanchetoni"
               ]
             }
           ]
@@ -60463,6 +60827,8 @@
       "canonical_date_start_year": 1602,
       "canonical_date_end_year": 1602,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -60714,8 +61080,8 @@
             "wikidata_p18",
             {
               "hard_reject_terms": [
-                "interno",
-                "interior"
+                "interior",
+                "interno"
               ]
             },
             {
@@ -60757,6 +61123,8 @@
       "canonical_date_start_year": 1696,
       "canonical_date_end_year": 1696,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -60862,8 +61230,8 @@
           "wikidata_p18",
           {
             "hard_reject_terms": [
-              "interno",
-              "interior"
+              "interior",
+              "interno"
             ]
           },
           {
@@ -61026,8 +61394,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "rocco",
-                "oratorio"
+                "oratorio",
+                "rocco"
               ]
             },
             "license_requires_review"
@@ -61065,6 +61433,8 @@
       "canonical_date_start_year": 1511,
       "canonical_date_end_year": 1511,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -61184,8 +61554,8 @@
           "wikidata_p18",
           {
             "name_tokens": [
-              "rocco",
-              "oratorio"
+              "oratorio",
+              "rocco"
             ]
           },
           "license_requires_review"
@@ -61358,8 +61728,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "aquino",
                 "tommaso",
+                "aquino",
                 "oratorio"
               ]
             }
@@ -61397,6 +61767,8 @@
       "canonical_date_start_year": 1568,
       "canonical_date_end_year": 1568,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -61697,9 +62069,9 @@
             },
             {
               "name_tokens": [
-                "sant",
                 "padova",
-                "antonio"
+                "antonio",
+                "sant"
               ]
             }
           ]
@@ -61738,6 +62110,8 @@
       "canonical_date_start_year": 1685,
       "canonical_date_end_year": 1685,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -62070,6 +62444,8 @@
       "canonical_date_start_year": 1465,
       "canonical_date_end_year": 1465,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -62245,6 +62621,8 @@
       "canonical_date_start_year": 1434,
       "canonical_date_end_year": 1434,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 0,
       "commons_licensed_image_count": 0,
       "image_relevance_review_required": false,
@@ -62508,6 +62886,8 @@
       "canonical_date_start_year": 1434,
       "canonical_date_end_year": 1434,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -62825,8 +63205,8 @@
             },
             {
               "name_tokens": [
-                "sagrestia",
-                "vecchia"
+                "vecchia",
+                "sagrestia"
               ]
             }
           ]
@@ -62843,7 +63223,7 @@
       "multiple_inception_claims": true,
       "has_imprecise_date": false,
       "directory_type": "sacristy",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -62865,6 +63245,8 @@
       "canonical_date_start_year": 1419,
       "canonical_date_end_year": 1419,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -62988,8 +63370,8 @@
           },
           {
             "name_tokens": [
-              "sagrestia",
-              "vecchia"
+              "vecchia",
+              "sagrestia"
             ]
           }
         ]
@@ -63179,8 +63561,8 @@
             },
             {
               "name_tokens": [
-                "madonna",
-                "giglio"
+                "giglio",
+                "madonna"
               ]
             }
           ]
@@ -63217,6 +63599,8 @@
       "canonical_date_start_year": 1680,
       "canonical_date_end_year": 1680,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -63521,8 +63905,8 @@
             "wikidata_p18",
             {
               "name_tokens": [
-                "santuario",
-                "caterina"
+                "caterina",
+                "santuario"
               ]
             },
             "landscape_or_square"
@@ -63560,6 +63944,8 @@
       "canonical_date_start_year": 1700,
       "canonical_date_end_year": 1700,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,
@@ -63906,6 +64292,8 @@
       "canonical_date_start_year": 1457,
       "canonical_date_end_year": 1457,
       "canonical_date_kind": "year",
+      "historic_scope": "historic",
+      "historic_scope_review_required": false,
       "commons_image_count": 1,
       "commons_licensed_image_count": 1,
       "image_relevance_review_required": true,

@@ -6,6 +6,9 @@ from project_config import (
     REVIEWED_FILE,
     REVIEW_REPORT_FILE,
 )
+from resolve_historic_scope import (
+    apply_historic_scope,
+)
 
 INPUT_FILE = DUPLICATES_FILE
 OUTPUT_FILE = REVIEWED_FILE
@@ -894,6 +897,7 @@ def build_report(churches):
 
     remaining_reviews = {
         "dates": [],
+        "historic_scope": [],
         "coordinates": [],
         "types": [],
         "images": [],
@@ -968,6 +972,9 @@ def build_report(churches):
         checks = {
             "dates":
                 "date_review_required",
+
+            "historic_scope":
+                "historic_scope_review_required",
 
             "coordinates":
                 "coordinate_review_required",
@@ -1102,6 +1109,14 @@ def main():
         apply_duplicate_pair(
             pair,
             church_by_qid,
+        )
+
+    # Date overrides are applied after the automatic
+    # historic-scope stage. Recompute the derived scope
+    # so reviewed canonical dates remain authoritative.
+    for church in churches:
+        apply_historic_scope(
+            church
         )
 
     # ------------------------------------------

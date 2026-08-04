@@ -129,6 +129,8 @@ resolve_coordinates.py
   ↓
 resolve_dates.py
   ↓
+resolve_historic_scope.py
+  ↓
 enrich_commons.py
   ↓
 select_images.py
@@ -184,6 +186,7 @@ uv run classify_types.py
 uv run enrich_osm.py
 uv run resolve_coordinates.py
 uv run resolve_dates.py
+uv run resolve_historic_scope.py
 uv run enrich_commons.py
 uv run select_images.py
 uv run detect_duplicates.py

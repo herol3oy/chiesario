@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "total_features": 174,
+  "regions": [
+    {
+      "slug": "tuscany",
+      "name": "Tuscany",
+      "feature_count": 174
+    }
+  ]
+}

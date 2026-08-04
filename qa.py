@@ -82,6 +82,25 @@ def check_catalog():
         if record.get("status") == "review"
     ]
 
+    valid_statuses = {
+        "ready",
+        "review",
+        "withheld",
+        "out_of_scope",
+        "excluded",
+        "duplicate",
+    }
+
+    for record in records:
+        status = record.get("status")
+
+        if status not in valid_statuses:
+            errors.append(
+                f"{record.get('id')} | "
+                f"{record.get('name')} | "
+                f"has invalid status {status!r}"
+            )
+
     for record in review_records:
         blocking = (
             record
@@ -111,6 +130,45 @@ def check_catalog():
         for record in records
         if record.get("status") == "ready"
     ]
+
+    valid_historic_scopes = {
+        "historic",
+        "modern",
+        "unknown",
+    }
+
+    for record in records:
+        historic_scope = record.get(
+            "historic_scope"
+        )
+
+        if historic_scope not in valid_historic_scopes:
+            errors.append(
+                f"{record.get('id')} | "
+                f"{record.get('name')} | "
+                "has invalid historic scope "
+                f"{historic_scope!r}"
+            )
+
+    for record in catalog_ready:
+        if record.get("historic_scope") != "historic":
+            errors.append(
+                f"{record.get('id')} | "
+                f"{record.get('name')} | "
+                "ready record is not confirmed historic"
+            )
+
+    for record in records:
+        if (
+            record.get("status") == "withheld"
+            and record.get("historic_scope") != "unknown"
+        ):
+            errors.append(
+                f"{record.get('id')} | "
+                f"{record.get('name')} | "
+                "withheld record does not have unknown "
+                "historic scope"
+            )
 
     for record in catalog_ready:
         coordinates = (
@@ -167,6 +225,13 @@ def check_catalog():
                 f"{record.get('id')} appears in "
                 "churches_ready.json but status is "
                 f"{record.get('status')!r}"
+            )
+
+        if record.get("historic_scope") != "historic":
+            errors.append(
+                f"{record.get('id')} appears in "
+                "churches_ready.json without confirmed "
+                "historic scope"
             )
 
     expected_ready_ids = {
@@ -270,6 +335,17 @@ def check_geojson():
             f"Duplicate GeoJSON feature ID: "
             f"{qid}"
         )
+
+    for feature in features:
+        properties = feature.get(
+            "properties",
+            {},
+        )
+        if properties.get("historic_scope") != "historic":
+            errors.append(
+                f"{properties.get('id')} appears in GeoJSON "
+                "without confirmed historic scope"
+            )
 
     ready_ids = {
         record.get("id")

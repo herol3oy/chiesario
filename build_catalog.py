@@ -349,6 +349,9 @@ BLOCKING_REVIEWS = {
     "date":
         "date_review_required",
 
+    "historic_scope":
+        "historic_scope_review_required",
+
     "coordinates":
         "coordinate_review_required",
 
@@ -365,13 +368,24 @@ def blocking_reviews(church):
         "derived"
     ]
 
-    return [
+    blockers = [
         name
         for name, field in (
             BLOCKING_REVIEWS.items()
         )
         if derived.get(field)
     ]
+
+    if (
+        derived.get("historic_scope")
+        not in {"historic", "modern"}
+        and "historic_scope" not in blockers
+    ):
+        blockers.append(
+            "historic_scope"
+        )
+
+    return blockers
 
 
 def determine_status(church):
@@ -394,6 +408,16 @@ def determine_status(church):
         False,
     ):
         return "out_of_scope"
+
+    historic_scope = derived.get(
+        "historic_scope"
+    )
+
+    if historic_scope == "modern":
+        return "out_of_scope"
+
+    if historic_scope != "historic":
+        return "withheld"
 
     blockers = blocking_reviews(
         church
@@ -452,6 +476,11 @@ def build_record(church):
             ),
 
         "region": REGION_NAME,
+
+        "historic_scope":
+            derived.get(
+                "historic_scope"
+            ),
 
         "date":
             build_date(

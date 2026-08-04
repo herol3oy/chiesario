@@ -1,16 +1,22 @@
 {
   "tuscany": {
     "name": "Tuscany",
-    "wikidata_id": "Q1273"
+    "wikidata_id": "Q1273",
+    "publish": true
   },
-
+  "molise": {
+    "name": "Molise",
+    "wikidata_id": "Q1443",
+    "publish": false
+  },
   "umbria": {
     "name": "Umbria",
-    "wikidata_id": "Q1280"
+    "wikidata_id": "Q1280",
+    "publish": false
   },
-
   "marche": {
     "name": "Marche",
-    "wikidata_id": "Q1279"
+    "wikidata_id": "Q1279",
+    "publish": false
   }
 }

@@ -78,6 +78,47 @@ PUBLISH_POLICY = {
 }
 
 
+# A selected specific type may coexist with these
+# less-specific or compatible categories without
+# creating genuine ambiguity. TYPE_RULES still
+# determines which category wins.
+COMPATIBLE_TYPE_CANDIDATES = {
+    "baptistery": {
+        "chapel",
+        "church",
+    },
+    "sacristy": {
+        "chapel",
+        "church",
+    },
+    "oratory": {
+        "chapel",
+        "church",
+    },
+    "chapel": {
+        "church",
+    },
+    "cathedral": {
+        "basilica",
+        "church",
+    },
+    "basilica": {
+        "church",
+    },
+    "former_church": {
+        "church",
+    },
+    "abbey": {
+        "monastery",
+        "church",
+    },
+    "monastery": {
+        "church",
+    },
+    "church": set(),
+}
+
+
 def chunks(items, size):
     for i in range(0, len(items), size):
         yield items[i:i + size]
@@ -356,6 +397,30 @@ def classify_types(
     return matches[0], matches
 
 
+def type_review_required(
+    selected_type,
+    candidates,
+):
+    if (
+        selected_type == "other"
+        or not candidates
+    ):
+        return True
+
+    compatible = {
+        selected_type,
+        *COMPATIBLE_TYPE_CANDIDATES.get(
+            selected_type,
+            set(),
+        ),
+    }
+
+    return any(
+        candidate not in compatible
+        for candidate in candidates
+    )
+
+
 def describe_types(
     type_qids,
     cache,
@@ -511,25 +576,11 @@ def main():
             "type_candidates"
         ] = candidates
 
-        # Review when:
-        #
-        # 1. nothing matched
-        # 2. several specific categories matched
-        #
-        # We ignore generic "church" when deciding
-        # whether several competing categories exist.
-
-        specific_candidates = [
-            item
-            for item in candidates
-            if item != "church"
-        ]
-
         church["derived"][
             "type_review_required"
-        ] = (
-            category == "other"
-            or len(specific_candidates) > 1
+        ] = type_review_required(
+            category,
+            candidates,
         )
 
         church["derived"][

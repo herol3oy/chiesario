@@ -1,0 +1,90 @@
+{
+  "total": 15,
+  "hero_images_auto_selected": 10,
+  "image_review_required": 5,
+  "no_images": 5,
+  "auto_selected_records": [
+    {
+      "wikidata_id": "Q2942612",
+      "name": "cattedrale della Santissima Trinità",
+      "hero_image": "Cattedrale campobasso.jpg"
+    },
+    {
+      "wikidata_id": "Q2942559",
+      "name": "cattedrale di Isernia",
+      "hero_image": "Cattedrale e Torre Civica (1925) (Isernia).jpg"
+    },
+    {
+      "wikidata_id": "Q2942828",
+      "name": "cattedrale di Santa Maria della Purificazione",
+      "hero_image": "Duomo Termoli 1.JPG"
+    },
+    {
+      "wikidata_id": "Q98249147",
+      "name": "chiesa di San Pietro Apostolo Spinete",
+      "hero_image": "San Pietro Spinete.jpg"
+    },
+    {
+      "wikidata_id": "Q3672048",
+      "name": "chiesa di San Silvestro",
+      "hero_image": "PanoramaChiesaSanSilvestro BagnoliDelTrigno.jpg"
+    },
+    {
+      "wikidata_id": "Q98217148",
+      "name": "chiesa di Santa Maria Assunta in Cielo",
+      "hero_image": "Chiesa di Santa Maria Assunta Spinete.jpg"
+    },
+    {
+      "wikidata_id": "Q98408389",
+      "name": "chiesa di Santa Maria del Carmine Spinete",
+      "hero_image": "Santa Maria del Carmine Spinete.jpg"
+    },
+    {
+      "wikidata_id": "Q2942593",
+      "name": "concattedrale di San Bartolomeo",
+      "hero_image": "San Bartolomeo (Bojano).jpg"
+    },
+    {
+      "wikidata_id": "Q2942847",
+      "name": "concattedrale di Santa Maria Assunta",
+      "hero_image": "Venafro - concattedrale di Santa Maria Assunta - facciata.jpg"
+    },
+    {
+      "wikidata_id": "Q3045554",
+      "name": "Duomo di Larino",
+      "hero_image": "Duomo Larino 5.JPG"
+    }
+  ],
+  "review_records": [
+    {
+      "wikidata_id": "Q3668604",
+      "name": "chiesa del Sacro Cuore di Gesù",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q111525622",
+      "name": "chiesa di San Giorgio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q3671431",
+      "name": "chiesa di San Nicola",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q111525772",
+      "name": "chiesa di Sant'Agostino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q3673847",
+      "name": "chiesa di Santa Maria della Libera",
+      "reason": "no_images",
+      "best_candidate": null
+    }
+  ]
+}

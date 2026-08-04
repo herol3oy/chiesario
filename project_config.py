@@ -77,6 +77,7 @@ CATALOG_DIR = REGION_DIR / "catalog"
 
 QIDS_FILE = RAW_DIR / "qids.txt"
 ENTITIES_FILE = RAW_DIR / "entities.json"
+BEWEB_RAW_DIR = RAW_DIR / "beweb"
 
 CHURCHES_FILE = PROCESSED_DIR / "churches.json"
 QUALITY_REPORT_FILE = PROCESSED_DIR / "quality_report.json"
@@ -94,6 +95,18 @@ COORDINATE_REPORT_FILE = PROCESSED_DIR / "coordinate_report.json"
 
 DATES_FILE = PROCESSED_DIR / "churches_dates.json"
 DATE_REPORT_FILE = PROCESSED_DIR / "date_report.json"
+
+HISTORIC_SCOPE_FILE = PROCESSED_DIR / "churches_historic_scope.json"
+HISTORIC_SCOPE_REPORT_FILE = (
+    PROCESSED_DIR / "historic_scope_report.json"
+)
+
+HISTORICAL_EVIDENCE_FILE = (
+    PROCESSED_DIR / "churches_historical_evidence.json"
+)
+HISTORICAL_EVIDENCE_REPORT_FILE = (
+    PROCESSED_DIR / "historical_evidence_report.json"
+)
 
 COMMONS_CACHE_FILE = CACHE_DIR / "commons_file_metadata.json"
 COMMONS_FILE = PROCESSED_DIR / "churches_commons.json"
@@ -119,6 +132,7 @@ def ensure_directories():
     for directory in (
         CACHE_DIR,
         RAW_DIR,
+        BEWEB_RAW_DIR,
         PROCESSED_DIR,
         REVIEWS_DIR,
         CATALOG_DIR,

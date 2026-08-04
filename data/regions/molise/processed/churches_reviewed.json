@@ -1,0 +1,4249 @@
+[
+  {
+    "wikidata_id": "Q2942612",
+    "names": {
+      "it": "cattedrale della Santissima Trinità",
+      "en": "Campobasso Cathedral",
+      "aliases_it": [
+        "Duomo di Campobasso"
+      ],
+      "aliases_en": [
+        "Holy Trinity Cathedral"
+      ]
+    },
+    "descriptions": {
+      "it": "edificio religioso di Campobasso",
+      "en": "church building in Campobasso, Italy"
+    },
+    "wikidata_types": [
+      "Q56242215"
+    ],
+    "location_ids": [
+      "Q3497"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.5605,
+        "longitude": 14.6598,
+        "precision": 0.01,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q2942612$A15C6D2D-B98E-4BFD-B988-8172A86B38D7"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q2942612$788B2E83-E4C5-4D2F-A9D7-ED29E4C7711F",
+        "time": "+1504-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 11920,
+                      "id": "Q11920"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "filename": "Cattedrale campobasso.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale_campobasso.jpg",
+        "rank": "normal",
+        "statement_id": "Q2942612$D6DFB1EC-20DF-440E-AD43-E189BBDE6516",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+          "thumbnail_width": 320,
+          "thumbnail_height": 326,
+          "width": 320,
+          "height": 326,
+          "size_bytes": 16243,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"https://en.wikipedia.org/wiki/it:User:Chrychry97\" class=\"extiw\" title=\"w:it:User:Chrychry97\">Chrychry97</a> at <a href=\"https://en.wikipedia.org/wiki/it:\" class=\"extiw\" title=\"w:it:\">Italian Wikipedia</a>",
+            "text": "Chrychry97 at Italian Wikipedia"
+          },
+          "credit": {
+            "raw": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//it.wikipedia.org\" href=\"https://it.wikipedia.org\">it.wikipedia</a></span> to Commons.</bdi>",
+            "text": "Transferred from it.wikipedia to Commons."
+          },
+          "description": {
+            "raw": "Cattedrale della Santissima Trinità, Campobasso, Molise, Italia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "text": "Cattedrale della Santissima Trinità, Campobasso, Molise, Italia"
+          },
+          "date_original": "22 April 2013 (original upload date)",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Cattedrale della Santissima Trinità, Campobasso, Molise, Italia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "22 April 2013 (original upload date)",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//it.wikipedia.org\" href=\"https://it.wikipedia.org\">it.wikipedia</a></span> to Commons.</bdi>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/it:User:Chrychry97\" class=\"extiw\" title=\"w:it:User:Chrychry97\">Chrychry97</a> at <a href=\"https://en.wikipedia.org/wiki/it:\" class=\"extiw\" title=\"w:it:\">Italian Wikipedia</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 10,
+          "confidence": "high",
+          "license": "CC BY-SA 3.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "cattedrale"
+              ]
+            },
+            {
+              "name_tokens": [
+                "trinita",
+                "santissima"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "cattedrale della Santissima Trinità",
+      "display_date": "1504",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "cathedral",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "cathedral",
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1504",
+      "canonical_date_start_year": 1504,
+      "canonical_date_end_year": 1504,
+      "canonical_date_kind": "year",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q56242215",
+        "label": "Catholic cathedral"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 261652486,
+        "osm_url": "https://www.openstreetmap.org/way/261652486",
+        "wikidata_id": "Q2942612",
+        "coordinates": {
+          "latitude": 41.5603279,
+          "longitude": 14.6595069,
+          "source": "center"
+        },
+        "name": "Cattedrale Santissima Trinità",
+        "name_it": null,
+        "building": "cathedral",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Cattedrale della Santissima Trinità (Campobasso)",
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "cathedral",
+          "check_date": "2024-03-07",
+          "denomination": "catholic",
+          "name": "Cattedrale Santissima Trinità",
+          "religion": "christian",
+          "wikidata": "Q2942612",
+          "wikipedia": "it:Cattedrale della Santissima Trinità (Campobasso)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.5605,
+        "longitude": 14.6598,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.5605,
+        "longitude": 14.6598,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q2942612$A15C6D2D-B98E-4BFD-B988-8172A86B38D7",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.5603279,
+        "longitude": 14.6595069,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 261652486,
+        "osm_url": "https://www.openstreetmap.org/way/261652486"
+      },
+      "comparison": {
+        "distance_meters": 31.0,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1504,
+        "end_year": 1504,
+        "display": "1504",
+        "precision": 9,
+        "statement_id": "Q2942612$788B2E83-E4C5-4D2F-A9D7-ED29E4C7711F",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1504,
+          "end_year": 1504,
+          "display": "1504",
+          "precision": 9,
+          "statement_id": "Q2942612$788B2E83-E4C5-4D2F-A9D7-ED29E4C7711F",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "Cattedrale campobasso.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg",
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"https://en.wikipedia.org/wiki/it:User:Chrychry97\" class=\"extiw\" title=\"w:it:User:Chrychry97\">Chrychry97</a> at <a href=\"https://en.wikipedia.org/wiki/it:\" class=\"extiw\" title=\"w:it:\">Italian Wikipedia</a>",
+          "text": "Chrychry97 at Italian Wikipedia"
+        },
+        "score": 10
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q2942559",
+    "names": {
+      "it": "cattedrale di Isernia",
+      "en": "Isernia Cathedral",
+      "aliases_it": [
+        "Duomo di Isernia",
+        "Cattedrale di San Pietro Apostolo"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "edificio religioso di Isernia",
+      "en": "church building in Isernia, Italy"
+    },
+    "wikidata_types": [
+      "Q56242215"
+    ],
+    "location_ids": [
+      "Q13450"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.58991666666667,
+        "longitude": 14.226694444444444,
+        "precision": 2.777777777777778e-05,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q2942559$6C9FA842-F3CF-4492-88AE-8F0FE20E60BC"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q2942559$5EB22A04-5790-481D-A134-40CD9342CB9D",
+        "time": "+1349-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 11920,
+                      "id": "Q11920"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "filename": "Cattedrale e Torre Civica (1925) (Isernia).jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+        "rank": "normal",
+        "statement_id": "Q2942559$3BFD288E-5227-43CE-8244-AA28D50CD8C8",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_e_Torre_Civica_(1925)_(Isernia).jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+          "thumbnail_width": 1669,
+          "thumbnail_height": 1063,
+          "width": 1669,
+          "height": 1063,
+          "size_bytes": 849538,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thefab4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thefab4 (page does not exist)\">Thefab4</a>",
+            "text": "Thefab4"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "Cattedrale e Torre Civica (1925) (Isernia)",
+            "text": "Cattedrale e Torre Civica (1925) (Isernia)"
+          },
+          "date_original": null,
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Cattedrale e Torre Civica (1925) (Isernia)",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thefab4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thefab4 (page does not exist)\">Thefab4</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 9,
+          "confidence": "high",
+          "license": "CC BY-SA 3.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "cattedrale"
+              ]
+            },
+            {
+              "name_tokens": [
+                "isernia"
+              ]
+            },
+            "landscape_or_square"
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "cattedrale di Isernia",
+      "display_date": "1349",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "cathedral",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "cathedral",
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": true,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1349",
+      "canonical_date_start_year": 1349,
+      "canonical_date_end_year": 1349,
+      "canonical_date_kind": "year",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q56242215",
+        "label": "Catholic cathedral"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 302442175,
+        "osm_url": "https://www.openstreetmap.org/way/302442175",
+        "wikidata_id": "Q2942559",
+        "coordinates": {
+          "latitude": 41.5899546,
+          "longitude": 14.2267227,
+          "source": "center"
+        },
+        "name": "Cattedrale di San Pietro Apostolo",
+        "name_it": null,
+        "building": "cathedral",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": "https://www.cattedraleisernia.org/",
+        "phone": null,
+        "wikipedia": "it:Cattedrale di San Pietro Apostolo (Isernia)",
+        "wikimedia_commons": "Category:Cathedral (Isernia)",
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "cathedral",
+          "denomination": "catholic",
+          "name": "Cattedrale di San Pietro Apostolo",
+          "religion": "christian",
+          "website": "https://www.cattedraleisernia.org/",
+          "wikidata": "Q2942559",
+          "wikimedia_commons": "Category:Cathedral (Isernia)",
+          "wikipedia": "it:Cattedrale di San Pietro Apostolo (Isernia)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.58991666666667,
+        "longitude": 14.226694444444444,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.58991666666667,
+        "longitude": 14.226694444444444,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q2942559$6C9FA842-F3CF-4492-88AE-8F0FE20E60BC",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.5899546,
+        "longitude": 14.2267227,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 302442175,
+        "osm_url": "https://www.openstreetmap.org/way/302442175"
+      },
+      "comparison": {
+        "distance_meters": 4.83,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1349,
+        "end_year": 1349,
+        "display": "1349",
+        "precision": 9,
+        "statement_id": "Q2942559$5EB22A04-5790-481D-A134-40CD9342CB9D",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1349,
+          "end_year": 1349,
+          "display": "1349",
+          "precision": 9,
+          "statement_id": "Q2942559$5EB22A04-5790-481D-A134-40CD9342CB9D",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "Cattedrale e Torre Civica (1925) (Isernia).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_e_Torre_Civica_(1925)_(Isernia).jpg",
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thefab4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thefab4 (page does not exist)\">Thefab4</a>",
+          "text": "Thefab4"
+        },
+        "score": 9
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q2942828",
+    "names": {
+      "it": "cattedrale di Santa Maria della Purificazione",
+      "en": "Termoli Cathedral",
+      "aliases_it": [
+        "Cattedrale di Termoli",
+        "Duomo di Termoli"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "cattedrale di Termoli",
+      "en": "cathedral and minor basilica in Termoli, Italy"
+    },
+    "wikidata_types": [
+      "Q2977",
+      "Q120560"
+    ],
+    "location_ids": [
+      "Q118642"
+    ],
+    "coordinates": [
+      {
+        "latitude": 42.0053,
+        "longitude": 14.9972,
+        "precision": 0.0001,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q2942828$916E6371-CC95-4553-ADA9-3B829F3940EC"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q2942828$8D50E8FC-6C66-436C-A286-98ADF523C9A7",
+        "time": "+1201-01-17T00:00:00Z",
+        "precision": 7,
+        "precision_name": "century",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985727",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "images": [
+      {
+        "filename": "Duomo Termoli 1.JPG",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duomo_Termoli_1.JPG",
+        "rank": "normal",
+        "statement_id": "Q2942828$D1E79EF7-49A5-4FA0-8BDA-0F0ACBEF0416",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Duomo_Termoli_1.JPG",
+          "description_url": "https://commons.wikimedia.org/wiki/File:Duomo_Termoli_1.JPG",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Duomo_Termoli_1.JPG/1920px-Duomo_Termoli_1.JPG",
+          "thumbnail_width": 1600,
+          "thumbnail_height": 1200,
+          "width": 1997,
+          "height": 1498,
+          "size_bytes": 1130032,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "Public domain",
+            "url": null,
+            "usage_terms": "Public domain",
+            "attribution_required": "false",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+            "text": "Zitumassin"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "The Cathedral of Saint Mary of the Purification in Termoli, Molise",
+            "text": "The Cathedral of Saint Mary of the Purification in Termoli, Molise"
+          },
+          "date_original": "5 April 2010, 13:38:24 (according to Exif data)",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "The Cathedral of Saint Mary of the Purification in Termoli, Molise",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "5 April 2010, 13:38:24 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 7,
+          "confidence": "high",
+          "license": "Public domain",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "cathedral"
+              ]
+            },
+            "landscape_or_square"
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "cattedrale di Santa Maria della Purificazione",
+      "display_date": "13th century",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": true,
+      "directory_type": "cathedral",
+      "type_review_required": true,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "cathedral",
+        "basilica",
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "13th century",
+      "canonical_date_start_year": 1201,
+      "canonical_date_end_year": 1300,
+      "canonical_date_kind": "century",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q2977",
+        "label": "cathedral"
+      },
+      {
+        "qid": "Q120560",
+        "label": "minor basilica"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 223438227,
+        "osm_url": "https://www.openstreetmap.org/way/223438227",
+        "wikidata_id": "Q2942828",
+        "coordinates": {
+          "latitude": 42.0052978,
+          "longitude": 14.9971336,
+          "source": "center"
+        },
+        "name": "Cattedrale di Santa Maria della Purificazione",
+        "name_it": null,
+        "building": "cathedral",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": null,
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "basilica": "minor",
+          "building": "cathedral",
+          "check_date": "2023-08-29",
+          "denomination": "catholic",
+          "name": "Cattedrale di Santa Maria della Purificazione",
+          "opening_hours": "Sa-Th 07:45-11:50, 16:00-20:00; Fr 07:45-11:50",
+          "religion": "christian",
+          "service_times": "Dal lunedì al venerdì 08.30 Sabato 08.30, 18 Domenica 10.30, 18",
+          "source": "Bing, Local knowledge",
+          "tourism": "attraction",
+          "wikidata": "Q2942828"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 42.0053,
+        "longitude": 14.9972,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 42.0053,
+        "longitude": 14.9972,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q2942828$916E6371-CC95-4553-ADA9-3B829F3940EC",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 42.0052978,
+        "longitude": 14.9971336,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 223438227,
+        "osm_url": "https://www.openstreetmap.org/way/223438227"
+      },
+      "comparison": {
+        "distance_meters": 5.49,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "display": "13th century",
+        "precision": 7,
+        "statement_id": "Q2942828$8D50E8FC-6C66-436C-A286-98ADF523C9A7",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "century",
+          "start_year": 1201,
+          "end_year": 1300,
+          "display": "13th century",
+          "precision": 7,
+          "statement_id": "Q2942828$8D50E8FC-6C66-436C-A286-98ADF523C9A7",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "Duomo Termoli 1.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Duomo_Termoli_1.JPG",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Duomo_Termoli_1.JPG/1920px-Duomo_Termoli_1.JPG",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Duomo_Termoli_1.JPG",
+        "license": {
+          "name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "attribution_required": "false",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+          "text": "Zitumassin"
+        },
+        "score": 7
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q3668604",
+    "names": {
+      "it": "chiesa del Sacro Cuore di Gesù",
+      "en": "Church of the Sacred Heart",
+      "aliases_it": [],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "edificio religioso di Campobasso",
+      "en": "church building in Campobasso, Italy"
+    },
+    "wikidata_types": [
+      "Q16970"
+    ],
+    "location_ids": [
+      "Q3497"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.5614,
+        "longitude": 14.6696,
+        "precision": 0.012005626992455,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q3668604$263DEE2E-AFCF-4573-A890-EE98C10B4932"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q3668604$80E6B657-262A-4A6B-9285-BFFB860830BB",
+        "time": "+1589-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985727",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "7217c2c02c2a2b83325845b9a52388c1f6fe9bca",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 11920,
+                      "id": "Q11920"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "14c65d9aab4817af68cb8a5c72f8dc2a6b987012",
+                  "datavalue": {
+                    "value": "https://it.wikipedia.org/w/index.php?title=Chiesa_del_Sacro_Cuore_di_Gesù_(Campobasso)&oldid=101273853",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa del Sacro Cuore di Gesù",
+      "display_date": "1589",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": false,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1589",
+      "canonical_date_start_year": 1589,
+      "canonical_date_end_year": 1589,
+      "canonical_date_kind": "year",
+      "commons_image_count": 0,
+      "commons_licensed_image_count": 0,
+      "image_relevance_review_required": false,
+      "has_hero_image": false,
+      "image_review_required": true,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 261652700,
+        "osm_url": "https://www.openstreetmap.org/way/261652700",
+        "wikidata_id": "Q3668604",
+        "coordinates": {
+          "latitude": 41.5614099,
+          "longitude": 14.6695912,
+          "source": "center"
+        },
+        "name": "Sacro Cuore di Gesù",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Chiesa del Sacro Cuore di Gesù (Campobasso)",
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "denomination": "catholic",
+          "name": "Sacro Cuore di Gesù",
+          "religion": "christian",
+          "source": "PCN 2012",
+          "wikidata": "Q3668604",
+          "wikipedia": "it:Chiesa del Sacro Cuore di Gesù (Campobasso)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.5614,
+        "longitude": 14.6696,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.5614,
+        "longitude": 14.6696,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q3668604$263DEE2E-AFCF-4573-A890-EE98C10B4932",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.5614099,
+        "longitude": 14.6695912,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 261652700,
+        "osm_url": "https://www.openstreetmap.org/way/261652700"
+      },
+      "comparison": {
+        "distance_meters": 1.32,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1589,
+        "end_year": 1589,
+        "display": "1589",
+        "precision": 9,
+        "statement_id": "Q3668604$80E6B657-262A-4A6B-9285-BFFB860830BB",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1589,
+          "end_year": 1589,
+          "display": "1589",
+          "precision": 9,
+          "statement_id": "Q3668604$80E6B657-262A-4A6B-9285-BFFB860830BB",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": null,
+      "review_required": true,
+      "reason": "no_images"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q111525622",
+    "names": {
+      "it": "chiesa di San Giorgio",
+      "en": null,
+      "aliases_it": [],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "chiesa a Petrella Tifernina",
+      "en": null
+    },
+    "wikidata_types": [
+      "Q16970"
+    ],
+    "location_ids": [
+      "Q277869"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.69279,
+        "longitude": 14.69491,
+        "precision": 1e-05,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q111525622$914b7a66-41e0-2943-4883-f75bb80db724"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q111525622$820fe3b2-4a48-c06f-f44e-90b58a474a50",
+        "time": "+1100-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "d4b57605bafaf05d65b9aea78e5cd6de94923eee",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "ac4c9ee391d7d04536f5f5a1e0820fa2cec3bc83",
+                  "datavalue": {
+                    "value": "http://www.comune.petrellatifernina.cb.it/petrella/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/1",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa di San Giorgio",
+      "display_date": "1100",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": false,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1100",
+      "canonical_date_start_year": 1100,
+      "canonical_date_end_year": 1100,
+      "canonical_date_kind": "year",
+      "commons_image_count": 0,
+      "commons_licensed_image_count": 0,
+      "image_relevance_review_required": false,
+      "has_hero_image": false,
+      "image_review_required": true,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 864198740,
+        "osm_url": "https://www.openstreetmap.org/way/864198740",
+        "wikidata_id": "Q111525622",
+        "coordinates": {
+          "latitude": 41.6927893,
+          "longitude": 14.6949132,
+          "source": "center"
+        },
+        "name": "Chiesa di San Giorgio Martire",
+        "name_it": null,
+        "building": "yes",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "roman_catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": null,
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "yes",
+          "denomination": "roman_catholic",
+          "name": "Chiesa di San Giorgio Martire",
+          "religion": "christian",
+          "wikidata": "Q111525622"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.69279,
+        "longitude": 14.69491,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.69279,
+        "longitude": 14.69491,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q111525622$914b7a66-41e0-2943-4883-f75bb80db724",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.6927893,
+        "longitude": 14.6949132,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 864198740,
+        "osm_url": "https://www.openstreetmap.org/way/864198740"
+      },
+      "comparison": {
+        "distance_meters": 0.28,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1100,
+        "end_year": 1100,
+        "display": "1100",
+        "precision": 9,
+        "statement_id": "Q111525622$820fe3b2-4a48-c06f-f44e-90b58a474a50",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1100,
+          "end_year": 1100,
+          "display": "1100",
+          "precision": 9,
+          "statement_id": "Q111525622$820fe3b2-4a48-c06f-f44e-90b58a474a50",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": null,
+      "review_required": true,
+      "reason": "no_images"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q3671431",
+    "names": {
+      "it": "chiesa di San Nicola",
+      "en": "Church of San Nicola",
+      "aliases_it": [
+        "chiesa parrocchiale di San Nicola",
+        "chiesa di San Nicola di Bari"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "edificio religioso di Castel del Giudice",
+      "en": "church in Castel del Giudice, Italy"
+    },
+    "wikidata_types": [
+      "Q16970"
+    ],
+    "location_ids": [
+      "Q278952"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.855323,
+        "longitude": 14.231939,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q3671431$044e7b37-4808-d149-fdab-cf4c6c475a8b"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q3671431$21B61BF7-9ABC-4F00-8372-297792FB0B58",
+        "time": "+1727-10-01T00:00:00Z",
+        "precision": 11,
+        "precision_name": "day",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985727",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "5533cc86e4c634d5ca949f01c60caa23c82a49b9",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 11920,
+                      "id": "Q11920"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "9b778813aa61471851117befa33b4e308cca7c98",
+                  "datavalue": {
+                    "value": "https://it.wikipedia.org/w/index.php?title=Chiesa_di_San_Nicola_(Castel_del_Giudice)&oldid=106041647",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "websites": [
+      "http://www.comune.casteldelgiudice.is.it/parrocchia.htm"
+    ],
+    "derived": {
+      "display_name": "chiesa di San Nicola",
+      "display_date": "1727",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": false,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1727",
+      "canonical_date_start_year": 1727,
+      "canonical_date_end_year": 1727,
+      "canonical_date_kind": "year",
+      "commons_image_count": 0,
+      "commons_licensed_image_count": 0,
+      "image_relevance_review_required": false,
+      "has_hero_image": false,
+      "image_review_required": true,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 376271073,
+        "osm_url": "https://www.openstreetmap.org/way/376271073",
+        "wikidata_id": "Q3671431",
+        "coordinates": {
+          "latitude": 41.8553223,
+          "longitude": 14.2320622,
+          "source": "center"
+        },
+        "name": "Chiesa di San Nicola",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": "1727",
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Chiesa di San Nicola (Castel del Giudice)",
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "denomination": "catholic",
+          "name": "Chiesa di San Nicola",
+          "religion": "christian",
+          "start_date": "1727",
+          "wikidata": "Q3671431",
+          "wikipedia": "it:Chiesa di San Nicola (Castel del Giudice)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.855323,
+        "longitude": 14.231939,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.855323,
+        "longitude": 14.231939,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q3671431$044e7b37-4808-d149-fdab-cf4c6c475a8b",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.8553223,
+        "longitude": 14.2320622,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 376271073,
+        "osm_url": "https://www.openstreetmap.org/way/376271073"
+      },
+      "comparison": {
+        "distance_meters": 10.2,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1727,
+        "end_year": 1727,
+        "display": "1727",
+        "precision": 11,
+        "statement_id": "Q3671431$21B61BF7-9ABC-4F00-8372-297792FB0B58",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1727,
+          "end_year": 1727,
+          "display": "1727",
+          "precision": 11,
+          "statement_id": "Q3671431$21B61BF7-9ABC-4F00-8372-297792FB0B58",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": null,
+      "review_required": true,
+      "reason": "no_images"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q98249147",
+    "names": {
+      "it": "chiesa di San Pietro Apostolo Spinete",
+      "en": "St Peter the Apostle church",
+      "aliases_it": [
+        "San Pietro Apostolo Spinete"
+      ],
+      "aliases_en": [
+        "San Pietro Apostolo church in Spinete"
+      ]
+    },
+    "descriptions": {
+      "it": "chiesa di Spinete",
+      "en": "church in Spinete"
+    },
+    "wikidata_types": [
+      "Q16970",
+      "Q55876909"
+    ],
+    "location_ids": [
+      "Q278237"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.542212,
+        "longitude": 14.487863,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q98249147$d2af0aa9-4031-7f5c-f28c-98247734d122"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q98249147$9aab0988-4370-3c1a-257a-85b0814907eb",
+        "time": "+1300-00-00T00:00:00Z",
+        "precision": 7,
+        "precision_name": "century",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {
+          "P1326": [
+            {
+              "snaktype": "value",
+              "property": "P1326",
+              "hash": "03d7b174e00ff13fc7e1c2b810237295ebee48a5",
+              "datavalue": {
+                "value": {
+                  "time": "+1309-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            }
+          ]
+        },
+        "references": []
+      }
+    ],
+    "images": [
+      {
+        "filename": "San Pietro Spinete.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Pietro_Spinete.jpg",
+        "rank": "normal",
+        "statement_id": "Q98249147$3361c7ea-4ab5-1334-3313-ae6bd0b66ea1",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/San_Pietro_Spinete.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:San_Pietro_Spinete.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Pietro_Spinete.jpg/1920px-San_Pietro_Spinete.jpg",
+          "thumbnail_width": 1600,
+          "thumbnail_height": 1200,
+          "width": 4608,
+          "height": 3456,
+          "size_bytes": 4218617,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+            "text": "Goldmund100"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "Facciata della chiesa di San Pietro a Spinete (CB)",
+            "text": "Facciata della chiesa di San Pietro a Spinete (CB)"
+          },
+          "date_original": "2020-08-11 12:54:37",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Facciata della chiesa di San Pietro a Spinete (CB)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2020-08-11 12:54:37",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 16,
+          "confidence": "high",
+          "license": "CC BY-SA 4.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "facciata",
+                "chiesa"
+              ]
+            },
+            {
+              "name_tokens": [
+                "pietro",
+                "spinete"
+              ]
+            },
+            "landscape_or_square"
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa di San Pietro Apostolo Spinete",
+      "display_date": "13th century",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": true,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "13th century",
+      "canonical_date_start_year": 1201,
+      "canonical_date_end_year": 1300,
+      "canonical_date_kind": "century",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      },
+      {
+        "qid": "Q55876909",
+        "label": "Catholic parish church"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 1469546724,
+        "osm_url": "https://www.openstreetmap.org/way/1469546724",
+        "wikidata_id": "Q98249147",
+        "coordinates": {
+          "latitude": 41.5422128,
+          "longitude": 14.4879609,
+          "source": "center"
+        },
+        "name": "Chiesa di San Pietro Apostolo",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": null,
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": null,
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "name": "Chiesa di San Pietro Apostolo",
+          "religion": "christian",
+          "wikidata": "Q98249147"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.542212,
+        "longitude": 14.487863,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.542212,
+        "longitude": 14.487863,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q98249147$d2af0aa9-4031-7f5c-f28c-98247734d122",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.5422128,
+        "longitude": 14.4879609,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 1469546724,
+        "osm_url": "https://www.openstreetmap.org/way/1469546724"
+      },
+      "comparison": {
+        "distance_meters": 8.15,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "display": "13th century",
+        "precision": 7,
+        "statement_id": "Q98249147$9aab0988-4370-3c1a-257a-85b0814907eb",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "century",
+          "start_year": 1201,
+          "end_year": 1300,
+          "display": "13th century",
+          "precision": 7,
+          "statement_id": "Q98249147$9aab0988-4370-3c1a-257a-85b0814907eb",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "San Pietro Spinete.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/San_Pietro_Spinete.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Pietro_Spinete.jpg/1920px-San_Pietro_Spinete.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:San_Pietro_Spinete.jpg",
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+          "text": "Goldmund100"
+        },
+        "score": 16
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q3672048",
+    "names": {
+      "it": "chiesa di San Silvestro",
+      "en": "Church of St. Sylvester",
+      "aliases_it": [
+        "chiesa di San Silvestro Papa"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "edificio religioso di Bagnoli del Trigno",
+      "en": "church in Bagnoli del Trigno, Italy"
+    },
+    "wikidata_types": [
+      "Q16970"
+    ],
+    "location_ids": [
+      "Q278868"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.706455,
+        "longitude": 14.458308,
+        "precision": 1e-05,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q3672048$C8979692-142A-4F0E-8C4E-D298430DFEB9"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q3672048$6f1eb682-4e52-d8cb-b34c-b05d28d7264b",
+        "time": "+1300-00-00T00:00:00Z",
+        "precision": 7,
+        "precision_name": "century",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "images": [
+      {
+        "filename": "PanoramaChiesaSanSilvestro BagnoliDelTrigno.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+        "rank": "normal",
+        "statement_id": "Q3672048$FD5F5DCD-1F61-4522-A884-A853C7002772",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+          "thumbnail_width": 800,
+          "thumbnail_height": 571,
+          "width": 800,
+          "height": 571,
+          "size_bytes": 103472,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "Luigi Salimbeni",
+            "text": "Luigi Salimbeni"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "Vista panoranica della chiesa di San Silvestro, Bagnoli del Trigno",
+            "text": "Vista panoranica della chiesa di San Silvestro, Bagnoli del Trigno"
+          },
+          "date_original": "2012-08-25",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Vista panoranica della chiesa di San Silvestro, Bagnoli del Trigno",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2012-08-25",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Luigi Salimbeni",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 9,
+          "confidence": "high",
+          "license": "CC BY-SA 3.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "chiesa"
+              ]
+            },
+            {
+              "name_tokens": [
+                "silvestro"
+              ]
+            },
+            "landscape_or_square"
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa di San Silvestro",
+      "display_date": "13th century",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": true,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "13th century",
+      "canonical_date_start_year": 1201,
+      "canonical_date_end_year": 1300,
+      "canonical_date_kind": "century",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 369107371,
+        "osm_url": "https://www.openstreetmap.org/way/369107371",
+        "wikidata_id": "Q3672048",
+        "coordinates": {
+          "latitude": 41.7064619,
+          "longitude": 14.4585125,
+          "source": "center"
+        },
+        "name": "Chiesa di San Silvestro",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Chiesa di San Silvestro (Bagnoli del Trigno)",
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "denomination": "catholic",
+          "name": "Chiesa di San Silvestro",
+          "religion": "christian",
+          "source": "Bing, Local knowledge",
+          "wikidata": "Q3672048",
+          "wikipedia": "it:Chiesa di San Silvestro (Bagnoli del Trigno)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.706455,
+        "longitude": 14.458308,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.706455,
+        "longitude": 14.458308,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q3672048$C8979692-142A-4F0E-8C4E-D298430DFEB9",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.7064619,
+        "longitude": 14.4585125,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 369107371,
+        "osm_url": "https://www.openstreetmap.org/way/369107371"
+      },
+      "comparison": {
+        "distance_meters": 16.99,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "century",
+        "start_year": 1201,
+        "end_year": 1300,
+        "display": "13th century",
+        "precision": 7,
+        "statement_id": "Q3672048$6f1eb682-4e52-d8cb-b34c-b05d28d7264b",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "century",
+          "start_year": 1201,
+          "end_year": 1300,
+          "display": "13th century",
+          "precision": 7,
+          "statement_id": "Q3672048$6f1eb682-4e52-d8cb-b34c-b05d28d7264b",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "PanoramaChiesaSanSilvestro BagnoliDelTrigno.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+        "license": {
+          "name": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "Luigi Salimbeni",
+          "text": "Luigi Salimbeni"
+        },
+        "score": 9
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q111525772",
+    "names": {
+      "it": "chiesa di Sant'Agostino",
+      "en": null,
+      "aliases_it": [],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "chiesa a Venafro",
+      "en": null
+    },
+    "wikidata_types": [
+      "Q16970"
+    ],
+    "location_ids": [
+      "Q279711"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.485267,
+        "longitude": 14.044389,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q111525772$45A3C268-3542-4923-86AB-5923E0653065"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q111525772$db431c39-4327-277a-2392-47aef77a8fdc",
+        "time": "+1200-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "e3220de16bfdae41acad2d66e8f8a707520de1e8",
+            "snaks": {
+              "P854": [
+                {
+                  "snaktype": "value",
+                  "property": "P854",
+                  "hash": "52012c3a4e4e4e0124b7d688949f358ccd691b08",
+                  "datavalue": {
+                    "value": "http://www.cassiciaco.it/navigazione/monachesimo/chiese/italia/molise/venafro.html",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa di Sant'Agostino",
+      "display_date": "1200",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": false,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1200",
+      "canonical_date_start_year": 1200,
+      "canonical_date_end_year": 1200,
+      "canonical_date_kind": "year",
+      "commons_image_count": 0,
+      "commons_licensed_image_count": 0,
+      "image_relevance_review_required": false,
+      "has_hero_image": false,
+      "image_review_required": true,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 1119342096,
+        "osm_url": "https://www.openstreetmap.org/way/1119342096",
+        "wikidata_id": "Q111525772",
+        "coordinates": {
+          "latitude": 41.4852144,
+          "longitude": 14.0445369,
+          "source": "center"
+        },
+        "name": null,
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": null,
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "denomination": "catholic",
+          "religion": "christian",
+          "wikidata": "Q111525772"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.485267,
+        "longitude": 14.044389,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.485267,
+        "longitude": 14.044389,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q111525772$45A3C268-3542-4923-86AB-5923E0653065",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.4852144,
+        "longitude": 14.0445369,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 1119342096,
+        "osm_url": "https://www.openstreetmap.org/way/1119342096"
+      },
+      "comparison": {
+        "distance_meters": 13.64,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1200,
+        "end_year": 1200,
+        "display": "1200",
+        "precision": 9,
+        "statement_id": "Q111525772$db431c39-4327-277a-2392-47aef77a8fdc",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1200,
+          "end_year": 1200,
+          "display": "1200",
+          "precision": 9,
+          "statement_id": "Q111525772$db431c39-4327-277a-2392-47aef77a8fdc",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": null,
+      "review_required": true,
+      "reason": "no_images"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q98217148",
+    "names": {
+      "it": "chiesa di Santa Maria Assunta in Cielo",
+      "en": "Santa Maria Assunta in Cielo church",
+      "aliases_it": [
+        "Santa Maria Spinete",
+        "chiesa madre Spinete",
+        "Chiesa di Santa Maria Assunta"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "chiesa parrocchiale a Spinete (CB), Italia",
+      "en": "church in Spinete"
+    },
+    "wikidata_types": [
+      "Q16970",
+      "Q55876909"
+    ],
+    "location_ids": [
+      "Q278237"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.54419444444444,
+        "longitude": 14.487333333333334,
+        "precision": 2.777777777777778e-05,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q98217148$14c101df-4ecd-f66f-1cf8-8c5aa52416be"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q98217148$fc934556-4aa8-6459-6ad0-a727bf369e80",
+        "time": "+1241-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "images": [
+      {
+        "filename": "Chiesa di Santa Maria Assunta Spinete.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+        "rank": "normal",
+        "statement_id": "Q98217148$fbbcf814-4177-1cc4-f062-91777ed3b565",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg/1920px-Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+          "thumbnail_width": 1600,
+          "thumbnail_height": 1067,
+          "width": 4149,
+          "height": 2766,
+          "size_bytes": 1851062,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+            "text": "Goldmund100"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "Facciata della chiesa Santa Maria Assunta a Spinete",
+            "text": "Facciata della chiesa Santa Maria Assunta a Spinete"
+          },
+          "date_original": "2015-12-25 13:11:37",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Facciata della chiesa Santa Maria Assunta a Spinete",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-12-25 13:11:37",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 16,
+          "confidence": "high",
+          "license": "CC BY-SA 4.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "facciata",
+                "chiesa"
+              ]
+            },
+            {
+              "name_tokens": [
+                "assunta",
+                "maria"
+              ]
+            },
+            "landscape_or_square"
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa di Santa Maria Assunta in Cielo",
+      "display_date": "1241",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1241",
+      "canonical_date_start_year": 1241,
+      "canonical_date_end_year": 1241,
+      "canonical_date_kind": "year",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      },
+      {
+        "qid": "Q55876909",
+        "label": "Catholic parish church"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 378932621,
+        "osm_url": "https://www.openstreetmap.org/way/378932621",
+        "wikidata_id": "Q98217148",
+        "coordinates": {
+          "latitude": 41.5442053,
+          "longitude": 14.4873172,
+          "source": "center"
+        },
+        "name": "Chiesa di Santa Maria Assunta",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": null,
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "denomination": "catholic",
+          "name": "Chiesa di Santa Maria Assunta",
+          "religion": "christian",
+          "wikidata": "Q98217148"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.54419444444444,
+        "longitude": 14.487333333333334,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.54419444444444,
+        "longitude": 14.487333333333334,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q98217148$14c101df-4ecd-f66f-1cf8-8c5aa52416be",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.5442053,
+        "longitude": 14.4873172,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 378932621,
+        "osm_url": "https://www.openstreetmap.org/way/378932621"
+      },
+      "comparison": {
+        "distance_meters": 1.81,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1241,
+        "end_year": 1241,
+        "display": "1241",
+        "precision": 9,
+        "statement_id": "Q98217148$fc934556-4aa8-6459-6ad0-a727bf369e80",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1241,
+          "end_year": 1241,
+          "display": "1241",
+          "precision": 9,
+          "statement_id": "Q98217148$fc934556-4aa8-6459-6ad0-a727bf369e80",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "Chiesa di Santa Maria Assunta Spinete.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg/1920px-Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+          "text": "Goldmund100"
+        },
+        "score": 16
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q98408389",
+    "names": {
+      "it": "chiesa di Santa Maria del Carmine Spinete",
+      "en": "Santa Maria del Carmine church in Spinete",
+      "aliases_it": [
+        "Chiesa della Madonna del Carmine Spinete",
+        "Chiesa di San Rocco Spinete",
+        "Chiesa di San Rocco"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "Cappella a Spinete (CB) in largo San Rocco",
+      "en": "church in Spinete (Italy)"
+    },
+    "wikidata_types": [
+      "Q16970"
+    ],
+    "location_ids": [
+      "Q278237"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.545086,
+        "longitude": 14.486687,
+        "precision": 1e-06,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q98408389$acac11ce-4b7c-7a19-e945-c4dd85e85d3b"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q98408389$77547985-4c82-a44a-f596-3c1ed3182ee0",
+        "time": "+1200-00-00T00:00:00Z",
+        "precision": 7,
+        "precision_name": "century",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "images": [
+      {
+        "filename": "Santa Maria del Carmine Spinete.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Maria_del_Carmine_Spinete.jpg",
+        "rank": "normal",
+        "statement_id": "Q98408389$85510928-4568-0123-fe3f-90e6e6ab860a",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Carmine_Spinete.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+          "thumbnail_width": 1646,
+          "thumbnail_height": 2469,
+          "width": 1646,
+          "height": 2469,
+          "size_bytes": 724442,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+            "text": "Goldmund100"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "Chiesa di Santa Maria del Carmine Spinete in Largo San Rocco, presente il tabernacolo di Padre Pio, San Pio da Pietrelcina",
+            "text": "Chiesa di Santa Maria del Carmine Spinete in Largo San Rocco, presente il tabernacolo di Padre Pio, San Pio da Pietrelcina"
+          },
+          "date_original": "2020-08-11 13:00:27",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Chiesa di Santa Maria del Carmine Spinete in Largo San Rocco, presente il tabernacolo di Padre Pio, San Pio da Pietrelcina",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2020-08-11 13:00:27",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 12,
+          "confidence": "high",
+          "license": "CC BY-SA 4.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "chiesa"
+              ]
+            },
+            {
+              "name_tokens": [
+                "spinete",
+                "maria",
+                "carmine"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa di Santa Maria del Carmine Spinete",
+      "display_date": "12th century",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": true,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "12th century",
+      "canonical_date_start_year": 1101,
+      "canonical_date_end_year": 1200,
+      "canonical_date_kind": "century",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 378932616,
+        "osm_url": "https://www.openstreetmap.org/way/378932616",
+        "wikidata_id": "Q98408389",
+        "coordinates": {
+          "latitude": 41.5451245,
+          "longitude": 14.4866643,
+          "source": "center"
+        },
+        "name": "Chiesa della Madonna del Carmine",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": null,
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "denomination": "catholic",
+          "name": "Chiesa della Madonna del Carmine",
+          "religion": "christian",
+          "source": "Bing, Local knowledge",
+          "wikidata": "Q98408389"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.545086,
+        "longitude": 14.486687,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.545086,
+        "longitude": 14.486687,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q98408389$acac11ce-4b7c-7a19-e945-c4dd85e85d3b",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.5451245,
+        "longitude": 14.4866643,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 378932616,
+        "osm_url": "https://www.openstreetmap.org/way/378932616"
+      },
+      "comparison": {
+        "distance_meters": 4.68,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "century",
+        "start_year": 1101,
+        "end_year": 1200,
+        "display": "12th century",
+        "precision": 7,
+        "statement_id": "Q98408389$77547985-4c82-a44a-f596-3c1ed3182ee0",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "century",
+          "start_year": 1101,
+          "end_year": 1200,
+          "display": "12th century",
+          "precision": 7,
+          "statement_id": "Q98408389$77547985-4c82-a44a-f596-3c1ed3182ee0",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "Santa Maria del Carmine Spinete.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Carmine_Spinete.jpg",
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+          "text": "Goldmund100"
+        },
+        "score": 12
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q3673847",
+    "names": {
+      "it": "chiesa di Santa Maria della Libera",
+      "en": "Santa Maria della Libera church",
+      "aliases_it": [
+        "chiesa della Libera"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "edificio religioso di Campobasso",
+      "en": "church building in Campobasso, Italy"
+    },
+    "wikidata_types": [
+      "Q16970"
+    ],
+    "location_ids": [
+      "Q3497"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.5579,
+        "longitude": 14.6589,
+        "precision": 0.012004976806055,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q3673847$BD739B8B-6A87-4E90-84F2-710FAF688181"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q3673847$A6B2CF84-2A19-4052-A025-65DCB3F1EBEB",
+        "time": "+1320-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "d5847b9b6032aa8b13dae3c2dfd9ed5d114d21b3",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 11920,
+                      "id": "Q11920"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "websites": [],
+    "derived": {
+      "display_name": "chiesa di Santa Maria della Libera",
+      "display_date": "1320",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": false,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "church",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1320",
+      "canonical_date_start_year": 1320,
+      "canonical_date_end_year": 1320,
+      "canonical_date_kind": "year",
+      "commons_image_count": 0,
+      "commons_licensed_image_count": 0,
+      "image_relevance_review_required": false,
+      "has_hero_image": false,
+      "image_review_required": true,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q16970",
+        "label": "church building"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 261652725,
+        "osm_url": "https://www.openstreetmap.org/way/261652725",
+        "wikidata_id": "Q3673847",
+        "coordinates": {
+          "latitude": 41.5578625,
+          "longitude": 14.6588999,
+          "source": "center"
+        },
+        "name": "Santa Maria della Libera",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Chiesa di Santa Maria della Libera (Campobasso)",
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "church",
+          "check_date": "2024-03-07",
+          "denomination": "catholic",
+          "name": "Santa Maria della Libera",
+          "religion": "christian",
+          "wikidata": "Q3673847",
+          "wikipedia": "it:Chiesa di Santa Maria della Libera (Campobasso)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.5579,
+        "longitude": 14.6589,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.5579,
+        "longitude": 14.6589,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q3673847$BD739B8B-6A87-4E90-84F2-710FAF688181",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.5578625,
+        "longitude": 14.6588999,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 261652725,
+        "osm_url": "https://www.openstreetmap.org/way/261652725"
+      },
+      "comparison": {
+        "distance_meters": 4.17,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1320,
+        "end_year": 1320,
+        "display": "1320",
+        "precision": 9,
+        "statement_id": "Q3673847$A6B2CF84-2A19-4052-A025-65DCB3F1EBEB",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1320,
+          "end_year": 1320,
+          "display": "1320",
+          "precision": 9,
+          "statement_id": "Q3673847$A6B2CF84-2A19-4052-A025-65DCB3F1EBEB",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": null,
+      "review_required": true,
+      "reason": "no_images"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q2942593",
+    "names": {
+      "it": "concattedrale di San Bartolomeo",
+      "en": "Bojano Cathedral",
+      "aliases_it": [
+        "Duomo di Bojano",
+        "Duomo di Boiano",
+        "cattedrale di San Bartolomeo",
+        "Chiesa di San Bartolomeo Apostolo bojano"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "cattedrale di Bojano",
+      "en": "building in Bojano, Italy"
+    },
+    "wikidata_types": [
+      "Q2577114"
+    ],
+    "location_ids": [
+      "Q277374"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.4819,
+        "longitude": 14.4726,
+        "precision": 0.01,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q2942593$11500FE9-C44F-47F9-AA09-A22DA3F35CD8"
+      },
+      {
+        "latitude": 41.48174,
+        "longitude": 14.472685,
+        "precision": 1e-05,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "deprecated",
+        "statement_id": "Q2942593$E206D803-A587-47E8-A250-7E2A1DD5E5D5"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q2942593$3f469a89-495c-2510-517c-33d3723ddac5",
+        "time": "+1073-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": []
+      }
+    ],
+    "images": [
+      {
+        "filename": "San Bartolomeo (Bojano).jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San_Bartolomeo_%28Bojano%29.jpg",
+        "rank": "normal",
+        "statement_id": "Q2942593$41bf2279-4a49-f313-6021-046570c2c28a",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/San_Bartolomeo_%28Bojano%29.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:San_Bartolomeo_(Bojano).jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/San_Bartolomeo_%28Bojano%29.jpg/1920px-San_Bartolomeo_%28Bojano%29.jpg",
+          "thumbnail_width": 1600,
+          "thumbnail_height": 2104,
+          "width": 2431,
+          "height": 3197,
+          "size_bytes": 1020001,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+            "text": "Goldmund100"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "Facciata della concattedrale di Bojano chiesa di San Bartolomeo",
+            "text": "Facciata della concattedrale di Bojano chiesa di San Bartolomeo"
+          },
+          "date_original": "2022-08-25 18:07:48",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Facciata della concattedrale di Bojano chiesa di San Bartolomeo",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2022-08-25 18:07:48",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 17,
+          "confidence": "high",
+          "license": "CC BY-SA 4.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "facciata",
+                "chiesa",
+                "cattedrale"
+              ]
+            },
+            {
+              "name_tokens": [
+                "bartolomeo",
+                "concattedrale"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "websites": [
+      "http://www.comune.bojano.cb.it/page.php?IDPagina=20"
+    ],
+    "derived": {
+      "display_name": "concattedrale di San Bartolomeo",
+      "display_date": "1073",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "cathedral",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "cathedral",
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1073",
+      "canonical_date_start_year": 1073,
+      "canonical_date_end_year": 1073,
+      "canonical_date_kind": "year",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q2577114",
+        "label": "co-cathedral"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 160425095,
+        "osm_url": "https://www.openstreetmap.org/way/160425095",
+        "wikidata_id": "Q2942593",
+        "coordinates": {
+          "latitude": 41.4818405,
+          "longitude": 14.4729255,
+          "source": "center"
+        },
+        "name": "Concattedrale di San Bartolomeo",
+        "name_it": null,
+        "building": "cathedral",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": "1000",
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Concattedrale di San Bartolomeo (Bojano)",
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "cathedral",
+          "denomination": "catholic",
+          "description": "Le origini della diocesi di Boiano risalgono al VI secolo, ed una chiesa cattedrale è attestata nella seconda metà dell'XI secolo. Risale a questo periodo e a questo antico edificio l'abside.",
+          "name": "Concattedrale di San Bartolomeo",
+          "religion": "christian",
+          "source": "Bing, Local knowledge",
+          "start_date": "1000",
+          "tourism": "attraction",
+          "wheelchair": "yes",
+          "wikidata": "Q2942593",
+          "wikipedia": "it:Concattedrale di San Bartolomeo (Bojano)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.4819,
+        "longitude": 14.4726,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.4819,
+        "longitude": 14.4726,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q2942593$11500FE9-C44F-47F9-AA09-A22DA3F35CD8",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.4818405,
+        "longitude": 14.4729255,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 160425095,
+        "osm_url": "https://www.openstreetmap.org/way/160425095"
+      },
+      "comparison": {
+        "distance_meters": 27.91,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1073,
+        "end_year": 1073,
+        "display": "1073",
+        "precision": 9,
+        "statement_id": "Q2942593$3f469a89-495c-2510-517c-33d3723ddac5",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1073,
+          "end_year": 1073,
+          "display": "1073",
+          "precision": 9,
+          "statement_id": "Q2942593$3f469a89-495c-2510-517c-33d3723ddac5",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "San Bartolomeo (Bojano).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/San_Bartolomeo_%28Bojano%29.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/San_Bartolomeo_%28Bojano%29.jpg/1920px-San_Bartolomeo_%28Bojano%29.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:San_Bartolomeo_(Bojano).jpg",
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+          "text": "Goldmund100"
+        },
+        "score": 17
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q2942847",
+    "names": {
+      "it": "concattedrale di Santa Maria Assunta",
+      "en": "Venafro Cathedral",
+      "aliases_it": [
+        "Duomo di Venafro",
+        "Concattedrale di S. Maria Assunta"
+      ],
+      "aliases_en": [
+        "Co-Cathedral of the Assumption of Mary"
+      ]
+    },
+    "descriptions": {
+      "it": "edificio religioso di Venafro",
+      "en": "church building in Venafro, Italy"
+    },
+    "wikidata_types": [
+      "Q2577114"
+    ],
+    "location_ids": [
+      "Q279711"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.48385,
+        "longitude": 14.03841,
+        "precision": 0.011991238434472,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q2942847$346911A7-98E1-4EB6-BFF4-D849DDD47CC5"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q2942847$337E3B6A-424B-462B-9E28-41E88B061B48",
+        "time": "+1100-00-00T00:00:00Z",
+        "precision": 7,
+        "precision_name": "century",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985786",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "6f57a4be80b371a15d10a7288dfa0c795266d58e",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 11920,
+                      "id": "Q11920"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "ce49ad83bea10ff3932e92749f94864854e25e9d",
+                  "datavalue": {
+                    "value": "https://it.wikipedia.org/w/index.php?title=Concattedrale_di_Santa_Maria_Assunta_(Venafro)&oldid=106691850",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "filename": "Venafro - concattedrale di Santa Maria Assunta - facciata.jpg",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+        "rank": "normal",
+        "statement_id": "Q2942847$87BF0BD5-16D1-4BF3-BCED-BCFDADCA38DD",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+          "description_url": "https://commons.wikimedia.org/wiki/File:Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg/1920px-Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+          "thumbnail_width": 1600,
+          "thumbnail_height": 900,
+          "width": 3264,
+          "height": 1836,
+          "size_bytes": 2004605,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+            "attribution_required": "true",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Obelix89&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Obelix89 (page does not exist)\">Obelix89</a>",
+            "text": "Obelix89"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "Esterno della Concattedrale con la Porta Santa",
+            "text": "Esterno della Concattedrale con la Porta Santa"
+          },
+          "date_original": "2016-02-06",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "Esterno della Concattedrale con la Porta Santa",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2016-02-06",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Obelix89&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Obelix89 (page does not exist)\">Obelix89</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 23,
+          "confidence": "high",
+          "license": "CC BY-SA 4.0",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "facciata",
+                "esterno",
+                "cattedrale"
+              ]
+            },
+            {
+              "name_tokens": [
+                "assunta",
+                "maria",
+                "concattedrale"
+              ]
+            },
+            "landscape_or_square"
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "concattedrale di Santa Maria Assunta",
+      "display_date": "11th century",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": true,
+      "directory_type": "cathedral",
+      "type_review_required": false,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "cathedral",
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": false,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "11th century",
+      "canonical_date_start_year": 1001,
+      "canonical_date_end_year": 1100,
+      "canonical_date_kind": "century",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q2577114",
+        "label": "co-cathedral"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 183346931,
+        "osm_url": "https://www.openstreetmap.org/way/183346931",
+        "wikidata_id": "Q2942847",
+        "coordinates": {
+          "latitude": 41.483751,
+          "longitude": 14.0382311,
+          "source": "center"
+        },
+        "name": "Cattedrale Santa Maria Assunta",
+        "name_it": null,
+        "building": "yes",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": null,
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Concattedrale di Santa Maria Assunta (Venafro)",
+        "wikimedia_commons": null,
+        "address": {},
+        "tags": {
+          "amenity": "place_of_worship",
+          "building": "yes",
+          "name": "Cattedrale Santa Maria Assunta",
+          "religion": "christian",
+          "wikidata": "Q2942847",
+          "wikipedia": "it:Concattedrale di Santa Maria Assunta (Venafro)"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.48385,
+        "longitude": 14.03841,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.48385,
+        "longitude": 14.03841,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q2942847$346911A7-98E1-4EB6-BFF4-D849DDD47CC5",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.483751,
+        "longitude": 14.0382311,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 183346931,
+        "osm_url": "https://www.openstreetmap.org/way/183346931"
+      },
+      "comparison": {
+        "distance_meters": 18.53,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "century",
+        "start_year": 1001,
+        "end_year": 1100,
+        "display": "11th century",
+        "precision": 7,
+        "statement_id": "Q2942847$337E3B6A-424B-462B-9E28-41E88B061B48",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "century",
+          "start_year": 1001,
+          "end_year": 1100,
+          "display": "11th century",
+          "precision": 7,
+          "statement_id": "Q2942847$337E3B6A-424B-462B-9E28-41E88B061B48",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "Venafro - concattedrale di Santa Maria Assunta - facciata.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg/1920px-Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+        "license": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+          "attribution_required": "true",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Obelix89&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Obelix89 (page does not exist)\">Obelix89</a>",
+          "text": "Obelix89"
+        },
+        "score": 23
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  },
+  {
+    "wikidata_id": "Q3045554",
+    "names": {
+      "it": "Duomo di Larino",
+      "en": "Larino Cathedral",
+      "aliases_it": [
+        "basilica cattedrale",
+        "chiesa di Santa Maria Assunta e San Pardo",
+        "concattedrale di San Pardo",
+        "basilica paleocristiana"
+      ],
+      "aliases_en": []
+    },
+    "descriptions": {
+      "it": "edificio religioso di Larino",
+      "en": "church building in Larino, Italy"
+    },
+    "wikidata_types": [
+      "Q2577114",
+      "Q120560"
+    ],
+    "location_ids": [
+      "Q277643"
+    ],
+    "coordinates": [
+      {
+        "latitude": 41.801,
+        "longitude": 14.9103,
+        "precision": 0.01,
+        "globe": "http://www.wikidata.org/entity/Q2",
+        "rank": "normal",
+        "statement_id": "Q3045554$DCA03DBF-1E75-4345-A862-7C8E2B962068"
+      }
+    ],
+    "inception_claims": [
+      {
+        "statement_id": "Q3045554$CD451993-B53F-442F-9318-473B8C79425C",
+        "time": "+1729-00-00T00:00:00Z",
+        "precision": 9,
+        "precision_name": "year",
+        "before": 0,
+        "after": 0,
+        "timezone": 0,
+        "calendar_model": "http://www.wikidata.org/entity/Q1985727",
+        "rank": "normal",
+        "qualifiers": {},
+        "references": [
+          {
+            "hash": "bcc940ff25fdba8cc97a4415722fde3c059ee510",
+            "snaks": {
+              "P143": [
+                {
+                  "snaktype": "value",
+                  "property": "P143",
+                  "hash": "5a343e7e758a4282a01316d3e959b6e653b767fc",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 11920,
+                      "id": "Q11920"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P4656": [
+                {
+                  "snaktype": "value",
+                  "property": "P4656",
+                  "hash": "31970c8ff64d2b226885da7f7961f34928dfb6f0",
+                  "datavalue": {
+                    "value": "https://it.wikipedia.org/w/index.php?title=Duomo_di_Larino&oldid=108038033",
+                    "type": "string"
+                  },
+                  "datatype": "url"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P143",
+              "P4656"
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "filename": "Duomo Larino 5.JPG",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duomo_Larino_5.JPG",
+        "rank": "normal",
+        "statement_id": "Q3045554$0B3B2F84-FA55-43EC-8419-40B64C054C06",
+        "relevance": "unknown",
+        "commons": {
+          "missing": false,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Duomo_Larino_5.JPG",
+          "description_url": "https://commons.wikimedia.org/wiki/File:Duomo_Larino_5.JPG",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Duomo_Larino_5.JPG",
+          "thumbnail_width": 1498,
+          "thumbnail_height": 1997,
+          "width": 1498,
+          "height": 1997,
+          "size_bytes": 1335513,
+          "mime": "image/jpeg",
+          "license": {
+            "name": "Public domain",
+            "url": null,
+            "usage_terms": "Public domain",
+            "attribution_required": "false",
+            "restrictions": null
+          },
+          "artist": {
+            "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+            "text": "Zitumassin"
+          },
+          "credit": {
+            "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "text": "Own work"
+          },
+          "description": {
+            "raw": "The cathedral of Larino, in the province of Campobasso, in Molise",
+            "text": "The cathedral of Larino, in the province of Campobasso, in Molise"
+          },
+          "date_original": "5 April 2010, 15:50:12 (according to Exif data)",
+          "extmetadata": {
+            "ImageDescription": {
+              "value": "The cathedral of Larino, in the province of Campobasso, in Molise",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "5 April 2010, 15:50:12 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        },
+        "selection": {
+          "score": 8,
+          "confidence": "high",
+          "license": "Public domain",
+          "license_ok": true,
+          "reasons": [
+            "wikidata_p18",
+            {
+              "positive_terms": [
+                "cathedral"
+              ]
+            },
+            {
+              "name_tokens": [
+                "larino"
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "websites": [],
+    "derived": {
+      "display_name": "Duomo di Larino",
+      "display_date": "1729",
+      "date_review_required": false,
+      "has_coordinates": true,
+      "has_images": true,
+      "multiple_inception_claims": false,
+      "has_imprecise_date": false,
+      "directory_type": "cathedral",
+      "type_review_required": true,
+      "possible_duplicate": false,
+      "publishable": false,
+      "type_candidates": [
+        "cathedral",
+        "basilica",
+        "church"
+      ],
+      "publishable_by_type": true,
+      "osm_match_status": "single",
+      "osm_match_count": 1,
+      "osm_review_required": false,
+      "has_osm_coordinates": true,
+      "has_osm_address": true,
+      "has_osm_website": false,
+      "has_canonical_coordinates": true,
+      "canonical_coordinate_source": "wikidata",
+      "coordinate_review_required": false,
+      "canonical_date_display": "1729",
+      "canonical_date_start_year": 1729,
+      "canonical_date_end_year": 1729,
+      "canonical_date_kind": "year",
+      "commons_image_count": 1,
+      "commons_licensed_image_count": 1,
+      "image_relevance_review_required": true,
+      "has_hero_image": true,
+      "image_review_required": false,
+      "duplicate_review_required": false
+    },
+    "wikidata_type_details": [
+      {
+        "qid": "Q2577114",
+        "label": "co-cathedral"
+      },
+      {
+        "qid": "Q120560",
+        "label": "minor basilica"
+      }
+    ],
+    "osm_matches": [
+      {
+        "osm_type": "way",
+        "osm_id": 266042339,
+        "osm_url": "https://www.openstreetmap.org/way/266042339",
+        "wikidata_id": "Q3045554",
+        "coordinates": {
+          "latitude": 41.8009404,
+          "longitude": 14.9100839,
+          "source": "center"
+        },
+        "name": "Duomo San Pardo",
+        "name_it": null,
+        "building": "church",
+        "amenity": "place_of_worship",
+        "religion": "christian",
+        "denomination": "catholic",
+        "historic": null,
+        "start_date": null,
+        "website": null,
+        "phone": null,
+        "wikipedia": "it:Duomo di Larino",
+        "wikimedia_commons": null,
+        "address": {
+          "street": "Piazza Duomo"
+        },
+        "tags": {
+          "addr:street": "Piazza Duomo",
+          "amenity": "place_of_worship",
+          "basilica": "minor",
+          "building": "church",
+          "denomination": "catholic",
+          "description": "Cattedrale/Basilica dedicata al Patrono di Larino, San Pardo. Cattedrale dall'età centenaria, fondata nel 1319.",
+          "name": "Duomo San Pardo",
+          "religion": "christian",
+          "tourism": "attraction",
+          "wikidata": "Q3045554",
+          "wikipedia": "it:Duomo di Larino"
+        }
+      }
+    ],
+    "resolved_coordinates": {
+      "canonical": {
+        "latitude": 41.801,
+        "longitude": 14.9103,
+        "source": "wikidata"
+      },
+      "wikidata": {
+        "latitude": 41.801,
+        "longitude": 14.9103,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q3045554$DCA03DBF-1E75-4345-A862-7C8E2B962068",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 41.8009404,
+        "longitude": 14.9100839,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 266042339,
+        "osm_url": "https://www.openstreetmap.org/way/266042339"
+      },
+      "comparison": {
+        "distance_meters": 19.1,
+        "review_required": false
+      }
+    },
+    "resolved_date": {
+      "canonical": {
+        "kind": "year",
+        "start_year": 1729,
+        "end_year": 1729,
+        "display": "1729",
+        "precision": 9,
+        "statement_id": "Q3045554$CD451993-B53F-442F-9318-473B8C79425C",
+        "rank": "normal"
+      },
+      "candidates": [
+        {
+          "kind": "year",
+          "start_year": 1729,
+          "end_year": 1729,
+          "display": "1729",
+          "precision": 9,
+          "statement_id": "Q3045554$CD451993-B53F-442F-9318-473B8C79425C",
+          "rank": "normal"
+        }
+      ],
+      "review_required": false,
+      "reason": "unambiguous"
+    },
+    "image_selection": {
+      "hero_image": {
+        "filename": "Duomo Larino 5.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Duomo_Larino_5.JPG",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Duomo_Larino_5.JPG",
+        "description_url": "https://commons.wikimedia.org/wiki/File:Duomo_Larino_5.JPG",
+        "license": {
+          "name": "Public domain",
+          "url": null,
+          "usage_terms": "Public domain",
+          "attribution_required": "false",
+          "restrictions": null
+        },
+        "artist": {
+          "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+          "text": "Zitumassin"
+        },
+        "score": 8
+      },
+      "review_required": false,
+      "reason": "high_confidence"
+    },
+    "duplicate_candidates": []
+  }
+]

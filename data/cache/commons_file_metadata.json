@@ -14795,5 +14795,723 @@
         "hidden": ""
       }
     }
+  },
+  "Duomo Termoli 1.JPG": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Duomo_Termoli_1.JPG",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Duomo_Termoli_1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Duomo_Termoli_1.JPG/1920px-Duomo_Termoli_1.JPG",
+    "thumbnail_width": 1600,
+    "thumbnail_height": 1200,
+    "width": 1997,
+    "height": 1498,
+    "size_bytes": 1130032,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "Public domain",
+      "url": null,
+      "usage_terms": "Public domain",
+      "attribution_required": "false",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+      "text": "Zitumassin"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "The Cathedral of Saint Mary of the Purification in Termoli, Molise",
+      "text": "The Cathedral of Saint Mary of the Purification in Termoli, Molise"
+    },
+    "date_original": "5 April 2010, 13:38:24 (according to Exif data)",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "The Cathedral of Saint Mary of the Purification in Termoli, Molise",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "5 April 2010, 13:38:24 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Duomo Larino 5.JPG": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Duomo_Larino_5.JPG",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Duomo_Larino_5.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Duomo_Larino_5.JPG",
+    "thumbnail_width": 1498,
+    "thumbnail_height": 1997,
+    "width": 1498,
+    "height": 1997,
+    "size_bytes": 1335513,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "Public domain",
+      "url": null,
+      "usage_terms": "Public domain",
+      "attribution_required": "false",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+      "text": "Zitumassin"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "The cathedral of Larino, in the province of Campobasso, in Molise",
+      "text": "The cathedral of Larino, in the province of Campobasso, in Molise"
+    },
+    "date_original": "5 April 2010, 15:50:12 (according to Exif data)",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "The cathedral of Larino, in the province of Campobasso, in Molise",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "5 April 2010, 15:50:12 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zitumassin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zitumassin (page does not exist)\">Zitumassin</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Cattedrale e Torre Civica (1925) (Isernia).jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_e_Torre_Civica_(1925)_(Isernia).jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+    "thumbnail_width": 1669,
+    "thumbnail_height": 1063,
+    "width": 1669,
+    "height": 1063,
+    "size_bytes": 849538,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thefab4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thefab4 (page does not exist)\">Thefab4</a>",
+      "text": "Thefab4"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "Cattedrale e Torre Civica (1925) (Isernia)",
+      "text": "Cattedrale e Torre Civica (1925) (Isernia)"
+    },
+    "date_original": null,
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Cattedrale e Torre Civica (1925) (Isernia)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thefab4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thefab4 (page does not exist)\">Thefab4</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Cattedrale campobasso.jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+    "thumbnail_width": 320,
+    "thumbnail_height": 326,
+    "width": 320,
+    "height": 326,
+    "size_bytes": 16243,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"https://en.wikipedia.org/wiki/it:User:Chrychry97\" class=\"extiw\" title=\"w:it:User:Chrychry97\">Chrychry97</a> at <a href=\"https://en.wikipedia.org/wiki/it:\" class=\"extiw\" title=\"w:it:\">Italian Wikipedia</a>",
+      "text": "Chrychry97 at Italian Wikipedia"
+    },
+    "credit": {
+      "raw": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//it.wikipedia.org\" href=\"https://it.wikipedia.org\">it.wikipedia</a></span> to Commons.</bdi>",
+      "text": "Transferred from it.wikipedia to Commons."
+    },
+    "description": {
+      "raw": "Cattedrale della Santissima Trinità, Campobasso, Molise, Italia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+      "text": "Cattedrale della Santissima Trinità, Campobasso, Molise, Italia"
+    },
+    "date_original": "22 April 2013 (original upload date)",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Cattedrale della Santissima Trinità, Campobasso, Molise, Italia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "22 April 2013 (original upload date)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//it.wikipedia.org\" href=\"https://it.wikipedia.org\">it.wikipedia</a></span> to Commons.</bdi>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/it:User:Chrychry97\" class=\"extiw\" title=\"w:it:User:Chrychry97\">Chrychry97</a> at <a href=\"https://en.wikipedia.org/wiki/it:\" class=\"extiw\" title=\"w:it:\">Italian Wikipedia</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "PanoramaChiesaSanSilvestro BagnoliDelTrigno.jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+    "thumbnail_width": 800,
+    "thumbnail_height": 571,
+    "width": 800,
+    "height": 571,
+    "size_bytes": 103472,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "Luigi Salimbeni",
+      "text": "Luigi Salimbeni"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "Vista panoranica della chiesa di San Silvestro, Bagnoli del Trigno",
+      "text": "Vista panoranica della chiesa di San Silvestro, Bagnoli del Trigno"
+    },
+    "date_original": "2012-08-25",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Vista panoranica della chiesa di San Silvestro, Bagnoli del Trigno",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-08-25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Luigi Salimbeni",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Venafro - concattedrale di Santa Maria Assunta - facciata.jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg/1920px-Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+    "thumbnail_width": 1600,
+    "thumbnail_height": 900,
+    "width": 3264,
+    "height": 1836,
+    "size_bytes": 2004605,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Obelix89&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Obelix89 (page does not exist)\">Obelix89</a>",
+      "text": "Obelix89"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "Esterno della Concattedrale con la Porta Santa",
+      "text": "Esterno della Concattedrale con la Porta Santa"
+    },
+    "date_original": "2016-02-06",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Esterno della Concattedrale con la Porta Santa",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-02-06",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Obelix89&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Obelix89 (page does not exist)\">Obelix89</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Chiesa di Santa Maria Assunta Spinete.jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg/1920px-Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+    "thumbnail_width": 1600,
+    "thumbnail_height": 1067,
+    "width": 4149,
+    "height": 2766,
+    "size_bytes": 1851062,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+      "text": "Goldmund100"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "Facciata della chiesa Santa Maria Assunta a Spinete",
+      "text": "Facciata della chiesa Santa Maria Assunta a Spinete"
+    },
+    "date_original": "2015-12-25 13:11:37",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Facciata della chiesa Santa Maria Assunta a Spinete",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-12-25 13:11:37",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "San Pietro Spinete.jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/San_Pietro_Spinete.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:San_Pietro_Spinete.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Pietro_Spinete.jpg/1920px-San_Pietro_Spinete.jpg",
+    "thumbnail_width": 1600,
+    "thumbnail_height": 1200,
+    "width": 4608,
+    "height": 3456,
+    "size_bytes": 4218617,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+      "text": "Goldmund100"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "Facciata della chiesa di San Pietro a Spinete (CB)",
+      "text": "Facciata della chiesa di San Pietro a Spinete (CB)"
+    },
+    "date_original": "2020-08-11 12:54:37",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Facciata della chiesa di San Pietro a Spinete (CB)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-08-11 12:54:37",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Santa Maria del Carmine Spinete.jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Carmine_Spinete.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+    "thumbnail_width": 1646,
+    "thumbnail_height": 2469,
+    "width": 1646,
+    "height": 2469,
+    "size_bytes": 724442,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+      "text": "Goldmund100"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "Chiesa di Santa Maria del Carmine Spinete in Largo San Rocco, presente il tabernacolo di Padre Pio, San Pio da Pietrelcina",
+      "text": "Chiesa di Santa Maria del Carmine Spinete in Largo San Rocco, presente il tabernacolo di Padre Pio, San Pio da Pietrelcina"
+    },
+    "date_original": "2020-08-11 13:00:27",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Chiesa di Santa Maria del Carmine Spinete in Largo San Rocco, presente il tabernacolo di Padre Pio, San Pio da Pietrelcina",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-08-11 13:00:27",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "San Bartolomeo (Bojano).jpg": {
+    "missing": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/San_Bartolomeo_%28Bojano%29.jpg",
+    "description_url": "https://commons.wikimedia.org/wiki/File:San_Bartolomeo_(Bojano).jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/San_Bartolomeo_%28Bojano%29.jpg/1920px-San_Bartolomeo_%28Bojano%29.jpg",
+    "thumbnail_width": 1600,
+    "thumbnail_height": 2104,
+    "width": 2431,
+    "height": 3197,
+    "size_bytes": 1020001,
+    "mime": "image/jpeg",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+      "attribution_required": "true",
+      "restrictions": null
+    },
+    "artist": {
+      "raw": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+      "text": "Goldmund100"
+    },
+    "credit": {
+      "raw": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "description": {
+      "raw": "Facciata della concattedrale di Bojano chiesa di San Bartolomeo",
+      "text": "Facciata della concattedrale di Bojano chiesa di San Bartolomeo"
+    },
+    "date_original": "2022-08-25 18:07:48",
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Facciata della concattedrale di Bojano chiesa di San Bartolomeo",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-08-25 18:07:48",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Goldmund100\" title=\"User:Goldmund100\">Goldmund100</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
   }
 }

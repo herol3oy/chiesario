@@ -1,0 +1,53 @@
+{
+  "total_entities": 15,
+  "records_with_manual_overrides": 0,
+  "suppressed_duplicates": 0,
+  "manually_excluded": 0,
+  "remaining_review_counts": {
+    "dates": 0,
+    "coordinates": 0,
+    "types": 2,
+    "images": 5,
+    "duplicates": 0
+  },
+  "overridden_records": [],
+  "suppressed_duplicate_records": [],
+  "excluded_records": [],
+  "remaining_reviews": {
+    "dates": [],
+    "coordinates": [],
+    "types": [
+      {
+        "wikidata_id": "Q2942828",
+        "name": "cattedrale di Santa Maria della Purificazione"
+      },
+      {
+        "wikidata_id": "Q3045554",
+        "name": "Duomo di Larino"
+      }
+    ],
+    "images": [
+      {
+        "wikidata_id": "Q3668604",
+        "name": "chiesa del Sacro Cuore di Gesù"
+      },
+      {
+        "wikidata_id": "Q111525622",
+        "name": "chiesa di San Giorgio"
+      },
+      {
+        "wikidata_id": "Q3671431",
+        "name": "chiesa di San Nicola"
+      },
+      {
+        "wikidata_id": "Q111525772",
+        "name": "chiesa di Sant'Agostino"
+      },
+      {
+        "wikidata_id": "Q3673847",
+        "name": "chiesa di Santa Maria della Libera"
+      }
+    ],
+    "duplicates": []
+  }
+}

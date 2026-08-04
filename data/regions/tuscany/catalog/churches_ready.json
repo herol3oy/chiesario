@@ -5,6 +5,7 @@
     "name": "abbazia di San Bartolomeo a Ripoli",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1731",
       "kind": "year",
@@ -55,6 +56,7 @@
     "name": "basilica dei Santi Vincenzo e Caterina de' Ricci",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -105,6 +107,7 @@
     "name": "basilica della Santissima Annunziata",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1250",
       "kind": "year",
@@ -158,6 +161,7 @@
     "name": "basilica di San Lorenzo",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1421",
       "kind": "year",
@@ -211,6 +215,7 @@
     "name": "basilica di San Marco",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -261,6 +266,7 @@
     "name": "basilica di San Miniato al Monte",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1018",
       "kind": "year",
@@ -314,6 +320,7 @@
     "name": "basilica di Santa Croce",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1294",
       "kind": "year",
@@ -367,6 +374,7 @@
     "name": "basilica di Santa Maria del Carmine",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1268",
       "kind": "year",
@@ -420,6 +428,7 @@
     "name": "basilica di Santa Maria delle Carceri",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -470,6 +479,7 @@
     "name": "basilica di Santa Maria Novella",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1278",
       "kind": "year",
@@ -523,6 +533,7 @@
     "name": "basilica di Santa Trinita",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1250",
       "kind": "year",
@@ -576,6 +587,7 @@
     "name": "basilica di Santo Spirito",
     "type": "basilica",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1252",
       "kind": "year",
@@ -629,6 +641,7 @@
     "name": "Cappella di Piazza",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1352",
       "kind": "year",
@@ -679,6 +692,7 @@
     "name": "cappella di San Michele Arcangelo e della Visitazione di Maria",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1703",
       "kind": "year",
@@ -729,6 +743,7 @@
     "name": "cappella di Sant'Antonio da Padova",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1628",
       "kind": "year",
@@ -779,6 +794,7 @@
     "name": "cappella di Santa Barbara a Porta Vecchia",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1605",
       "kind": "year",
@@ -812,6 +828,7 @@
     "name": "cappella di Santa Maria Assunta",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1752",
       "kind": "year",
@@ -849,6 +866,7 @@
     "name": "Cattedrale di Santa Maria del Fiore",
     "type": "cathedral",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1296",
       "kind": "year",
@@ -902,6 +920,7 @@
     "name": "chiesa armena di San Gregorio Illuminatore",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1701",
       "kind": "year",
@@ -952,6 +971,7 @@
     "name": "chiesa dei Santi Apostoli",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "11th century",
       "kind": "century",
@@ -1002,6 +1022,7 @@
     "name": "chiesa dei Santi Francesco e Chiara",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1623",
       "kind": "year",
@@ -1052,6 +1073,7 @@
     "name": "chiesa dei Santi Michele e Gaetano",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1597",
       "kind": "year",
@@ -1102,6 +1124,7 @@
     "name": "chiesa dei Santi Pietro e Paolo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1622",
       "kind": "year",
@@ -1155,6 +1178,7 @@
     "name": "chiesa dei Santi Simone e Giuda",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1243",
       "kind": "year",
@@ -1205,6 +1229,7 @@
     "name": "chiesa del Carmine",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1605",
       "kind": "year",
@@ -1255,6 +1280,7 @@
     "name": "chiesa del Santo Sepolcro",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "c. 1113",
       "kind": "circa_year",
@@ -1308,6 +1334,7 @@
     "name": "chiesa del Santuccio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1352",
       "kind": "year",
@@ -1361,6 +1388,7 @@
     "name": "chiesa della Madonna",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1607",
       "kind": "year",
@@ -1411,6 +1439,7 @@
     "name": "chiesa della Madonna dei Galletti",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1757",
       "kind": "year",
@@ -1461,6 +1490,7 @@
     "name": "chiesa della Madonna della Misericordia",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1628",
       "kind": "year",
@@ -1514,6 +1544,7 @@
     "name": "chiesa della Madonna della Tosse",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1603",
       "kind": "year",
@@ -1564,6 +1595,7 @@
     "name": "chiesa della Maria Santissima del Rosario",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1348",
       "kind": "year",
@@ -1610,6 +1642,7 @@
     "name": "chiesa della Santissima Annunziata",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1257",
       "kind": "year",
@@ -1663,6 +1696,7 @@
     "name": "chiesa della Santissima Annunziata",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1601",
       "kind": "year",
@@ -1713,6 +1747,7 @@
     "name": "chiesa delle Suore Montalve",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1686",
       "kind": "year",
@@ -1763,6 +1798,7 @@
     "name": "chiesa dello Spirito Santo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1340",
       "kind": "year",
@@ -1816,6 +1852,7 @@
     "name": "chiesa di Ognissanti",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1251",
       "kind": "year",
@@ -1869,6 +1906,7 @@
     "name": "chiesa di Orsanmichele",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1337",
       "kind": "year",
@@ -1922,6 +1960,7 @@
     "name": "chiesa di San Barnaba",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -1972,6 +2011,7 @@
     "name": "chiesa di San Bartolomeo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "11th century",
       "kind": "century",
@@ -2005,6 +2045,7 @@
     "name": "chiesa di San Bartolomeo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1316",
       "kind": "year",
@@ -2055,6 +2096,7 @@
     "name": "chiesa di San Bartolomeo a Monte Oliveto",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1454",
       "kind": "year",
@@ -2105,6 +2147,7 @@
     "name": "chiesa di San Benedetto",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1771",
       "kind": "year",
@@ -2155,6 +2198,7 @@
     "name": "chiesa di San Cristoforo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "11th century",
       "kind": "century",
@@ -2205,6 +2249,7 @@
     "name": "chiesa di San Domenico",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1385",
       "kind": "year",
@@ -2255,6 +2300,7 @@
     "name": "chiesa di San Donato",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -2305,6 +2351,7 @@
     "name": "chiesa di San Donato dei Vecchietti",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1068",
       "kind": "year",
@@ -2338,6 +2385,7 @@
     "name": "chiesa di San Donato in Polverosa",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1187",
       "kind": "year",
@@ -2391,6 +2439,7 @@
     "name": "chiesa di San Fabiano",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1082",
       "kind": "year",
@@ -2441,6 +2490,7 @@
     "name": "chiesa di San Felice a Ema",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "9th century",
       "kind": "century",
@@ -2491,6 +2541,7 @@
     "name": "chiesa di San Felice in Piazza",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1060",
       "kind": "year",
@@ -2541,6 +2592,7 @@
     "name": "chiesa di San Ferdinando",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1707",
       "kind": "year",
@@ -2591,6 +2643,7 @@
     "name": "chiesa di San Francesco",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1623",
       "kind": "year",
@@ -2641,6 +2694,7 @@
     "name": "chiesa di San Francesco",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1430",
       "kind": "year",
@@ -2691,6 +2745,7 @@
     "name": "chiesa di San Francesco",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "13th century",
       "kind": "century",
@@ -2744,6 +2799,7 @@
     "name": "chiesa di San Francesco",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1331",
       "kind": "year",
@@ -2797,6 +2853,7 @@
     "name": "chiesa di San Francesco di Paola",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1589",
       "kind": "year",
@@ -2847,6 +2904,7 @@
     "name": "chiesa di San Frediano in Cestello",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1689",
       "kind": "year",
@@ -2897,6 +2955,7 @@
     "name": "chiesa di San Gaetano di Thiene",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1685",
       "kind": "year",
@@ -2950,6 +3009,7 @@
     "name": "chiesa di San Gallo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1218",
       "kind": "year",
@@ -2996,6 +3056,7 @@
     "name": "chiesa di San Giorgio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1081",
       "kind": "year",
@@ -3046,6 +3107,7 @@
     "name": "chiesa di San Giorgio ai Tedeschi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1316",
       "kind": "year",
@@ -3096,6 +3158,7 @@
     "name": "chiesa di San Giorgio alla Costa",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -3146,6 +3209,7 @@
     "name": "chiesa di San Giovanni Battista",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1629",
       "kind": "year",
@@ -3199,6 +3263,7 @@
     "name": "chiesa di San Giovanni Battista",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1624",
       "kind": "year",
@@ -3249,6 +3314,7 @@
     "name": "chiesa di San Giovanni Battista della Calza",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1362",
       "kind": "year",
@@ -3299,6 +3365,7 @@
     "name": "chiesa di San Giovanni Decollato",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1639",
       "kind": "year",
@@ -3349,6 +3416,7 @@
     "name": "chiesa di San Giovanni Decollato",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1337",
       "kind": "year",
@@ -3395,6 +3463,7 @@
     "name": "chiesa di San Giovanni dei Fieri",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1614",
       "kind": "year",
@@ -3445,6 +3514,7 @@
     "name": "chiesa di San Giovanni Gualberto",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1692",
       "kind": "year",
@@ -3495,6 +3565,7 @@
     "name": "chiesa di San Giovannino degli Scolopi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1579",
       "kind": "year",
@@ -3545,6 +3616,7 @@
     "name": "chiesa di San Giovannino dei Cavalieri",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1326",
       "kind": "year",
@@ -3595,6 +3667,7 @@
     "name": "chiesa di San Giovannino della Staffa",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1611",
       "kind": "year",
@@ -3648,6 +3721,7 @@
     "name": "chiesa di San Giuseppe",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1759",
       "kind": "year",
@@ -3698,6 +3772,7 @@
     "name": "chiesa di San Giuseppe",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1653",
       "kind": "year",
@@ -3751,6 +3826,7 @@
     "name": "chiesa di San Gorgonio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1723",
       "kind": "year",
@@ -3801,6 +3877,7 @@
     "name": "chiesa di San Jacopo in Acquaviva",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1163",
       "kind": "year",
@@ -3851,6 +3928,7 @@
     "name": "chiesa di San Jacopo in Campo Corbolini",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1311",
       "kind": "year",
@@ -3901,6 +3979,7 @@
     "name": "chiesa di San Jacopo Soprarno",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1660",
       "kind": "year",
@@ -3951,6 +4030,7 @@
     "name": "chiesa di San Leonardo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1173",
       "kind": "year",
@@ -3997,6 +4077,7 @@
     "name": "chiesa di San Leonardo in Arcetri",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "11th century",
       "kind": "century",
@@ -4047,6 +4128,7 @@
     "name": "chiesa di San Lorenzo a Serpiolle",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1202",
       "kind": "year",
@@ -4097,6 +4179,7 @@
     "name": "chiesa di San Mamante",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1119",
       "kind": "year",
@@ -4147,6 +4230,7 @@
     "name": "chiesa di San Marcellino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1197",
       "kind": "year",
@@ -4197,6 +4281,7 @@
     "name": "chiesa di San Marco Vecchio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1058",
       "kind": "year",
@@ -4247,6 +4332,7 @@
     "name": "chiesa di San Martino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1000",
       "kind": "year",
@@ -4297,6 +4383,7 @@
     "name": "chiesa di San Martino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1331",
       "kind": "year",
@@ -4347,6 +4434,7 @@
     "name": "chiesa di San Martino a Mensola",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1451",
       "kind": "year",
@@ -4400,6 +4488,7 @@
     "name": "chiesa di San Martino a Montughi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1222",
       "kind": "year",
@@ -4450,6 +4539,7 @@
     "name": "chiesa di San Martino in Santa Maria della Scala",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1316",
       "kind": "year",
@@ -4496,6 +4586,7 @@
     "name": "chiesa di San Michele a Castello",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1617",
       "kind": "year",
@@ -4546,6 +4637,7 @@
     "name": "chiesa di San Michele a San Salvi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "11th century",
       "kind": "century",
@@ -4599,6 +4691,7 @@
     "name": "chiesa di San Michele Arcangelo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1192",
       "kind": "year",
@@ -4649,6 +4742,7 @@
     "name": "chiesa di San Michele Arcangelo a Monteripaldi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1138",
       "kind": "year",
@@ -4695,6 +4789,7 @@
     "name": "chiesa di San Michele in Borgo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "11th century",
       "kind": "century",
@@ -4748,6 +4843,7 @@
     "name": "chiesa di San Michele Visdomini",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1346",
       "kind": "year",
@@ -4798,6 +4894,7 @@
     "name": "chiesa di San Niccolò Oltrarno",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1184",
       "kind": "year",
@@ -4848,6 +4945,7 @@
     "name": "chiesa di San Paolino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1094",
       "kind": "year",
@@ -4898,6 +4996,7 @@
     "name": "chiesa di San Paolo a Ripa d'Arno",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "10th century",
       "kind": "century",
@@ -4948,6 +5047,7 @@
     "name": "chiesa di San Paolo all'Orto",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "12th century",
       "kind": "century",
@@ -4998,6 +5098,7 @@
     "name": "chiesa di San Pier Gattolino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1390",
       "kind": "year",
@@ -5048,6 +5149,7 @@
     "name": "chiesa di San Pier Scheraggio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1068",
       "kind": "year",
@@ -5094,6 +5196,7 @@
     "name": "chiesa di San Pietro a Sollicciano",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1050",
       "kind": "year",
@@ -5144,6 +5247,7 @@
     "name": "chiesa di San Pietro a Varlungo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1107",
       "kind": "year",
@@ -5194,6 +5298,7 @@
     "name": "chiesa di San Pietro in Vinculis",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1072",
       "kind": "year",
@@ -5244,6 +5349,7 @@
     "name": "chiesa di San Procolo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "13th century",
       "kind": "century",
@@ -5297,6 +5403,7 @@
     "name": "chiesa di San Raimondo al Refugio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1601",
       "kind": "year",
@@ -5350,6 +5457,7 @@
     "name": "chiesa di San Remigio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "11th century",
       "kind": "century",
@@ -5400,6 +5508,7 @@
     "name": "chiesa di San Rocco",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1634",
       "kind": "year",
@@ -5450,6 +5559,7 @@
     "name": "chiesa di San Salvatore al Monte",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1498",
       "kind": "year",
@@ -5500,6 +5610,7 @@
     "name": "chiesa di San Salvatore al Vescovo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1221",
       "kind": "year",
@@ -5550,6 +5661,7 @@
     "name": "chiesa di San Sebastiano",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1633",
       "kind": "year",
@@ -5603,6 +5715,7 @@
     "name": "chiesa di San Sebastiano in Vallepiatta",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -5653,6 +5766,7 @@
     "name": "chiesa di San Silvestro",
     "type": "former_church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1118",
       "kind": "year",
@@ -5703,6 +5817,7 @@
     "name": "chiesa di San Sisto",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1133",
       "kind": "year",
@@ -5753,6 +5868,7 @@
     "name": "chiesa di Sant'Agostino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1258",
       "kind": "year",
@@ -5806,6 +5922,7 @@
     "name": "chiesa di Sant'Ambrogio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "8th century",
       "kind": "century",
@@ -5856,6 +5973,7 @@
     "name": "chiesa di Sant'Antonio Abate",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1587",
       "kind": "year",
@@ -5893,6 +6011,7 @@
     "name": "chiesa di Sant'Antonio Abate",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1341",
       "kind": "year",
@@ -5943,6 +6062,7 @@
     "name": "chiesa di Sant'Antonio Abate e Sant'Anna",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1741",
       "kind": "year",
@@ -5989,6 +6109,7 @@
     "name": "chiesa di Sant'Apollinare",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1782",
       "kind": "year",
@@ -6039,6 +6160,7 @@
     "name": "chiesa di Sant'Onofrio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1724",
       "kind": "year",
@@ -6072,6 +6194,7 @@
     "name": "chiesa di Santa Apollonia",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1777",
       "kind": "year",
@@ -6122,6 +6245,7 @@
     "name": "chiesa di Santa Brigida al Paradiso",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1390",
       "kind": "year",
@@ -6159,6 +6283,7 @@
     "name": "chiesa di Santa Caterina",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1753",
       "kind": "year",
@@ -6212,6 +6337,7 @@
     "name": "chiesa di Santa Caterina d'Alessandria",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1250",
       "kind": "year",
@@ -6262,6 +6388,7 @@
     "name": "chiesa di Santa Cecilia",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1637",
       "kind": "year",
@@ -6295,6 +6422,7 @@
     "name": "chiesa di Santa Chiara",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1277",
       "kind": "year",
@@ -6345,6 +6473,7 @@
     "name": "chiesa di Santa Cristina",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1118",
       "kind": "year",
@@ -6395,6 +6524,7 @@
     "name": "chiesa di Santa Eufrasia",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1124",
       "kind": "year",
@@ -6445,6 +6575,7 @@
     "name": "chiesa di Santa Felicita",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1050s",
       "kind": "decade",
@@ -6498,6 +6629,7 @@
     "name": "chiesa di Santa Giulia",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1602",
       "kind": "year",
@@ -6548,6 +6680,7 @@
     "name": "chiesa di Santa Lucia dei Magnoli",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1078",
       "kind": "year",
@@ -6598,6 +6731,7 @@
     "name": "chiesa di Santa Margherita in Santa Maria de' Ricci",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1508",
       "kind": "year",
@@ -6648,6 +6782,7 @@
     "name": "chiesa di Santa Maria a Novoli",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1647",
       "kind": "year",
@@ -6698,6 +6833,7 @@
     "name": "chiesa di Santa Maria a Quarto",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1797",
       "kind": "year",
@@ -6748,6 +6884,7 @@
     "name": "chiesa di Santa Maria al Pignone",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1786",
       "kind": "year",
@@ -6798,6 +6935,7 @@
     "name": "chiesa di Santa Maria degli Angiolini",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1509",
       "kind": "year",
@@ -6848,6 +6986,7 @@
     "name": "chiesa di Santa Maria dei Bardi",
     "type": "former_church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1181",
       "kind": "year",
@@ -6894,6 +7033,7 @@
     "name": "chiesa di Santa Maria del Carmine",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1328",
       "kind": "year",
@@ -6944,6 +7084,7 @@
     "name": "chiesa di Santa Maria del Fiore a Lapo",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1348",
       "kind": "year",
@@ -6994,6 +7135,7 @@
     "name": "chiesa di Santa Maria del Santo Sepolcro",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1334",
       "kind": "year",
@@ -7040,6 +7182,7 @@
     "name": "chiesa di Santa Maria della Croce al Tempio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1366",
       "kind": "year",
@@ -7086,6 +7229,7 @@
     "name": "chiesa di Santa Maria della Pace",
     "type": "former_church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1530",
       "kind": "year",
@@ -7119,6 +7263,7 @@
     "name": "chiesa di Santa Maria della Spina",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "13th century",
       "kind": "century",
@@ -7169,6 +7314,7 @@
     "name": "chiesa di Santa Maria delle Nevi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -7222,6 +7368,7 @@
     "name": "chiesa di Santa Maria di Provenzano",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1611",
       "kind": "year",
@@ -7275,6 +7422,7 @@
     "name": "chiesa di Santa Maria e Santa Brigida al Paradiso",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1706",
       "kind": "year",
@@ -7325,6 +7473,7 @@
     "name": "chiesa di Santa Maria In Portico Fontegiusta",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -7378,6 +7527,7 @@
     "name": "chiesa di Santa Maria Maddalena dei Pazzi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -7428,6 +7578,7 @@
     "name": "chiesa di Santa Marta",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1760",
       "kind": "year",
@@ -7478,6 +7629,7 @@
     "name": "chiesa di Santa Petronilla",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1622",
       "kind": "year",
@@ -7528,6 +7680,7 @@
     "name": "chiesa di Santa Reparata",
     "type": "cathedral",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "5th century",
       "kind": "century",
@@ -7578,6 +7731,7 @@
     "name": "chiesa di Santo Spirito",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1498",
       "kind": "year",
@@ -7628,6 +7782,7 @@
     "name": "chiesa di Santo Stefano alla Lizza",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1671",
       "kind": "year",
@@ -7678,6 +7833,7 @@
     "name": "chiesa di Santo Stefano dei Cavalieri",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1565",
       "kind": "year",
@@ -7728,6 +7884,7 @@
     "name": "chiesa di Santo Stefano extra moenia",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1085",
       "kind": "year",
@@ -7778,6 +7935,7 @@
     "name": "chiesa e convento della Maddalena",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1539",
       "kind": "year",
@@ -7828,6 +7986,7 @@
     "name": "chiesa e convento delle Sperandie",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1297",
       "kind": "year",
@@ -7874,6 +8033,7 @@
     "name": "chiesa e convento di San Girolamo in Campansi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1683",
       "kind": "year",
@@ -7920,6 +8080,7 @@
     "name": "chiesa e convento di Santa Marta",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1328",
       "kind": "year",
@@ -7970,6 +8131,7 @@
     "name": "convento e chiesa di Santa Maria a Ripa",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1484",
       "kind": "year",
@@ -8016,6 +8178,7 @@
     "name": "convento e chiesa di Santo Stefano degli Agostiniani",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1367",
       "kind": "year",
@@ -8069,6 +8232,7 @@
     "name": "duomo di Prato",
     "type": "cathedral",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "10th century",
       "kind": "century",
@@ -8122,6 +8286,7 @@
     "name": "ex chiesa dei Santi Jacopo e Lorenzo",
     "type": "former_church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1542",
       "kind": "year",
@@ -8172,6 +8337,7 @@
     "name": "oratorio dei Buonomini di San Martino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "15th century",
       "kind": "century",
@@ -8222,6 +8388,7 @@
     "name": "oratorio dei Vanchetoni",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1602",
       "kind": "year",
@@ -8272,6 +8439,7 @@
     "name": "Oratorio di San Ranieri",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1696",
       "kind": "year",
@@ -8309,6 +8477,7 @@
     "name": "oratorio di San Rocco",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1511",
       "kind": "year",
@@ -8359,6 +8528,7 @@
     "name": "oratorio di San Tommaso d'Aquino",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1568",
       "kind": "year",
@@ -8409,6 +8579,7 @@
     "name": "oratorio di Sant'Antonio da Padova",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1685",
       "kind": "year",
@@ -8462,6 +8633,7 @@
     "name": "Rotonda di Brunelleschi",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1434",
       "kind": "year",
@@ -8512,6 +8684,7 @@
     "name": "santuario della Madonna del Giglio",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1680",
       "kind": "year",
@@ -8562,6 +8735,7 @@
     "name": "santuario di Santa Caterina",
     "type": "church",
     "region": "Tuscany",
+    "historic_scope": "historic",
     "date": {
       "display": "1700",
       "kind": "year",

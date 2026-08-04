@@ -2593,7 +2593,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "baptistery",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -5708,7 +5708,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": false,
       "directory_type": "cathedral",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -31902,7 +31902,7 @@
       "multiple_inception_claims": false,
       "has_imprecise_date": true,
       "directory_type": "cathedral",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [
@@ -33953,7 +33953,7 @@
       "multiple_inception_claims": true,
       "has_imprecise_date": false,
       "directory_type": "sacristy",
-      "type_review_required": true,
+      "type_review_required": false,
       "possible_duplicate": false,
       "publishable": false,
       "type_candidates": [

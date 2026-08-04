@@ -5,6 +5,7 @@
   "manually_excluded": 0,
   "remaining_review_counts": {
     "dates": 0,
+    "historic_scope": 0,
     "coordinates": 0,
     "types": 0,
     "images": 0,
@@ -633,6 +634,7 @@
   "excluded_records": [],
   "remaining_reviews": {
     "dates": [],
+    "historic_scope": [],
     "coordinates": [],
     "types": [],
     "images": [],

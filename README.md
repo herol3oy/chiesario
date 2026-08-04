@@ -92,20 +92,20 @@ Examples include:
 Automated source data belongs in:
 
 ```text
-data/raw/
-data/processed/
+data/regions/<region>/raw/
+data/regions/<region>/processed/
 ```
 
 Human editorial decisions belong in:
 
 ```text
-data/reviews/overrides.json
+data/regions/<region>/reviews/overrides.json
 ```
 
 Generated publication files belong in:
 
 ```text
-data/catalog/
+data/regions/<region>/catalog/
 web/public/data/
 ```
 
@@ -128,6 +128,8 @@ resolve_coordinates.py
   ↓
 resolve_dates.py
   ↓
+resolve_historic_scope.py
+  ↓
 enrich_commons.py
   ↓
 select_images.py
@@ -145,48 +147,41 @@ build_geojson.py
 
 The QA step prevents publication while unresolved catalog records remain.
 
+Individual stages read `CHURCHES_REGION` (default: `tuscany`). The pipeline runner requires an explicit region and supports resuming an interrupted Wikidata entity fetch:
+
+```bash
+uv run pipeline.py --region tuscany
+uv run pipeline.py --region tuscany --resume-entities
+```
+
 ---
 
 # Data Layout
 
 ```text
 data/
-├── raw/
-│   ├── tuscany_qids.txt
-│   ├── tuscany_entities.json
+├── cache/
 │   ├── wikidata_type_entities.json
 │   ├── osm_by_qid.json
 │   └── commons_file_metadata.json
-│
-├── processed/
-│   ├── churches.json
-│   ├── churches_classified.json
-│   ├── churches_osm.json
-│   ├── churches_resolved.json
-│   ├── churches_dates.json
-│   ├── churches_commons.json
-│   ├── churches_images.json
-│   ├── churches_duplicates.json
-│   ├── churches_reviewed.json
-│   │
-│   ├── quality_report.json
-│   ├── type_report.json
-│   ├── osm_report.json
-│   ├── coordinate_report.json
-│   ├── date_report.json
-│   ├── commons_report.json
-│   ├── image_report.json
-│   ├── duplicate_report.json
-│   └── review_report.json
-│
-├── reviews/
-│   └── overrides.json
-│
-└── catalog/
-    ├── churches.json
-    ├── churches_ready.json
-    ├── catalog_report.json
-    └── churches.geojson
+└── regions/
+    └── <region>/
+        ├── raw/
+        │   ├── qids.txt
+        │   ├── entities.json
+        │   └── beweb/
+        ├── processed/
+        │   ├── churches.json
+        │   ├── churches_dates.json
+        │   ├── churches_historic_scope.json
+        │   └── reports and downstream stage outputs
+        ├── reviews/
+        │   └── overrides.json
+        └── catalog/
+            ├── churches.json
+            ├── churches_ready.json
+            ├── catalog_report.json
+            └── churches.geojson
 ```
 
 Frontend:
@@ -195,8 +190,10 @@ Frontend:
 web/
 ├── public/
 │   └── data/
-│       └── churches.geojson
+│       ├── churches.geojson
+│       └── catalog_manifest.json
 ├── src/
+│   ├── catalog.ts
 │   ├── main.ts
 │   └── style.css
 └── package.json
@@ -212,11 +209,11 @@ web/
 uv run discover.py
 ```
 
-Discovers candidate historic churches from Wikidata.
+Discovers church-building candidates from Wikidata.
 
-The discovery query uses Wikidata subclass traversal and Tuscany's administrative hierarchy.
+The discovery query uses Wikidata subclass traversal and the selected region's administrative hierarchy.
 
-The discovery stage should remain relatively broad.
+Discovery is intentionally date-independent. Historic, modern, and unknown scope is resolved later from the canonical date.
 
 Filtering and editorial decisions happen later.
 
@@ -229,6 +226,12 @@ uv run fetch_entities.py
 ```
 
 Fetches complete Wikidata entity JSON using `wbgetentities`.
+
+The default performs a real upstream refresh. To resume an interrupted fetch and reuse already stored QIDs, run:
+
+```bash
+uv run fetch_entities.py --resume
+```
 
 This preserves richer source information than relying only on SPARQL result rows.
 
@@ -401,7 +404,7 @@ Large disagreements are flagged for manual review.
 Human coordinate decisions are stored in:
 
 ```text
-data/reviews/overrides.json
+data/regions/<region>/reviews/overrides.json
 ```
 
 ---
@@ -443,7 +446,17 @@ note
 
 ---
 
-## 8. Wikimedia Commons Enrichment
+## 8. Historic Scope Resolution
+
+```bash
+uv run resolve_historic_scope.py
+```
+
+Classifies each record from its canonical date as historic, modern, or unknown. Records without a usable canonical date remain unknown and are withheld from publication; the stage does not invent dates.
+
+---
+
+## 9. Wikimedia Commons Enrichment
 
 ```bash
 uv run enrich_commons.py
@@ -556,7 +569,7 @@ The detector does not automatically merge entities.
 Human decisions are recorded in:
 
 ```text
-data/reviews/overrides.json
+data/regions/<region>/reviews/overrides.json
 ```
 
 Example:
@@ -586,7 +599,7 @@ uv run apply_overrides.py
 All human decisions belong in:
 
 ```text
-data/reviews/overrides.json
+data/regions/<region>/reviews/overrides.json
 ```
 
 Supported editorial decisions include:
@@ -606,8 +619,8 @@ duplicate decisions
 The override layer produces:
 
 ```text
-data/processed/churches_reviewed.json
-data/processed/review_report.json
+data/regions/<region>/processed/churches_reviewed.json
+data/regions/<region>/processed/review_report.json
 ```
 
 The review report tracks remaining unresolved:
@@ -631,15 +644,15 @@ The current Tuscany review report contains zero remaining reviews.
 Do not manually fix:
 
 ```text
-data/processed/
-data/catalog/
+data/regions/<region>/processed/
+data/regions/<region>/catalog/
 web/public/data/
 ```
 
 In particular, never manually edit:
 
 ```text
-data/catalog/churches.geojson
+data/regions/<region>/catalog/churches.geojson
 web/public/data/churches.geojson
 ```
 
@@ -683,7 +696,7 @@ coordinate resolver problem
 If the decision is specific to one entity, use:
 
 ```text
-data/reviews/overrides.json
+data/regions/<region>/reviews/overrides.json
 ```
 
 Examples:
@@ -712,14 +725,18 @@ Possible statuses:
 ```text
 ready
 review
+withheld
 out_of_scope
+excluded
 duplicate
 ```
+
+`withheld` records remain in the research catalog because their historic scope is unknown. They are not public and do not block verified historic records from publication. `review` remains reserved for genuine blockers on otherwise publishable historic records.
 
 Only `ready` records are written to:
 
 ```text
-data/catalog/churches_ready.json
+data/regions/<region>/catalog/churches_ready.json
 ```
 
 ---
@@ -755,9 +772,8 @@ uv run apply_overrides.py
 uv run build_catalog.py
 uv run qa.py
 uv run build_geojson.py
-
-cp data/catalog/churches.geojson \
-  web/public/data/churches.geojson
+uv run qa.py --geojson
+uv run build_web_data.py
 ```
 
 If QA fails, resolve the listed records before continuing.
@@ -773,22 +789,19 @@ uv run build_geojson.py
 Converts:
 
 ```text
-data/catalog/churches_ready.json
+data/regions/<region>/catalog/churches_ready.json
 ```
 
 into:
 
 ```text
-data/catalog/churches.geojson
+data/regions/<region>/catalog/churches.geojson
 ```
 
-The resulting GeoJSON is consumed by the frontend map.
-
-Copy it to the web application with:
+The regional GeoJSON contains only QA-approved `ready` records. Build the deterministic combined frontend dataset from regions marked `publish: true` with:
 
 ```bash
-cp data/catalog/churches.geojson \
-  web/public/data/churches.geojson
+uv run build_web_data.py
 ```
 
 ---
@@ -800,6 +813,17 @@ The frontend uses:
 * Vite
 * TypeScript
 * MapLibre
+
+Run the frontend locally with:
+
+```bash
+cd web
+npm ci
+npm test
+npm run dev
+```
+
+Production builds use OpenFreeMap by default and can override the map style through `VITE_MAP_STYLE_URL`. GitHub Pages deployment is defined in `.github/workflows/deploy.yml`.
 
 The map is also an important visual QA tool.
 
@@ -868,9 +892,8 @@ uv run apply_overrides.py
 uv run build_catalog.py
 uv run qa.py
 uv run build_geojson.py
-
-cp data/catalog/churches.geojson \
-  web/public/data/churches.geojson
+uv run qa.py --geojson
+uv run build_web_data.py
 ```
 
 For a full data refresh:
@@ -883,6 +906,7 @@ uv run classify_types.py
 uv run enrich_osm.py
 uv run resolve_coordinates.py
 uv run resolve_dates.py
+uv run resolve_historic_scope.py
 uv run enrich_commons.py
 uv run select_images.py
 uv run detect_duplicates.py
@@ -890,6 +914,8 @@ uv run apply_overrides.py
 uv run build_catalog.py
 uv run qa.py
 uv run build_geojson.py
+uv run qa.py --geojson
+uv run build_web_data.py
 ```
 
 ---
@@ -907,16 +933,28 @@ discover region
     ↓
 run pipeline
     ↓
-inspect review reports
+inspect evidence and review reports
     ↓
 improve generic rules where possible
     ↓
 record genuine exceptions in overrides
     ↓
-QA must reach zero
+withhold unknown-age candidates
     ↓
-publish
+QA must contain no blocking review records
+    ↓
+publish the verified historic subset
 ```
+
+## Optional BeWeb evidence collection
+
+BeWeb evidence is collected separately from canonical date resolution:
+
+```bash
+CHURCHES_REGION=molise uv run enrich_beweb.py --resume
+```
+
+This stores raw public HTML under the selected region's `raw/beweb/` directory and writes structured evidence plus provenance to a processed research file. It does not change canonical dates or historic scope. BeWeb identifiers without historical content remain explicit `no_history` results.
 
 The objective is not zero manual work.
 

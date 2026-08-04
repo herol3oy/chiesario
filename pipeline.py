@@ -26,6 +26,7 @@ STAGES = [
     "enrich_osm.py",
     "resolve_coordinates.py",
     "resolve_dates.py",
+    "resolve_historic_scope.py",
     "enrich_commons.py",
     "select_images.py",
     "detect_duplicates.py",
@@ -44,6 +45,7 @@ def load_regions():
 def run_stage(
     script,
     env,
+    extra_args=None,
 ):
     print()
     print("=" * 60)
@@ -55,6 +57,7 @@ def run_stage(
         [
             sys.executable,
             script,
+            *(extra_args or []),
         ],
         cwd=ROOT_DIR,
         env=env,
@@ -107,6 +110,15 @@ def main():
         ),
     )
 
+    parser.add_argument(
+        "--resume-entities",
+        action="store_true",
+        help=(
+            "Reuse already fetched Wikidata entities "
+            "instead of performing a full entity refresh."
+        ),
+    )
+
     args = parser.parse_args()
 
     region_slug = args.region
@@ -146,9 +158,19 @@ def main():
         ]
 
     for script in stages:
+        extra_args = (
+            ["--resume"]
+            if (
+                script == "fetch_entities.py"
+                and args.resume_entities
+            )
+            else []
+        )
+
         run_stage(
             script,
             env,
+            extra_args,
         )
 
     # ------------------------------------------

@@ -94,6 +94,11 @@ def build_feature(church):
             "region":
                 church["region"],
 
+            "historic_scope":
+                church.get(
+                    "historic_scope"
+                ),
+
             "date_display":
                 date.get(
                     "display"
@@ -114,6 +119,21 @@ def build_feature(church):
                     "end_year"
                 ),
 
+            "date_source":
+                date.get(
+                    "source"
+                ),
+
+            "date_source_name":
+                date.get(
+                    "source_name"
+                ),
+
+            "date_source_url":
+                date.get(
+                    "source_url"
+                ),
+
             "coordinate_source":
                 coordinates.get(
                     "source"
@@ -130,6 +150,32 @@ def build_feature(church):
             "hero_filename":
                 hero.get(
                     "filename"
+                ),
+
+            "hero_description_url":
+                hero.get(
+                    "description_url"
+                ),
+
+            "hero_artist":
+                hero.get(
+                    "artist"
+                ),
+
+            "hero_license_name":
+                hero.get(
+                    "license",
+                    {},
+                ).get(
+                    "name"
+                ),
+
+            "hero_license_url":
+                hero.get(
+                    "license",
+                    {},
+                ).get(
+                    "url"
                 ),
 
             "website":

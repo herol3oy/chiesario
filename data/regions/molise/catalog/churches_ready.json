@@ -1,0 +1,596 @@
+[
+  {
+    "id": "Q2942612",
+    "slug": "cattedrale-della-santissima-trinita-q2942612",
+    "name": "cattedrale della Santissima Trinità",
+    "type": "cathedral",
+    "region": "Molise",
+    "date": {
+      "display": "1504",
+      "kind": "year",
+      "start_year": 1504,
+      "end_year": 1504,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.5605,
+      "longitude": 14.6598,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "Cattedrale campobasso.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cattedrale_campobasso.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_campobasso.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+        "attribution_required": "true"
+      },
+      "artist": "Chrychry97 at Italian Wikipedia",
+      "source": "wikimedia_commons"
+    },
+    "website": null,
+    "wikidata": {
+      "id": "Q2942612",
+      "url": "https://www.wikidata.org/wiki/Q2942612"
+    },
+    "osm": {
+      "type": "way",
+      "id": 261652486,
+      "url": "https://www.openstreetmap.org/way/261652486"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  },
+  {
+    "id": "Q2942559",
+    "slug": "cattedrale-di-isernia-q2942559",
+    "name": "cattedrale di Isernia",
+    "type": "cathedral",
+    "region": "Molise",
+    "date": {
+      "display": "1349",
+      "kind": "year",
+      "start_year": 1349,
+      "end_year": 1349,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.58991666666667,
+      "longitude": 14.226694444444444,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "Cattedrale e Torre Civica (1925) (Isernia).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cattedrale_e_Torre_Civica_%281925%29_%28Isernia%29.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Cattedrale_e_Torre_Civica_(1925)_(Isernia).jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+        "attribution_required": "true"
+      },
+      "artist": "Thefab4",
+      "source": "wikimedia_commons"
+    },
+    "website": {
+      "url": "https://www.cattedraleisernia.org/",
+      "source": "openstreetmap"
+    },
+    "wikidata": {
+      "id": "Q2942559",
+      "url": "https://www.wikidata.org/wiki/Q2942559"
+    },
+    "osm": {
+      "type": "way",
+      "id": 302442175,
+      "url": "https://www.openstreetmap.org/way/302442175"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  },
+  {
+    "id": "Q3668604",
+    "slug": "chiesa-del-sacro-cuore-di-gesu-q3668604",
+    "name": "chiesa del Sacro Cuore di Gesù",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "1589",
+      "kind": "year",
+      "start_year": 1589,
+      "end_year": 1589,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.5614,
+      "longitude": 14.6696,
+      "source": "wikidata"
+    },
+    "hero_image": null,
+    "website": null,
+    "wikidata": {
+      "id": "Q3668604",
+      "url": "https://www.wikidata.org/wiki/Q3668604"
+    },
+    "osm": {
+      "type": "way",
+      "id": 261652700,
+      "url": "https://www.openstreetmap.org/way/261652700"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": true
+    }
+  },
+  {
+    "id": "Q111525622",
+    "slug": "chiesa-di-san-giorgio-q111525622",
+    "name": "chiesa di San Giorgio",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "1100",
+      "kind": "year",
+      "start_year": 1100,
+      "end_year": 1100,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.69279,
+      "longitude": 14.69491,
+      "source": "wikidata"
+    },
+    "hero_image": null,
+    "website": null,
+    "wikidata": {
+      "id": "Q111525622",
+      "url": "https://www.wikidata.org/wiki/Q111525622"
+    },
+    "osm": {
+      "type": "way",
+      "id": 864198740,
+      "url": "https://www.openstreetmap.org/way/864198740"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": true
+    }
+  },
+  {
+    "id": "Q3671431",
+    "slug": "chiesa-di-san-nicola-q3671431",
+    "name": "chiesa di San Nicola",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "1727",
+      "kind": "year",
+      "start_year": 1727,
+      "end_year": 1727,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.855323,
+      "longitude": 14.231939,
+      "source": "wikidata"
+    },
+    "hero_image": null,
+    "website": {
+      "url": "http://www.comune.casteldelgiudice.is.it/parrocchia.htm",
+      "source": "wikidata"
+    },
+    "wikidata": {
+      "id": "Q3671431",
+      "url": "https://www.wikidata.org/wiki/Q3671431"
+    },
+    "osm": {
+      "type": "way",
+      "id": 376271073,
+      "url": "https://www.openstreetmap.org/way/376271073"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": true
+    }
+  },
+  {
+    "id": "Q98249147",
+    "slug": "chiesa-di-san-pietro-apostolo-spinete-q98249147",
+    "name": "chiesa di San Pietro Apostolo Spinete",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "13th century",
+      "kind": "century",
+      "start_year": 1201,
+      "end_year": 1300,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.542212,
+      "longitude": 14.487863,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "San Pietro Spinete.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/San_Pietro_Spinete.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Pietro_Spinete.jpg/1920px-San_Pietro_Spinete.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:San_Pietro_Spinete.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+        "attribution_required": "true"
+      },
+      "artist": "Goldmund100",
+      "source": "wikimedia_commons"
+    },
+    "website": null,
+    "wikidata": {
+      "id": "Q98249147",
+      "url": "https://www.wikidata.org/wiki/Q98249147"
+    },
+    "osm": {
+      "type": "way",
+      "id": 1469546724,
+      "url": "https://www.openstreetmap.org/way/1469546724"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  },
+  {
+    "id": "Q3672048",
+    "slug": "chiesa-di-san-silvestro-q3672048",
+    "name": "chiesa di San Silvestro",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "13th century",
+      "kind": "century",
+      "start_year": 1201,
+      "end_year": 1300,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.706455,
+      "longitude": 14.458308,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "PanoramaChiesaSanSilvestro BagnoliDelTrigno.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:PanoramaChiesaSanSilvestro_BagnoliDelTrigno.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+        "attribution_required": "true"
+      },
+      "artist": "Luigi Salimbeni",
+      "source": "wikimedia_commons"
+    },
+    "website": null,
+    "wikidata": {
+      "id": "Q3672048",
+      "url": "https://www.wikidata.org/wiki/Q3672048"
+    },
+    "osm": {
+      "type": "way",
+      "id": 369107371,
+      "url": "https://www.openstreetmap.org/way/369107371"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  },
+  {
+    "id": "Q111525772",
+    "slug": "chiesa-di-sant-agostino-q111525772",
+    "name": "chiesa di Sant'Agostino",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "1200",
+      "kind": "year",
+      "start_year": 1200,
+      "end_year": 1200,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.485267,
+      "longitude": 14.044389,
+      "source": "wikidata"
+    },
+    "hero_image": null,
+    "website": null,
+    "wikidata": {
+      "id": "Q111525772",
+      "url": "https://www.wikidata.org/wiki/Q111525772"
+    },
+    "osm": {
+      "type": "way",
+      "id": 1119342096,
+      "url": "https://www.openstreetmap.org/way/1119342096"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": true
+    }
+  },
+  {
+    "id": "Q98217148",
+    "slug": "chiesa-di-santa-maria-assunta-in-cielo-q98217148",
+    "name": "chiesa di Santa Maria Assunta in Cielo",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "1241",
+      "kind": "year",
+      "start_year": 1241,
+      "end_year": 1241,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.54419444444444,
+      "longitude": 14.487333333333334,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "Chiesa di Santa Maria Assunta Spinete.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chiesa_di_Santa_Maria_Assunta_Spinete.jpg/1920px-Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_Assunta_Spinete.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+        "attribution_required": "true"
+      },
+      "artist": "Goldmund100",
+      "source": "wikimedia_commons"
+    },
+    "website": null,
+    "wikidata": {
+      "id": "Q98217148",
+      "url": "https://www.wikidata.org/wiki/Q98217148"
+    },
+    "osm": {
+      "type": "way",
+      "id": 378932621,
+      "url": "https://www.openstreetmap.org/way/378932621"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  },
+  {
+    "id": "Q98408389",
+    "slug": "chiesa-di-santa-maria-del-carmine-spinete-q98408389",
+    "name": "chiesa di Santa Maria del Carmine Spinete",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "12th century",
+      "kind": "century",
+      "start_year": 1101,
+      "end_year": 1200,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.545086,
+      "longitude": 14.486687,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "Santa Maria del Carmine Spinete.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Santa_Maria_del_Carmine_Spinete.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Carmine_Spinete.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+        "attribution_required": "true"
+      },
+      "artist": "Goldmund100",
+      "source": "wikimedia_commons"
+    },
+    "website": null,
+    "wikidata": {
+      "id": "Q98408389",
+      "url": "https://www.wikidata.org/wiki/Q98408389"
+    },
+    "osm": {
+      "type": "way",
+      "id": 378932616,
+      "url": "https://www.openstreetmap.org/way/378932616"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  },
+  {
+    "id": "Q3673847",
+    "slug": "chiesa-di-santa-maria-della-libera-q3673847",
+    "name": "chiesa di Santa Maria della Libera",
+    "type": "church",
+    "region": "Molise",
+    "date": {
+      "display": "1320",
+      "kind": "year",
+      "start_year": 1320,
+      "end_year": 1320,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.5579,
+      "longitude": 14.6589,
+      "source": "wikidata"
+    },
+    "hero_image": null,
+    "website": null,
+    "wikidata": {
+      "id": "Q3673847",
+      "url": "https://www.wikidata.org/wiki/Q3673847"
+    },
+    "osm": {
+      "type": "way",
+      "id": 261652725,
+      "url": "https://www.openstreetmap.org/way/261652725"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": true
+    }
+  },
+  {
+    "id": "Q2942593",
+    "slug": "concattedrale-di-san-bartolomeo-q2942593",
+    "name": "concattedrale di San Bartolomeo",
+    "type": "cathedral",
+    "region": "Molise",
+    "date": {
+      "display": "1073",
+      "kind": "year",
+      "start_year": 1073,
+      "end_year": 1073,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.4819,
+      "longitude": 14.4726,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "San Bartolomeo (Bojano).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/San_Bartolomeo_%28Bojano%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/San_Bartolomeo_%28Bojano%29.jpg/1920px-San_Bartolomeo_%28Bojano%29.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:San_Bartolomeo_(Bojano).jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+        "attribution_required": "true"
+      },
+      "artist": "Goldmund100",
+      "source": "wikimedia_commons"
+    },
+    "website": {
+      "url": "http://www.comune.bojano.cb.it/page.php?IDPagina=20",
+      "source": "wikidata"
+    },
+    "wikidata": {
+      "id": "Q2942593",
+      "url": "https://www.wikidata.org/wiki/Q2942593"
+    },
+    "osm": {
+      "type": "way",
+      "id": 160425095,
+      "url": "https://www.openstreetmap.org/way/160425095"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  },
+  {
+    "id": "Q2942847",
+    "slug": "concattedrale-di-santa-maria-assunta-q2942847",
+    "name": "concattedrale di Santa Maria Assunta",
+    "type": "cathedral",
+    "region": "Molise",
+    "date": {
+      "display": "11th century",
+      "kind": "century",
+      "start_year": 1001,
+      "end_year": 1100,
+      "source": "wikidata",
+      "source_name": null,
+      "source_url": null
+    },
+    "coordinates": {
+      "latitude": 41.48385,
+      "longitude": 14.03841,
+      "source": "wikidata"
+    },
+    "hero_image": {
+      "filename": "Venafro - concattedrale di Santa Maria Assunta - facciata.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg/1920px-Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+      "description_url": "https://commons.wikimedia.org/wiki/File:Venafro_-_concattedrale_di_Santa_Maria_Assunta_-_facciata.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+        "attribution_required": "true"
+      },
+      "artist": "Obelix89",
+      "source": "wikimedia_commons"
+    },
+    "website": null,
+    "wikidata": {
+      "id": "Q2942847",
+      "url": "https://www.wikidata.org/wiki/Q2942847"
+    },
+    "osm": {
+      "type": "way",
+      "id": 183346931,
+      "url": "https://www.openstreetmap.org/way/183346931"
+    },
+    "status": "ready",
+    "review": {
+      "blocking": [],
+      "image_review_required": false
+    }
+  }
+]

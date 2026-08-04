@@ -1,0 +1,37 @@
+{
+  "total_churches": 15,
+  "unique_files": 10,
+  "files_enriched": 10,
+  "missing_files": 0,
+  "files_missing_license_metadata": 0,
+  "churches_without_wikidata_images": 5,
+  "license_counts": {
+    "CC BY-SA 4.0": 5,
+    "CC BY-SA 3.0": 3,
+    "Public domain": 2
+  },
+  "missing_file_records": [],
+  "missing_license_records": [],
+  "churches_without_images": [
+    {
+      "wikidata_id": "Q3668604",
+      "name": "chiesa del Sacro Cuore di Gesù"
+    },
+    {
+      "wikidata_id": "Q111525622",
+      "name": "chiesa di San Giorgio"
+    },
+    {
+      "wikidata_id": "Q3671431",
+      "name": "chiesa di San Nicola"
+    },
+    {
+      "wikidata_id": "Q111525772",
+      "name": "chiesa di Sant'Agostino"
+    },
+    {
+      "wikidata_id": "Q3673847",
+      "name": "chiesa di Santa Maria della Libera"
+    }
+  ]
+}

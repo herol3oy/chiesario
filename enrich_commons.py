@@ -8,10 +8,10 @@ from project_config import (
     COMMONS_CACHE_FILE,
     COMMONS_FILE,
     COMMONS_REPORT_FILE,
-    DATES_FILE,
+    HISTORIC_SCOPE_FILE,
 )
 
-INPUT_FILE = DATES_FILE
+INPUT_FILE = HISTORIC_SCOPE_FILE
 CACHE_FILE = COMMONS_CACHE_FILE
 OUTPUT_FILE = COMMONS_FILE
 REPORT_FILE = COMMONS_REPORT_FILE
@@ -739,7 +739,7 @@ def main():
     if not INPUT_FILE.exists():
         raise FileNotFoundError(
             f"{INPUT_FILE} not found.\n"
-            "Run resolve_dates.py first."
+            "Run resolve_historic_scope.py first."
         )
 
     churches = load_json(

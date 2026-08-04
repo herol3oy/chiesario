@@ -1030,9 +1030,9 @@
           },
           {
             "name_tokens": [
-              "sant",
               "abate",
-              "antonio"
+              "antonio",
+              "sant"
             ]
           },
           "landscape_or_square"
@@ -1068,10 +1068,10 @@
           },
           {
             "name_tokens": [
-              "sant",
-              "abate",
               "anna",
-              "antonio"
+              "abate",
+              "antonio",
+              "sant"
             ]
           },
           "landscape_or_square"
@@ -1169,8 +1169,8 @@
           },
           {
             "name_tokens": [
-              "maria",
-              "nevi"
+              "nevi",
+              "maria"
             ]
           },
           "license_requires_review"
@@ -1202,16 +1202,16 @@
           },
           {
             "hard_reject_terms": [
+              "fresco",
               "interior",
               "sculpture",
-              "fresco",
               "painting"
             ]
           },
           {
             "name_tokens": [
-              "cavalieri",
-              "stefano"
+              "stefano",
+              "cavalieri"
             ]
           },
           "landscape_or_square"
@@ -1230,8 +1230,8 @@
           "wikidata_p18",
           {
             "hard_reject_terms": [
-              "interno",
-              "interior"
+              "interior",
+              "interno"
             ]
           },
           {
@@ -1254,8 +1254,8 @@
           "wikidata_p18",
           {
             "name_tokens": [
-              "rocco",
-              "oratorio"
+              "oratorio",
+              "rocco"
             ]
           },
           "license_requires_review"
@@ -1290,8 +1290,8 @@
           },
           {
             "name_tokens": [
-              "sagrestia",
-              "vecchia"
+              "vecchia",
+              "sagrestia"
             ]
           }
         ]

@@ -11,7 +11,7 @@
     "monastery": 2,
     "sacristy": 1
   },
-  "type_review_required": 7,
+  "type_review_required": 3,
   "review_records": [
     {
       "wikidata_id": "Q3635657",
@@ -66,26 +66,6 @@
       "selected_type": "basilica"
     },
     {
-      "wikidata_id": "Q1066935",
-      "name": "battistero di San Giovanni",
-      "wikidata_types": [
-        {
-          "qid": "Q210077",
-          "label": "baptistery"
-        },
-        {
-          "qid": "Q16970",
-          "label": "church building"
-        }
-      ],
-      "type_candidates": [
-        "baptistery",
-        "chapel",
-        "church"
-      ],
-      "selected_type": "baptistery"
-    },
-    {
       "wikidata_id": "Q732511",
       "name": "battistero di San Giovanni",
       "wikidata_types": [
@@ -105,78 +85,6 @@
         "church"
       ],
       "selected_type": "baptistery"
-    },
-    {
-      "wikidata_id": "Q191739",
-      "name": "Cattedrale di Santa Maria del Fiore",
-      "wikidata_types": [
-        {
-          "qid": "Q120560",
-          "label": "minor basilica"
-        },
-        {
-          "qid": "Q2977",
-          "label": "cathedral"
-        },
-        {
-          "qid": "Q33506",
-          "label": "museum"
-        }
-      ],
-      "type_candidates": [
-        "cathedral",
-        "basilica",
-        "church"
-      ],
-      "selected_type": "cathedral"
-    },
-    {
-      "wikidata_id": "Q1236622",
-      "name": "duomo di Prato",
-      "wikidata_types": [
-        {
-          "qid": "Q2977",
-          "label": "cathedral"
-        },
-        {
-          "qid": "Q120560",
-          "label": "minor basilica"
-        },
-        {
-          "qid": "Q16970",
-          "label": "church building"
-        }
-      ],
-      "type_candidates": [
-        "cathedral",
-        "basilica",
-        "church"
-      ],
-      "selected_type": "cathedral"
-    },
-    {
-      "wikidata_id": "Q578805",
-      "name": "Sagrestia Vecchia",
-      "wikidata_types": [
-        {
-          "qid": "Q468939",
-          "label": "sacristy"
-        },
-        {
-          "qid": "Q391414",
-          "label": "architectural element"
-        },
-        {
-          "qid": "Q108325",
-          "label": "chapel"
-        }
-      ],
-      "type_candidates": [
-        "sacristy",
-        "chapel",
-        "church"
-      ],
-      "selected_type": "sacristy"
     }
   ]
 }

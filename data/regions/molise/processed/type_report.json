@@ -1,0 +1,33 @@
+{
+  "total": 610,
+  "counts": {
+    "church": 577,
+    "chapel": 23,
+    "cathedral": 7,
+    "basilica": 2,
+    "abbey": 1
+  },
+  "type_review_required": 1,
+  "review_records": [
+    {
+      "wikidata_id": "Q7419721",
+      "name": "chiesa di Santa Maria della Strada",
+      "wikidata_types": [
+        {
+          "qid": "Q160742",
+          "label": "abbey"
+        },
+        {
+          "qid": "Q16970",
+          "label": "church building"
+        }
+      ],
+      "type_candidates": [
+        "abbey",
+        "monastery",
+        "church"
+      ],
+      "selected_type": "abbey"
+    }
+  ]
+}

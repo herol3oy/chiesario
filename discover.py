@@ -1,3 +1,6 @@
+import random
+import time
+
 import requests
 
 from project_config import (
@@ -8,8 +11,128 @@ from project_config import (
 )
 
 
-ENDPOINT = "https://query.wikidata.org/sparql"
+SPARQL_ENDPOINT = (
+    "https://query.wikidata.org/sparql"
+)
 
+MAX_RETRIES = 6
+
+RETRYABLE_STATUS_CODES = {
+    429,
+    500,
+    502,
+    503,
+    504,
+}
+
+HEADERS = {
+    "User-Agent": (
+        "historic-churches-italy/0.1 "
+        "(research data pipeline)"
+    ),
+    "Accept": (
+        "application/"
+        "sparql-results+json"
+    ),
+}
+
+
+def run_sparql_query(query):
+    for attempt in range(
+        1,
+        MAX_RETRIES + 1,
+    ):
+        try:
+            response = requests.get(
+                SPARQL_ENDPOINT,
+                params={
+                    "query": query,
+                    "format": "json",
+                },
+                headers=HEADERS,
+                timeout=120,
+            )
+
+            if (
+                response.status_code
+                in RETRYABLE_STATUS_CODES
+            ):
+                if attempt == MAX_RETRIES:
+                    response.raise_for_status()
+
+                retry_after = (
+                    response.headers.get(
+                        "Retry-After"
+                    )
+                )
+
+                if (
+                    retry_after
+                    and retry_after.isdigit()
+                ):
+                    delay = float(
+                        retry_after
+                    )
+                else:
+                    delay = min(
+                        60,
+                        2 ** attempt,
+                    )
+
+                    delay += random.uniform(
+                        0,
+                        1,
+                    )
+
+                print(
+                    f"WDQS returned "
+                    f"{response.status_code}. "
+                    f"Retry {attempt}/"
+                    f"{MAX_RETRIES} "
+                    f"in {delay:.1f}s..."
+                )
+
+                time.sleep(delay)
+                continue
+
+            response.raise_for_status()
+
+            return response.json()
+
+        except (
+            requests.Timeout,
+            requests.ConnectionError,
+        ) as exc:
+            if attempt == MAX_RETRIES:
+                raise
+
+            delay = min(
+                60,
+                2 ** attempt,
+            )
+
+            delay += random.uniform(
+                0,
+                1,
+            )
+
+            print(
+                f"WDQS connection error: "
+                f"{exc}"
+            )
+
+            print(
+                f"Retry {attempt}/"
+                f"{MAX_RETRIES} "
+                f"in {delay:.1f}s..."
+            )
+
+            time.sleep(delay)
+
+    raise RuntimeError(
+        "Wikidata query failed "
+        "after all retries."
+    )
 
 def main():
     ensure_directories()
@@ -20,33 +143,16 @@ def main():
     )
 
     query = f"""
-SELECT DISTINCT ?church ?inception
+SELECT DISTINCT ?church
 WHERE {{
   wd:Q16970 ^wdt:P279*/^wdt:P31 ?church .
   ?church wdt:P131+ wd:{REGION_QID} .
-  ?church wdt:P571 ?inception .
-
-  FILTER(
-    ?inception <
-    "1800-01-01T00:00:00Z"^^xsd:dateTime
-  )
 }}
 """
 
-    response = requests.get(
-        ENDPOINT,
-        params={
-            "query": query,
-            "format": "json",
-        },
-        headers={
-            "User-Agent": "ItalianChurchDirectory/0.1"
-        },
-        timeout=60,
+    data = run_sparql_query(
+        query
     )
-
-    response.raise_for_status()
-    data = response.json()
 
     qids = []
 
