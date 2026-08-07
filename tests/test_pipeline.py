@@ -7,6 +7,7 @@ from unittest.mock import patch
 import build_catalog
 import build_web_data
 import fetch_entities
+from enrich_osm import build_query as build_osm_query
 from enrich_commons import mark_pending_manual_date_records
 from classify_types import type_review_required
 from enrich_beweb import parse_history, parse_information
@@ -163,6 +164,18 @@ class EntityRefreshTests(unittest.TestCase):
                     fetch_entities.load_existing_entities(True),
                     {"Q1": {"id": "Q1"}},
                 )
+
+
+class OsmQueryTests(unittest.TestCase):
+    def test_query_uses_exact_indexable_wikidata_values(self):
+        query = build_osm_query(["Q1", "Q20"])
+        self.assertIn('nwr["wikidata"="Q1"]', query)
+        self.assertIn('nwr["wikidata"="Q20"]', query)
+        self.assertNotIn('"wikidata"~', query)
+
+    def test_query_rejects_invalid_qids(self):
+        with self.assertRaises(ValueError):
+            build_osm_query(["Q1)bad"])
 
 
 class DeferredEnrichmentTests(unittest.TestCase):

@@ -19,6 +19,7 @@ REPORT_FILE = OSM_REPORT_FILE
 
 OVERPASS_ENDPOINTS = [
     "https://overpass-api.de/api/interpreter",
+    "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
     "https://overpass.private.coffee/api/interpreter",
 ]
 
@@ -100,12 +101,17 @@ def build_query(qids):
 
     validate_qids(qids)
 
-    pattern = "|".join(qids)
+    selectors = "\n".join(
+        f'nwr["wikidata"="{qid}"];'
+        for qid in qids
+    )
 
     return f"""
 [out:json][timeout:30];
 
-nwr["wikidata"~"^({pattern})$"];
+(
+{selectors}
+);
 
 out center tags;
 """

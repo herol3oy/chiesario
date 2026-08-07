@@ -1,0 +1,186 @@
+{
+  "total": 2958,
+  "counts": {
+    "church": 2752,
+    "chapel": 132,
+    "former_church": 21,
+    "basilica": 19,
+    "cathedral": 16,
+    "monastery": 7,
+    "oratory": 7,
+    "abbey": 4
+  },
+  "type_review_required": 7,
+  "review_records": [
+    {
+      "wikidata_id": "Q1775922",
+      "name": "abbazia di Montecorona",
+      "wikidata_types": [
+        {
+          "qid": "Q160742",
+          "label": "abbey"
+        },
+        {
+          "qid": "Q44613",
+          "label": "monastery"
+        },
+        {
+          "qid": "Q317557",
+          "label": "parish church"
+        },
+        {
+          "qid": "Q120560",
+          "label": "minor basilica"
+        }
+      ],
+      "type_candidates": [
+        "basilica",
+        "abbey",
+        "monastery",
+        "church"
+      ],
+      "selected_type": "basilica"
+    },
+    {
+      "wikidata_id": "Q55673145",
+      "name": "Auditorium San Domenico",
+      "wikidata_types": [
+        {
+          "qid": "Q230752",
+          "label": "auditorium"
+        },
+        {
+          "qid": "Q96371632",
+          "label": "secularized church"
+        },
+        {
+          "qid": "Q817056",
+          "label": "benedictine abbey"
+        }
+      ],
+      "type_candidates": [
+        "former_church",
+        "abbey",
+        "monastery",
+        "church"
+      ],
+      "selected_type": "former_church"
+    },
+    {
+      "wikidata_id": "Q810106",
+      "name": "basilica di Santa Chiara",
+      "wikidata_types": [
+        {
+          "qid": "Q120560",
+          "label": "minor basilica"
+        },
+        {
+          "qid": "Q1128397",
+          "label": "convent"
+        }
+      ],
+      "type_candidates": [
+        "basilica",
+        "monastery",
+        "church"
+      ],
+      "selected_type": "basilica"
+    },
+    {
+      "wikidata_id": "Q16540558",
+      "name": "chiesa di Sant'Eufemia",
+      "wikidata_types": [
+        {
+          "qid": "Q19899465",
+          "label": "former church building"
+        },
+        {
+          "qid": "Q163687",
+          "label": "basilica"
+        }
+      ],
+      "type_candidates": [
+        "basilica",
+        "former_church",
+        "church"
+      ],
+      "selected_type": "basilica"
+    },
+    {
+      "wikidata_id": "Q96097907",
+      "name": "ex chiesa e monastero di San Benedetto dei Condotti",
+      "wikidata_types": [
+        {
+          "qid": "Q19899465",
+          "label": "former church building"
+        },
+        {
+          "qid": "Q44613",
+          "label": "monastery"
+        },
+        {
+          "qid": "Q16970",
+          "label": "church building"
+        }
+      ],
+      "type_candidates": [
+        "former_church",
+        "monastery",
+        "church"
+      ],
+      "selected_type": "former_church"
+    },
+    {
+      "wikidata_id": "Q124080145",
+      "name": "ex monastero di San Matteo degli Armeni",
+      "wikidata_types": [
+        {
+          "qid": "Q96371565",
+          "label": "former monastery"
+        },
+        {
+          "qid": "Q96371632",
+          "label": "secularized church"
+        }
+      ],
+      "type_candidates": [
+        "former_church",
+        "monastery",
+        "church"
+      ],
+      "selected_type": "former_church"
+    },
+    {
+      "wikidata_id": "Q55354183",
+      "name": "Museo del Monastero delle Orsoline",
+      "wikidata_types": [
+        {
+          "qid": "Q207694",
+          "label": "art museum"
+        },
+        {
+          "qid": "Q92755865",
+          "label": "religious museum"
+        },
+        {
+          "qid": "Q19899465",
+          "label": "former church building"
+        },
+        {
+          "qid": "Q44613",
+          "label": "monastery"
+        },
+        {
+          "qid": "Q124830213",
+          "label": "museum of a public entity"
+        }
+      ],
+      "type_candidates": [
+        "former_church",
+        "monastery",
+        "church"
+      ],
+      "selected_type": "former_church"
+    }
+  ]
+}

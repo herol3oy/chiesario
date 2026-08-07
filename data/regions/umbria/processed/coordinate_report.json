@@ -1,0 +1,2339 @@
+{
+  "total": 2958,
+  "canonical_from_wikidata": 2531,
+  "canonical_from_osm": 7,
+  "unresolved": 420,
+  "sources_compared": 251,
+  "coordinate_disagreements": 9,
+  "review_threshold_meters": 150,
+  "average_wikidata_osm_distance_meters": 1877.04,
+  "maximum_wikidata_osm_distance_meters": 314956.25,
+  "osm_fallback_records": [
+    {
+      "wikidata_id": "Q126692676",
+      "name": "Cappella Santa Caterina d'Alessandria",
+      "latitude": 42.7252187,
+      "longitude": 12.7497524
+    },
+    {
+      "wikidata_id": "Q123910541",
+      "name": "chiesa di San Giacomo di Muro Rupto",
+      "latitude": 43.0741065,
+      "longitude": 12.6090793
+    },
+    {
+      "wikidata_id": "Q89206787",
+      "name": "chiesa di San Lorenzo",
+      "latitude": 42.9994011,
+      "longitude": 12.7175353
+    },
+    {
+      "wikidata_id": "Q123586431",
+      "name": "chiesa di San Vitale de Murellis",
+      "latitude": 42.662009,
+      "longitude": 12.3356547
+    },
+    {
+      "wikidata_id": "Q55168414",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "latitude": 42.7719905,
+      "longitude": 12.5270584
+    },
+    {
+      "wikidata_id": "Q120672003",
+      "name": "chiesa di Santa Maria delle Rose",
+      "latitude": 43.0717164,
+      "longitude": 12.6160569
+    },
+    {
+      "wikidata_id": "Q22263798",
+      "name": "santuario di Santa Maria della Misericordia in Ponte della Pietra",
+      "latitude": 43.0751738,
+      "longitude": 12.363457
+    }
+  ],
+  "unresolved_records": [
+    {
+      "wikidata_id": "Q134502211",
+      "name": "Basilica di Gesù Salvatore",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178488",
+      "name": "cappella attigua alla chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123247518",
+      "name": "cappella del Castello di Pieve del Vescovo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123375011",
+      "name": "cappella del Pontificio seminario regionale umbro Pio XI",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178244",
+      "name": "cappella della Confraternita del Gonfalone",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q3657450",
+      "name": "cappella della Maddalena",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178245",
+      "name": "cappella della Madonna ex Monastero di S.Severo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55160322",
+      "name": "cappella della Piaggiola",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55139257",
+      "name": "cappella della Rocca",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123850888",
+      "name": "cappella delle Rondini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q131628808",
+      "name": "cappella di Palazzo Trinci",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123374537",
+      "name": "cappella di San Bernardino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q132147961",
+      "name": "Cappella di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55171747",
+      "name": "cappella di Sant'Antonio Abate",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q117865994",
+      "name": "Cappella di Sant'Antonio Abate",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178249",
+      "name": "cappella di Santa Chiara",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178247",
+      "name": "cappella ex collegio della Sapienza",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172145",
+      "name": "cappella Madonna",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55186483",
+      "name": "chiesa abbaziale di S. Nicolò",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087412",
+      "name": "chiesa antico monastero delle donne benedettine",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55086277",
+      "name": "chiesa arcipretale di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178389",
+      "name": "chiesa Assunta in Cielo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55187628",
+      "name": "chiesa col titolo S. Nicola di Bari",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55174393",
+      "name": "chiesa collegiale Arcipretale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55082612",
+      "name": "chiesa collegiata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136059",
+      "name": "chiesa collegiata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672680",
+      "name": "chiesa comparrocchiale di San Paolo Apostolo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115723",
+      "name": "chiesa dei Cappuccini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55117243",
+      "name": "chiesa dei Padri Cappuccini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136096",
+      "name": "chiesa dei Padri Serviti",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178260",
+      "name": "chiesa dei Santi Agata e Severo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55188834",
+      "name": "chiesa dei Santi Cristoforo ed Emiliano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178306",
+      "name": "chiesa dei Santi Filippo e Giacomo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181846",
+      "name": "chiesa dei Santi Giuliana ed Alberto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672683",
+      "name": "chiesa dei Santi Gregorio Magno e Romano Martire",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586736",
+      "name": "chiesa dei Santi Innocenti",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120671955",
+      "name": "chiesa dei Santi Quirico e Giulitta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136071",
+      "name": "chiesa dei Santi Sebastiano e Rocco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672684",
+      "name": "chiesa del Beato Giacomo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164563",
+      "name": "chiesa del Brefotrofio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672686",
+      "name": "chiesa del Buon Consiglio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178257",
+      "name": "chiesa del Carmine",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55132719",
+      "name": "chiesa del Carmine",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169497",
+      "name": "chiesa del Carmine",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169936",
+      "name": "chiesa del Carmine",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172773",
+      "name": "chiesa del Carmine; oratorio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172109",
+      "name": "chiesa del castello",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164564",
+      "name": "chiesa del Cenobio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55180925",
+      "name": "chiesa del cimitero",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55180933",
+      "name": "chiesa del cimitero",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55180918",
+      "name": "chiesa del cimitero",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672687",
+      "name": "chiesa del Cuore Immacolato di Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178258",
+      "name": "chiesa del Gesù",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123247845",
+      "name": "chiesa del Gonfalone",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123247844",
+      "name": "chiesa del Gonfalone",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178295",
+      "name": "chiesa del monastero di San Tommaso",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672484",
+      "name": "chiesa del Rifugio di San Leonardo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136046",
+      "name": "chiesa del Sacramento",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55170701",
+      "name": "chiesa del Sacramento",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120671958",
+      "name": "chiesa del Santissimo Crocifisso della Rocchetta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172078",
+      "name": "chiesa del Santissimo Sacramento",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172139",
+      "name": "chiesa del Santissimo Salvatore",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172219",
+      "name": "chiesa dell'Addolorata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q122383424",
+      "name": "chiesa dell'Assunzione di Maria Vergine (Pieve di Compresseto)",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178524",
+      "name": "chiesa dell'Università",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120671959",
+      "name": "chiesa della Buona Morte",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123906185",
+      "name": "chiesa della Collegiata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136042",
+      "name": "chiesa della Concezione",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55174395",
+      "name": "chiesa della Confraternita della Buona Morte",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172069",
+      "name": "chiesa della Confraternita della Misericordia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q124080058",
+      "name": "chiesa della Confraternita delle Sacre Stimmate",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087413",
+      "name": "chiesa della Confraternita di Sant'Antonio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55162262",
+      "name": "chiesa della Confraternita di Santa Croce",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55085502",
+      "name": "chiesa della Cura",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672485",
+      "name": "chiesa della Madona del Soccorso",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169977",
+      "name": "chiesa della Madonna",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123436189",
+      "name": "chiesa della Madonna del Cerqueto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673116",
+      "name": "chiesa della Madonna del Prato",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672739",
+      "name": "chiesa della Madonna del Quattrino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672486",
+      "name": "chiesa della Madonna del Rosario",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123272889",
+      "name": "chiesa della Madonna del Soccorso",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123272888",
+      "name": "chiesa della Madonna del Soccorso",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672487",
+      "name": "chiesa della Madonna della cintura",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181864",
+      "name": "chiesa della Madonna della Cona",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673161",
+      "name": "chiesa della Madonna della Concezione",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672438",
+      "name": "chiesa della Madonna della Fiducia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672488",
+      "name": "chiesa della Madonna della Neve",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181869",
+      "name": "chiesa della Madonna della Neve",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672971",
+      "name": "chiesa della Madonna della Quercia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q130431742",
+      "name": "chiesa della Madonna della Valle",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181854",
+      "name": "chiesa della Madonna della Vela",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115808",
+      "name": "chiesa della Madonna delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169506",
+      "name": "chiesa della Madonna delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q98107748",
+      "name": "chiesa della Madonna di Braccio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172210",
+      "name": "chiesa della Madonna di Onde",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672195",
+      "name": "chiesa della Madonnuccia di Montemaggiore",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172776",
+      "name": "chiesa della Misericordia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172135",
+      "name": "chiesa della Misericordia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55191949",
+      "name": "chiesa della Misericordia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181858",
+      "name": "chiesa della Natività",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55168163",
+      "name": "chiesa della Rocca",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115851",
+      "name": "chiesa della Santa Trinità",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123580700",
+      "name": "chiesa della Santissima Annunziata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55157192",
+      "name": "chiesa della Santissima Annunziata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172055",
+      "name": "chiesa della Santissima Annunziata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172819",
+      "name": "chiesa della Santissima Trinità",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672690",
+      "name": "chiesa della Santissima Trinità",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123420667",
+      "name": "chiesa della Santissima Trinità in San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164341",
+      "name": "chiesa della Trinità",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169495",
+      "name": "chiesa delle Agostiniane",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672490",
+      "name": "chiesa di Assunzione di Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672489",
+      "name": "chiesa di Assunzione di Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672692",
+      "name": "chiesa di Colpertana",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55162263",
+      "name": "chiesa di Fratta Todina",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172208",
+      "name": "chiesa di Loreto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672491",
+      "name": "chiesa di Maria Regina della Pace",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172780",
+      "name": "chiesa di S. Agostino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673327",
+      "name": "chiesa di S. Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172816",
+      "name": "chiesa di S. Spirito degli Armeni",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672492",
+      "name": "chiesa di Sacro Cuore",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178474",
+      "name": "chiesa di San Bartolomeo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169520",
+      "name": "chiesa di San Bartolomeo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55156575",
+      "name": "chiesa di San Bartolomeo delle Valli",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55086443",
+      "name": "chiesa di San Benedetto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115785",
+      "name": "chiesa di San Benedetto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q124080146",
+      "name": "chiesa di San Benedetto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123514038",
+      "name": "chiesa di San Benedetto e Paolino da Coccorano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910526",
+      "name": "chiesa di San Benedetto in Fundis",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178283",
+      "name": "chiesa di San Bernardino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910529",
+      "name": "chiesa di San Biagio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672066",
+      "name": "chiesa di San Biagio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55168155",
+      "name": "chiesa di San Biagio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673330",
+      "name": "chiesa di san Biagio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123295628",
+      "name": "chiesa di San Carlo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172181",
+      "name": "chiesa di San Carlo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586052",
+      "name": "chiesa di San Claudio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178298",
+      "name": "chiesa di San Crispino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123295631",
+      "name": "chiesa di San Cristoforo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178302",
+      "name": "chiesa di San Donato",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672067",
+      "name": "chiesa di San Donato",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55167652",
+      "name": "chiesa di San Donato",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172189",
+      "name": "chiesa di San Emidio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55157196",
+      "name": "chiesa di San Felicianetto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120671976",
+      "name": "chiesa di San Feliciano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172062",
+      "name": "chiesa di San Filippo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672695",
+      "name": "chiesa di San Filippo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123310387",
+      "name": "chiesa di San Filippo Neri",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123397211",
+      "name": "chiesa di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136064",
+      "name": "chiesa di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123397209",
+      "name": "chiesa di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55086482",
+      "name": "chiesa di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115740",
+      "name": "chiesa di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123418288",
+      "name": "chiesa di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178310",
+      "name": "chiesa di San Francesco al Monte",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123418290",
+      "name": "chiesa di San Francesco alle Donne",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q3670166",
+      "name": "chiesa di San Francesco di Paola",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172113",
+      "name": "chiesa di San Giacomo e Piè della Rocca",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672214",
+      "name": "chiesa di San Giovanni",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672696",
+      "name": "chiesa di San Giovanni Apostolo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672069",
+      "name": "chiesa di San Giovanni Battista",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672997",
+      "name": "chiesa di San Giovanni Evangelista",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55160358",
+      "name": "chiesa di San Giovanni in Borgo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178312",
+      "name": "chiesa di San Giovannuccio del Fosso",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178313",
+      "name": "chiesa di San Girolamo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178447",
+      "name": "chiesa di San Giuseppe",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672496",
+      "name": "chiesa di San Giuseppe",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178450",
+      "name": "chiesa di San Giustino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178425",
+      "name": "chiesa di San Leonardo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55167746",
+      "name": "chiesa di San Leonardo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172810",
+      "name": "chiesa di San Lorenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178378",
+      "name": "chiesa di San Lorenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586167",
+      "name": "chiesa di San Lorenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169513",
+      "name": "chiesa di San Lorenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172131",
+      "name": "chiesa di San Lorenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172124",
+      "name": "chiesa di San Lorenzo in Argentiglia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672752",
+      "name": "chiesa di San Macario",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178376",
+      "name": "chiesa di San Marco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586198",
+      "name": "chiesa di San Martino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115869",
+      "name": "chiesa di San Martino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164580",
+      "name": "chiesa di San Martino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169498",
+      "name": "chiesa di San Martino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123514060",
+      "name": "chiesa di San Martino in Coccomelli",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586209",
+      "name": "chiesa di San Matteo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178329",
+      "name": "chiesa di San Matteo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q121435946",
+      "name": "chiesa di San Matteo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586224",
+      "name": "chiesa di San Michele",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178509",
+      "name": "chiesa di San Michele Arcangelo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169545",
+      "name": "chiesa di San Michele Arcangelo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169983",
+      "name": "chiesa di San Michele Arcangelo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123385828",
+      "name": "chiesa di San Michele Arcangelo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087418",
+      "name": "chiesa di San Michele Arcangelo e Santa Croce",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673002",
+      "name": "chiesa di San Michele Arcangelo in Botina",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910560",
+      "name": "chiesa di San Michele vecchio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115825",
+      "name": "chiesa di San Niccolò",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586233",
+      "name": "chiesa di San Nicola",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55086282",
+      "name": "chiesa di San Nicolò",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123987071",
+      "name": "chiesa di San Pancrazio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910564",
+      "name": "chiesa di San Pancrazio nuovo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136069",
+      "name": "chiesa di San Pietro",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672502",
+      "name": "chiesa di San Pietro Apostolo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178432",
+      "name": "chiesa di San Pietro e Biagio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172177",
+      "name": "chiesa di San Pietro e Paolo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673003",
+      "name": "chiesa di San Pietro in Botina",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55132709",
+      "name": "chiesa di San Pietro in Ponte",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178331",
+      "name": "chiesa di San Pietro Martire",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586342",
+      "name": "chiesa di San Rocco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123850854",
+      "name": "chiesa di San Rocco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55160364",
+      "name": "chiesa di San Rocco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672503",
+      "name": "chiesa di San Rocco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120671992",
+      "name": "chiesa di San Rufino d'Arce",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178335",
+      "name": "chiesa di San Savino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178383",
+      "name": "chiesa di San Sebastiano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120671994",
+      "name": "chiesa di San Sebastiano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586386",
+      "name": "chiesa di San Sebastiano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123335098",
+      "name": "chiesa di San Silvestro",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178516",
+      "name": "chiesa di San Simone",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087681",
+      "name": "chiesa di San Simone",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q83530288",
+      "name": "chiesa di San Simone del Carmine",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673005",
+      "name": "chiesa di San Simone in Passano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178484",
+      "name": "chiesa di San Tommaso",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672236",
+      "name": "chiesa di San Vincenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q54087662",
+      "name": "chiesa di San Vincenzo vescovo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178355",
+      "name": "chiesa di Sant'Agata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178262",
+      "name": "chiesa di Sant'Agnese",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178491",
+      "name": "chiesa di Sant'Agnese",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136061",
+      "name": "chiesa di Sant'Agostino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164320",
+      "name": "chiesa di Sant'Agostino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55137870",
+      "name": "chiesa di Sant'Agostino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172053",
+      "name": "chiesa di Sant'Agostino Minore",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586455",
+      "name": "chiesa di Sant'Ambrogio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164567",
+      "name": "chiesa di Sant'Ambrogio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178485",
+      "name": "chiesa di Sant'Andrea",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586462",
+      "name": "chiesa di Sant'Andrea",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169518",
+      "name": "chiesa di Sant'Andrea",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672722",
+      "name": "chiesa di Sant'Andrea Apostolo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672255",
+      "name": "chiesa di Sant'Andrea in Corona",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672256",
+      "name": "chiesa di Sant'Andrea in Montemaggiore",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910629",
+      "name": "chiesa di Sant'Angelo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q16487461",
+      "name": "chiesa di Sant'Angelo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q3672514",
+      "name": "chiesa di Sant'Angelo della Pace",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586475",
+      "name": "chiesa di Sant'Angelo di Pantanelli",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178277",
+      "name": "chiesa di Sant'Angelo in porta S.Angelo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q124005571",
+      "name": "chiesa di Sant'Anna",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q16540506",
+      "name": "chiesa di Sant'Anna",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178278",
+      "name": "chiesa di Sant'Antonino in Porta S.Susanna",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172787",
+      "name": "chiesa di Sant'Antonio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087668",
+      "name": "chiesa di Sant'Antonio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123497081",
+      "name": "chiesa di Sant'Antonio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172179",
+      "name": "chiesa di Sant'Antonio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586495",
+      "name": "chiesa di Sant'Antonio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55180920",
+      "name": "chiesa di Sant'Antonio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672009",
+      "name": "chiesa di Sant'Apollinare",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q118984017",
+      "name": "chiesa di Sant'Egidio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55168166",
+      "name": "chiesa di Sant'Elena",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586535",
+      "name": "chiesa di Sant'Ermete",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115789",
+      "name": "chiesa di Sant'Ilario",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181912",
+      "name": "chiesa di Sant'Ilario",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178315",
+      "name": "chiesa di Sant'Isidoro",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672463",
+      "name": "chiesa di Santa Barbara",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55191956",
+      "name": "chiesa di Santa Barbara",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586561",
+      "name": "chiesa di Santa Caterina",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q118983969",
+      "name": "chiesa di Santa Chiara",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672708",
+      "name": "chiesa di Santa Croce",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672758",
+      "name": "chiesa di Santa Croce",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672000",
+      "name": "chiesa di Santa Elisabetta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672645",
+      "name": "chiesa di Santa Felicita di Paterna",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178317",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087417",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123582394",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164573",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672712",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169500",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169504",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123582392",
+      "name": "chiesa di Santa Lucia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178424",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178489",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55136048",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164326",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164339",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115743",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115798",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181835",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672715",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672719",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672716",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169539",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172133",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172163",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55179231",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586594",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55191970",
+      "name": "chiesa di Santa Maria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178440",
+      "name": "chiesa di Santa Maria Assunta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123582406",
+      "name": "chiesa di Santa Maria Assunta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087675",
+      "name": "chiesa di Santa Maria Assunta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115836",
+      "name": "chiesa di Santa Maria Assunta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673479",
+      "name": "chiesa di Santa Maria Assunta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586630",
+      "name": "chiesa di Santa Maria dei Fossi",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178321",
+      "name": "chiesa di Santa Maria dei Francolini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q118983824",
+      "name": "chiesa di Santa Maria dei Laici",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672508",
+      "name": "chiesa di Santa Maria dei Raccomandati",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178319",
+      "name": "chiesa di Santa Maria del Colle",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123582411",
+      "name": "chiesa di Santa Maria del Gesù",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910503",
+      "name": "chiesa di Santa Maria del Ponte",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178325",
+      "name": "chiesa di Santa Maria del Popolo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55138029",
+      "name": "chiesa di Santa Maria del Suffragio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178320",
+      "name": "chiesa di Santa Maria della Consolazione",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123571470",
+      "name": "chiesa di Santa Maria della Fiammenga",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178322",
+      "name": "chiesa di Santa Maria della Misericordia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910495",
+      "name": "chiesa di Santa Maria della Neve",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586651",
+      "name": "chiesa di Santa Maria della Pietà",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087440",
+      "name": "chiesa di Santa Maria della Strà",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q54087834",
+      "name": "chiesa di Santa Maria della Valle",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178437",
+      "name": "chiesa di Santa Maria della Valle",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178364",
+      "name": "chiesa di Santa Maria delle Croci",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123572990",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910619",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123578768",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55186482",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586664",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172073",
+      "name": "chiesa di Santa Maria delle Grazie ai Cappuccini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910501",
+      "name": "chiesa di Santa Maria delle Treie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586675",
+      "name": "chiesa di Santa Maria di Colleporto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672511",
+      "name": "chiesa di Santa Maria di Loreto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672512",
+      "name": "chiesa di Santa Maria di Monte Rampone",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q124080148",
+      "name": "chiesa di Santa Maria di Narco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123578806",
+      "name": "chiesa di Santa Maria di Piedilago",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55188835",
+      "name": "chiesa di Santa Maria di Sitria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178373",
+      "name": "chiesa di Santa Maria di Valdiponte",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123582419",
+      "name": "chiesa di Santa Maria di Vallegloria",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172168",
+      "name": "chiesa di Santa Maria e Sant'Eutizio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178365",
+      "name": "chiesa di Santa Maria Maddalena",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123336293",
+      "name": "chiesa di Santa Maria Maddalena",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55138092",
+      "name": "chiesa di Santa Maria Maddalena",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672720",
+      "name": "chiesa di Santa Maria Maddalena",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169789",
+      "name": "chiesa di Santa Maria Maddalena",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910508",
+      "name": "chiesa di Santa Maria Scoperta",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172115",
+      "name": "chiesa di Santa Maria Vecchia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672721",
+      "name": "chiesa di Santa Maria Vergine",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q27987618",
+      "name": "chiesa di Santa Reparata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115748",
+      "name": "chiesa di Santa Rita",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115847",
+      "name": "chiesa di Santa Rita",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178523",
+      "name": "chiesa di Santa Teresa",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123580722",
+      "name": "chiesa di Santissima Annunziata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164584",
+      "name": "chiesa di Santo Spirito",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178522",
+      "name": "chiesa di Santo Stefano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672071",
+      "name": "chiesa di Santo Stefano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672726",
+      "name": "chiesa di Santo Stefano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169521",
+      "name": "chiesa di Santo Stefano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55171993",
+      "name": "chiesa e Confraternita della Morte",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55171991",
+      "name": "chiesa e Confraternita di S. Giuseppe",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169945",
+      "name": "chiesa e convento di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172075",
+      "name": "chiesa e convento di Santa Maria della Pace",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115730",
+      "name": "chiesa e monastero di Sant'Antonio Abate",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115733",
+      "name": "chiesa e monastero di Santa Chiara",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55181870",
+      "name": "chiesa e monastero ex Abbazia di S. Eutizio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123985772",
+      "name": "chiesa nel Monastero degli Olivetani",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178297",
+      "name": "chiesa nuova dei Filippini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123586421",
+      "name": "chiesa nuova di San Venanzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123986917",
+      "name": "chiesa nuova in San Cristoforo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55191980",
+      "name": "chiesa ospedale nuova Unione",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172843",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172840",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172845",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172848",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55187286",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55140346",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55140344",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55140351",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55140349",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55140353",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55086278",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169627",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164328",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55164338",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55117722",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55117723",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55115813",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55087439",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55138070",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55180941",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169944",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55169992",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172120",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172137",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55172211",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55187551",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55168409",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55171996",
+      "name": "chiesa parrocchiale",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55178501",
+      "name": "chiesa parrocchiale di San Martino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55110278",
+      "name": "chiesa parrocchiale di San Valentino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q54854575",
+      "name": "chiesa priorale di San Giacomo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q118984067",
+      "name": "chiesa Santa Teresina del Buon Gesù",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55086449",
+      "name": "chiesa sotterranea di San Masseo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123910532",
+      "name": "chiesa vecchia di San Cristoforo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55139235",
+      "name": "chiesa, oratorio e Confraternita di Sant'Antonio Abate",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123258579",
+      "name": "chiesetta Romanova",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q98398529",
+      "name": "ex chiesa di Sant'Antonino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q24942111",
+      "name": "ex chiesa di Santa Maria della Colombata",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q96097907",
+      "name": "ex chiesa e monastero di San Benedetto dei Condotti",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q124080145",
+      "name": "ex monastero di San Matteo degli Armeni",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123422460",
+      "name": "Madonna dei Monti",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q123422462",
+      "name": "Madonna dei Pini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672260",
+      "name": "madonna del Buon Consiglio",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q140703153",
+      "name": "Madonna della Neve",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q3884447",
+      "name": "oratorio dei pellegrini",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q86671462",
+      "name": "Oratorio della Confraternita dei Disciplinati di San Francesco",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q104761695",
+      "name": "Oratorio della Confraternita di Giovanni Battista",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q55191959",
+      "name": "Oratorio di San Bernardino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q98398530",
+      "name": "Oratorio San Benedetto",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672262",
+      "name": "san Illuminato",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672263",
+      "name": "san Lorenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672264",
+      "name": "san Lorenzo",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672265",
+      "name": "san Martino",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672266",
+      "name": "san Paterniano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120673470",
+      "name": "sant'Anna in Comunaglia",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q121434586",
+      "name": "Santa Margherita",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q60792606",
+      "name": "Santa Margherita, Narni",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q118983909",
+      "name": "Santuario della Madonna delle Grazie",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672517",
+      "name": "santuario di Santa Maria del Piano",
+      "osm_match_status": "none"
+    },
+    {
+      "wikidata_id": "Q120672518",
+      "name": "santuario di Santa Maria di Monte Camera",
+      "osm_match_status": "none"
+    }
+  ],
+  "disagreement_records": [
+    {
+      "wikidata_id": "Q54870590",
+      "name": "chiesa dei Santi Giacomo e Filippo",
+      "distance_meters": 314956.25,
+      "wikidata": {
+        "latitude": 43.06943,
+        "longitude": 12.08695,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q54870590$3c69d465-4d80-fcbe-4407-ae2cd6197bd8",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 40.9503216,
+        "longitude": 14.6169548,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 1431167089,
+        "osm_url": "https://www.openstreetmap.org/way/1431167089"
+      }
+    },
+    {
+      "wikidata_id": "Q54870425",
+      "name": "chiesa di San Savino",
+      "distance_meters": 98168.51,
+      "wikidata": {
+        "latitude": 42.454356,
+        "longitude": 12.471569,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q54870425$c6db8c54-40db-9c34-9d24-cbcd7f1d71df",
+        "wikidata_rank": "preferred"
+      },
+      "osm": {
+        "latitude": 43.0665863,
+        "longitude": 13.3379489,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 148804393,
+        "osm_url": "https://www.openstreetmap.org/way/148804393"
+      }
+    },
+    {
+      "wikidata_id": "Q18691591",
+      "name": "ex Chiesa di San Lorenzo",
+      "distance_meters": 40621.92,
+      "wikidata": {
+        "latitude": 42.440525,
+        "longitude": 12.440680555556,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q18691591$9083347b-4adc-59c2-4128-87e11504537e",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 42.7346316,
+        "longitude": 12.735021,
+        "source": "openstreetmap",
+        "osm_type": "node",
+        "osm_id": 6722954603,
+        "osm_url": "https://www.openstreetmap.org/node/6722954603"
+      }
+    },
+    {
+      "wikidata_id": "Q15958180",
+      "name": "chiesa di San Filippo Neri",
+      "distance_meters": 13722.25,
+      "wikidata": {
+        "latitude": 43.0643,
+        "longitude": 12.2313,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q15958180$C5724428-4B71-42F7-AE42-7698B80D1433",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 43.1120465,
+        "longitude": 12.3871207,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 215025934,
+        "osm_url": "https://www.openstreetmap.org/way/215025934"
+      }
+    },
+    {
+      "wikidata_id": "Q54870612",
+      "name": "chiesa di Santa Maria della Porta",
+      "distance_meters": 331.99,
+      "wikidata": {
+        "latitude": 42.84865,
+        "longitude": 13.06438,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q54870612$ccdbe975-4f84-28bd-0af5-b5bd5b408de8",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 42.8458663,
+        "longitude": 13.0658524,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 449648292,
+        "osm_url": "https://www.openstreetmap.org/way/449648292"
+      }
+    },
+    {
+      "wikidata_id": "Q54870464",
+      "name": "chiesa della Madonna della Croce",
+      "distance_meters": 235.98,
+      "wikidata": {
+        "latitude": 42.74931,
+        "longitude": 13.01773,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q54870464$0E1DAB06-95EF-4746-AFBA-E24FE80705D6",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 42.7496929,
+        "longitude": 13.0205726,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 452268531,
+        "osm_url": "https://www.openstreetmap.org/way/452268531"
+      }
+    },
+    {
+      "wikidata_id": "Q16802230",
+      "name": "chiesa dei Santi Stefano e Valentino",
+      "distance_meters": 220.5,
+      "wikidata": {
+        "latitude": 43.1145,
+        "longitude": 12.3845,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q16802230$264EE617-2C27-4A86-AA46-55098843C4D8",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 43.1125923,
+        "longitude": 12.3852417,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 474770551,
+        "osm_url": "https://www.openstreetmap.org/way/474770551"
+      }
+    },
+    {
+      "wikidata_id": "Q3585431",
+      "name": "chiesa di Santa Maria dell'Annunziata",
+      "distance_meters": 212.42,
+      "wikidata": {
+        "latitude": 43.0253,
+        "longitude": 12.1898,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q3585431$14C3CA63-6938-4525-9F8B-171A4EED691E",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 43.0265562,
+        "longitude": 12.1917687,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 388641654,
+        "osm_url": "https://www.openstreetmap.org/way/388641654"
+      }
+    },
+    {
+      "wikidata_id": "Q55167454",
+      "name": "chiesa di Santa Maria Assunta",
+      "distance_meters": 171.32,
+      "wikidata": {
+        "latitude": 42.5748617,
+        "longitude": 12.32824,
+        "source": "wikidata",
+        "wikidata_statement_id": "Q55167454$82618684-4dca-4e42-ac71-81465af63179",
+        "wikidata_rank": "normal"
+      },
+      "osm": {
+        "latitude": 42.5749801,
+        "longitude": 12.3303261,
+        "source": "openstreetmap",
+        "osm_type": "way",
+        "osm_id": 306420405,
+        "osm_url": "https://www.openstreetmap.org/way/306420405"
+      }
+    }
+  ]
+}
