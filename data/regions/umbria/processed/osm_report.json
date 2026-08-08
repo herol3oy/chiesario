@@ -183,6 +183,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984094",
+      "name": "Cappella della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672806",
       "name": "cappella della Madonna delle Grazie",
       "match_count": 0
@@ -190,11 +195,6 @@
     {
       "wikidata_id": "Q120672807",
       "name": "cappella della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984094",
-      "name": "Cappella della Madonna delle Grazie",
       "match_count": 0
     },
     {
@@ -308,12 +308,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q3657609",
+      "wikidata_id": "Q118983948",
       "name": "Cappella di San Nicola",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983948",
+      "wikidata_id": "Q3657609",
       "name": "Cappella di San Nicola",
       "match_count": 0
     },
@@ -498,12 +498,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673387",
+      "wikidata_id": "Q120673142",
       "name": "chiesa dei Cappuccini",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673142",
+      "wikidata_id": "Q120673387",
       "name": "chiesa dei Cappuccini",
       "match_count": 0
     },
@@ -548,12 +548,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672306",
+      "wikidata_id": "Q55169932",
       "name": "chiesa dei Santi Apostoli Pietro e Paolo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55169932",
+      "wikidata_id": "Q120672306",
       "name": "chiesa dei Santi Apostoli Pietro e Paolo",
       "match_count": 0
     },
@@ -638,17 +638,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672308",
-      "name": "chiesa dei Santi Filippo e Giacomo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672269",
       "name": "chiesa dei Santi Filippo e Giacomo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673028",
+      "wikidata_id": "Q120672308",
+      "name": "chiesa dei Santi Filippo e Giacomo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673144",
       "name": "chiesa dei Santi Filippo e Giacomo",
       "match_count": 0
     },
@@ -663,12 +663,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870645",
+      "wikidata_id": "Q120673028",
       "name": "chiesa dei Santi Filippo e Giacomo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673144",
+      "wikidata_id": "Q54870645",
       "name": "chiesa dei Santi Filippo e Giacomo",
       "match_count": 0
     },
@@ -803,17 +803,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120673388",
+      "name": "chiesa dei Santi Pietro e Paolo",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672522",
       "name": "chiesa dei Santi Pietro e Paolo",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672523",
-      "name": "chiesa dei Santi Pietro e Paolo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673388",
       "name": "chiesa dei Santi Pietro e Paolo",
       "match_count": 0
     },
@@ -1063,17 +1063,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672687",
+      "name": "chiesa del Cuore Immacolato di Maria",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672437",
       "name": "chiesa del Cuore Immacolato di Maria",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672590",
-      "name": "chiesa del Cuore Immacolato di Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672687",
       "name": "chiesa del Cuore Immacolato di Maria",
       "match_count": 0
     },
@@ -1153,6 +1153,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984135",
+      "name": "chiesa del Sacro Cuore",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672830",
       "name": "chiesa del Sacro Cuore",
       "match_count": 0
@@ -1163,17 +1168,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118983961",
+      "name": "chiesa del Sacro Cuore",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672187",
       "name": "chiesa del Sacro Cuore",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984135",
-      "name": "chiesa del Sacro Cuore",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983961",
+      "wikidata_id": "Q120673149",
       "name": "chiesa del Sacro Cuore",
       "match_count": 0
     },
@@ -1184,11 +1189,6 @@
     },
     {
       "wikidata_id": "Q120672591",
-      "name": "chiesa del Sacro Cuore",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673149",
       "name": "chiesa del Sacro Cuore",
       "match_count": 0
     },
@@ -1223,17 +1223,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672993",
+      "name": "chiesa del Santissimo Crocefisso",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673390",
       "name": "chiesa del Santissimo Crocefisso",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673389",
-      "name": "chiesa del Santissimo Crocefisso",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672993",
       "name": "chiesa del Santissimo Crocefisso",
       "match_count": 0
     },
@@ -1253,17 +1253,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55172111",
+      "name": "chiesa del Santissimo Crocifisso",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672609",
       "name": "chiesa del Santissimo Crocifisso",
       "match_count": 0
     },
     {
       "wikidata_id": "Q54087780",
-      "name": "chiesa del Santissimo Crocifisso",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172111",
       "name": "chiesa del Santissimo Crocifisso",
       "match_count": 0
     },
@@ -1288,7 +1288,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123586773",
+      "wikidata_id": "Q118984140",
       "name": "chiesa del Santissimo Sacramento",
       "match_count": 0
     },
@@ -1298,32 +1298,12 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q123586773",
+      "name": "chiesa del Santissimo Sacramento",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672053",
-      "name": "chiesa del Santissimo Sacramento",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984140",
-      "name": "chiesa del Santissimo Sacramento",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172078",
-      "name": "chiesa del Santissimo Sacramento",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172144",
-      "name": "chiesa del Santissimo Sacramento",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672963",
-      "name": "chiesa del Santissimo Sacramento",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672736",
       "name": "chiesa del Santissimo Sacramento",
       "match_count": 0
     },
@@ -1348,7 +1328,32 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55172078",
+      "name": "chiesa del Santissimo Sacramento",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672736",
+      "name": "chiesa del Santissimo Sacramento",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55172144",
+      "name": "chiesa del Santissimo Sacramento",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672963",
+      "name": "chiesa del Santissimo Sacramento",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q118983807",
+      "name": "chiesa del Santissimo Salvatore",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984071",
       "name": "chiesa del Santissimo Salvatore",
       "match_count": 0
     },
@@ -1363,22 +1368,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984071",
-      "name": "chiesa del Santissimo Salvatore",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55172139",
       "name": "chiesa del Santissimo Salvatore",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672637",
+      "wikidata_id": "Q120673317",
       "name": "chiesa del Santissimo Salvatore",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673317",
+      "wikidata_id": "Q120672637",
       "name": "chiesa del Santissimo Salvatore",
       "match_count": 0
     },
@@ -1403,12 +1403,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55172219",
+      "wikidata_id": "Q120672650",
       "name": "chiesa dell'Addolorata",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672650",
+      "wikidata_id": "Q55172219",
       "name": "chiesa dell'Addolorata",
       "match_count": 0
     },
@@ -1423,12 +1423,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983877",
+      "wikidata_id": "Q54870452",
       "name": "chiesa dell'Annunziata",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870452",
+      "wikidata_id": "Q118983877",
       "name": "chiesa dell'Annunziata",
       "match_count": 0
     },
@@ -1468,12 +1468,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672781",
+      "wikidata_id": "Q120673183",
       "name": "chiesa dell'Immacolata Concezione",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673183",
+      "wikidata_id": "Q120672781",
       "name": "chiesa dell'Immacolata Concezione",
       "match_count": 0
     },
@@ -1633,12 +1633,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672954",
-      "name": "chiesa della Madonna Annunziata",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672964",
+      "wikidata_id": "Q120673154",
       "name": "chiesa della Madonna Annunziata",
       "match_count": 0
     },
@@ -1648,12 +1643,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673050",
+      "wikidata_id": "Q120672964",
       "name": "chiesa della Madonna Annunziata",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673154",
+      "wikidata_id": "Q120672954",
+      "name": "chiesa della Madonna Annunziata",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673050",
       "name": "chiesa della Madonna Annunziata",
       "match_count": 0
     },
@@ -1718,17 +1718,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672314",
-      "name": "chiesa della Madonna del Buon Consiglio",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120671960",
       "name": "chiesa della Madonna del Buon Consiglio",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672271",
+      "name": "chiesa della Madonna del Buon Consiglio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672314",
       "name": "chiesa della Madonna del Buon Consiglio",
       "match_count": 0
     },
@@ -1758,32 +1758,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672450",
-      "name": "chiesa della Madonna del Carmine",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q54870465",
       "name": "chiesa della Madonna del Carmine",
       "match_count": 0
     },
     {
       "wikidata_id": "Q55138060",
-      "name": "chiesa della Madonna del Carmine",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672944",
-      "name": "chiesa della Madonna del Carmine",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672527",
-      "name": "chiesa della Madonna del Carmine",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673051",
       "name": "chiesa della Madonna del Carmine",
       "match_count": 0
     },
@@ -1798,7 +1778,27 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672450",
+      "name": "chiesa della Madonna del Carmine",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673443",
+      "name": "chiesa della Madonna del Carmine",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672527",
+      "name": "chiesa della Madonna del Carmine",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672944",
+      "name": "chiesa della Madonna del Carmine",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673051",
       "name": "chiesa della Madonna del Carmine",
       "match_count": 0
     },
@@ -1883,12 +1883,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672030",
+      "wikidata_id": "Q120672149",
       "name": "chiesa della Madonna del Monte",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672149",
+      "wikidata_id": "Q120672030",
       "name": "chiesa della Madonna del Monte",
       "match_count": 0
     },
@@ -1908,12 +1908,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672608",
+      "wikidata_id": "Q55169988",
       "name": "chiesa della Madonna del Piano",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55169988",
+      "wikidata_id": "Q120672608",
       "name": "chiesa della Madonna del Piano",
       "match_count": 0
     },
@@ -1943,22 +1943,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672529",
-      "name": "chiesa della Madonna del Ponte",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672611",
-      "name": "chiesa della Madonna del Ponte",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672467",
       "name": "chiesa della Madonna del Ponte",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672965",
+      "name": "chiesa della Madonna del Ponte",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672529",
+      "name": "chiesa della Madonna del Ponte",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672611",
       "name": "chiesa della Madonna del Ponte",
       "match_count": 0
     },
@@ -2003,6 +2003,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984141",
+      "name": "chiesa della Madonna del Rosario",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q118983912",
       "name": "chiesa della Madonna del Rosario",
       "match_count": 0
@@ -2013,7 +2018,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672054",
+      "wikidata_id": "Q118983962",
       "name": "chiesa della Madonna del Rosario",
       "match_count": 0
     },
@@ -2023,22 +2028,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984141",
-      "name": "chiesa della Madonna del Rosario",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983962",
-      "name": "chiesa della Madonna del Rosario",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672486",
+      "wikidata_id": "Q120672054",
       "name": "chiesa della Madonna del Rosario",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672299",
+      "name": "chiesa della Madonna del Rosario",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673158",
+      "name": "chiesa della Madonna del Rosario",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672486",
       "name": "chiesa della Madonna del Rosario",
       "match_count": 0
     },
@@ -2064,11 +2069,6 @@
     },
     {
       "wikidata_id": "Q120673053",
-      "name": "chiesa della Madonna del Rosario",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673158",
       "name": "chiesa della Madonna del Rosario",
       "match_count": 0
     },
@@ -2228,7 +2228,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870579",
+      "wikidata_id": "Q120672741",
       "name": "chiesa della Madonna della Cona",
       "match_count": 0
     },
@@ -2253,7 +2253,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672741",
+      "wikidata_id": "Q54870579",
       "name": "chiesa della Madonna della Cona",
       "match_count": 0
     },
@@ -2293,12 +2293,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672438",
+      "wikidata_id": "Q120671962",
       "name": "chiesa della Madonna della Fiducia",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120671962",
+      "wikidata_id": "Q120672438",
       "name": "chiesa della Madonna della Fiducia",
       "match_count": 0
     },
@@ -2348,17 +2348,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q54870485",
+      "name": "chiesa della Madonna della Misericordia",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672031",
       "name": "chiesa della Madonna della Misericordia",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672055",
-      "name": "chiesa della Madonna della Misericordia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870485",
       "name": "chiesa della Madonna della Misericordia",
       "match_count": 0
     },
@@ -2373,12 +2373,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984098",
+      "wikidata_id": "Q120672128",
       "name": "chiesa della Madonna della Neve",
       "match_count": 0
     },
     {
       "wikidata_id": "Q118983914",
+      "name": "chiesa della Madonna della Neve",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984098",
       "name": "chiesa della Madonna della Neve",
       "match_count": 0
     },
@@ -2398,17 +2403,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672128",
-      "name": "chiesa della Madonna della Neve",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55181839",
-      "name": "chiesa della Madonna della Neve",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672531",
+      "wikidata_id": "Q120672743",
       "name": "chiesa della Madonna della Neve",
       "match_count": 0
     },
@@ -2418,7 +2413,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672743",
+      "wikidata_id": "Q120673446",
       "name": "chiesa della Madonna della Neve",
       "match_count": 0
     },
@@ -2428,7 +2423,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673446",
+      "wikidata_id": "Q120672531",
+      "name": "chiesa della Madonna della Neve",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55181839",
       "name": "chiesa della Madonna della Neve",
       "match_count": 0
     },
@@ -2518,17 +2518,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672670",
+      "name": "chiesa della Madonna della Quercia",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55172203",
       "name": "chiesa della Madonna della Quercia",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672971",
-      "name": "chiesa della Madonna della Quercia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672670",
       "name": "chiesa della Madonna della Quercia",
       "match_count": 0
     },
@@ -2578,17 +2578,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q130431742",
+      "name": "chiesa della Madonna della Valle",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672035",
       "name": "chiesa della Madonna della Valle",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672454",
-      "name": "chiesa della Madonna della Valle",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q130431742",
       "name": "chiesa della Madonna della Valle",
       "match_count": 0
     },
@@ -2623,47 +2623,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983860",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983898",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983915",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672038",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672037",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672151",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672194",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q3580179",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983970",
+      "wikidata_id": "Q118984088",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
@@ -2678,7 +2638,27 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984088",
+      "wikidata_id": "Q118983915",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672151",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983860",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983898",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983970",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
@@ -2698,52 +2678,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672946",
+      "wikidata_id": "Q3580179",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55168159",
+      "wikidata_id": "Q120672194",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870457",
+      "wikidata_id": "Q120672038",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55169506",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169939",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672647",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672972",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672973",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673016",
-      "name": "chiesa della Madonna delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672675",
+      "wikidata_id": "Q120672037",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
@@ -2773,12 +2723,52 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120673016",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169506",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169939",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672647",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672675",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672744",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672745",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672972",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672973",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673449",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
@@ -2793,7 +2783,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673449",
+      "wikidata_id": "Q55168159",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870457",
+      "name": "chiesa della Madonna delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672946",
       "name": "chiesa della Madonna delle Grazie",
       "match_count": 0
     },
@@ -3168,12 +3168,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672326",
+      "wikidata_id": "Q120671968",
       "name": "chiesa della Natività di Maria",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120671968",
+      "wikidata_id": "Q120672326",
       "name": "chiesa della Natività di Maria",
       "match_count": 0
     },
@@ -3218,17 +3218,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672328",
-      "name": "chiesa della Sacra Famiglia",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672174",
-      "name": "chiesa della Sacra Famiglia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673392",
       "name": "chiesa della Sacra Famiglia",
       "match_count": 0
     },
@@ -3239,6 +3229,16 @@
     },
     {
       "wikidata_id": "Q120673181",
+      "name": "chiesa della Sacra Famiglia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672328",
+      "name": "chiesa della Sacra Famiglia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673392",
       "name": "chiesa della Sacra Famiglia",
       "match_count": 0
     },
@@ -3268,12 +3268,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123580700",
+      "wikidata_id": "Q120672131",
       "name": "chiesa della Santissima Annunziata",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672131",
+      "wikidata_id": "Q123580700",
       "name": "chiesa della Santissima Annunziata",
       "match_count": 0
     },
@@ -3308,7 +3308,32 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984150",
+      "name": "chiesa della Santissima Trinità",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984149",
+      "name": "chiesa della Santissima Trinità",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983808",
+      "name": "chiesa della Santissima Trinità",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983916",
+      "name": "chiesa della Santissima Trinità",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672851",
+      "name": "chiesa della Santissima Trinità",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120671969",
       "name": "chiesa della Santissima Trinità",
       "match_count": 0
     },
@@ -3323,42 +3348,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983916",
-      "name": "chiesa della Santissima Trinità",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983808",
-      "name": "chiesa della Santissima Trinità",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984150",
-      "name": "chiesa della Santissima Trinità",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984149",
-      "name": "chiesa della Santissima Trinità",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672329",
-      "name": "chiesa della Santissima Trinità",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120671969",
-      "name": "chiesa della Santissima Trinità",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55139262",
       "name": "chiesa della Santissima Trinità",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164586",
+      "wikidata_id": "Q120672329",
       "name": "chiesa della Santissima Trinità",
       "match_count": 0
     },
@@ -3379,6 +3374,11 @@
     },
     {
       "wikidata_id": "Q120673451",
+      "name": "chiesa della Santissima Trinità",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55164586",
       "name": "chiesa della Santissima Trinità",
       "match_count": 0
     },
@@ -3668,6 +3668,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984090",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55178474",
       "name": "chiesa di San Bartolomeo",
       "match_count": 0
@@ -3678,22 +3683,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672197",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672337",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672455",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672175",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983964",
       "name": "chiesa di San Bartolomeo",
       "match_count": 0
     },
@@ -3708,17 +3703,37 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983964",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984090",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55138085",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672285",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673184",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672197",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672337",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169520",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672469",
       "name": "chiesa di San Bartolomeo",
       "match_count": 0
     },
@@ -3728,7 +3743,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672285",
+      "wikidata_id": "Q120672455",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672791",
+      "name": "chiesa di San Bartolomeo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123586020",
       "name": "chiesa di San Bartolomeo",
       "match_count": 0
     },
@@ -3743,12 +3768,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672469",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169520",
+      "wikidata_id": "Q120673328",
       "name": "chiesa di San Bartolomeo",
       "match_count": 0
     },
@@ -3763,32 +3783,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672791",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673184",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120673059",
       "name": "chiesa di San Bartolomeo",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673060",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673328",
-      "name": "chiesa di San Bartolomeo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123586020",
       "name": "chiesa di San Bartolomeo",
       "match_count": 0
     },
@@ -3818,17 +3818,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q16540020",
-      "name": "chiesa di San Benedetto",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178438",
       "name": "chiesa di San Benedetto",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55086443",
+      "wikidata_id": "Q16540020",
       "name": "chiesa di San Benedetto",
       "match_count": 0
     },
@@ -3838,7 +3833,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672200",
+      "wikidata_id": "Q55086443",
       "name": "chiesa di San Benedetto",
       "match_count": 0
     },
@@ -3853,17 +3848,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55168141",
+      "wikidata_id": "Q120672200",
       "name": "chiesa di San Benedetto",
       "match_count": 0
     },
     {
       "wikidata_id": "Q54870654",
-      "name": "chiesa di San Benedetto",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672540",
       "name": "chiesa di San Benedetto",
       "match_count": 0
     },
@@ -3874,6 +3864,16 @@
     },
     {
       "wikidata_id": "Q123586028",
+      "name": "chiesa di San Benedetto",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672540",
+      "name": "chiesa di San Benedetto",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55168141",
       "name": "chiesa di San Benedetto",
       "match_count": 0
     },
@@ -3913,17 +3913,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672864",
-      "name": "chiesa di San Bernardino",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55169883",
       "name": "chiesa di San Bernardino",
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672864",
+      "name": "chiesa di San Bernardino",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673061",
+      "name": "chiesa di San Bernardino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673458",
       "name": "chiesa di San Bernardino",
       "match_count": 0
     },
@@ -3938,11 +3943,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673458",
-      "name": "chiesa di San Bernardino",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120673491",
       "name": "chiesa di San Bernardino",
       "match_count": 0
@@ -3953,12 +3953,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673393",
+      "wikidata_id": "Q120673185",
       "name": "chiesa di San Bernardino da Siena",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673185",
+      "wikidata_id": "Q120673393",
       "name": "chiesa di San Bernardino da Siena",
       "match_count": 0
     },
@@ -3983,7 +3983,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983924",
+      "wikidata_id": "Q118984157",
       "name": "chiesa di San Biagio",
       "match_count": 0
     },
@@ -3998,27 +3998,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672058",
+      "wikidata_id": "Q55181312",
       "name": "chiesa di San Biagio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672057",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984157",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q119998925",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123910529",
+      "wikidata_id": "Q118983924",
       "name": "chiesa di San Biagio",
       "match_count": 0
     },
@@ -4058,47 +4043,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55181312",
+      "wikidata_id": "Q120672058",
       "name": "chiesa di San Biagio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55157255",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673062",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55168155",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55168165",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169531",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672541",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672652",
-      "name": "chiesa di San Biagio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672693",
+      "wikidata_id": "Q120672057",
       "name": "chiesa di San Biagio",
       "match_count": 0
     },
@@ -4118,12 +4068,47 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672749",
+      "wikidata_id": "Q120673189",
       "name": "chiesa di San Biagio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673189",
+      "wikidata_id": "Q119998925",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673062",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169531",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672652",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672693",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55157255",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123910529",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672749",
       "name": "chiesa di San Biagio",
       "match_count": 0
     },
@@ -4148,6 +4133,21 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672541",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55168155",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55168165",
+      "name": "chiesa di San Biagio",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672338",
       "name": "chiesa di San Biagio e Madonna delle Vittorie",
       "match_count": 0
@@ -4163,12 +4163,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984117",
+      "wikidata_id": "Q118983993",
       "name": "chiesa di San Biagio Vescovo e Martire",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983993",
+      "wikidata_id": "Q118984117",
       "name": "chiesa di San Biagio Vescovo e Martire",
       "match_count": 0
     },
@@ -4198,12 +4198,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672773",
+      "wikidata_id": "Q60249358",
       "name": "chiesa di San Carlo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q60249358",
+      "wikidata_id": "Q120672773",
       "name": "chiesa di San Carlo",
       "match_count": 0
     },
@@ -4213,12 +4213,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983889",
+      "wikidata_id": "Q118984158",
       "name": "chiesa di San Carlo Borromeo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984158",
+      "wikidata_id": "Q118983889",
       "name": "chiesa di San Carlo Borromeo",
       "match_count": 0
     },
@@ -4238,22 +4238,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870577",
-      "name": "chiesa di San Claudio",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q123586052",
       "name": "chiesa di San Claudio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672456",
-      "name": "chiesa di San Clemente",
+      "wikidata_id": "Q54870577",
+      "name": "chiesa di San Claudio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672542",
+      "wikidata_id": "Q120672653",
       "name": "chiesa di San Clemente",
       "match_count": 0
     },
@@ -4263,7 +4258,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672653",
+      "wikidata_id": "Q120672456",
+      "name": "chiesa di San Clemente",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672542",
       "name": "chiesa di San Clemente",
       "match_count": 0
     },
@@ -4298,12 +4298,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672866",
+      "wikidata_id": "Q120672135",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672865",
+      "wikidata_id": "Q123295631",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
@@ -4313,42 +4313,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55160345",
+      "wikidata_id": "Q120672866",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672339",
-      "name": "chiesa di San Cristoforo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672340",
-      "name": "chiesa di San Cristoforo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q124080147",
-      "name": "chiesa di San Cristoforo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672207",
-      "name": "chiesa di San Cristoforo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672208",
-      "name": "chiesa di San Cristoforo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672209",
-      "name": "chiesa di San Cristoforo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870607",
+      "wikidata_id": "Q120672865",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
@@ -4368,12 +4338,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672135",
+      "wikidata_id": "Q54870607",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123295631",
+      "wikidata_id": "Q120672207",
+      "name": "chiesa di San Cristoforo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672208",
+      "name": "chiesa di San Cristoforo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672209",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
@@ -4388,7 +4368,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55181840",
+      "wikidata_id": "Q120673191",
+      "name": "chiesa di San Cristoforo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55160345",
+      "name": "chiesa di San Cristoforo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672339",
+      "name": "chiesa di San Cristoforo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672340",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
@@ -4403,7 +4398,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55168150",
+      "wikidata_id": "Q120673432",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
@@ -4413,7 +4408,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673432",
+      "wikidata_id": "Q124080147",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
@@ -4423,7 +4418,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673191",
+      "wikidata_id": "Q55168150",
+      "name": "chiesa di San Cristoforo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55181840",
       "name": "chiesa di San Cristoforo",
       "match_count": 0
     },
@@ -4453,12 +4453,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q3585326",
+      "wikidata_id": "Q55171754",
       "name": "chiesa di San Domenico",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55171754",
+      "wikidata_id": "Q3585326",
       "name": "chiesa di San Domenico",
       "match_count": 0
     },
@@ -4468,27 +4468,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672867",
-      "name": "chiesa di San Donato",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178302",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984103",
-      "name": "chiesa di San Donato",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983878",
-      "name": "chiesa di San Donato",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870518",
+      "wikidata_id": "Q120672867",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
@@ -4508,6 +4493,16 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118983878",
+      "name": "chiesa di San Donato",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984103",
+      "name": "chiesa di San Donato",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672210",
       "name": "chiesa di San Donato",
       "match_count": 0
@@ -4518,12 +4513,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164322",
+      "wikidata_id": "Q120672067",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672067",
+      "wikidata_id": "Q54870518",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
@@ -4533,22 +4528,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672949",
-      "name": "chiesa di San Donato",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120673065",
-      "name": "chiesa di San Donato",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54087537",
-      "name": "chiesa di San Donato",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55167644",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
@@ -4558,7 +4538,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673473",
+      "wikidata_id": "Q55164322",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
@@ -4573,12 +4553,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672596",
+      "wikidata_id": "Q120673473",
+      "name": "chiesa di San Donato",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54087537",
+      "name": "chiesa di San Donato",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55167644",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
     {
       "wikidata_id": "Q55167652",
+      "name": "chiesa di San Donato",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672596",
+      "name": "chiesa di San Donato",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672949",
       "name": "chiesa di San Donato",
       "match_count": 0
     },
@@ -4653,7 +4653,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55172062",
+      "wikidata_id": "Q120673193",
       "name": "chiesa di San Filippo",
       "match_count": 0
     },
@@ -4668,7 +4668,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673193",
+      "wikidata_id": "Q55172062",
       "name": "chiesa di San Filippo",
       "match_count": 0
     },
@@ -4683,7 +4683,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984118",
+      "wikidata_id": "Q118984159",
       "name": "chiesa di San Filippo Neri",
       "match_count": 0
     },
@@ -4693,27 +4693,12 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984118",
+      "name": "chiesa di San Filippo Neri",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672040",
-      "name": "chiesa di San Filippo Neri",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984159",
-      "name": "chiesa di San Filippo Neri",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54873728",
-      "name": "chiesa di San Filippo Neri",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672543",
-      "name": "chiesa di San Filippo Neri",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172171",
       "name": "chiesa di San Filippo Neri",
       "match_count": 0
     },
@@ -4723,7 +4708,22 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q54873728",
+      "name": "chiesa di San Filippo Neri",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55172171",
+      "name": "chiesa di San Filippo Neri",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q123310387",
+      "name": "chiesa di San Filippo Neri",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672543",
       "name": "chiesa di San Filippo Neri",
       "match_count": 0
     },
@@ -4748,17 +4748,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672341",
-      "name": "chiesa di San Fortunato",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q54870454",
       "name": "chiesa di San Fortunato",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672276",
+      "name": "chiesa di San Fortunato",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672341",
       "name": "chiesa di San Fortunato",
       "match_count": 0
     },
@@ -4783,7 +4783,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983918",
+      "wikidata_id": "Q123298385",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
@@ -4798,27 +4798,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672059",
+      "wikidata_id": "Q55186478",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123298385",
+      "wikidata_id": "Q55171755",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672342",
+      "wikidata_id": "Q118983918",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672343",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123397211",
+      "wikidata_id": "Q55086482",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
@@ -4833,12 +4828,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q16540085",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55086482",
+      "wikidata_id": "Q55115740",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
@@ -4848,22 +4838,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55171755",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672068",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55186478",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55115740",
+      "wikidata_id": "Q16540085",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
@@ -4883,7 +4858,57 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672068",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672059",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672342",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672343",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123397211",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673066",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123418285",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169782",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55171990",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123418288",
+      "name": "chiesa di San Francesco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123418286",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
@@ -4894,31 +4919,6 @@
     },
     {
       "wikidata_id": "Q54870461",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169782",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123418288",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55171990",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123418285",
-      "name": "chiesa di San Francesco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123418286",
       "name": "chiesa di San Francesco",
       "match_count": 0
     },
@@ -4948,7 +4948,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984119",
+      "wikidata_id": "Q118983994",
       "name": "chiesa di San Francesco d'Assisi",
       "match_count": 0
     },
@@ -4963,7 +4963,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983994",
+      "wikidata_id": "Q118984119",
       "name": "chiesa di San Francesco d'Assisi",
       "match_count": 0
     },
@@ -5088,37 +5088,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672345",
-      "name": "chiesa di San Giovanni",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672214",
       "name": "chiesa di San Giovanni",
       "match_count": 0
     },
     {
       "wikidata_id": "Q54870483",
-      "name": "chiesa di San Giovanni",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870715",
-      "name": "chiesa di San Giovanni",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172224",
-      "name": "chiesa di San Giovanni",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55179230",
-      "name": "chiesa di San Giovanni",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q105907010",
       "name": "chiesa di San Giovanni",
       "match_count": 0
     },
@@ -5139,6 +5114,31 @@
     },
     {
       "wikidata_id": "Q120673200",
+      "name": "chiesa di San Giovanni",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672345",
+      "name": "chiesa di San Giovanni",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q105907010",
+      "name": "chiesa di San Giovanni",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870715",
+      "name": "chiesa di San Giovanni",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55172224",
+      "name": "chiesa di San Giovanni",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55179230",
       "name": "chiesa di San Giovanni",
       "match_count": 0
     },
@@ -5193,17 +5193,42 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672874",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672875",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178368",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q106427047",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q24952058",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870594",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984089",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672111",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983921",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983995",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
@@ -5218,22 +5243,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983879",
+      "wikidata_id": "Q120672874",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983921",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q106427047",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672215",
+      "wikidata_id": "Q120672875",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
@@ -5243,17 +5258,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983995",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55164335",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870594",
+      "wikidata_id": "Q118983879",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
@@ -5263,17 +5268,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672069",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672111",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q24952058",
+      "wikidata_id": "Q55115821",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
@@ -5283,12 +5278,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984089",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55115821",
+      "wikidata_id": "Q120672215",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
@@ -5298,77 +5288,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55157200",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870580",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672951",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673067",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673068",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55164619",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169948",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672544",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672545",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673460",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673474",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672792",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55181861",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672598",
-      "name": "chiesa di San Giovanni Battista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672597",
+      "wikidata_id": "Q120672069",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
@@ -5418,6 +5338,56 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120673067",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673068",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169948",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55157200",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55164335",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55181861",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672792",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673460",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673474",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870580",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q110125702",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
@@ -5429,6 +5399,36 @@
     },
     {
       "wikidata_id": "Q120673337",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55164619",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672544",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672545",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672598",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672597",
+      "name": "chiesa di San Giovanni Battista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672951",
       "name": "chiesa di San Giovanni Battista",
       "match_count": 0
     },
@@ -5473,12 +5473,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672154",
+      "wikidata_id": "Q118984164",
       "name": "chiesa di San Giovanni Decollato",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984164",
+      "wikidata_id": "Q120672154",
       "name": "chiesa di San Giovanni Decollato",
       "match_count": 0
     },
@@ -5508,11 +5508,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55086276",
-      "name": "chiesa di San Giovanni Evangelista",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984162",
       "name": "chiesa di San Giovanni Evangelista",
       "match_count": 0
@@ -5523,42 +5518,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672347",
-      "name": "chiesa di San Giovanni Evangelista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672348",
+      "wikidata_id": "Q55086276",
       "name": "chiesa di San Giovanni Evangelista",
       "match_count": 0
     },
     {
       "wikidata_id": "Q55115774",
-      "name": "chiesa di San Giovanni Evangelista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169510",
-      "name": "chiesa di San Giovanni Evangelista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673461",
-      "name": "chiesa di San Giovanni Evangelista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672784",
-      "name": "chiesa di San Giovanni Evangelista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672997",
-      "name": "chiesa di San Giovanni Evangelista",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672635",
       "name": "chiesa di San Giovanni Evangelista",
       "match_count": 0
     },
@@ -5578,7 +5543,42 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672347",
+      "name": "chiesa di San Giovanni Evangelista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672348",
+      "name": "chiesa di San Giovanni Evangelista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672997",
+      "name": "chiesa di San Giovanni Evangelista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169510",
+      "name": "chiesa di San Giovanni Evangelista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673461",
+      "name": "chiesa di San Giovanni Evangelista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672784",
+      "name": "chiesa di San Giovanni Evangelista",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673338",
+      "name": "chiesa di San Giovanni Evangelista",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672635",
       "name": "chiesa di San Giovanni Evangelista",
       "match_count": 0
     },
@@ -5623,7 +5623,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983892",
+      "wikidata_id": "Q118984166",
       "name": "chiesa di San Giovenale",
       "match_count": 0
     },
@@ -5633,7 +5633,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984166",
+      "wikidata_id": "Q118983892",
       "name": "chiesa di San Giovenale",
       "match_count": 0
     },
@@ -5653,12 +5653,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983922",
+      "wikidata_id": "Q55171757",
       "name": "chiesa di San Girolamo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55171757",
+      "wikidata_id": "Q118983922",
       "name": "chiesa di San Girolamo",
       "match_count": 0
     },
@@ -5668,12 +5668,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164572",
+      "wikidata_id": "Q55191967",
       "name": "chiesa di San Girolamo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55191967",
+      "wikidata_id": "Q55164572",
       "name": "chiesa di San Girolamo",
       "match_count": 0
     },
@@ -5683,12 +5683,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672546",
+      "wikidata_id": "Q120673218",
       "name": "chiesa di San Giuliano",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673218",
+      "wikidata_id": "Q120672546",
       "name": "chiesa di San Giuliano",
       "match_count": 0
     },
@@ -5703,7 +5703,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55178447",
+      "wikidata_id": "Q118984167",
       "name": "chiesa di San Giuseppe",
       "match_count": 0
     },
@@ -5718,27 +5718,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984167",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672216",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120671985",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672018",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983967",
+      "wikidata_id": "Q120672112",
       "name": "chiesa di San Giuseppe",
       "match_count": 0
     },
@@ -5748,47 +5728,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672112",
+      "wikidata_id": "Q55178447",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120671985",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983967",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672018",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672216",
       "name": "chiesa di San Giuseppe",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672089",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673069",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672495",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672496",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672472",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673397",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672774",
-      "name": "chiesa di San Giuseppe",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123586138",
       "name": "chiesa di San Giuseppe",
       "match_count": 0
     },
@@ -5803,7 +5768,42 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120673069",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672472",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673397",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672495",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672496",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q116880569",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672774",
+      "name": "chiesa di San Giuseppe",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123586138",
       "name": "chiesa di San Giuseppe",
       "match_count": 0
     },
@@ -5848,12 +5848,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983862",
+      "wikidata_id": "Q118984168",
       "name": "chiesa di San Giuseppe Lavoratore",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984168",
+      "wikidata_id": "Q118983862",
       "name": "chiesa di San Giuseppe Lavoratore",
       "match_count": 0
     },
@@ -5888,7 +5888,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984120",
+      "wikidata_id": "Q120671986",
+      "name": "chiesa di San Gregorio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120671987",
       "name": "chiesa di San Gregorio",
       "match_count": 0
     },
@@ -5898,12 +5903,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120671986",
-      "name": "chiesa di San Gregorio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120671987",
+      "wikidata_id": "Q118984120",
       "name": "chiesa di San Gregorio",
       "match_count": 0
     },
@@ -5923,11 +5923,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q106540866",
-      "name": "chiesa di san Gregorio Magno",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120673226",
       "name": "chiesa di San Gregorio Magno",
       "match_count": 0
@@ -5935,6 +5930,11 @@
     {
       "wikidata_id": "Q120673225",
       "name": "chiesa di San Gregorio Magno",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q106540866",
+      "name": "chiesa di san Gregorio Magno",
       "match_count": 0
     },
     {
@@ -5993,22 +5993,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672499",
-      "name": "chiesa di San Leonardo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870656",
-      "name": "chiesa di San Leonardo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55169784",
       "name": "chiesa di San Leonardo",
       "match_count": 0
     },
     {
       "wikidata_id": "Q55167746",
+      "name": "chiesa di San Leonardo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672499",
+      "name": "chiesa di San Leonardo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870656",
       "name": "chiesa di San Leonardo",
       "match_count": 0
     },
@@ -6078,12 +6078,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984104",
+      "wikidata_id": "Q118984171",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983923",
+      "wikidata_id": "Q118984172",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
@@ -6098,17 +6098,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870521",
+      "wikidata_id": "Q120672114",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984171",
+      "wikidata_id": "Q118983923",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984172",
+      "wikidata_id": "Q118983986",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120671988",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984104",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672019",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
@@ -6123,12 +6138,27 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120671988",
+      "wikidata_id": "Q55138041",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672019",
+      "wikidata_id": "Q120672278",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870521",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673228",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672300",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
@@ -6153,32 +6183,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672114",
+      "wikidata_id": "Q120672999",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983986",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55138041",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672278",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672300",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55180923",
+      "wikidata_id": "Q120673000",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
@@ -6198,27 +6208,27 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672500",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870493",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55169513",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672547",
+      "wikidata_id": "Q120672654",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672697",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673398",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672500",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
@@ -6253,42 +6263,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672999",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673000",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672654",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672697",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870636",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870651",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870649",
-      "name": "chiesa di San Lorenzo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673228",
+      "wikidata_id": "Q55180923",
       "name": "chiesa di San Lorenzo",
       "match_count": 0
     },
@@ -6323,6 +6298,31 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672547",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870493",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870636",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870651",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870649",
+      "name": "chiesa di San Lorenzo",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672676",
       "name": "chiesa di San Lorenzo d'Agello",
       "match_count": 0
@@ -6348,17 +6348,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983893",
-      "name": "chiesa di San Lorenzo Martire",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118983858",
       "name": "chiesa di San Lorenzo Martire",
       "match_count": 0
     },
     {
       "wikidata_id": "Q118983998",
+      "name": "chiesa di San Lorenzo Martire",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983893",
       "name": "chiesa di San Lorenzo Martire",
       "match_count": 0
     },
@@ -6403,12 +6403,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672980",
+      "wikidata_id": "Q120672752",
       "name": "chiesa di San Macario",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672752",
+      "wikidata_id": "Q120672980",
       "name": "chiesa di San Macario",
       "match_count": 0
     },
@@ -6443,6 +6443,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120673230",
+      "name": "chiesa di San Marco",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672357",
       "name": "chiesa di San Marco",
       "match_count": 0
@@ -6459,11 +6464,6 @@
     },
     {
       "wikidata_id": "Q120673039",
-      "name": "chiesa di San Marco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673230",
       "name": "chiesa di San Marco",
       "match_count": 0
     },
@@ -6493,12 +6493,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673402",
+      "wikidata_id": "Q120673231",
       "name": "chiesa di San Marco in Pomeris",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673231",
+      "wikidata_id": "Q120673402",
       "name": "chiesa di San Marco in Pomeris",
       "match_count": 0
     },
@@ -6518,11 +6518,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672882",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178369",
       "name": "chiesa di San Martino",
       "match_count": 0
@@ -6538,12 +6533,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55178499",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q71724875",
+      "wikidata_id": "Q118984174",
       "name": "chiesa di San Martino",
       "match_count": 0
     },
@@ -6553,37 +6543,27 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672137",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q71724875",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55178499",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672882",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672157",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984174",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672460",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672223",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672224",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672359",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672360",
       "name": "chiesa di San Martino",
       "match_count": 0
     },
@@ -6598,7 +6578,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672137",
+      "wikidata_id": "Q55115869",
       "name": "chiesa di San Martino",
       "match_count": 0
     },
@@ -6608,67 +6588,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55115869",
+      "wikidata_id": "Q120672223",
       "name": "chiesa di San Martino",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673074",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673075",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55164580",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54872700",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169498",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672550",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672549",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673404",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673405",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673433",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673020",
-      "name": "chiesa di San Martino",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672753",
+      "wikidata_id": "Q120672224",
       "name": "chiesa di San Martino",
       "match_count": 0
     },
@@ -6694,6 +6619,81 @@
     },
     {
       "wikidata_id": "Q120673236",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672359",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672360",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673020",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673074",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673075",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169498",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673404",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673405",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673433",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672460",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54872700",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672753",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55164580",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672550",
+      "name": "chiesa di San Martino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672549",
       "name": "chiesa di San Martino",
       "match_count": 0
     },
@@ -6763,12 +6763,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983815",
+      "wikidata_id": "Q118984176",
       "name": "chiesa di San Matteo Apostolo ed Evangelista",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984176",
+      "wikidata_id": "Q118983815",
       "name": "chiesa di San Matteo Apostolo ed Evangelista",
       "match_count": 0
     },
@@ -6788,6 +6788,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984177",
+      "name": "chiesa di San Michele",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q118983925",
       "name": "chiesa di San Michele",
       "match_count": 0
@@ -6798,52 +6803,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984177",
-      "name": "chiesa di San Michele",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672699",
       "name": "chiesa di San Michele",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672883",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672884",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178375",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984121",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55178509",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984106",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984107",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983927",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -6863,7 +6828,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55136098",
+      "wikidata_id": "Q54870589",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984086",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -6873,17 +6843,42 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672044",
+      "wikidata_id": "Q118983927",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672461",
+      "wikidata_id": "Q118983999",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55137017",
+      "wikidata_id": "Q118984000",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55178509",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672883",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672884",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984106",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984107",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -6903,12 +6898,92 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983999",
+      "wikidata_id": "Q54870488",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984000",
+      "wikidata_id": "Q55136098",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55137017",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984121",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672044",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673238",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673239",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673237",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673240",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55139264",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673001",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673021",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673076",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169508",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169509",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169545",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169983",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672656",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -6938,32 +7013,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870488",
+      "wikidata_id": "Q120672473",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870589",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984086",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55139264",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673076",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118140465",
+      "wikidata_id": "Q120672461",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -6973,52 +7028,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870618",
+      "wikidata_id": "Q120672754",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672473",
+      "wikidata_id": "Q55179235",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672702",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672700",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169508",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169509",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169545",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169983",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672551",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672552",
+      "wikidata_id": "Q120673435",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -7033,97 +7053,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55179235",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673001",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673021",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673031",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673042",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673041",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55167645",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55167654",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55167663",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672656",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870642",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870640",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870644",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870648",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672754",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673238",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673239",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673237",
-      "name": "chiesa di San Michele Arcangelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673240",
+      "wikidata_id": "Q123385828",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -7153,12 +7083,82 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123385828",
+      "wikidata_id": "Q120672551",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673435",
+      "wikidata_id": "Q120672552",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55167645",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55167654",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55167663",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118140465",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870618",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672702",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672700",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673031",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673042",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673041",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870642",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870640",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870644",
+      "name": "chiesa di San Michele Arcangelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870648",
       "name": "chiesa di San Michele Arcangelo",
       "match_count": 0
     },
@@ -7208,12 +7208,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55139248",
+      "wikidata_id": "Q120673241",
       "name": "chiesa di San Niccolò",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673241",
+      "wikidata_id": "Q55139248",
       "name": "chiesa di San Niccolò",
       "match_count": 0
     },
@@ -7228,32 +7228,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672370",
-      "name": "chiesa di San Nicola",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q54870681",
       "name": "chiesa di San Nicola",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55180934",
+      "wikidata_id": "Q120672370",
       "name": "chiesa di San Nicola",
       "match_count": 0
     },
     {
       "wikidata_id": "Q55172100",
-      "name": "chiesa di San Nicola",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55188836",
-      "name": "chiesa di San Nicola",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120061598",
       "name": "chiesa di San Nicola",
       "match_count": 0
     },
@@ -7268,8 +7253,18 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983928",
-      "name": "chiesa di San Nicola da Bari",
+      "wikidata_id": "Q55180934",
+      "name": "chiesa di San Nicola",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55188836",
+      "name": "chiesa di San Nicola",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120061598",
+      "name": "chiesa di San Nicola",
       "match_count": 0
     },
     {
@@ -7279,6 +7274,11 @@
     },
     {
       "wikidata_id": "Q118984087",
+      "name": "chiesa di San Nicola da Bari",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983928",
       "name": "chiesa di San Nicola da Bari",
       "match_count": 0
     },
@@ -7293,17 +7293,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984122",
-      "name": "chiesa di San Nicola di Bari",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118983816",
       "name": "chiesa di San Nicola di Bari",
       "match_count": 0
     },
     {
       "wikidata_id": "Q118984001",
+      "name": "chiesa di San Nicola di Bari",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984122",
       "name": "chiesa di San Nicola di Bari",
       "match_count": 0
     },
@@ -7333,27 +7333,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55139265",
+      "name": "chiesa di San Nicolò",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672372",
       "name": "chiesa di San Nicolò",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672373",
-      "name": "chiesa di San Nicolò",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55139265",
-      "name": "chiesa di San Nicolò",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55168167",
-      "name": "chiesa di San Nicolò",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672587",
       "name": "chiesa di San Nicolò",
       "match_count": 0
     },
@@ -7373,17 +7363,27 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672587",
+      "name": "chiesa di San Nicolò",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55168167",
+      "name": "chiesa di San Nicolò",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q93955697",
+      "name": "chiesa di San Pancrazio",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q106468435",
       "name": "chiesa di San Pancrazio",
       "match_count": 0
     },
     {
       "wikidata_id": "Q123987071",
-      "name": "chiesa di San Pancrazio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q93955697",
       "name": "chiesa di San Pancrazio",
       "match_count": 0
     },
@@ -7403,6 +7403,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672139",
+      "name": "chiesa di San Paolo",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120671990",
       "name": "chiesa di San Paolo",
       "match_count": 0
@@ -7413,7 +7418,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672139",
+      "wikidata_id": "Q120673242",
       "name": "chiesa di San Paolo",
       "match_count": 0
     },
@@ -7424,11 +7429,6 @@
     },
     {
       "wikidata_id": "Q54870639",
-      "name": "chiesa di San Paolo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673242",
       "name": "chiesa di San Paolo",
       "match_count": 0
     },
@@ -7463,12 +7463,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672886",
+      "wikidata_id": "Q118984002",
       "name": "chiesa di San Pellegrino",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984002",
+      "wikidata_id": "Q120672886",
       "name": "chiesa di San Pellegrino",
       "match_count": 0
     },
@@ -7483,12 +7483,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983880",
+      "wikidata_id": "Q118984180",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q90908568",
+      "wikidata_id": "Q118983975",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55136069",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
@@ -7498,17 +7503,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984180",
+      "wikidata_id": "Q118983880",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672440",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55136069",
+      "wikidata_id": "Q90908568",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
@@ -7523,17 +7523,27 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672376",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983975",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55138097",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673243",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673244",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673245",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673022",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
@@ -7558,31 +7568,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164581",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123586272",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870496",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672474",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672706",
-      "name": "chiesa di San Pietro",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55169511",
       "name": "chiesa di San Pietro",
       "match_count": 0
@@ -7593,17 +7578,27 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673463",
+      "wikidata_id": "Q120672376",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673464",
+      "wikidata_id": "Q120672474",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673465",
+      "wikidata_id": "Q120672440",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55172225",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672677",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
@@ -7623,32 +7618,37 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673022",
+      "wikidata_id": "Q120673463",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672677",
+      "wikidata_id": "Q120673464",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55172225",
+      "wikidata_id": "Q120673465",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673243",
+      "wikidata_id": "Q55164581",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673244",
+      "wikidata_id": "Q123586272",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673245",
+      "wikidata_id": "Q54870496",
+      "name": "chiesa di San Pietro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672706",
       "name": "chiesa di San Pietro",
       "match_count": 0
     },
@@ -7673,12 +7673,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672887",
-      "name": "chiesa di San Pietro Apostolo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984123",
+      "wikidata_id": "Q118984181",
       "name": "chiesa di San Pietro Apostolo",
       "match_count": 0
     },
@@ -7688,22 +7683,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672060",
-      "name": "chiesa di San Pietro Apostolo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984181",
-      "name": "chiesa di San Pietro Apostolo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672377",
-      "name": "chiesa di San Pietro Apostolo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672092",
+      "wikidata_id": "Q120672887",
       "name": "chiesa di San Pietro Apostolo",
       "match_count": 0
     },
@@ -7713,7 +7693,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672958",
+      "wikidata_id": "Q118984123",
+      "name": "chiesa di San Pietro Apostolo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672092",
+      "name": "chiesa di San Pietro Apostolo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672060",
+      "name": "chiesa di San Pietro Apostolo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673246",
+      "name": "chiesa di San Pietro Apostolo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673247",
+      "name": "chiesa di San Pietro Apostolo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672377",
       "name": "chiesa di San Pietro Apostolo",
       "match_count": 0
     },
@@ -7738,12 +7743,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673246",
-      "name": "chiesa di San Pietro Apostolo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673247",
+      "wikidata_id": "Q120672958",
       "name": "chiesa di San Pietro Apostolo",
       "match_count": 0
     },
@@ -7868,27 +7868,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55172815",
-      "name": "chiesa di San Rocco",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984058",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123586342",
-      "name": "chiesa di San Rocco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983881",
-      "name": "chiesa di San Rocco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983929",
+      "wikidata_id": "Q55172815",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
@@ -7903,12 +7888,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55160364",
+      "wikidata_id": "Q118984091",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672022",
+      "wikidata_id": "Q118983929",
+      "name": "chiesa di San Rocco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983881",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
@@ -7923,7 +7913,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984091",
+      "wikidata_id": "Q120672022",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
@@ -7933,27 +7923,22 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q123586342",
+      "name": "chiesa di San Rocco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673251",
+      "name": "chiesa di San Rocco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55160364",
+      "name": "chiesa di San Rocco",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673083",
-      "name": "chiesa di San Rocco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672503",
-      "name": "chiesa di San Rocco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672554",
-      "name": "chiesa di San Rocco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673382",
-      "name": "chiesa di San Rocco",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672983",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
@@ -7963,12 +7948,27 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673043",
+      "wikidata_id": "Q120673382",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673251",
+      "wikidata_id": "Q120672503",
+      "name": "chiesa di San Rocco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672983",
+      "name": "chiesa di San Rocco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672554",
+      "name": "chiesa di San Rocco",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673043",
       "name": "chiesa di San Rocco",
       "match_count": 0
     },
@@ -8003,7 +8003,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672447",
+      "wikidata_id": "Q120673252",
+      "name": "chiesa di San Salvatore",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673253",
       "name": "chiesa di San Salvatore",
       "match_count": 0
     },
@@ -8013,12 +8018,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672959",
-      "name": "chiesa di San Salvatore",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672555",
+      "wikidata_id": "Q120672447",
       "name": "chiesa di San Salvatore",
       "match_count": 0
     },
@@ -8028,12 +8028,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673252",
+      "wikidata_id": "Q120672555",
       "name": "chiesa di San Salvatore",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673253",
+      "wikidata_id": "Q120672959",
       "name": "chiesa di San Salvatore",
       "match_count": 0
     },
@@ -8063,52 +8063,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672160",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120671994",
       "name": "chiesa di San Sebastiano",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672383",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672384",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673084",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673085",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123586386",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q30320342",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673023",
-      "name": "chiesa di San Sebastiano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55168418",
+      "wikidata_id": "Q120672160",
       "name": "chiesa di San Sebastiano",
       "match_count": 0
     },
@@ -8124,6 +8084,46 @@
     },
     {
       "wikidata_id": "Q120673257",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673023",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673084",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673085",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672383",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672384",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123586386",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q30320342",
+      "name": "chiesa di San Sebastiano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55168418",
       "name": "chiesa di San Sebastiano",
       "match_count": 0
     },
@@ -8168,12 +8168,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55178508",
+      "wikidata_id": "Q118983819",
       "name": "chiesa di San Silvestro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983819",
+      "wikidata_id": "Q118984003",
+      "name": "chiesa di San Silvestro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55178508",
       "name": "chiesa di San Silvestro",
       "match_count": 0
     },
@@ -8183,12 +8188,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672462",
+      "wikidata_id": "Q120673262",
       "name": "chiesa di San Silvestro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984003",
+      "wikidata_id": "Q120673261",
+      "name": "chiesa di San Silvestro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673004",
       "name": "chiesa di San Silvestro",
       "match_count": 0
     },
@@ -8203,32 +8213,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55168157",
-      "name": "chiesa di San Silvestro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672556",
+      "wikidata_id": "Q120672462",
       "name": "chiesa di San Silvestro",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672795",
-      "name": "chiesa di San Silvestro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673004",
-      "name": "chiesa di San Silvestro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673262",
-      "name": "chiesa di San Silvestro",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673261",
       "name": "chiesa di San Silvestro",
       "match_count": 0
     },
@@ -8253,12 +8243,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983944",
-      "name": "chiesa di San Silvestro Papa",
+      "wikidata_id": "Q120672556",
+      "name": "chiesa di San Silvestro",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672385",
+      "wikidata_id": "Q55168157",
+      "name": "chiesa di San Silvestro",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983944",
       "name": "chiesa di San Silvestro Papa",
       "match_count": 0
     },
@@ -8269,6 +8264,11 @@
     },
     {
       "wikidata_id": "Q120673263",
+      "name": "chiesa di San Silvestro Papa",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672385",
       "name": "chiesa di San Silvestro Papa",
       "match_count": 0
     },
@@ -8308,12 +8308,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672386",
+      "wikidata_id": "Q54870680",
       "name": "chiesa di San Sisto",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870680",
+      "wikidata_id": "Q120672386",
       "name": "chiesa di San Sisto",
       "match_count": 0
     },
@@ -8338,17 +8338,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672891",
-      "name": "chiesa di San Tommaso",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178484",
       "name": "chiesa di San Tommaso",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672588",
+      "wikidata_id": "Q120672891",
+      "name": "chiesa di San Tommaso",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673264",
       "name": "chiesa di San Tommaso",
       "match_count": 0
     },
@@ -8358,7 +8358,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673264",
+      "wikidata_id": "Q120672588",
       "name": "chiesa di San Tommaso",
       "match_count": 0
     },
@@ -8403,12 +8403,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672388",
+      "wikidata_id": "Q120673266",
       "name": "chiesa di San Venanzo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673266",
+      "wikidata_id": "Q120672388",
       "name": "chiesa di San Venanzo",
       "match_count": 0
     },
@@ -8458,7 +8458,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984109",
+      "wikidata_id": "Q55171774",
       "name": "chiesa di San Vito",
       "match_count": 0
     },
@@ -8468,7 +8468,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55171774",
+      "wikidata_id": "Q118984109",
+      "name": "chiesa di San Vito",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673267",
+      "name": "chiesa di San Vito",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673268",
       "name": "chiesa di San Vito",
       "match_count": 0
     },
@@ -8484,16 +8494,6 @@
     },
     {
       "wikidata_id": "Q120673045",
-      "name": "chiesa di San Vito",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673267",
-      "name": "chiesa di San Vito",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673268",
       "name": "chiesa di San Vito",
       "match_count": 0
     },
@@ -8553,17 +8553,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672912",
-      "name": "chiesa di Sant'Agnese",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178262",
-      "name": "chiesa di Sant'Agnese",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55178491",
       "name": "chiesa di Sant'Agnese",
       "match_count": 0
     },
@@ -8578,13 +8568,18 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672913",
-      "name": "chiesa di Sant'Agnese del Monastero Omonimo",
+      "wikidata_id": "Q55178491",
+      "name": "chiesa di Sant'Agnese",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120681606",
-      "name": "chiesa di Sant'Agostino",
+      "wikidata_id": "Q120672912",
+      "name": "chiesa di Sant'Agnese",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672913",
+      "name": "chiesa di Sant'Agnese del Monastero Omonimo",
       "match_count": 0
     },
     {
@@ -8608,12 +8603,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164320",
+      "wikidata_id": "Q55137870",
       "name": "chiesa di Sant'Agostino",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55137870",
+      "wikidata_id": "Q120681606",
       "name": "chiesa di Sant'Agostino",
       "match_count": 0
     },
@@ -8623,12 +8618,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870635",
+      "wikidata_id": "Q55164317",
       "name": "chiesa di Sant'Agostino",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164317",
+      "wikidata_id": "Q55164320",
+      "name": "chiesa di Sant'Agostino",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870635",
       "name": "chiesa di Sant'Agostino",
       "match_count": 0
     },
@@ -8703,16 +8703,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672914",
-      "name": "chiesa di Sant'Andrea",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672915",
-      "name": "chiesa di Sant'Andrea",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178274",
       "name": "chiesa di Sant'Andrea",
       "match_count": 0
@@ -8728,6 +8718,26 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672914",
+      "name": "chiesa di Sant'Andrea",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672915",
+      "name": "chiesa di Sant'Andrea",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123586462",
+      "name": "chiesa di Sant'Andrea",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870605",
+      "name": "chiesa di Sant'Andrea",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672415",
       "name": "chiesa di Sant'Andrea",
       "match_count": 0
@@ -8738,22 +8748,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870605",
-      "name": "chiesa di Sant'Andrea",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123586462",
-      "name": "chiesa di Sant'Andrea",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55179435",
-      "name": "chiesa di Sant'Andrea",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54873494",
+      "wikidata_id": "Q55169518",
       "name": "chiesa di Sant'Andrea",
       "match_count": 0
     },
@@ -8768,7 +8763,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55169518",
+      "wikidata_id": "Q54873494",
       "name": "chiesa di Sant'Andrea",
       "match_count": 0
     },
@@ -8778,12 +8773,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55167658",
+      "wikidata_id": "Q55179435",
       "name": "chiesa di Sant'Andrea",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673371",
+      "name": "chiesa di Sant'Andrea",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55167658",
       "name": "chiesa di Sant'Andrea",
       "match_count": 0
     },
@@ -8798,11 +8798,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983885",
-      "name": "chiesa di Sant'Andrea Apostolo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984217",
       "name": "chiesa di Sant'Andrea Apostolo",
       "match_count": 0
@@ -8813,12 +8808,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870581",
+      "wikidata_id": "Q118983885",
       "name": "chiesa di Sant'Andrea Apostolo",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672722",
+      "wikidata_id": "Q120673118",
       "name": "chiesa di Sant'Andrea Apostolo",
       "match_count": 0
     },
@@ -8828,7 +8823,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673118",
+      "wikidata_id": "Q54870581",
       "name": "chiesa di Sant'Andrea Apostolo",
       "match_count": 0
     },
@@ -8844,6 +8839,11 @@
     },
     {
       "wikidata_id": "Q120673296",
+      "name": "chiesa di Sant'Andrea Apostolo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672722",
       "name": "chiesa di Sant'Andrea Apostolo",
       "match_count": 0
     },
@@ -8883,7 +8883,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983869",
+      "wikidata_id": "Q123910629",
       "name": "chiesa di Sant'Angelo",
       "match_count": 0
     },
@@ -8893,7 +8893,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672418",
+      "wikidata_id": "Q118983869",
       "name": "chiesa di Sant'Angelo",
       "match_count": 0
     },
@@ -8903,12 +8903,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123910629",
-      "name": "chiesa di Sant'Angelo",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672961",
+      "wikidata_id": "Q120672418",
       "name": "chiesa di Sant'Angelo",
       "match_count": 0
     },
@@ -8929,6 +8924,11 @@
     },
     {
       "wikidata_id": "Q120673301",
+      "name": "chiesa di Sant'Angelo",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672961",
       "name": "chiesa di Sant'Angelo",
       "match_count": 0
     },
@@ -8993,17 +8993,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672419",
-      "name": "chiesa di Sant'Anna",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672008",
-      "name": "chiesa di Sant'Anna",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672023",
       "name": "chiesa di Sant'Anna",
       "match_count": 0
     },
@@ -9018,12 +9008,22 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672023",
+      "name": "chiesa di Sant'Anna",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672100",
       "name": "chiesa di Sant'Anna",
       "match_count": 0
     },
     {
       "wikidata_id": "Q16540506",
+      "name": "chiesa di Sant'Anna",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672419",
       "name": "chiesa di Sant'Anna",
       "match_count": 0
     },
@@ -9038,6 +9038,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672661",
+      "name": "chiesa di Sant'Anna",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672482",
       "name": "chiesa di Sant'Anna",
       "match_count": 0
@@ -9048,17 +9053,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672661",
+      "wikidata_id": "Q55191952",
       "name": "chiesa di Sant'Anna",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673305",
-      "name": "chiesa di Sant'Anna",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55191952",
       "name": "chiesa di Sant'Anna",
       "match_count": 0
     },
@@ -9123,7 +9123,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984220",
+      "name": "chiesa di Sant'Antonio",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55110276",
+      "name": "chiesa di Sant'Antonio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983855",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
@@ -9138,17 +9148,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983855",
-      "name": "chiesa di Sant'Antonio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984220",
-      "name": "chiesa di Sant'Antonio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672421",
+      "wikidata_id": "Q66945041",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
@@ -9163,12 +9163,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q66945041",
+      "wikidata_id": "Q120672102",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672102",
+      "wikidata_id": "Q120672421",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
@@ -9183,12 +9183,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672514",
+      "wikidata_id": "Q120672662",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870616",
+      "wikidata_id": "Q120672663",
+      "name": "chiesa di Sant'Antonio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672514",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
@@ -9208,22 +9213,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672787",
-      "name": "chiesa di Sant'Antonio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672788",
-      "name": "chiesa di Sant'Antonio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672662",
-      "name": "chiesa di Sant'Antonio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672663",
+      "wikidata_id": "Q120673438",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
@@ -9238,12 +9228,22 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672787",
+      "name": "chiesa di Sant'Antonio",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q123586495",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673438",
+      "wikidata_id": "Q120672788",
+      "name": "chiesa di Sant'Antonio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870616",
       "name": "chiesa di Sant'Antonio",
       "match_count": 0
     },
@@ -9268,17 +9268,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983886",
-      "name": "chiesa di Sant'Antonio Abate",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118983939",
       "name": "chiesa di Sant'Antonio Abate",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672422",
+      "wikidata_id": "Q118983886",
       "name": "chiesa di Sant'Antonio Abate",
       "match_count": 0
     },
@@ -9293,22 +9288,22 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672422",
+      "name": "chiesa di Sant'Antonio Abate",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673111",
       "name": "chiesa di Sant'Antonio Abate",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870459",
+      "wikidata_id": "Q120673419",
       "name": "chiesa di Sant'Antonio Abate",
       "match_count": 0
     },
     {
       "wikidata_id": "Q54872665",
-      "name": "chiesa di Sant'Antonio Abate",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673419",
       "name": "chiesa di Sant'Antonio Abate",
       "match_count": 0
     },
@@ -9343,6 +9338,11 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q54870459",
+      "name": "chiesa di Sant'Antonio Abate",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q121792440",
       "name": "chiesa di Sant'Antonio Abate",
       "match_count": 0
@@ -9368,27 +9368,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123586514",
-      "name": "chiesa di Sant'Antonio da Padova",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672989",
-      "name": "chiesa di Sant'Antonio da Padova",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673035",
-      "name": "chiesa di Sant'Antonio da Padova",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673036",
-      "name": "chiesa di Sant'Antonio da Padova",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672674",
+      "name": "chiesa di Sant'Antonio da Padova",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672767",
       "name": "chiesa di Sant'Antonio da Padova",
       "match_count": 0
     },
@@ -9403,7 +9388,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672767",
+      "wikidata_id": "Q120672989",
+      "name": "chiesa di Sant'Antonio da Padova",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123586514",
+      "name": "chiesa di Sant'Antonio da Padova",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673035",
+      "name": "chiesa di Sant'Antonio da Padova",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673036",
       "name": "chiesa di Sant'Antonio da Padova",
       "match_count": 0
     },
@@ -9418,12 +9418,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984015",
+      "wikidata_id": "Q118984079",
       "name": "chiesa di Sant'Antonio di Padova",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984079",
+      "wikidata_id": "Q118984015",
       "name": "chiesa di Sant'Antonio di Padova",
       "match_count": 0
     },
@@ -9448,12 +9448,27 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984222",
+      "name": "chiesa di Sant'Apollinare",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672009",
+      "name": "chiesa di Sant'Apollinare",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q118983870",
       "name": "chiesa di Sant'Apollinare",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984222",
+      "wikidata_id": "Q120672010",
+      "name": "chiesa di Sant'Apollinare",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672295",
       "name": "chiesa di Sant'Apollinare",
       "match_count": 0
     },
@@ -9468,37 +9483,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672443",
-      "name": "chiesa di Sant'Apollinare",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672010",
-      "name": "chiesa di Sant'Apollinare",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672009",
-      "name": "chiesa di Sant'Apollinare",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672295",
-      "name": "chiesa di Sant'Apollinare",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120673112",
       "name": "chiesa di Sant'Apollinare",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q124005574",
+      "wikidata_id": "Q27987613",
       "name": "chiesa di Sant'Apollinare",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q27987613",
+      "wikidata_id": "Q120673421",
+      "name": "chiesa di Sant'Apollinare",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672443",
+      "name": "chiesa di Sant'Apollinare",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673312",
+      "name": "chiesa di Sant'Apollinare",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q124005574",
       "name": "chiesa di Sant'Apollinare",
       "match_count": 0
     },
@@ -9509,16 +9519,6 @@
     },
     {
       "wikidata_id": "Q120672724",
-      "name": "chiesa di Sant'Apollinare",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673421",
-      "name": "chiesa di Sant'Apollinare",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673312",
       "name": "chiesa di Sant'Apollinare",
       "match_count": 0
     },
@@ -9548,7 +9548,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672919",
+      "wikidata_id": "Q54870586",
       "name": "chiesa di Sant'Egidio",
       "match_count": 0
     },
@@ -9563,12 +9563,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984111",
+      "wikidata_id": "Q28229044",
       "name": "chiesa di Sant'Egidio",
       "match_count": 0
     },
     {
       "wikidata_id": "Q118983871",
+      "name": "chiesa di Sant'Egidio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672919",
+      "name": "chiesa di Sant'Egidio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984018",
+      "name": "chiesa di Sant'Egidio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984017",
+      "name": "chiesa di Sant'Egidio",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984111",
       "name": "chiesa di Sant'Egidio",
       "match_count": 0
     },
@@ -9588,27 +9608,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q28229044",
+      "wikidata_id": "Q120673422",
       "name": "chiesa di Sant'Egidio",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984018",
-      "name": "chiesa di Sant'Egidio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984017",
-      "name": "chiesa di Sant'Egidio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870586",
-      "name": "chiesa di Sant'Egidio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672952",
+      "wikidata_id": "Q120672768",
       "name": "chiesa di Sant'Egidio",
       "match_count": 0
     },
@@ -9618,12 +9623,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673422",
-      "name": "chiesa di Sant'Egidio",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672768",
+      "wikidata_id": "Q120672952",
       "name": "chiesa di Sant'Egidio",
       "match_count": 0
     },
@@ -9723,12 +9723,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870451",
+      "wikidata_id": "Q55115789",
       "name": "chiesa di Sant'Ilario",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55115789",
+      "wikidata_id": "Q54870451",
       "name": "chiesa di Sant'Ilario",
       "match_count": 0
     },
@@ -9808,7 +9808,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672463",
+      "wikidata_id": "Q120673007",
+      "name": "chiesa di Santa Barbara",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673008",
       "name": "chiesa di Santa Barbara",
       "match_count": 0
     },
@@ -9823,12 +9828,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673007",
-      "name": "chiesa di Santa Barbara",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673008",
+      "wikidata_id": "Q120672463",
       "name": "chiesa di Santa Barbara",
       "match_count": 0
     },
@@ -9853,17 +9853,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55157195",
-      "name": "chiesa di Santa Caterina",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870660",
+      "wikidata_id": "Q120673269",
       "name": "chiesa di Santa Caterina",
       "match_count": 0
     },
     {
       "wikidata_id": "Q27987616",
+      "name": "chiesa di Santa Caterina",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55157195",
       "name": "chiesa di Santa Caterina",
       "match_count": 0
     },
@@ -9878,7 +9878,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673269",
+      "wikidata_id": "Q54870660",
       "name": "chiesa di Santa Caterina",
       "match_count": 0
     },
@@ -9888,12 +9888,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984110",
+      "wikidata_id": "Q118984092",
       "name": "chiesa di Santa Caterina d'Alessandria",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984092",
+      "wikidata_id": "Q118984110",
       "name": "chiesa di Santa Caterina d'Alessandria",
       "match_count": 0
     },
@@ -9908,22 +9908,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983931",
-      "name": "chiesa di Santa Caterina Vergine e Martire",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672045",
-      "name": "chiesa di Santa Caterina Vergine e Martire",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984185",
       "name": "chiesa di Santa Caterina Vergine e Martire",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120672119",
+      "name": "chiesa di Santa Caterina Vergine e Martire",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983931",
+      "name": "chiesa di Santa Caterina Vergine e Martire",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672045",
       "name": "chiesa di Santa Caterina Vergine e Martire",
       "match_count": 0
     },
@@ -9938,12 +9938,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q85799616",
+      "wikidata_id": "Q118984186",
       "name": "chiesa di Santa Cecilia",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984186",
+      "wikidata_id": "Q85799616",
       "name": "chiesa di Santa Cecilia",
       "match_count": 0
     },
@@ -9963,12 +9963,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673408",
+      "wikidata_id": "Q105907050",
       "name": "chiesa di Santa Chiara",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q105907050",
+      "wikidata_id": "Q120673408",
       "name": "chiesa di Santa Chiara",
       "match_count": 0
     },
@@ -9978,12 +9978,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983956",
+      "wikidata_id": "Q118984093",
       "name": "chiesa di Santa Chiara d'Assisi",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984093",
+      "wikidata_id": "Q118983956",
       "name": "chiesa di Santa Chiara d'Assisi",
       "match_count": 0
     },
@@ -10003,12 +10003,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672561",
+      "wikidata_id": "Q120673024",
       "name": "chiesa di Santa Cristina",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673024",
+      "wikidata_id": "Q120672561",
       "name": "chiesa di Santa Cristina",
       "match_count": 0
     },
@@ -10028,17 +10028,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983932",
-      "name": "chiesa di Santa Croce",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984188",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672464",
+      "wikidata_id": "Q118983932",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
@@ -10048,37 +10043,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672392",
-      "name": "chiesa di Santa Croce",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120673093",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672614",
+      "wikidata_id": "Q120672658",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672616",
-      "name": "chiesa di Santa Croce",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672708",
-      "name": "chiesa di Santa Croce",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672562",
+      "wikidata_id": "Q120672392",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673409",
+      "name": "chiesa di Santa Croce",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672464",
+      "name": "chiesa di Santa Croce",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672758",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
@@ -10089,11 +10079,6 @@
     },
     {
       "wikidata_id": "Q120672985",
-      "name": "chiesa di Santa Croce",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672658",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
@@ -10113,7 +10098,22 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672758",
+      "wikidata_id": "Q120672562",
+      "name": "chiesa di Santa Croce",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672614",
+      "name": "chiesa di Santa Croce",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672616",
+      "name": "chiesa di Santa Croce",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672708",
       "name": "chiesa di Santa Croce",
       "match_count": 0
     },
@@ -10188,22 +10188,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672960",
-      "name": "chiesa di Santa Giuliana",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120673094",
-      "name": "chiesa di Santa Giuliana",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870456",
-      "name": "chiesa di Santa Giuliana",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673466",
       "name": "chiesa di Santa Giuliana",
       "match_count": 0
     },
@@ -10213,8 +10198,28 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120673466",
+      "name": "chiesa di Santa Giuliana",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870456",
+      "name": "chiesa di Santa Giuliana",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672960",
+      "name": "chiesa di Santa Giuliana",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673500",
       "name": "chiesa di Santa Giuliana detta l'Immagine del Monte",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673362",
+      "name": "chiesa di Santa Illuminata",
       "match_count": 0
     },
     {
@@ -10224,11 +10229,6 @@
     },
     {
       "wikidata_id": "Q120672639",
-      "name": "chiesa di Santa Illuminata",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673362",
       "name": "chiesa di Santa Illuminata",
       "match_count": 0
     },
@@ -10253,12 +10253,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984126",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983882",
+      "wikidata_id": "Q118983822",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
@@ -10268,17 +10263,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983822",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q54870556",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55087417",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
@@ -10288,22 +10273,22 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118983882",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q123582394",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672395",
+      "wikidata_id": "Q54870665",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672396",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672397",
+      "wikidata_id": "Q55087417",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
@@ -10313,7 +10298,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870665",
+      "wikidata_id": "Q118984126",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673025",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
@@ -10338,31 +10328,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164573",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672505",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870455",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672710",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672712",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55169500",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
@@ -10373,7 +10338,37 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672395",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672396",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672397",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673412",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672505",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672672",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123582392",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
@@ -10383,17 +10378,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q123586584",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673025",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672672",
+      "wikidata_id": "Q120673132",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
@@ -10413,22 +10398,37 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673046",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123582392",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673132",
-      "name": "chiesa di Santa Lucia",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q123582393",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55164573",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123586584",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870455",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672710",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672712",
+      "name": "chiesa di Santa Lucia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673046",
       "name": "chiesa di Santa Lucia",
       "match_count": 0
     },
@@ -10443,28 +10443,13 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55087713",
-      "name": "chiesa di Santa Margherita",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q3673166",
       "name": "chiesa di Santa Margherita",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672894",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672895",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672893",
-      "name": "chiesa di Santa Maria",
+      "wikidata_id": "Q55087713",
+      "name": "chiesa di Santa Margherita",
       "match_count": 0
     },
     {
@@ -10483,6 +10468,26 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55140333",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984190",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55136048",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672140",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55178479",
       "name": "chiesa di Santa Maria",
       "match_count": 0
@@ -10493,27 +10498,32 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55140333",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55136048",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672062",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984190",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672181",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672894",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672895",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672893",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55115743",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55115798",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
@@ -10543,6 +10553,61 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672288",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672062",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673009",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673026",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673100",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169539",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169799",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672477",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673383",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673384",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673413",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55164326",
       "name": "chiesa di Santa Maria",
       "match_count": 0
@@ -10553,32 +10618,97 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672140",
+      "wikidata_id": "Q54874247",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55115743",
+      "wikidata_id": "Q120672679",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55115798",
+      "wikidata_id": "Q55172133",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672288",
+      "wikidata_id": "Q55172149",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55181835",
+      "wikidata_id": "Q55172163",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673100",
+      "wikidata_id": "Q55172195",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55179231",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673467",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673468",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55191970",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673133",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673278",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672786",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672987",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672563",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672566",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672564",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672565",
+      "name": "chiesa di Santa Maria",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672589",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
@@ -10588,7 +10718,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672589",
+      "wikidata_id": "Q120672599",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
@@ -10603,7 +10733,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672477",
+      "wikidata_id": "Q55181835",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
@@ -10638,137 +10768,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55169539",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169799",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672563",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672566",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672564",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672565",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673383",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673384",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673413",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673467",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673468",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54874247",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172133",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172149",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172163",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55172195",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55179231",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672786",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672987",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673009",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673026",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672599",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672679",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673278",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q123586594",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55191970",
-      "name": "chiesa di Santa Maria",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673133",
       "name": "chiesa di Santa Maria",
       "match_count": 0
     },
@@ -10788,18 +10788,13 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672046",
-      "name": "chiesa di Santa Maria Addolorata",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984191",
       "name": "chiesa di Santa Maria Addolorata",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672898",
-      "name": "chiesa di Santa Maria Annunziata",
+      "wikidata_id": "Q120672046",
+      "name": "chiesa di Santa Maria Addolorata",
       "match_count": 0
     },
     {
@@ -10818,7 +10813,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55168164",
+      "wikidata_id": "Q120672898",
+      "name": "chiesa di Santa Maria Annunziata",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673279",
       "name": "chiesa di Santa Maria Annunziata",
       "match_count": 0
     },
@@ -10828,7 +10828,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673279",
+      "wikidata_id": "Q55168164",
       "name": "chiesa di Santa Maria Annunziata",
       "match_count": 0
     },
@@ -10853,12 +10853,62 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672899",
+      "wikidata_id": "Q55178362",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55178362",
+      "wikidata_id": "Q118984194",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984193",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q25112874",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q28229047",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983801",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984082",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672142",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672141",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169888",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983980",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984006",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -10883,11 +10933,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984127",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178497",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
@@ -10903,7 +10948,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672166",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55110280",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55163876",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -10913,47 +10968,27 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q25112874",
+      "wikidata_id": "Q118983950",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q28229047",
+      "wikidata_id": "Q120672899",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983801",
+      "wikidata_id": "Q118983974",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672047",
+      "wikidata_id": "Q54870676",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672166",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984194",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984193",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123582406",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q18763253",
+      "wikidata_id": "Q55115836",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -10968,22 +11003,67 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55163876",
+      "wikidata_id": "Q18763253",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983950",
+      "wikidata_id": "Q54870474",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983974",
+      "wikidata_id": "Q54870472",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984006",
+      "wikidata_id": "Q55137028",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55138063",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672280",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984127",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672047",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123582406",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673102",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673101",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673117",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672646",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -11033,92 +11113,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870474",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870472",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870676",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672142",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672141",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169888",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983980",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984082",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55115836",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55137028",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55138063",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672280",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54873937",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673102",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673101",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55168153",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q120672506",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672618",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -11133,27 +11128,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672567",
+      "wikidata_id": "Q55179234",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672570",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672568",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672569",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672646",
+      "wikidata_id": "Q55179233",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -11173,27 +11153,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55179234",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55179233",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673033",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q25112738",
-      "name": "chiesa di Santa Maria Assunta",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673117",
+      "wikidata_id": "Q54873937",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -11219,6 +11179,46 @@
     },
     {
       "wikidata_id": "Q120673365",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672567",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672570",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672568",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672569",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q25112738",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55168153",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672618",
+      "name": "chiesa di Santa Maria Assunta",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673033",
       "name": "chiesa di Santa Maria Assunta",
       "match_count": 0
     },
@@ -11378,11 +11378,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984128",
-      "name": "chiesa di Santa Maria del Carmelo",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984198",
       "name": "chiesa di Santa Maria del Carmelo",
       "match_count": 0
@@ -11393,17 +11388,12 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q118984128",
+      "name": "chiesa di Santa Maria del Carmelo",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55178319",
-      "name": "chiesa di Santa Maria del Colle",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984129",
-      "name": "chiesa di Santa Maria del Colle",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983826",
       "name": "chiesa di Santa Maria del Colle",
       "match_count": 0
     },
@@ -11414,6 +11404,16 @@
     },
     {
       "wikidata_id": "Q118984201",
+      "name": "chiesa di Santa Maria del Colle",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983826",
+      "name": "chiesa di Santa Maria del Colle",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984129",
       "name": "chiesa di Santa Maria del Colle",
       "match_count": 0
     },
@@ -11598,17 +11598,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672904",
-      "name": "chiesa di Santa Maria della Misericordia",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178322",
       "name": "chiesa di Santa Maria della Misericordia",
       "match_count": 0
     },
     {
       "wikidata_id": "Q55178464",
+      "name": "chiesa di Santa Maria della Misericordia",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672904",
       "name": "chiesa di Santa Maria della Misericordia",
       "match_count": 0
     },
@@ -11628,12 +11628,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984130",
-      "name": "chiesa di Santa Maria della Neve",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118984131",
+      "wikidata_id": "Q118984083",
       "name": "chiesa di Santa Maria della Neve",
       "match_count": 0
     },
@@ -11643,7 +11638,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984083",
+      "wikidata_id": "Q55115776",
       "name": "chiesa di Santa Maria della Neve",
       "match_count": 0
     },
@@ -11653,7 +11648,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55115776",
+      "wikidata_id": "Q118984130",
+      "name": "chiesa di Santa Maria della Neve",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118984131",
       "name": "chiesa di Santa Maria della Neve",
       "match_count": 0
     },
@@ -11708,12 +11708,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672906",
+      "wikidata_id": "Q120672002",
       "name": "chiesa di Santa Maria della Speranza",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672002",
+      "wikidata_id": "Q120672906",
       "name": "chiesa di Santa Maria della Speranza",
       "match_count": 0
     },
@@ -11793,18 +11793,13 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672907",
-      "name": "chiesa di Santa Maria delle Croci",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55178364",
       "name": "chiesa di Santa Maria delle Croci",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672908",
-      "name": "chiesa di Santa Maria delle Grazie",
+      "wikidata_id": "Q120672907",
+      "name": "chiesa di Santa Maria delle Croci",
       "match_count": 0
     },
     {
@@ -11814,6 +11809,56 @@
     },
     {
       "wikidata_id": "Q55178434",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q107439260",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983828",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870585",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55186482",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672143",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123586664",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55171758",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983934",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983981",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q123572990",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
@@ -11828,46 +11873,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118983934",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123572990",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q107439260",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q110280714",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983828",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672049",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123910619",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55171758",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118983953",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
@@ -11878,27 +11883,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q54870585",
+      "wikidata_id": "Q120672908",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672143",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55186482",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983981",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q123586664",
+      "wikidata_id": "Q110280714",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
@@ -11918,17 +11908,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672049",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673105",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55168142",
-      "name": "chiesa di Santa Maria delle Grazie",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672620",
+      "wikidata_id": "Q120672659",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
@@ -11938,7 +11928,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q28754881",
+      "wikidata_id": "Q123910619",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
@@ -11948,12 +11938,22 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55168142",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q108151217",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672659",
+      "wikidata_id": "Q120672620",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q28754881",
       "name": "chiesa di Santa Maria delle Grazie",
       "match_count": 0
     },
@@ -12173,12 +12173,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672413",
+      "wikidata_id": "Q120672005",
       "name": "chiesa di Santa Maria Immacolata",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672005",
+      "wikidata_id": "Q120672413",
       "name": "chiesa di Santa Maria Immacolata",
       "match_count": 0
     },
@@ -12243,21 +12243,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55178472",
-      "name": "chiesa di Santa Maria Maddalena",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983896",
-      "name": "chiesa di Santa Maria Maddalena",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q118983854",
-      "name": "chiesa di Santa Maria Maddalena",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118984211",
       "name": "chiesa di Santa Maria Maddalena",
       "match_count": 0
@@ -12268,12 +12253,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672182",
-      "name": "chiesa di Santa Maria Maddalena",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672006",
+      "wikidata_id": "Q118983854",
       "name": "chiesa di Santa Maria Maddalena",
       "match_count": 0
     },
@@ -12288,17 +12268,27 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55178472",
+      "name": "chiesa di Santa Maria Maddalena",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672006",
+      "name": "chiesa di Santa Maria Maddalena",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672182",
+      "name": "chiesa di Santa Maria Maddalena",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q118983896",
+      "name": "chiesa di Santa Maria Maddalena",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55138092",
-      "name": "chiesa di Santa Maria Maddalena",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672479",
-      "name": "chiesa di Santa Maria Maddalena",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672720",
       "name": "chiesa di Santa Maria Maddalena",
       "match_count": 0
     },
@@ -12308,17 +12298,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672577",
+      "wikidata_id": "Q120672479",
       "name": "chiesa di Santa Maria Maddalena",
       "match_count": 0
     },
     {
       "wikidata_id": "Q106507191",
-      "name": "chiesa di Santa Maria Maddalena",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673289",
       "name": "chiesa di Santa Maria Maddalena",
       "match_count": 0
     },
@@ -12329,6 +12314,21 @@
     },
     {
       "wikidata_id": "Q120673136",
+      "name": "chiesa di Santa Maria Maddalena",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673289",
+      "name": "chiesa di Santa Maria Maddalena",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672577",
+      "name": "chiesa di Santa Maria Maddalena",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672720",
       "name": "chiesa di Santa Maria Maddalena",
       "match_count": 0
     },
@@ -12378,12 +12378,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55164575",
+      "wikidata_id": "Q120672764",
       "name": "chiesa di Santa Maria Nuova",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672764",
+      "wikidata_id": "Q55164575",
       "name": "chiesa di Santa Maria Nuova",
       "match_count": 0
     },
@@ -12423,12 +12423,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q118984012",
+      "wikidata_id": "Q55117123",
       "name": "chiesa di Santa Marina",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55117123",
+      "wikidata_id": "Q118984012",
       "name": "chiesa di Santa Marina",
       "match_count": 0
     },
@@ -12483,17 +12483,17 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q120672765",
+      "name": "chiesa di Santa Rita",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120673290",
       "name": "chiesa di Santa Rita",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673291",
-      "name": "chiesa di Santa Rita",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672765",
       "name": "chiesa di Santa Rita",
       "match_count": 0
     },
@@ -12563,17 +12563,37 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55178522",
-      "name": "chiesa di Santo Stefano",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q118983797",
       "name": "chiesa di Santo Stefano",
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55178522",
+      "name": "chiesa di Santo Stefano",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q120672167",
+      "name": "chiesa di Santo Stefano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672011",
+      "name": "chiesa di Santo Stefano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672259",
+      "name": "chiesa di Santo Stefano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q54870486",
+      "name": "chiesa di Santo Stefano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672071",
       "name": "chiesa di Santo Stefano",
       "match_count": 0
     },
@@ -12593,37 +12613,17 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672259",
+      "wikidata_id": "Q120673014",
       "name": "chiesa di Santo Stefano",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120672011",
-      "name": "chiesa di Santo Stefano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870486",
-      "name": "chiesa di Santo Stefano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672071",
+      "wikidata_id": "Q120673114",
       "name": "chiesa di Santo Stefano",
       "match_count": 0
     },
     {
       "wikidata_id": "Q120673113",
-      "name": "chiesa di Santo Stefano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q54870623",
-      "name": "chiesa di Santo Stefano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120672726",
       "name": "chiesa di Santo Stefano",
       "match_count": 0
     },
@@ -12638,17 +12638,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q120673014",
-      "name": "chiesa di Santo Stefano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673114",
-      "name": "chiesa di Santo Stefano",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q120673049",
+      "wikidata_id": "Q54870623",
       "name": "chiesa di Santo Stefano",
       "match_count": 0
     },
@@ -12659,6 +12649,16 @@
     },
     {
       "wikidata_id": "Q120673376",
+      "name": "chiesa di Santo Stefano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120673049",
+      "name": "chiesa di Santo Stefano",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q120672726",
       "name": "chiesa di Santo Stefano",
       "match_count": 0
     },
@@ -12808,11 +12808,6 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55187286",
-      "name": "chiesa parrocchiale",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55140346",
       "name": "chiesa parrocchiale",
       "match_count": 0
@@ -12823,37 +12818,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55140351",
-      "name": "chiesa parrocchiale",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55140349",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55140353",
-      "name": "chiesa parrocchiale",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55086278",
-      "name": "chiesa parrocchiale",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55169627",
-      "name": "chiesa parrocchiale",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55164328",
-      "name": "chiesa parrocchiale",
-      "match_count": 0
-    },
-    {
-      "wikidata_id": "Q55164338",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },
@@ -12868,12 +12838,27 @@
       "match_count": 0
     },
     {
+      "wikidata_id": "Q55140351",
+      "name": "chiesa parrocchiale",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55140353",
+      "name": "chiesa parrocchiale",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55169627",
+      "name": "chiesa parrocchiale",
+      "match_count": 0
+    },
+    {
       "wikidata_id": "Q55115813",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55087439",
+      "wikidata_id": "Q55187286",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },
@@ -12883,7 +12868,7 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55180941",
+      "wikidata_id": "Q55187551",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },
@@ -12894,6 +12879,26 @@
     },
     {
       "wikidata_id": "Q55169992",
+      "name": "chiesa parrocchiale",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55171996",
+      "name": "chiesa parrocchiale",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55087439",
+      "name": "chiesa parrocchiale",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55164328",
+      "name": "chiesa parrocchiale",
+      "match_count": 0
+    },
+    {
+      "wikidata_id": "Q55164338",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },
@@ -12913,17 +12918,12 @@
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55187551",
-      "name": "chiesa parrocchiale",
-      "match_count": 0
-    },
-    {
       "wikidata_id": "Q55168409",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },
     {
-      "wikidata_id": "Q55171996",
+      "wikidata_id": "Q55180941",
       "name": "chiesa parrocchiale",
       "match_count": 0
     },

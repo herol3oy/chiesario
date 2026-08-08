@@ -1,0 +1,2309 @@
+{
+    "records": {
+        "Q3585431": {
+            "canonical_coordinates": {
+                "latitude": 43.0265562,
+                "longitude": 12.1917687,
+                "note": "Wikidata and OSM differ by 212m; OSM way 388641654 (building outline) is more precise."
+            },
+            "hero_image_filename": "Santa Maria Annunziara -Fontignano.JPG",
+            "note": " Manual hero image selected: Santa Maria Annunziara -Fontignano.JPG."
+        },
+        "Q810106": {
+            "directory_type": "basilica",
+            "note": "Wikidata P31 = minor basilica (Q120560); ecclesiastical rank is basilica. Manual hero image selected: Santa Chiara Assisi2.jpg.",
+            "hero_image_filename": "Santa Chiara Assisi2.jpg"
+        },
+        "Q16540558": {
+            "directory_type": "basilica",
+            "note": "Wikidata has both former church building (Q19899465) and basilica (Q163687); using ecclesiastical rank basilica for directory. Manual hero image selected: Chiesa di Sant'Eufemia, facciata.jpg.",
+            "hero_image_filename": "Chiesa di Sant'Eufemia, facciata.jpg"
+        },
+        "Q644850": {
+            "note": "Best candidate confidence=medium; reasons=['wikidata_p18', {'name_tokens': ['pietro']}, 'license_requires_review']. No suitable hero image. Manual hero image selected: IMG 1063 - Perugia - San Pietro - Chiostro maggiore (sec. XVI) - 7 ago 2006 - Foto G. Dall'Orto.jpg.",
+            "hero_image_filename": "IMG 1063 - Perugia - San Pietro - Chiostro maggiore (sec. XVI) - 7 ago 2006 - Foto G. Dall'Orto.jpg"
+        },
+        "Q120672307": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672269": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672823": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984027": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178334": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120671956": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673430": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672524": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178388": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118983899": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792423": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q28229375": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792424": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672832": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672780": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984032": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792425": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672834": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672529": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118983962": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673444": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672126": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672838": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672839": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120671964": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673446": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672531": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673447": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673119": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672194": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672675": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673449": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672946": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673120": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672323": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984038": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984101": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672327": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672641": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672851": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120671969": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55139262": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673451": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673124": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55164586": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672535": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672628": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672332": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672333": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672334": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672538": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672537": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673457": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672200": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672540": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120671974": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178439": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672541": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672542": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672865": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672207": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672208": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673473": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q54087537": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672213": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984048": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672543": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178307": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178494": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q3585331": {
+            "note": "Best candidate confidence=low; reasons=['wikidata_p18', {'hard_reject_terms': ['interno']}, {'name_tokens': ['francesco']}]. No suitable hero image. Manual hero image selected: Città di castello, san francesco, interno 01.JPG.",
+            "hero_image_filename": "Città di castello, san francesco, interno 01.JPG"
+        },
+        "Q120672342": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672344": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q3670166": {
+            "exclude": true,
+            "exclusion_reason": "No coordinate source available; cannot reliably place on map."
+        },
+        "Q54870647": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792427": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672345": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673126": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178368": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672874": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673474": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672545": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55157199": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672347": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672348": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673461": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120671980": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55139258": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55191967": {
+            "no_hero_image": true,
+            "note": "Best candidate confidence=low; reasons=['wikidata_p18', {'positive_terms': ['chiesa']}, {'negative_terms': ['fresco', 'affresco']}, {'hard_reject_terms': ['affresco', 'fresco']}, {'name_tokens': ['girolamo']}, 'landscape_or_square']. No suitable hero image."
+        },
+        "Q55164572": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178433": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55170705": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178379": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672547": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672676": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178436": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118983979": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55157201": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178369": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672223": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672360": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672362": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672363": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q2942583": {
+            "note": "Best candidate confidence=low; reasons=['wikidata_p18', {'positive_terms': ['chiesa']}, {'hard_reject_terms': ['interno']}, {'name_tokens': ['michele']}]. No suitable hero image. Manual hero image selected: Bevagna 1.jpg.",
+            "hero_image_filename": "Bevagna 1.jpg"
+        },
+        "Q120673350": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792433": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178482": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672373": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55157220": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672376": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672677": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792434": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792435": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672887": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55138056": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672554": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672555": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178519": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q138779650": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673256": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672384": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55164583": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178508": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672385": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672388": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672559": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120671996": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672560": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q28229373": {
+            "note": "Best candidate confidence=medium; reasons=['wikidata_p18', {'positive_terms': ['chiesa']}, {'name_tokens': ['agostino', 'sant']}, 'license_requires_review']. No suitable hero image. Manual hero image selected: Chiesa Sant Agostino 01.jpg.",
+            "hero_image_filename": "Chiesa Sant Agostino 01.jpg"
+        },
+        "Q55178374": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672915": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792437": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178384": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672578": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672419": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55191952": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672421": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673438": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792438": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792439": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792440": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673035": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984221": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672425": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178460": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984111": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672426": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672428": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672920": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q3585328": {
+            "no_hero_image": true,
+            "note": "Best candidate confidence=medium; reasons=['wikidata_p18', {'positive_terms': ['church']}, {'name_tokens': ['sant', 'ercolano']}, 'license_requires_review']. No suitable hero image."
+        },
+        "Q120673385": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673469": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178503": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120671997": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672561": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672392": {
+            "note": "Best candidate confidence=low; reasons=['wikidata_p18', {'positive_terms': ['chiesa']}, {'hard_reject_terms': ['interno']}, {'name_tokens': ['croce']}, 'landscape_or_square']. No suitable hero image. Manual hero image selected: Foligno - Chiesa di Santa Croce - 040.JPG.",
+            "hero_image_filename": "Foligno - Chiesa di Santa Croce - 040.JPG"
+        },
+        "Q121792436": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672393": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673466": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672397": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672245": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672288": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673384": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673468": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672563": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672565": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672896": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178451": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178469": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178506": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672646": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672403": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672400": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672401": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672406": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672407": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673481": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672567": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672570": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55136066": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q28157167": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55164574": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55164578": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118983826": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984204": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672574": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672575": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672576": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672904": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q19572923": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55178434": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672289": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672620": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984011": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q87195982": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118983830": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672248": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672411": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118984210": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118983833": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672006": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672182": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q55138080": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672430": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q121792442": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672582": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q17624799": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120672584": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q118983837": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q138779735": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q120673483": {
+            "no_hero_image": true,
+            "note": "No suitable Wikidata P18 image available after Commons enrichment."
+        },
+        "Q16540506": {
+            "exclude": true,
+            "exclusion_reason": "No coordinate source available; cannot reliably place on map."
+        }
+    },
+    "duplicate_pairs": [
+        {
+            "qid_1": "Q118983844",
+            "qid_2": "Q118983845",
+            "status": "same_entity",
+            "canonical_qid": "Q118983844",
+            "note": "Identical name and 5.1m apart; canonical chosen as the historic/publishable record."
+        },
+        {
+            "qid_1": "Q2957143",
+            "qid_2": "Q3585384",
+            "status": "same_entity",
+            "canonical_qid": "Q2957143",
+            "note": "Identical name and 16.2m apart; canonical chosen as the historic/publishable record."
+        },
+        {
+            "qid_1": "Q118984205",
+            "qid_2": "Q118984206",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.915, distance 21.62m)."
+        },
+        {
+            "qid_1": "Q55171990",
+            "qid_2": "Q55354056",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 32.84m)."
+        },
+        {
+            "qid_1": "Q120672169",
+            "qid_2": "Q120672178",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 93.02m)."
+        },
+        {
+            "qid_1": "Q120672035",
+            "qid_2": "Q120672037",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.831, distance 0.24m)."
+        },
+        {
+            "qid_1": "Q118984203",
+            "qid_2": "Q118984204",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.892, distance 21.97m)."
+        },
+        {
+            "qid_1": "Q120673256",
+            "qid_2": "Q120673257",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 199.08m)."
+        },
+        {
+            "qid_1": "Q120672288",
+            "qid_2": "Q55138080",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.955, distance 471.84m)."
+        },
+        {
+            "qid_1": "Q120673383",
+            "qid_2": "Q120673384",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 958.41m)."
+        },
+        {
+            "qid_1": "Q120672883",
+            "qid_2": "Q120672884",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 1221.1m)."
+        },
+        {
+            "qid_1": "Q120672178",
+            "qid_2": "Q120672177",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 1398.99m)."
+        },
+        {
+            "qid_1": "Q120672427",
+            "qid_2": "Q120672428",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 1401.68m)."
+        },
+        {
+            "qid_1": "Q120673244",
+            "qid_2": "Q3671688",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 1600.51m)."
+        },
+        {
+            "qid_1": "Q121792438",
+            "qid_2": "Q121792439",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 1617.22m)."
+        },
+        {
+            "qid_1": "Q120673350",
+            "qid_2": "Q120673353",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 1758.08m)."
+        },
+        {
+            "qid_1": "Q120672130",
+            "qid_2": "Q120672129",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2195.7m)."
+        },
+        {
+            "qid_1": "Q55178456",
+            "qid_2": "Q120672865",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2225.32m)."
+        },
+        {
+            "qid_1": "Q28229026",
+            "qid_2": "Q118983968",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2481.9m)."
+        },
+        {
+            "qid_1": "Q120672242",
+            "qid_2": "Q120672245",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2561.55m)."
+        },
+        {
+            "qid_1": "Q18785552",
+            "qid_2": "Q119975228",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2620.7m)."
+        },
+        {
+            "qid_1": "Q118984198",
+            "qid_2": "Q118984199",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2685.73m)."
+        },
+        {
+            "qid_1": "Q120672424",
+            "qid_2": "Q120672425",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2704.51m)."
+        },
+        {
+            "qid_1": "Q55178381",
+            "qid_2": "Q55178430",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2737.6m)."
+        },
+        {
+            "qid_1": "Q55178430",
+            "qid_2": "Q120672882",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2928.64m)."
+        },
+        {
+            "qid_1": "Q120672406",
+            "qid_2": "Q120672407",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2982.22m)."
+        },
+        {
+            "qid_1": "Q55178469",
+            "qid_2": "Q55178511",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 2996.13m)."
+        },
+        {
+            "qid_1": "Q120671995",
+            "qid_2": "Q120671996",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3196.37m)."
+        },
+        {
+            "qid_1": "Q120672401",
+            "qid_2": "Q120672406",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3213.62m)."
+        },
+        {
+            "qid_1": "Q55164619",
+            "qid_2": "Q120672545",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3287.46m)."
+        },
+        {
+            "qid_1": "Q120672935",
+            "qid_2": "Q120672936",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3485.25m)."
+        },
+        {
+            "qid_1": "Q120672563",
+            "qid_2": "Q120672566",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3498.59m)."
+        },
+        {
+            "qid_1": "Q120673360",
+            "qid_2": "Q124099425",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3502.36m)."
+        },
+        {
+            "qid_1": "Q120672874",
+            "qid_2": "Q120672875",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3623.21m)."
+        },
+        {
+            "qid_1": "Q118984221",
+            "qid_2": "Q3672717",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3623.59m)."
+        },
+        {
+            "qid_1": "Q120673359",
+            "qid_2": "Q120673360",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3628.45m)."
+        },
+        {
+            "qid_1": "Q120672038",
+            "qid_2": "Q120672037",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3689.77m)."
+        },
+        {
+            "qid_1": "Q120672142",
+            "qid_2": "Q120672141",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3748.73m)."
+        },
+        {
+            "qid_1": "Q120673341",
+            "qid_2": "Q120673344",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3881.09m)."
+        },
+        {
+            "qid_1": "Q120672407",
+            "qid_2": "Q120672408",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 3906.83m)."
+        },
+        {
+            "qid_1": "Q120672401",
+            "qid_2": "Q120672407",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4011.7m)."
+        },
+        {
+            "qid_1": "Q120672419",
+            "qid_2": "Q55157191",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4098.21m)."
+        },
+        {
+            "qid_1": "Q120672228",
+            "qid_2": "Q55136098",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4098.47m)."
+        },
+        {
+            "qid_1": "Q118984027",
+            "qid_2": "Q118984028",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4127.23m)."
+        },
+        {
+            "qid_1": "Q55137028",
+            "qid_2": "Q120672280",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4141.14m)."
+        },
+        {
+            "qid_1": "Q118983864",
+            "qid_2": "Q118983865",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4169.26m)."
+        },
+        {
+            "qid_1": "Q120673467",
+            "qid_2": "Q120673468",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4310.43m)."
+        },
+        {
+            "qid_1": "Q120672403",
+            "qid_2": "Q120672407",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4332.51m)."
+        },
+        {
+            "qid_1": "Q120672403",
+            "qid_2": "Q120672408",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4441.96m)."
+        },
+        {
+            "qid_1": "Q120672011",
+            "qid_2": "Q3674266",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4488.3m)."
+        },
+        {
+            "qid_1": "Q121792442",
+            "qid_2": "Q121792443",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4508.03m)."
+        },
+        {
+            "qid_1": "Q120672399",
+            "qid_2": "Q120672406",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4655.8m)."
+        },
+        {
+            "qid_1": "Q120672226",
+            "qid_2": "Q120672228",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4687.79m)."
+        },
+        {
+            "qid_1": "Q120672373",
+            "qid_2": "Q55157220",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4787.69m)."
+        },
+        {
+            "qid_1": "Q55164318",
+            "qid_2": "Q119999421",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 4874.76m)."
+        },
+        {
+            "qid_1": "Q120672914",
+            "qid_2": "Q120672915",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5217.84m)."
+        },
+        {
+            "qid_1": "Q120672399",
+            "qid_2": "Q120672401",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5225.24m)."
+        },
+        {
+            "qid_1": "Q120673480",
+            "qid_2": "Q120673481",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5270.77m)."
+        },
+        {
+            "qid_1": "Q118984170",
+            "qid_2": "Q118984169",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5293.98m)."
+        },
+        {
+            "qid_1": "Q120672402",
+            "qid_2": "Q120672401",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5314.95m)."
+        },
+        {
+            "qid_1": "Q120672243",
+            "qid_2": "Q120672245",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5343.66m)."
+        },
+        {
+            "qid_1": "Q120672614",
+            "qid_2": "Q120672616",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5467.85m)."
+        },
+        {
+            "qid_1": "Q120673350",
+            "qid_2": "Q120673351",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5485.02m)."
+        },
+        {
+            "qid_1": "Q120672775",
+            "qid_2": "Q120672776",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5630.96m)."
+        },
+        {
+            "qid_1": "Q120673354",
+            "qid_2": "Q120673356",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5684.34m)."
+        },
+        {
+            "qid_1": "Q121792430",
+            "qid_2": "Q121792428",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5700.38m)."
+        },
+        {
+            "qid_1": "Q120672342",
+            "qid_2": "Q120672343",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5703.81m)."
+        },
+        {
+            "qid_1": "Q121792430",
+            "qid_2": "Q121792429",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5751.32m)."
+        },
+        {
+            "qid_1": "Q120672399",
+            "qid_2": "Q120672400",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5756.49m)."
+        },
+        {
+            "qid_1": "Q120672403",
+            "qid_2": "Q120672404",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5914.75m)."
+        },
+        {
+            "qid_1": "Q120672574",
+            "qid_2": "Q120672575",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 5958.4m)."
+        },
+        {
+            "qid_1": "Q1132503",
+            "qid_2": "Q55178379",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6049.84m)."
+        },
+        {
+            "qid_1": "Q120672383",
+            "qid_2": "Q120672384",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6081.95m)."
+        },
+        {
+            "qid_1": "Q55178469",
+            "qid_2": "Q120672899",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6098.36m)."
+        },
+        {
+            "qid_1": "Q25112738",
+            "qid_2": "Q120672618",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6193.09m)."
+        },
+        {
+            "qid_1": "Q45360786",
+            "qid_2": "Q120672545",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6326.43m)."
+        },
+        {
+            "qid_1": "Q55168142",
+            "qid_2": "Q120672620",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6356.94m)."
+        },
+        {
+            "qid_1": "Q120672616",
+            "qid_2": "Q120672615",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6415.28m)."
+        },
+        {
+            "qid_1": "Q120672403",
+            "qid_2": "Q120672401",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6423.56m)."
+        },
+        {
+            "qid_1": "Q120672407",
+            "qid_2": "Q120672404",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6510.42m)."
+        },
+        {
+            "qid_1": "Q55178274",
+            "qid_2": "Q120672915",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6520.29m)."
+        },
+        {
+            "qid_1": "Q120672406",
+            "qid_2": "Q120672408",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6523.96m)."
+        },
+        {
+            "qid_1": "Q120673035",
+            "qid_2": "Q120673036",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6525.53m)."
+        },
+        {
+            "qid_1": "Q55168418",
+            "qid_2": "Q120672636",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6532.18m)."
+        },
+        {
+            "qid_1": "Q120672430",
+            "qid_2": "Q120672432",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6614.68m)."
+        },
+        {
+            "qid_1": "Q118984004",
+            "qid_2": "Q118984005",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6635.73m)."
+        },
+        {
+            "qid_1": "Q120672567",
+            "qid_2": "Q120672569",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6664.19m)."
+        },
+        {
+            "qid_1": "Q55178309",
+            "qid_2": "Q55178494",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6747.56m)."
+        },
+        {
+            "qid_1": "Q120672400",
+            "qid_2": "Q120672406",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6855.75m)."
+        },
+        {
+            "qid_1": "Q120672332",
+            "qid_2": "Q120672333",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6872.84m)."
+        },
+        {
+            "qid_1": "Q2942583",
+            "qid_2": "Q120672044",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6890.16m)."
+        },
+        {
+            "qid_1": "Q120673007",
+            "qid_2": "Q120673008",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 6909.09m)."
+        },
+        {
+            "qid_1": "Q55138044",
+            "qid_2": "Q120672289",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7103.43m)."
+        },
+        {
+            "qid_1": "Q120672813",
+            "qid_2": "Q120672865",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7115.39m)."
+        },
+        {
+            "qid_1": "Q120672403",
+            "qid_2": "Q120672406",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7117.03m)."
+        },
+        {
+            "qid_1": "Q120672208",
+            "qid_2": "Q120672209",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7144.43m)."
+        },
+        {
+            "qid_1": "Q55178362",
+            "qid_2": "Q55178469",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7179.94m)."
+        },
+        {
+            "qid_1": "Q120672598",
+            "qid_2": "Q120672597",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7314.33m)."
+        },
+        {
+            "qid_1": "Q25112738",
+            "qid_2": "Q55168153",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7354.1m)."
+        },
+        {
+            "qid_1": "Q120673350",
+            "qid_2": "Q120673348",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7378.82m)."
+        },
+        {
+            "qid_1": "Q120672402",
+            "qid_2": "Q120672406",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7406.49m)."
+        },
+        {
+            "qid_1": "Q120672372",
+            "qid_2": "Q120672373",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7418.96m)."
+        },
+        {
+            "qid_1": "Q120672426",
+            "qid_2": "Q120672427",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7489.99m)."
+        },
+        {
+            "qid_1": "Q120672566",
+            "qid_2": "Q120672565",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7505.27m)."
+        },
+        {
+            "qid_1": "Q120672399",
+            "qid_2": "Q120672407",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7544.23m)."
+        },
+        {
+            "qid_1": "Q120672563",
+            "qid_2": "Q120672565",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7548.57m)."
+        },
+        {
+            "qid_1": "Q120673194",
+            "qid_2": "Q17992686",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7561.01m)."
+        },
+        {
+            "qid_1": "Q120672395",
+            "qid_2": "Q120672397",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7599.55m)."
+        },
+        {
+            "qid_1": "Q118984074",
+            "qid_2": "Q118984075",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7628.52m)."
+        },
+        {
+            "qid_1": "Q120673341",
+            "qid_2": "Q120673345",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7752.39m)."
+        },
+        {
+            "qid_1": "Q120672401",
+            "qid_2": "Q120672408",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7856.22m)."
+        },
+        {
+            "qid_1": "Q55178469",
+            "qid_2": "Q55178506",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7923.07m)."
+        },
+        {
+            "qid_1": "Q55178369",
+            "qid_2": "Q55178381",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 7956.6m)."
+        },
+        {
+            "qid_1": "Q1132503",
+            "qid_2": "Q55178367",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8013.28m)."
+        },
+        {
+            "qid_1": "Q45360786",
+            "qid_2": "Q55164619",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8045.44m)."
+        },
+        {
+            "qid_1": "Q120672396",
+            "qid_2": "Q120672397",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8283.84m)."
+        },
+        {
+            "qid_1": "Q118984180",
+            "qid_2": "Q90908568",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8321.07m)."
+        },
+        {
+            "qid_1": "Q118984151",
+            "qid_2": "Q118984153",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8335.17m)."
+        },
+        {
+            "qid_1": "Q120672240",
+            "qid_2": "Q120672245",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8540.73m)."
+        },
+        {
+            "qid_1": "Q120672426",
+            "qid_2": "Q120672428",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8548.09m)."
+        },
+        {
+            "qid_1": "Q55178449",
+            "qid_2": "Q120672874",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8587.16m)."
+        },
+        {
+            "qid_1": "Q120673350",
+            "qid_2": "Q120673352",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8716.47m)."
+        },
+        {
+            "qid_1": "Q644850",
+            "qid_2": "Q55178359",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8912.24m)."
+        },
+        {
+            "qid_1": "Q54870641",
+            "qid_2": "Q54870647",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 8997.55m)."
+        },
+        {
+            "qid_1": "Q120672406",
+            "qid_2": "Q120672404",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9111.39m)."
+        },
+        {
+            "qid_1": "Q120672866",
+            "qid_2": "Q120672865",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9124.49m)."
+        },
+        {
+            "qid_1": "Q120672402",
+            "qid_2": "Q120672407",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9254.91m)."
+        },
+        {
+            "qid_1": "Q55178368",
+            "qid_2": "Q55178495",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9264.71m)."
+        },
+        {
+            "qid_1": "Q120672400",
+            "qid_2": "Q120672407",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9393.09m)."
+        },
+        {
+            "qid_1": "Q55178369",
+            "qid_2": "Q120672882",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9399.78m)."
+        },
+        {
+            "qid_1": "Q120672400",
+            "qid_2": "Q120672401",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9466.99m)."
+        },
+        {
+            "qid_1": "Q123298385",
+            "qid_2": "Q3670098",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9475.19m)."
+        },
+        {
+            "qid_1": "Q55167645",
+            "qid_2": "Q55167654",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9504.12m)."
+        },
+        {
+            "qid_1": "Q120672223",
+            "qid_2": "Q120672224",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9512.54m)."
+        },
+        {
+            "qid_1": "Q120673363",
+            "qid_2": "Q120673365",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9705.16m)."
+        },
+        {
+            "qid_1": "Q55178369",
+            "qid_2": "Q55178499",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9783.16m)."
+        },
+        {
+            "qid_1": "Q120672359",
+            "qid_2": "Q120672360",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9807.44m)."
+        },
+        {
+            "qid_1": "Q120673245",
+            "qid_2": "Q3671688",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 9915.01m)."
+        },
+        {
+            "qid_1": "Q55168153",
+            "qid_2": "Q120672618",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10036.52m)."
+        },
+        {
+            "qid_1": "Q55178451",
+            "qid_2": "Q55178497",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10162.52m)."
+        },
+        {
+            "qid_1": "Q55178369",
+            "qid_2": "Q55178430",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10360.13m)."
+        },
+        {
+            "qid_1": "Q55178367",
+            "qid_2": "Q55178379",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10376.23m)."
+        },
+        {
+            "qid_1": "Q120672401",
+            "qid_2": "Q120672404",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10412.63m)."
+        },
+        {
+            "qid_1": "Q120672372",
+            "qid_2": "Q55157220",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10456.41m)."
+        },
+        {
+            "qid_1": "Q120672814",
+            "qid_2": "Q55178519",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10568.57m)."
+        },
+        {
+            "qid_1": "Q55178506",
+            "qid_2": "Q55178511",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10600.01m)."
+        },
+        {
+            "qid_1": "Q120672358",
+            "qid_2": "Q120672360",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.952, distance 10666.73m)."
+        },
+        {
+            "qid_1": "Q120672402",
+            "qid_2": "Q120672400",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 10771.34m)."
+        },
+        {
+            "qid_1": "Q55178441",
+            "qid_2": "Q55178469",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11160.02m)."
+        },
+        {
+            "qid_1": "Q120672347",
+            "qid_2": "Q120672348",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11222.24m)."
+        },
+        {
+            "qid_1": "Q120672399",
+            "qid_2": "Q120672403",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11264.85m)."
+        },
+        {
+            "qid_1": "Q120672567",
+            "qid_2": "Q120672568",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11346.02m)."
+        },
+        {
+            "qid_1": "Q120672402",
+            "qid_2": "Q120672403",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11413.28m)."
+        },
+        {
+            "qid_1": "Q120673243",
+            "qid_2": "Q3671688",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11576.56m)."
+        },
+        {
+            "qid_1": "Q55178441",
+            "qid_2": "Q55178506",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11624.32m)."
+        },
+        {
+            "qid_1": "Q120672400",
+            "qid_2": "Q120672408",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11629.58m)."
+        },
+        {
+            "qid_1": "Q55167654",
+            "qid_2": "Q55167663",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11825.6m)."
+        },
+        {
+            "qid_1": "Q120672563",
+            "qid_2": "Q120672564",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11845.82m)."
+        },
+        {
+            "qid_1": "Q120672239",
+            "qid_2": "Q120672243",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 11943.89m)."
+        },
+        {
+            "qid_1": "Q120672880",
+            "qid_2": "Q55178379",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.955, distance 12025.02m)."
+        },
+        {
+            "qid_1": "Q120673343",
+            "qid_2": "Q120673341",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 12133.32m)."
+        },
+        {
+            "qid_1": "Q55178362",
+            "qid_2": "Q55178506",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 12539.72m)."
+        },
+        {
+            "qid_1": "Q55178430",
+            "qid_2": "Q55178499",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 12553.43m)."
+        },
+        {
+            "qid_1": "Q55178503",
+            "qid_2": "Q120672921",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 12801.48m)."
+        },
+        {
+            "qid_1": "Q120672227",
+            "qid_2": "Q120672228",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 12805.45m)."
+        },
+        {
+            "qid_1": "Q55178506",
+            "qid_2": "Q120672899",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13029.91m)."
+        },
+        {
+            "qid_1": "Q118984050",
+            "qid_2": "Q118984049",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13238.64m)."
+        },
+        {
+            "qid_1": "Q55178495",
+            "qid_2": "Q120672874",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13356.9m)."
+        },
+        {
+            "qid_1": "Q55178368",
+            "qid_2": "Q120672874",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13399.29m)."
+        },
+        {
+            "qid_1": "Q120672403",
+            "qid_2": "Q120672400",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13725.42m)."
+        },
+        {
+            "qid_1": "Q120672400",
+            "qid_2": "Q120672404",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13732.03m)."
+        },
+        {
+            "qid_1": "Q55178274",
+            "qid_2": "Q55178374",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13734.99m)."
+        },
+        {
+            "qid_1": "Q120672430",
+            "qid_2": "Q120672431",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 13968.61m)."
+        },
+        {
+            "qid_1": "Q120673255",
+            "qid_2": "Q120673256",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 14008.3m)."
+        },
+        {
+            "qid_1": "Q120672207",
+            "qid_2": "Q120672208",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 14044.01m)."
+        },
+        {
+            "qid_1": "Q3580179",
+            "qid_2": "Q120672194",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 14233.34m)."
+        },
+        {
+            "qid_1": "Q55178375",
+            "qid_2": "Q120672884",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 14278.28m)."
+        },
+        {
+            "qid_1": "Q120672239",
+            "qid_2": "Q120672245",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 14365.96m)."
+        },
+        {
+            "qid_1": "Q45360786",
+            "qid_2": "Q120672544",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 14430.97m)."
+        },
+        {
+            "qid_1": "Q120672331",
+            "qid_2": "Q120672332",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 14473.89m)."
+        },
+        {
+            "qid_1": "Q55178434",
+            "qid_2": "Q120672908",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15127.49m)."
+        },
+        {
+            "qid_1": "Q120672239",
+            "qid_2": "Q120672242",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15174.47m)."
+        },
+        {
+            "qid_1": "Q55178362",
+            "qid_2": "Q55178451",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15346.31m)."
+        },
+        {
+            "qid_1": "Q120672570",
+            "qid_2": "Q120672568",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15361.29m)."
+        },
+        {
+            "qid_1": "Q120672239",
+            "qid_2": "Q120672240",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15389.66m)."
+        },
+        {
+            "qid_1": "Q55178375",
+            "qid_2": "Q120672883",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15480.53m)."
+        },
+        {
+            "qid_1": "Q55178368",
+            "qid_2": "Q120672875",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15633.41m)."
+        },
+        {
+            "qid_1": "Q120672564",
+            "qid_2": "Q120672565",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 15949.76m)."
+        },
+        {
+            "qid_1": "Q121792434",
+            "qid_2": "Q121792435",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 16124.97m)."
+        },
+        {
+            "qid_1": "Q55178469",
+            "qid_2": "Q55178497",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 16172.48m)."
+        },
+        {
+            "qid_1": "Q120673342",
+            "qid_2": "Q120673341",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 16289.59m)."
+        },
+        {
+            "qid_1": "Q120672538",
+            "qid_2": "Q120672537",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 17437.65m)."
+        },
+        {
+            "qid_1": "Q120672370",
+            "qid_2": "Q120672373",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.95, distance 17784.28m)."
+        },
+        {
+            "qid_1": "Q55178370",
+            "qid_2": "Q55178434",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 18383.11m)."
+        },
+        {
+            "qid_1": "Q55178451",
+            "qid_2": "Q55178506",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 18483.12m)."
+        },
+        {
+            "qid_1": "Q55178374",
+            "qid_2": "Q120672914",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 18659.51m)."
+        },
+        {
+            "qid_1": "Q55178464",
+            "qid_2": "Q120672904",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 18964.53m)."
+        },
+        {
+            "qid_1": "Q55178497",
+            "qid_2": "Q55178506",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19183.77m)."
+        },
+        {
+            "qid_1": "Q55178374",
+            "qid_2": "Q120672915",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19257.87m)."
+        },
+        {
+            "qid_1": "Q120672207",
+            "qid_2": "Q120672209",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19373.63m)."
+        },
+        {
+            "qid_1": "Q55178451",
+            "qid_2": "Q55178511",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19470.54m)."
+        },
+        {
+            "qid_1": "Q55178460",
+            "qid_2": "Q120672919",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19515.33m)."
+        },
+        {
+            "qid_1": "Q120672331",
+            "qid_2": "Q120672333",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19733.18m)."
+        },
+        {
+            "qid_1": "Q120672544",
+            "qid_2": "Q120672545",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19765.98m)."
+        },
+        {
+            "qid_1": "Q55178451",
+            "qid_2": "Q55178469",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 19777.03m)."
+        },
+        {
+            "qid_1": "Q55178460",
+            "qid_2": "Q55178490",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 20390.3m)."
+        },
+        {
+            "qid_1": "Q120672370",
+            "qid_2": "Q55157220",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 0.95, distance 20549.42m)."
+        },
+        {
+            "qid_1": "Q120672570",
+            "qid_2": "Q120672569",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 20594.64m)."
+        },
+        {
+            "qid_1": "Q55178368",
+            "qid_2": "Q55178449",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 21637.99m)."
+        },
+        {
+            "qid_1": "Q55178451",
+            "qid_2": "Q120672899",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 25425.73m)."
+        },
+        {
+            "qid_1": "Q120672567",
+            "qid_2": "Q120672570",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 26681.29m)."
+        },
+        {
+            "qid_1": "Q55178441",
+            "qid_2": "Q55178451",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance 29372.73m)."
+        },
+        {
+            "qid_1": "Q207486",
+            "qid_2": "Q55086482",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q1132503",
+            "qid_2": "Q55178378",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55168155",
+            "qid_2": "Q55168165",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q120672342",
+            "qid_2": "Q123397211",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178433",
+            "qid_2": "Q55178450",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178378",
+            "qid_2": "Q55178379",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q120672223",
+            "qid_2": "Q120672265",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178375",
+            "qid_2": "Q55178509",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178509",
+            "qid_2": "Q120672884",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178383",
+            "qid_2": "Q55178519",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q120673360",
+            "qid_2": "Q123335098",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q3585404",
+            "qid_2": "Q55178355",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178262",
+            "qid_2": "Q120672912",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178491",
+            "qid_2": "Q120672912",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178374",
+            "qid_2": "Q55178485",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178485",
+            "qid_2": "Q120672915",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q118984018",
+            "qid_2": "Q118984017",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178440",
+            "qid_2": "Q55178451",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178440",
+            "qid_2": "Q55178469",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178440",
+            "qid_2": "Q55178506",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q123582406",
+            "qid_2": "Q120672403",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q123582406",
+            "qid_2": "Q120672400",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q123582406",
+            "qid_2": "Q120672401",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q123582406",
+            "qid_2": "Q120672406",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q123582406",
+            "qid_2": "Q120672407",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q120673479",
+            "qid_2": "Q120673481",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        },
+        {
+            "qid_1": "Q55178322",
+            "qid_2": "Q120672904",
+            "status": "false_positive",
+            "note": "Different entities (name similarity 1.0, distance Nonem)."
+        }
+    ]
+}

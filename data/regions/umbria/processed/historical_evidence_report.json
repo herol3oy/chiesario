@@ -1,0 +1,10 @@
+{
+  "total_records": 2958,
+  "records_selected": 2404,
+  "unique_beweb_ids": 2403,
+  "structured_date": 1224,
+  "no_history": 1179,
+  "fetch_failed": 0,
+  "canonical_dates_changed": 0,
+  "cache_policy": "reuse_complete"
+}

@@ -4,6 +4,7 @@ import json
 import random
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 
@@ -29,6 +30,7 @@ USER_AGENT = (
 )
 MAX_RETRIES = 3
 REQUEST_DELAY_SECONDS = 1.5
+MAX_WORKERS = 4
 TIMEOUT = (15, 45)
 LICENSE_NAME = "CC BY-NC-SA 4.0"
 LICENSE_URL = (
@@ -630,6 +632,32 @@ def build_evidence(beweb_id, metadata):
     }
 
 
+def process_beweb_entry(args):
+    """Fetch or reuse BeWeb evidence for one unique BeWeb ID.
+
+    Each worker uses its own requests.Session because sessions are not
+    fully thread-safe. Records sharing the same BeWeb ID are grouped
+    before submission, so this function is called only once per ID.
+    """
+    beweb_id, churches_for_id, refresh = args
+
+    session = requests.Session()
+    session.headers.update(
+        {
+            "User-Agent": USER_AGENT,
+            "Accept-Language": "it-IT,it;q=0.9",
+        }
+    )
+
+    metadata = None if refresh else load_cached_record(beweb_id)
+    fetched = metadata is None
+    if fetched:
+        metadata = fetch_record(session, beweb_id)
+
+    evidence = build_evidence(beweb_id, metadata)
+    return churches_for_id, evidence, fetched
+
+
 def main():
     parser = argparse.ArgumentParser(
         description=(
@@ -672,12 +700,34 @@ def main():
     churches = load_json(INPUT_FILE)
     entities = load_json(ENTITIES_FILE)
     selected_qids = set(args.qids or [])
+
+    # Preserve existing BeWeb evidence when the run is restricted to a
+    # subset of QIDs or a limit. Without this, a --qid retry run would
+    # overwrite the output file and drop evidence for unselected records.
+    existing_evidence = {}
+    if OUTPUT_FILE.exists():
+        for existing_church in load_json(OUTPUT_FILE):
+            beweb = existing_church.get(
+                "source_evidence", {}
+            ).get("beweb")
+            if beweb:
+                existing_evidence[
+                    existing_church["wikidata_id"]
+                ] = beweb
+
     linked = []
 
     for church in churches:
         qid = church["wikidata_id"]
+
+        if qid in existing_evidence:
+            church.setdefault(
+                "source_evidence", {}
+            )["beweb"] = existing_evidence[qid]
+
         if selected_qids and qid not in selected_qids:
             continue
+
         beweb_id = beweb_id_for_entity(
             entities.get(qid, {})
         )
@@ -689,50 +739,60 @@ def main():
             raise ValueError("--limit must be non-negative")
         linked = linked[: args.limit]
 
-    session = requests.Session()
-    session.headers.update(
-        {
-            "User-Agent": USER_AGENT,
-            "Accept-Language": "it-IT,it;q=0.9",
-        }
-    )
+    # Group by BeWeb ID before concurrent processing. This prevents
+    # duplicate network fetches and disk writes when several Wikidata
+    # entities share the same BeWeb record.
+    grouped = {}
+    for church, beweb_id in linked:
+        grouped.setdefault(beweb_id, []).append(church)
+
+    tasks = [
+        (beweb_id, churches_for_id, args.refresh)
+        for beweb_id, churches_for_id in grouped.items()
+    ]
+    total = len(tasks)
+
     counts = {
         "structured_date": 0,
         "no_history": 0,
         "fetch_failed": 0,
     }
 
-    for index, (church, beweb_id) in enumerate(linked, 1):
-        metadata = (
-            None
-            if args.refresh
-            else load_cached_record(beweb_id)
-        )
-        fetched = metadata is None
-        if fetched:
-            metadata = fetch_record(session, beweb_id)
+    print(f"BeWeb-linked records: {len(linked)}")
+    print(f"Unique BeWeb IDs to process: {total}")
+    print(f"Concurrent workers: {MAX_WORKERS}")
 
-        evidence = build_evidence(
-            beweb_id,
-            metadata,
-        )
-        church.setdefault(
-            "source_evidence",
-            {},
-        )["beweb"] = evidence
-        counts[evidence["status"]] += 1
-        print(
-            f"[{index}/{len(linked)}] "
-            f"{church['wikidata_id']} "
-            f"{evidence['status']}"
-        )
-        if index < len(linked) and fetched:
-            time.sleep(REQUEST_DELAY_SECONDS)
+    results = []
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        for index, result in enumerate(
+            executor.map(process_beweb_entry, tasks),
+            start=1,
+        ):
+            churches_for_id, evidence, fetched = result
+            results.append((churches_for_id, evidence))
+            counts[evidence["status"]] += 1
+            print(
+                f"[{index}/{total}] "
+                f"beweb:{evidence['beweb_id']} "
+                f"{evidence['status']}"
+                f"{' (fetched)' if fetched else ' (cached)'}",
+                flush=True,
+            )
+
+    # Attach the fetched evidence to every church that shares the ID.
+    for churches_for_id, evidence in results:
+        for church in churches_for_id:
+            church.setdefault(
+                "source_evidence",
+                {},
+            )["beweb"] = evidence
 
     save_json(OUTPUT_FILE, churches)
     report = {
         "total_records": len(churches),
         "records_selected": len(linked),
+        "unique_beweb_ids": total,
         "structured_date": counts["structured_date"],
         "no_history": counts["no_history"],
         "fetch_failed": counts["fetch_failed"],

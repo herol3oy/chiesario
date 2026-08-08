@@ -1,6 +1,8 @@
 import json
 import re
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 import requests
 
@@ -33,6 +35,10 @@ HEADERS = {
 
 
 BATCH_SIZE = 40
+
+MAX_WORKERS = len(OVERPASS_ENDPOINTS)
+
+BATCH_COOLDOWN_SECONDS = 2
 
 MAX_RETRIES = 6
 
@@ -135,6 +141,7 @@ def request_overpass(
 def fetch_batch(
     session,
     qids,
+    preferred_endpoint_index=0,
 ):
     query = build_query(qids)
 
@@ -142,9 +149,12 @@ def fetch_batch(
 
     for attempt in range(MAX_RETRIES):
 
+        endpoint_index = (
+            preferred_endpoint_index + attempt
+        ) % len(OVERPASS_ENDPOINTS)
+
         endpoint = OVERPASS_ENDPOINTS[
-            attempt
-            % len(OVERPASS_ENDPOINTS)
+            endpoint_index
         ]
 
         print(
@@ -444,69 +454,89 @@ def fetch_osm(churches):
         )
     )
 
-    session = requests.Session()
+    total_batches = len(batches)
+    cache_lock = threading.Lock()
 
-    for batch_number, batch in enumerate(
-        batches,
-        start=1,
-    ):
-        print()
-        print(
-            f"OSM batch "
-            f"{batch_number}/"
-            f"{len(batches)} "
-            f"({len(batch)} QIDs)"
-        )
+    def process_batch(args):
+        batch_number, batch = args
+
+        # Assign a preferred endpoint based on batch index so the
+        # first batch sent by each worker hits a different mirror.
+        preferred_endpoint_index = (
+            batch_number - 1
+        ) % MAX_WORKERS
+
+        session = requests.Session()
+        session.headers.update(HEADERS)
 
         data = fetch_batch(
             session,
             batch,
+            preferred_endpoint_index,
         )
 
         # Initialize every searched QID.
         #
         # This is important:
         # [] means "we searched and found none".
-        for qid in batch:
-            cache[qid] = []
+        with cache_lock:
+            for qid in batch:
+                cache[qid] = []
 
-        elements = data.get(
-            "elements",
-            [],
-        )
-
-        print(
-            f"  -> {len(elements)} "
-            "OSM elements"
-        )
-
-        for element in elements:
-
-            normalized = (
-                normalize_osm_element(
-                    element
-                )
+            elements = data.get(
+                "elements",
+                [],
             )
 
-            qid = normalized.get(
-                "wikidata_id"
-            )
-
-            if qid in cache:
-                cache[qid].append(
-                    normalized
+            for element in elements:
+                normalized = (
+                    normalize_osm_element(
+                        element
+                    )
                 )
 
-        # Save immediately.
-        #
-        # If the script crashes later,
-        # successful batches remain cached.
-        save_json(
-            CACHE_FILE,
-            cache,
-        )
+                qid = normalized.get(
+                    "wikidata_id"
+                )
 
-        time.sleep(2)
+                if qid in cache:
+                    cache[qid].append(
+                        normalized
+                    )
+
+            # Save immediately.
+            #
+            # If the script crashes later,
+            # successful batches remain cached.
+            save_json(
+                CACHE_FILE,
+                cache,
+            )
+
+        # Polite cooldown before this worker takes another batch.
+        time.sleep(BATCH_COOLDOWN_SECONDS)
+
+        return batch_number, len(elements)
+
+    print()
+    print(
+        f"Fetching {total_batches} OSM batches "
+        f"with {MAX_WORKERS} workers"
+    )
+
+    with ThreadPoolExecutor(
+        max_workers=MAX_WORKERS
+    ) as executor:
+        for batch_number, element_count in executor.map(
+            process_batch,
+            enumerate(batches, start=1),
+        ):
+            print(
+                f"OSM batch "
+                f"{batch_number}/"
+                f"{total_batches} "
+                f"-> {element_count} elements"
+            )
 
     return cache
 

@@ -1,0 +1,908 @@
+{
+  "total_churches": 2958,
+  "churches_enriched_for_publication": 517,
+  "churches_deferred": 2441,
+  "unique_files": 301,
+  "files_enriched": 301,
+  "missing_files": 0,
+  "files_missing_license_metadata": 0,
+  "churches_without_wikidata_images": 221,
+  "license_counts": {
+    "CC BY-SA 4.0": 232,
+    "CC BY-SA 3.0": 30,
+    "CC BY 3.0": 16,
+    "Public domain": 13,
+    "CC BY 4.0": 4,
+    "CC BY 2.0": 3,
+    "Attribution": 2,
+    "CC BY-SA 2.0": 1
+  },
+  "missing_file_records": [],
+  "missing_license_records": [],
+  "churches_without_images": [
+    {
+      "wikidata_id": "Q120672521",
+      "name": "cappella della Madonna dei Perugini"
+    },
+    {
+      "wikidata_id": "Q120672604",
+      "name": "cappella della Madonna del Fosso"
+    },
+    {
+      "wikidata_id": "Q120672803",
+      "name": "cappella della Madonna della Caina"
+    },
+    {
+      "wikidata_id": "Q120672806",
+      "name": "cappella della Madonna delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120672807",
+      "name": "cappella della Madonna delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120672169",
+      "name": "cappella di San Donato"
+    },
+    {
+      "wikidata_id": "Q120672815",
+      "name": "cappella di Santa Croce"
+    },
+    {
+      "wikidata_id": "Q120672307",
+      "name": "chiesa dei Santi Fabiano e Sebastiano"
+    },
+    {
+      "wikidata_id": "Q120672269",
+      "name": "chiesa dei Santi Filippo e Giacomo"
+    },
+    {
+      "wikidata_id": "Q120672823",
+      "name": "chiesa dei Santi Maria e Leonardo"
+    },
+    {
+      "wikidata_id": "Q118984027",
+      "name": "chiesa dei Santi Pietro e Paolo"
+    },
+    {
+      "wikidata_id": "Q55178334",
+      "name": "chiesa dei Santi Proto e Giacinto"
+    },
+    {
+      "wikidata_id": "Q120671956",
+      "name": "chiesa dei Santi Stefano e Fortunato"
+    },
+    {
+      "wikidata_id": "Q120673430",
+      "name": "chiesa del Buon Gesù"
+    },
+    {
+      "wikidata_id": "Q120672524",
+      "name": "chiesa del Buon Gesù"
+    },
+    {
+      "wikidata_id": "Q55178388",
+      "name": "chiesa del Santissimo Corpo di Cristo"
+    },
+    {
+      "wikidata_id": "Q118983899",
+      "name": "chiesa del Santissimo Crocifisso"
+    },
+    {
+      "wikidata_id": "Q121792423",
+      "name": "chiesa del Santissimo Crocifisso"
+    },
+    {
+      "wikidata_id": "Q28229375",
+      "name": "chiesa del Santissimo Redentore e Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120672525",
+      "name": "chiesa del Seminario"
+    },
+    {
+      "wikidata_id": "Q121792424",
+      "name": "chiesa della Concezione"
+    },
+    {
+      "wikidata_id": "Q120672832",
+      "name": "chiesa della Madonna dei Cenciarelli"
+    },
+    {
+      "wikidata_id": "Q120672780",
+      "name": "chiesa della Madonna del Bocconcello"
+    },
+    {
+      "wikidata_id": "Q118984032",
+      "name": "chiesa della Madonna del Campione"
+    },
+    {
+      "wikidata_id": "Q121792425",
+      "name": "chiesa della Madonna del Casale"
+    },
+    {
+      "wikidata_id": "Q120672834",
+      "name": "chiesa della Madonna del Corsetto"
+    },
+    {
+      "wikidata_id": "Q120672529",
+      "name": "chiesa della Madonna del Ponte"
+    },
+    {
+      "wikidata_id": "Q118983962",
+      "name": "chiesa della Madonna del Rosario"
+    },
+    {
+      "wikidata_id": "Q120673444",
+      "name": "chiesa della Madonna del Sasso"
+    },
+    {
+      "wikidata_id": "Q120672126",
+      "name": "chiesa della Madonna del Soccorso"
+    },
+    {
+      "wikidata_id": "Q120672838",
+      "name": "chiesa della Madonna del Trebbio"
+    },
+    {
+      "wikidata_id": "Q120672839",
+      "name": "chiesa della Madonna del Tufo"
+    },
+    {
+      "wikidata_id": "Q120671964",
+      "name": "chiesa della Madonna dell'Oliva"
+    },
+    {
+      "wikidata_id": "Q120673445",
+      "name": "chiesa della Madonna della Costa"
+    },
+    {
+      "wikidata_id": "Q120673446",
+      "name": "chiesa della Madonna della Neve"
+    },
+    {
+      "wikidata_id": "Q120672531",
+      "name": "chiesa della Madonna della Neve"
+    },
+    {
+      "wikidata_id": "Q120673447",
+      "name": "chiesa della Madonna della Piazza"
+    },
+    {
+      "wikidata_id": "Q120673119",
+      "name": "chiesa della Madonna della Stella"
+    },
+    {
+      "wikidata_id": "Q120672194",
+      "name": "chiesa della Madonna delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120672675",
+      "name": "chiesa della Madonna delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120673449",
+      "name": "chiesa della Madonna delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120672946",
+      "name": "chiesa della Madonna delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120673120",
+      "name": "chiesa della Madonna di Colpernieri"
+    },
+    {
+      "wikidata_id": "Q120672323",
+      "name": "chiesa della Madonna di Fiamenga"
+    },
+    {
+      "wikidata_id": "Q118984038",
+      "name": "chiesa della Madonna Santissima del Fossatello"
+    },
+    {
+      "wikidata_id": "Q118984101",
+      "name": "chiesa della Madonna Santissima dell'Olivo"
+    },
+    {
+      "wikidata_id": "Q120672327",
+      "name": "chiesa della Natività di Maria Santissima"
+    },
+    {
+      "wikidata_id": "Q120672641",
+      "name": "chiesa della Santa Croce"
+    },
+    {
+      "wikidata_id": "Q120672851",
+      "name": "chiesa della Santissima Trinità"
+    },
+    {
+      "wikidata_id": "Q120671969",
+      "name": "chiesa della Santissima Trinità"
+    },
+    {
+      "wikidata_id": "Q55139262",
+      "name": "chiesa della Santissima Trinità"
+    },
+    {
+      "wikidata_id": "Q120673451",
+      "name": "chiesa della Santissima Trinità"
+    },
+    {
+      "wikidata_id": "Q120673124",
+      "name": "chiesa della Santissima Trinità"
+    },
+    {
+      "wikidata_id": "Q55164586",
+      "name": "chiesa della Santissima Trinità"
+    },
+    {
+      "wikidata_id": "Q120672535",
+      "name": "chiesa della santissima Trinità detta della Misericordia"
+    },
+    {
+      "wikidata_id": "Q120672628",
+      "name": "chiesa della Visitazione di Maria"
+    },
+    {
+      "wikidata_id": "Q120672332",
+      "name": "chiesa di Maria Santissima Assunta"
+    },
+    {
+      "wikidata_id": "Q120672333",
+      "name": "chiesa di Maria Santissima Assunta"
+    },
+    {
+      "wikidata_id": "Q120672334",
+      "name": "chiesa di Maria Santissima ed Anna del Suffragio"
+    },
+    {
+      "wikidata_id": "Q120672538",
+      "name": "chiesa di San Bartolomeo"
+    },
+    {
+      "wikidata_id": "Q120672537",
+      "name": "chiesa di San Bartolomeo"
+    },
+    {
+      "wikidata_id": "Q120673457",
+      "name": "chiesa di San Bartolomeo dei Fossi"
+    },
+    {
+      "wikidata_id": "Q120672200",
+      "name": "chiesa di San Benedetto"
+    },
+    {
+      "wikidata_id": "Q120672540",
+      "name": "chiesa di San Benedetto"
+    },
+    {
+      "wikidata_id": "Q120671974",
+      "name": "chiesa di San Bernardino da Siena"
+    },
+    {
+      "wikidata_id": "Q55178439",
+      "name": "chiesa di San Biagio"
+    },
+    {
+      "wikidata_id": "Q120673125",
+      "name": "chiesa di San Biagio"
+    },
+    {
+      "wikidata_id": "Q120672541",
+      "name": "chiesa di San Biagio"
+    },
+    {
+      "wikidata_id": "Q120672542",
+      "name": "chiesa di San Clemente"
+    },
+    {
+      "wikidata_id": "Q120672865",
+      "name": "chiesa di San Cristoforo"
+    },
+    {
+      "wikidata_id": "Q120672207",
+      "name": "chiesa di San Cristoforo"
+    },
+    {
+      "wikidata_id": "Q120672208",
+      "name": "chiesa di San Cristoforo"
+    },
+    {
+      "wikidata_id": "Q120673473",
+      "name": "chiesa di San Donato"
+    },
+    {
+      "wikidata_id": "Q54087537",
+      "name": "chiesa di San Donato"
+    },
+    {
+      "wikidata_id": "Q120672213",
+      "name": "chiesa di San Eleuterio"
+    },
+    {
+      "wikidata_id": "Q118984048",
+      "name": "chiesa di San Faustino"
+    },
+    {
+      "wikidata_id": "Q120672543",
+      "name": "chiesa di San Filippo Neri"
+    },
+    {
+      "wikidata_id": "Q55178307",
+      "name": "chiesa di San Fiorenzio"
+    },
+    {
+      "wikidata_id": "Q55178494",
+      "name": "chiesa di San Fortunato"
+    },
+    {
+      "wikidata_id": "Q120672342",
+      "name": "chiesa di San Francesco"
+    },
+    {
+      "wikidata_id": "Q120672344",
+      "name": "chiesa di San Francesco al Monte"
+    },
+    {
+      "wikidata_id": "Q3670166",
+      "name": "chiesa di San Francesco di Paola"
+    },
+    {
+      "wikidata_id": "Q54870647",
+      "name": "chiesa di San Giacomo"
+    },
+    {
+      "wikidata_id": "Q121792427",
+      "name": "chiesa di San Giacomo"
+    },
+    {
+      "wikidata_id": "Q120672345",
+      "name": "chiesa di San Giovanni"
+    },
+    {
+      "wikidata_id": "Q120673126",
+      "name": "chiesa di San Giovanni"
+    },
+    {
+      "wikidata_id": "Q55178368",
+      "name": "chiesa di San Giovanni Battista"
+    },
+    {
+      "wikidata_id": "Q120672874",
+      "name": "chiesa di San Giovanni Battista"
+    },
+    {
+      "wikidata_id": "Q120673474",
+      "name": "chiesa di San Giovanni Battista"
+    },
+    {
+      "wikidata_id": "Q120672545",
+      "name": "chiesa di San Giovanni Battista"
+    },
+    {
+      "wikidata_id": "Q55157199",
+      "name": "chiesa di San Giovanni dell'Acqua"
+    },
+    {
+      "wikidata_id": "Q120672347",
+      "name": "chiesa di San Giovanni Evangelista"
+    },
+    {
+      "wikidata_id": "Q120672348",
+      "name": "chiesa di San Giovanni Evangelista"
+    },
+    {
+      "wikidata_id": "Q120673461",
+      "name": "chiesa di San Giovanni Evangelista"
+    },
+    {
+      "wikidata_id": "Q120671980",
+      "name": "chiesa di San Giovanni in Beviglie"
+    },
+    {
+      "wikidata_id": "Q55139258",
+      "name": "chiesa di San Girolamo"
+    },
+    {
+      "wikidata_id": "Q55164572",
+      "name": "chiesa di San Girolamo"
+    },
+    {
+      "wikidata_id": "Q55178433",
+      "name": "chiesa di San Giustino"
+    },
+    {
+      "wikidata_id": "Q55170705",
+      "name": "chiesa di San Gregorio di Velmusante"
+    },
+    {
+      "wikidata_id": "Q55178379",
+      "name": "chiesa di San Lorenzo"
+    },
+    {
+      "wikidata_id": "Q120672547",
+      "name": "chiesa di San Lorenzo"
+    },
+    {
+      "wikidata_id": "Q120672676",
+      "name": "chiesa di San Lorenzo d'Agello"
+    },
+    {
+      "wikidata_id": "Q55178436",
+      "name": "chiesa di San Lorenzo e San Stefano"
+    },
+    {
+      "wikidata_id": "Q118983979",
+      "name": "chiesa di San Lorenzo Martire"
+    },
+    {
+      "wikidata_id": "Q55157201",
+      "name": "chiesa di San Magno"
+    },
+    {
+      "wikidata_id": "Q55178369",
+      "name": "chiesa di San Martino"
+    },
+    {
+      "wikidata_id": "Q120672223",
+      "name": "chiesa di San Martino"
+    },
+    {
+      "wikidata_id": "Q120672360",
+      "name": "chiesa di San Martino"
+    },
+    {
+      "wikidata_id": "Q120672138",
+      "name": "chiesa di San Martino"
+    },
+    {
+      "wikidata_id": "Q120672362",
+      "name": "chiesa di San Matteo"
+    },
+    {
+      "wikidata_id": "Q120672363",
+      "name": "chiesa di San Mauro"
+    },
+    {
+      "wikidata_id": "Q120673350",
+      "name": "chiesa di San Michele Arcangelo"
+    },
+    {
+      "wikidata_id": "Q121792433",
+      "name": "chiesa di San Michele Arcangelo"
+    },
+    {
+      "wikidata_id": "Q55178482",
+      "name": "chiesa di San Niccolò"
+    },
+    {
+      "wikidata_id": "Q120672373",
+      "name": "chiesa di San Nicolò"
+    },
+    {
+      "wikidata_id": "Q55157220",
+      "name": "chiesa di San Nicolò"
+    },
+    {
+      "wikidata_id": "Q120672376",
+      "name": "chiesa di San Pietro"
+    },
+    {
+      "wikidata_id": "Q120672677",
+      "name": "chiesa di San Pietro"
+    },
+    {
+      "wikidata_id": "Q121792434",
+      "name": "chiesa di San Pietro"
+    },
+    {
+      "wikidata_id": "Q121792435",
+      "name": "chiesa di San Pietro"
+    },
+    {
+      "wikidata_id": "Q120672887",
+      "name": "chiesa di San Pietro Apostolo"
+    },
+    {
+      "wikidata_id": "Q55138056",
+      "name": "chiesa di San Pietro Apostolo"
+    },
+    {
+      "wikidata_id": "Q120672554",
+      "name": "chiesa di San Rocco"
+    },
+    {
+      "wikidata_id": "Q120672555",
+      "name": "chiesa di San Salvatore"
+    },
+    {
+      "wikidata_id": "Q55178519",
+      "name": "chiesa di San Sebastiano"
+    },
+    {
+      "wikidata_id": "Q138779650",
+      "name": "chiesa di San Sebastiano"
+    },
+    {
+      "wikidata_id": "Q120673256",
+      "name": "chiesa di San Sebastiano"
+    },
+    {
+      "wikidata_id": "Q120672384",
+      "name": "chiesa di San Sebastiano"
+    },
+    {
+      "wikidata_id": "Q55164583",
+      "name": "chiesa di San Secondo"
+    },
+    {
+      "wikidata_id": "Q55178508",
+      "name": "chiesa di San Silvestro"
+    },
+    {
+      "wikidata_id": "Q120672385",
+      "name": "chiesa di San Silvestro Papa"
+    },
+    {
+      "wikidata_id": "Q120672388",
+      "name": "chiesa di San Venanzo"
+    },
+    {
+      "wikidata_id": "Q120672559",
+      "name": "chiesa di San Verecondo"
+    },
+    {
+      "wikidata_id": "Q120671996",
+      "name": "chiesa di San Vitale"
+    },
+    {
+      "wikidata_id": "Q120672560",
+      "name": "chiesa di San Vittorino"
+    },
+    {
+      "wikidata_id": "Q55178374",
+      "name": "chiesa di Sant'Andrea"
+    },
+    {
+      "wikidata_id": "Q120672915",
+      "name": "chiesa di Sant'Andrea"
+    },
+    {
+      "wikidata_id": "Q121792437",
+      "name": "chiesa di Sant'Andrea"
+    },
+    {
+      "wikidata_id": "Q55178384",
+      "name": "chiesa di Sant'Andrea Apostolo"
+    },
+    {
+      "wikidata_id": "Q120672578",
+      "name": "chiesa di Sant'Angelo dopo Serra"
+    },
+    {
+      "wikidata_id": "Q120672419",
+      "name": "chiesa di Sant'Anna"
+    },
+    {
+      "wikidata_id": "Q55157191",
+      "name": "chiesa di Sant'Anna"
+    },
+    {
+      "wikidata_id": "Q55191952",
+      "name": "chiesa di Sant'Anna"
+    },
+    {
+      "wikidata_id": "Q120672421",
+      "name": "chiesa di Sant'Antonio"
+    },
+    {
+      "wikidata_id": "Q120673438",
+      "name": "chiesa di Sant'Antonio"
+    },
+    {
+      "wikidata_id": "Q121792438",
+      "name": "chiesa di Sant'Antonio"
+    },
+    {
+      "wikidata_id": "Q121792439",
+      "name": "chiesa di Sant'Antonio"
+    },
+    {
+      "wikidata_id": "Q121792440",
+      "name": "chiesa di Sant'Antonio Abate"
+    },
+    {
+      "wikidata_id": "Q120673035",
+      "name": "chiesa di Sant'Antonio da Padova"
+    },
+    {
+      "wikidata_id": "Q120672941",
+      "name": "chiesa di Sant'Antonio della Cervara"
+    },
+    {
+      "wikidata_id": "Q118984221",
+      "name": "chiesa di Sant'Antonio di Padova"
+    },
+    {
+      "wikidata_id": "Q120672425",
+      "name": "chiesa di Sant'Apollinare"
+    },
+    {
+      "wikidata_id": "Q55178460",
+      "name": "chiesa di Sant'Egidio"
+    },
+    {
+      "wikidata_id": "Q118984111",
+      "name": "chiesa di Sant'Egidio"
+    },
+    {
+      "wikidata_id": "Q120672426",
+      "name": "chiesa di Sant'Egidio"
+    },
+    {
+      "wikidata_id": "Q120672428",
+      "name": "chiesa di Sant'Egidio"
+    },
+    {
+      "wikidata_id": "Q120672920",
+      "name": "chiesa di Sant'Elisabetta"
+    },
+    {
+      "wikidata_id": "Q120673385",
+      "name": "chiesa di Sant'Ermete Martire"
+    },
+    {
+      "wikidata_id": "Q120673469",
+      "name": "chiesa di Sant'Ilario e San Nicola"
+    },
+    {
+      "wikidata_id": "Q55178503",
+      "name": "chiesa di Sant'Orfeto"
+    },
+    {
+      "wikidata_id": "Q120671997",
+      "name": "chiesa di Santa Chiarella"
+    },
+    {
+      "wikidata_id": "Q120672561",
+      "name": "chiesa di Santa Cristina"
+    },
+    {
+      "wikidata_id": "Q121792436",
+      "name": "chiesa di Santa Croce"
+    },
+    {
+      "wikidata_id": "Q120672393",
+      "name": "chiesa di Santa Croce al Castello"
+    },
+    {
+      "wikidata_id": "Q120673466",
+      "name": "chiesa di Santa Giuliana"
+    },
+    {
+      "wikidata_id": "Q120672397",
+      "name": "chiesa di Santa Lucia"
+    },
+    {
+      "wikidata_id": "Q120672245",
+      "name": "chiesa di Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120672288",
+      "name": "chiesa di Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120673384",
+      "name": "chiesa di Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120673468",
+      "name": "chiesa di Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120672563",
+      "name": "chiesa di Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120672565",
+      "name": "chiesa di Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120673032",
+      "name": "chiesa di Santa Maria"
+    },
+    {
+      "wikidata_id": "Q120672896",
+      "name": "chiesa di Santa Maria ad Nives"
+    },
+    {
+      "wikidata_id": "Q55178451",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q55178469",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q55178506",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672646",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672403",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672400",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672401",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672406",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672407",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120673481",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672567",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q120672570",
+      "name": "chiesa di Santa Maria Assunta"
+    },
+    {
+      "wikidata_id": "Q55136066",
+      "name": "chiesa di Santa Maria degli Angeli"
+    },
+    {
+      "wikidata_id": "Q28157167",
+      "name": "chiesa di Santa Maria degli Aratri"
+    },
+    {
+      "wikidata_id": "Q55164574",
+      "name": "chiesa di Santa Maria dei Bianchi"
+    },
+    {
+      "wikidata_id": "Q55164578",
+      "name": "chiesa di Santa Maria dei Servi"
+    },
+    {
+      "wikidata_id": "Q118983826",
+      "name": "chiesa di Santa Maria del Colle"
+    },
+    {
+      "wikidata_id": "Q118984204",
+      "name": "chiesa di Santa Maria del Rivo vecchia"
+    },
+    {
+      "wikidata_id": "Q120672574",
+      "name": "chiesa di Santa Maria del Rosario"
+    },
+    {
+      "wikidata_id": "Q120672575",
+      "name": "chiesa di Santa Maria del Rosario"
+    },
+    {
+      "wikidata_id": "Q120672576",
+      "name": "chiesa di Santa Maria del Suffragio di San Marco"
+    },
+    {
+      "wikidata_id": "Q120672904",
+      "name": "chiesa di Santa Maria della Misericordia"
+    },
+    {
+      "wikidata_id": "Q19572923",
+      "name": "chiesa di Santa Maria della Piaggiola"
+    },
+    {
+      "wikidata_id": "Q55178434",
+      "name": "chiesa di Santa Maria delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120672289",
+      "name": "chiesa di Santa Maria delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120672620",
+      "name": "chiesa di Santa Maria delle Grazie"
+    },
+    {
+      "wikidata_id": "Q120672302",
+      "name": "chiesa di Santa Maria delle Grazie"
+    },
+    {
+      "wikidata_id": "Q118984011",
+      "name": "chiesa di Santa Maria delle Torri"
+    },
+    {
+      "wikidata_id": "Q87195982",
+      "name": "chiesa di Santa Maria delle Vittorie"
+    },
+    {
+      "wikidata_id": "Q118983830",
+      "name": "chiesa di Santa Maria di Porta"
+    },
+    {
+      "wikidata_id": "Q120672248",
+      "name": "chiesa di Santa Maria e Sant'Egidio"
+    },
+    {
+      "wikidata_id": "Q120672411",
+      "name": "chiesa di Santa Maria ed Anna"
+    },
+    {
+      "wikidata_id": "Q118984210",
+      "name": "chiesa di Santa Maria in Campitello"
+    },
+    {
+      "wikidata_id": "Q118983833",
+      "name": "chiesa di Santa Maria in Posterola"
+    },
+    {
+      "wikidata_id": "Q120672006",
+      "name": "chiesa di Santa Maria Maddalena"
+    },
+    {
+      "wikidata_id": "Q120672182",
+      "name": "chiesa di Santa Maria Maddalena"
+    },
+    {
+      "wikidata_id": "Q55138080",
+      "name": "chiesa di Santa Mariano"
+    },
+    {
+      "wikidata_id": "Q120672430",
+      "name": "chiesa di Santo Stefano"
+    },
+    {
+      "wikidata_id": "Q121792442",
+      "name": "chiesa di Santo Stefano"
+    },
+    {
+      "wikidata_id": "Q120672582",
+      "name": "chiesa vecchia di San Silvestro"
+    },
+    {
+      "wikidata_id": "Q105319244",
+      "name": "Convento di Monteripido"
+    },
+    {
+      "wikidata_id": "Q17624799",
+      "name": "ex chiesa della Santissima Trinità in Annunziata"
+    },
+    {
+      "wikidata_id": "Q120672584",
+      "name": "madonna del Trebbio"
+    },
+    {
+      "wikidata_id": "Q118983837",
+      "name": "Oratorio di San Giovanni Decollato"
+    },
+    {
+      "wikidata_id": "Q30320415",
+      "name": "oratorio di Santa Maria dei Bianchi"
+    },
+    {
+      "wikidata_id": "Q138779735",
+      "name": "Santa Maria della Rotonda"
+    },
+    {
+      "wikidata_id": "Q120673483",
+      "name": "santuario di Santa Maria dell'Olmo"
+    }
+  ]
+}

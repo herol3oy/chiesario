@@ -1,0 +1,3043 @@
+{
+  "total": 2958,
+  "deferred": 2441,
+  "hero_images_auto_selected": 286,
+  "image_review_required": 231,
+  "no_images": 221,
+  "auto_selected_records": [
+    {
+      "wikidata_id": "Q3603213",
+      "name": "abbazia di San Cassiano",
+      "hero_image": "Abbazia di San Cassiano.jpg"
+    },
+    {
+      "wikidata_id": "Q17051672",
+      "name": "abbazia di San Paolo \"inter vineas",
+      "hero_image": "Chiesa di Sn Paolo. Spoleto. Facciata.jpg"
+    },
+    {
+      "wikidata_id": "Q207486",
+      "name": "basilica di San Francesco",
+      "hero_image": "BasilicaDiSanFrancescoAssisiMar262024 02.jpg"
+    },
+    {
+      "wikidata_id": "Q16912517",
+      "name": "Basilica di San Gregorio Maggiore",
+      "hero_image": "Chiesa di San Gregorio Maggiore, Spoleto. Campanile.jpg"
+    },
+    {
+      "wikidata_id": "Q3635726",
+      "name": "basilica di San Valentino",
+      "hero_image": "TerniSanValentino16.jpg"
+    },
+    {
+      "wikidata_id": "Q3635744",
+      "name": "basilica di Sant'Ubaldo",
+      "hero_image": "Sant'Ubaldo (Gubbio) 03.jpg"
+    },
+    {
+      "wikidata_id": "Q810106",
+      "name": "basilica di Santa Chiara",
+      "hero_image": "Santa Chiara Assisi2.jpg"
+    },
+    {
+      "wikidata_id": "Q4706745",
+      "name": "basilica di Santa Maria degli Angeli",
+      "hero_image": "Bazylika Santa Maria degli Angeli Asyż.jpg"
+    },
+    {
+      "wikidata_id": "Q3657320",
+      "name": "cappella Baglioni",
+      "hero_image": "Pinturicchio Spello Nativit.jpg"
+    },
+    {
+      "wikidata_id": "Q118984070",
+      "name": "Cappella del Santissimo Crocifisso",
+      "hero_image": "OtricoliSantissimoCrocifisso4.jpg"
+    },
+    {
+      "wikidata_id": "Q3657423",
+      "name": "Cappella del vescovo Eroli",
+      "hero_image": "Cappella Eroli Duomo di Spoleto 02.jpg"
+    },
+    {
+      "wikidata_id": "Q3657450",
+      "name": "cappella della Maddalena",
+      "hero_image": "Cappella della maddalena 02.JPG"
+    },
+    {
+      "wikidata_id": "Q120672931",
+      "name": "cappella della Madonna del Fosso",
+      "hero_image": "PietrafittaPiegaroMadonnaDelFosso2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672808",
+      "name": "cappella della Madonna di Campagna",
+      "hero_image": "Perugia - Cappella della Madonna di Campagna - 2024-09-23 22-29-32 003.jpg"
+    },
+    {
+      "wikidata_id": "Q3657597",
+      "name": "cappella di San Martino",
+      "hero_image": "Cappella di san martino 01.JPG"
+    },
+    {
+      "wikidata_id": "Q3657609",
+      "name": "Cappella di San Nicola",
+      "hero_image": "Cappella di san nicola, Cristo Redentore tra san Francesco d'Assisi e san Nicola di Bari che presentano Napoleone e Gian Gaetano Orsini.jpg"
+    },
+    {
+      "wikidata_id": "Q2957143",
+      "name": "cappella di San Severo",
+      "hero_image": "Perugia, cappella san severo 01.jpg"
+    },
+    {
+      "wikidata_id": "Q1132503",
+      "name": "cattedrale di San Lorenzo",
+      "hero_image": "Catedral de perugia.jpg"
+    },
+    {
+      "wikidata_id": "Q55087678",
+      "name": "chiesa collegiata di Santa Maria Maggiore",
+      "hero_image": "Bettona-Santa Maria Maggiore-Campanile-04.jpg"
+    },
+    {
+      "wikidata_id": "Q55167647",
+      "name": "chiesa dei Santi Antonio e Rocco",
+      "hero_image": "AntriaMagioneSantiAntonioRocco1.jpg"
+    },
+    {
+      "wikidata_id": "Q55169932",
+      "name": "chiesa dei Santi Apostoli Pietro e Paolo",
+      "hero_image": "MonteleoneDOrvietoChiesaSSApostoliPietroEPaolo5.jpg"
+    },
+    {
+      "wikidata_id": "Q120672776",
+      "name": "chiesa dei Santi Apostoli Pietro e Paolo",
+      "hero_image": "MissianoPanicaleSanPietro2.jpg"
+    },
+    {
+      "wikidata_id": "Q120673440",
+      "name": "chiesa dei Santi Cassiano e Ippolito",
+      "hero_image": "UmbertideSantiCassianoIppolito2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672992",
+      "name": "chiesa dei Santi Cornelio e Cipriano",
+      "hero_image": "Santi Cornelio e Cipriano, chiesa a San Giustino, Italia.jpeg"
+    },
+    {
+      "wikidata_id": "Q55136104",
+      "name": "chiesa dei Santi Cosma e Damiano",
+      "hero_image": "Chiesa dei Santi Cosma e Damiano, Canoscio Città di Castello,Italia.jpg"
+    },
+    {
+      "wikidata_id": "Q120673028",
+      "name": "chiesa dei Santi Filippo e Giacomo",
+      "hero_image": "ScheggiaSantiFilippoGiacomo1.jpg"
+    },
+    {
+      "wikidata_id": "Q28229042",
+      "name": "chiesa dei Santi Pietro e Cesareo",
+      "hero_image": "GuardeaChiesaPietroeCesareo1.JPG"
+    },
+    {
+      "wikidata_id": "Q25112944",
+      "name": "chiesa dei Santi Simone e Giuda",
+      "hero_image": "08 Facciata.jpg"
+    },
+    {
+      "wikidata_id": "Q54870592",
+      "name": "chiesa dei Santi Vito e Modesto",
+      "hero_image": "LavianoCastiglioneDelLagoVitoModesto2.jpg"
+    },
+    {
+      "wikidata_id": "Q55136043",
+      "name": "chiesa del Crocifisso",
+      "hero_image": "Via di Francesco (percorso del nord), Citerna, Monastero del Santissimo Crocifisso e di Santa Maria 01.jpg"
+    },
+    {
+      "wikidata_id": "Q120673379",
+      "name": "chiesa del Crocifisso",
+      "hero_image": "TorgianoChiesaDelCrocifisso4.jpg"
+    },
+    {
+      "wikidata_id": "Q118983961",
+      "name": "chiesa del Sacro Cuore",
+      "hero_image": "CastelDellAquilaMontecastrilliSacroCuore1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672609",
+      "name": "chiesa del Santissimo Crocifisso",
+      "hero_image": "CompignanoMarscianoSantissimoCrocifisso1.jpg"
+    },
+    {
+      "wikidata_id": "Q106396145",
+      "name": "chiesa del Santissimo Sacramento",
+      "hero_image": "AcquaspartaSantissimoSacramento4.jpg"
+    },
+    {
+      "wikidata_id": "Q120672312",
+      "name": "chiesa del Santissimo Salvatore",
+      "hero_image": "Foligno, santissimo salvatore 02.JPG"
+    },
+    {
+      "wikidata_id": "Q106517032",
+      "name": "chiesa del Santissimo Salvatore e Maria Santissima Assunta",
+      "hero_image": "PacianoSantaMariaAssunta.JPG"
+    },
+    {
+      "wikidata_id": "Q118984153",
+      "name": "chiesa dell'Immacolata Concezione",
+      "hero_image": "CollelicinoTerniImmacolataConcezione3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672122",
+      "name": "chiesa della Beata Vergine dei Poggi",
+      "hero_image": "VillastradaCastiglioneDelLagoBeataVergineDeiPoggiMadonnaDeiPoggi2.jpg"
+    },
+    {
+      "wikidata_id": "Q30889528",
+      "name": "chiesa della Compagnia della Morte",
+      "hero_image": "Chiesa della Compagnia della Morte, Perugia, Umbria, Italy - panoramio.jpg"
+    },
+    {
+      "wikidata_id": "Q120672593",
+      "name": "chiesa della Madonna dei Disciplinati",
+      "hero_image": "MagioneMonteDelLagoMadonnaDeiDisciplinati1.jpg"
+    },
+    {
+      "wikidata_id": "Q16539905",
+      "name": "chiesa della Madonna dei Pantanelli",
+      "hero_image": "Chiesinapantanelli.JPG"
+    },
+    {
+      "wikidata_id": "Q25110439",
+      "name": "chiesa della Madonna del Giglio",
+      "hero_image": "AcquaspartaMadonnaDelGiglio2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672124",
+      "name": "chiesa della Madonna del Giglio",
+      "hero_image": "LopiCastiglioneDelLagoMadonnaDelGiglio1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672611",
+      "name": "chiesa della Madonna del Ponte",
+      "hero_image": "MorcellaMarscianoMadonnaDelPonte2.jpg"
+    },
+    {
+      "wikidata_id": "Q54870588",
+      "name": "chiesa della Madonna del Popolino",
+      "hero_image": "PortoCastiglioneDelLagoMariaSantissimaDelPopoloMadonnaDelPopolino2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672594",
+      "name": "chiesa della Madonna del Rosario",
+      "hero_image": "AgelloMagioneMadonnaDelRosario2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672127",
+      "name": "chiesa della Madonna del Vitellino",
+      "hero_image": "VitellinoCastiglioneDelLagoMadonnaDelVitellino4.jpg"
+    },
+    {
+      "wikidata_id": "Q120672272",
+      "name": "chiesa della Madonna dell'Acquasanta",
+      "hero_image": "AcquasantaCollazzoneMadonnaDellAcquasanta5.jpg"
+    },
+    {
+      "wikidata_id": "Q41675518",
+      "name": "chiesa della Madonna della Bianca",
+      "hero_image": "CampelloSulClitunnoSantuarioMadonnaDellaBianca.JPG"
+    },
+    {
+      "wikidata_id": "Q120672995",
+      "name": "chiesa della Madonna della Concenzione in Altomare",
+      "hero_image": "San Giustino - Chiesa della Madonna della Concenzione in Altomare - 2023-09-19 14-53-17 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q120672933",
+      "name": "chiesa della Madonna della Crocetta",
+      "hero_image": "PiegaroMadonnaDellaCrocetta1.jpg"
+    },
+    {
+      "wikidata_id": "Q55178287",
+      "name": "chiesa della Madonna della Luce",
+      "hero_image": "Chiesa della Madonna della Luce (Perugia), esterno 02.jpg"
+    },
+    {
+      "wikidata_id": "Q118984142",
+      "name": "chiesa della Madonna della Maestà",
+      "hero_image": "PiedilucoTerniMadonnaDellaMaesta2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672128",
+      "name": "chiesa della Madonna della Neve",
+      "hero_image": "CasamaggioreCastiglioneDelLagoMadonnaDellaNeve4.jpg"
+    },
+    {
+      "wikidata_id": "Q120673505",
+      "name": "chiesa della Madonna della Neve",
+      "hero_image": "ValtopinaPoggioCastelloDiPoggioStazzanoMadonnaDellaNeve3.jpg"
+    },
+    {
+      "wikidata_id": "Q118983844",
+      "name": "chiesa della Madonna della Quercia",
+      "hero_image": "ArroneMadonnaDellaQuercia5.jpg"
+    },
+    {
+      "wikidata_id": "Q3669015",
+      "name": "chiesa della Madonna della Sbarra",
+      "hero_image": "PanicaleMadonnaDellaSbarra3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672193",
+      "name": "chiesa della Madonna della Speranza",
+      "hero_image": "Città di Castello - Chiesa della Madonna della Speranza - 2025-09-15 16-35-04 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q118984088",
+      "name": "chiesa della Madonna delle Grazie",
+      "hero_image": "PoranoSantaMariaDelleGrazie3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672129",
+      "name": "chiesa della Madonna delle Grazie",
+      "hero_image": "CasamaggioreCastiglioneDelLagoMariaDelleGrazie3.jpg"
+    },
+    {
+      "wikidata_id": "Q118983970",
+      "name": "chiesa della Madonna delle Grazie",
+      "hero_image": "TenaglieMontecchioMadonnaDelleGrazie6.jpg"
+    },
+    {
+      "wikidata_id": "Q120672037",
+      "name": "chiesa della Madonna delle Grazie",
+      "hero_image": "BevagnaMadonnaDelleGrazie5.jpg"
+    },
+    {
+      "wikidata_id": "Q16539940",
+      "name": "chiesa della Madonna delle Piaggie",
+      "hero_image": "Chiesa-della-madonna-delle-piagge-deruta.jpg"
+    },
+    {
+      "wikidata_id": "Q120672173",
+      "name": "chiesa della Madonna di Canale",
+      "hero_image": "CittaDellaPieveMadonnaDiCanale1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672627",
+      "name": "chiesa della Madonna di Loreto",
+      "hero_image": "CastelvecchioMassaMartanaMadonnaCastelvecchio2.jpg"
+    },
+    {
+      "wikidata_id": "Q120673121",
+      "name": "chiesa della Madonna di Prato",
+      "hero_image": "Spello - Chiesa della Madonna di Prato - 2023-09-20 17-12-37 002.jpg"
+    },
+    {
+      "wikidata_id": "Q120672273",
+      "name": "chiesa della Madonna Santissima del Puglia",
+      "hero_image": "GaglietoleCollazzoneMadonnaSantissimaDelPuglia2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672848",
+      "name": "chiesa della Madonnuccia",
+      "hero_image": "SanMartinoInCampoPerugiaChiesaDellaMadonnuccia1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672292",
+      "name": "chiesa della Misericordia",
+      "hero_image": "CostacciaroChiesaDellaMisericordia1.jpg"
+    },
+    {
+      "wikidata_id": "Q120671968",
+      "name": "chiesa della Natività di Maria",
+      "hero_image": "AssisiArmenzanoNativitaDiMaria1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672131",
+      "name": "chiesa della Santissima Annunziata",
+      "hero_image": "MacchieCastiglioneDelLagoSantissimaAnnunziata3.jpg"
+    },
+    {
+      "wikidata_id": "Q118983900",
+      "name": "chiesa della Santissima Annunziata",
+      "hero_image": "CastelViscardoSantissimaAnnunziata2.jpg"
+    },
+    {
+      "wikidata_id": "Q118983808",
+      "name": "chiesa della Santissima Trinità",
+      "hero_image": "PorchianoDelMonteAmeliaSantissimaTrinita3.jpg"
+    },
+    {
+      "wikidata_id": "Q118983861",
+      "name": "chiesa della Santissima Trinità",
+      "hero_image": "AviglianoUmbroSantissimaTrinita1.jpg"
+    },
+    {
+      "wikidata_id": "Q118983888",
+      "name": "chiesa della Santissima Trinità",
+      "hero_image": "CalviDellUmbriaTrinita5.jpg"
+    },
+    {
+      "wikidata_id": "Q118983964",
+      "name": "chiesa di San Bartolomeo",
+      "hero_image": "CasteltodinoMontecastrilliSanBartolomeo2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672455",
+      "name": "chiesa di San Bartolomeo",
+      "hero_image": "MontecchioGianoDelUmbriaSanBartolomeo3.jpg"
+    },
+    {
+      "wikidata_id": "Q55168141",
+      "name": "chiesa di San Benedetto",
+      "hero_image": "BadiolaMarscianoSanBenedetto2.jpg"
+    },
+    {
+      "wikidata_id": "Q120673458",
+      "name": "chiesa di San Bernardino",
+      "hero_image": "Umbertide - Chiesa di San Bernardino - 2023-09-05 21-19-44 002.jpg"
+    },
+    {
+      "wikidata_id": "Q55181312",
+      "name": "chiesa di San Biagio",
+      "hero_image": "PoranoChiesaDiSanBiagio6.jpg"
+    },
+    {
+      "wikidata_id": "Q118983972",
+      "name": "chiesa di San Biagio",
+      "hero_image": "MelezzoleMontecchioSanBiagio4.jpg"
+    },
+    {
+      "wikidata_id": "Q55168165",
+      "name": "chiesa di San Biagio",
+      "hero_image": "SanBiagioDellaValleMarscianoSanBiagio1.jpg"
+    },
+    {
+      "wikidata_id": "Q25110446",
+      "name": "chiesa di San Carlo",
+      "hero_image": "SanGeminiSantaMariaDeIncertis2.jpg"
+    },
+    {
+      "wikidata_id": "Q60249358",
+      "name": "chiesa di San Carlo",
+      "hero_image": "TodiSantIlarioCarlo2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672773",
+      "name": "chiesa di San Carlo",
+      "hero_image": "PacianoSanCarloBorromeo1.jpg"
+    },
+    {
+      "wikidata_id": "Q118983889",
+      "name": "chiesa di San Carlo Borromeo",
+      "hero_image": "PiedicasaleCalviDellUmbriaSanCarloBorromeo2.jpg"
+    },
+    {
+      "wikidata_id": "Q55168150",
+      "name": "chiesa di San Cristoforo",
+      "hero_image": "CompignanoMarscianoSanCristoforo3.jpg"
+    },
+    {
+      "wikidata_id": "Q55753902",
+      "name": "chiesa di San Cristoforo, Monte Sperello",
+      "hero_image": "MagioneMontesperelloSanCristoforo1.jpg"
+    },
+    {
+      "wikidata_id": "Q793909",
+      "name": "chiesa di San Damiano",
+      "hero_image": "SanDamianoAssisiDec132023 02.jpg"
+    },
+    {
+      "wikidata_id": "Q120673334",
+      "name": "chiesa di San Damiano",
+      "hero_image": "SanDamianoTodiSanDamiano2.jpg"
+    },
+    {
+      "wikidata_id": "Q3669887",
+      "name": "chiesa di San Domenico",
+      "hero_image": "Chiesa di San Domenico - Orvieto.JPG"
+    },
+    {
+      "wikidata_id": "Q3585326",
+      "name": "chiesa di San Domenico",
+      "hero_image": "Città di castello, san domenico.JPG"
+    },
+    {
+      "wikidata_id": "Q17017182",
+      "name": "chiesa di San Domenico",
+      "hero_image": "073GubbioSDomenico.JPG"
+    },
+    {
+      "wikidata_id": "Q120672178",
+      "name": "chiesa di San Donato",
+      "hero_image": "MoianoCittaDellaPieveSanDonatoInRavigliano2.jpg"
+    },
+    {
+      "wikidata_id": "Q56378179",
+      "name": "chiesa di San Donato",
+      "hero_image": "PassignanoSulTrasimenoSanDonato1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672632",
+      "name": "chiesa di San Faustino",
+      "hero_image": "MassaMartanaAbbadiaSanFaustino4.jpg"
+    },
+    {
+      "wikidata_id": "Q28229040",
+      "name": "chiesa di San Felice",
+      "hero_image": "MassaMartanaSanFelice02.jpg"
+    },
+    {
+      "wikidata_id": "Q118984118",
+      "name": "chiesa di San Filippo Neri",
+      "hero_image": "StronconeSanFilippoNeri6.jpg"
+    },
+    {
+      "wikidata_id": "Q17992686",
+      "name": "chiesa di San Filippo Neri",
+      "hero_image": "Chiesa di San Filippo Neri. Spoleto.jpg"
+    },
+    {
+      "wikidata_id": "Q55178309",
+      "name": "chiesa di San Fortunato",
+      "hero_image": "Perugia, san fortunato, 01.jpg"
+    },
+    {
+      "wikidata_id": "Q3670013",
+      "name": "chiesa di San Fortunato",
+      "hero_image": "Todi - S.Fortunato.jpg"
+    },
+    {
+      "wikidata_id": "Q3670098",
+      "name": "chiesa di San Francesco",
+      "hero_image": "Terni - chiesa di San Francesco - 202209032236 2.jpg"
+    },
+    {
+      "wikidata_id": "Q25110437",
+      "name": "chiesa di San Francesco",
+      "hero_image": "SanFrancescoAcquasparta 01.jpg"
+    },
+    {
+      "wikidata_id": "Q55186478",
+      "name": "chiesa di San Francesco",
+      "hero_image": "SanGeminiSanFrancesco1.jpg"
+    },
+    {
+      "wikidata_id": "Q55354056",
+      "name": "chiesa di San Francesco",
+      "hero_image": "Pinacoteca comunale di Nocera Umbra.jpg"
+    },
+    {
+      "wikidata_id": "Q3585334",
+      "name": "chiesa di San Francesco al Prato",
+      "hero_image": "09a.sfrancesco.JPG"
+    },
+    {
+      "wikidata_id": "Q118983955",
+      "name": "chiesa di San Francesco d'Assisi",
+      "hero_image": "LugnanoInTeverinaSanFrancesco5.jpg"
+    },
+    {
+      "wikidata_id": "Q5117095",
+      "name": "chiesa di San Giacomo",
+      "hero_image": "Foligno, san giacomo, chiostro 02.JPG"
+    },
+    {
+      "wikidata_id": "Q120673336",
+      "name": "chiesa di San Giorgio",
+      "hero_image": "TodiSanGiorgio3.jpg"
+    },
+    {
+      "wikidata_id": "Q121792430",
+      "name": "chiesa di San Giovanni",
+      "hero_image": "Visso - Chiesa di San Giovanni - 001.JPG"
+    },
+    {
+      "wikidata_id": "Q118984049",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "BagniOrvietoSanGiovanniBattista5.jpg"
+    },
+    {
+      "wikidata_id": "Q106427047",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "CasteldelmonteAcquaspartaSanGiovanniBattista3.jpg"
+    },
+    {
+      "wikidata_id": "Q24952058",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "SanGeminiSanGiovanniBattista7.jpg"
+    },
+    {
+      "wikidata_id": "Q120671978",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "AssisiRivotortoSanGiovannuccio1.jpg"
+    },
+    {
+      "wikidata_id": "Q110136536",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "TenaglieMontecchioSanGiovanniBattista7.jpg"
+    },
+    {
+      "wikidata_id": "Q45360786",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "San Giovanni Battista - esterno.jpg"
+    },
+    {
+      "wikidata_id": "Q120672598",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "MagioneSantArcangeloSanGiovanniBattista1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672597",
+      "name": "chiesa di San Giovanni Battista",
+      "hero_image": "MagioneUmbriaSanGiovanniBattista7.jpg"
+    },
+    {
+      "wikidata_id": "Q55172802",
+      "name": "chiesa di San Giovanni Evangelista e ex canonica ora caserma dei Carabinieri",
+      "hero_image": "Orvieto - Chiesa di San Giovanni Evangelista e ex canonica ora caserma dei Carabinieri.JPG"
+    },
+    {
+      "wikidata_id": "Q3670568",
+      "name": "chiesa di San Giovenale",
+      "hero_image": "Orvieto, san giovenale 01.JPG"
+    },
+    {
+      "wikidata_id": "Q120672546",
+      "name": "chiesa di San Giuliano",
+      "hero_image": "Gubbio, chiesa di s. giuliano, xii sec.JPG"
+    },
+    {
+      "wikidata_id": "Q118984053",
+      "name": "chiesa di San Giuseppe",
+      "hero_image": "Orvieto-Patriarch Kiseph-07.jpg"
+    },
+    {
+      "wikidata_id": "Q106427124",
+      "name": "chiesa di San Giuseppe",
+      "hero_image": "AcquaspartaSanGiuseppe4.jpg"
+    },
+    {
+      "wikidata_id": "Q120673507",
+      "name": "chiesa di San Giuseppe",
+      "hero_image": "ValtopinaGioveSanGiuseppe2.jpg"
+    },
+    {
+      "wikidata_id": "Q118984054",
+      "name": "chiesa di San Giuseppe e Giacomo",
+      "hero_image": "Orvieto - Chiesa di San Giuseppe e Giacomo.JPG"
+    },
+    {
+      "wikidata_id": "Q118984120",
+      "name": "chiesa di San Gregorio",
+      "hero_image": "StronconeSanGregorio7.jpg"
+    },
+    {
+      "wikidata_id": "Q106540866",
+      "name": "chiesa di san Gregorio Magno",
+      "hero_image": "Montone, collegiata, 01.JPG"
+    },
+    {
+      "wikidata_id": "Q118984170",
+      "name": "chiesa di San Liberatore",
+      "hero_image": "MirandaTerniSanLiberatore6.jpg"
+    },
+    {
+      "wikidata_id": "Q120672300",
+      "name": "chiesa di San Lorenzo",
+      "hero_image": "PontenuovoTorgianoSanLorenzo3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672936",
+      "name": "chiesa di San Lorenzo",
+      "hero_image": "GreppolischietoPiegaroSanLorenzo4.jpg"
+    },
+    {
+      "wikidata_id": "Q55191968",
+      "name": "chiesa di San Lorenzo",
+      "hero_image": "Church of San Lorenzo (Spello).jpg"
+    },
+    {
+      "wikidata_id": "Q120673341",
+      "name": "chiesa di San Lorenzo",
+      "hero_image": "LoretoTodiSanLorenzo3.jpg"
+    },
+    {
+      "wikidata_id": "Q118984057",
+      "name": "chiesa di San Lorenzo de' Arari",
+      "hero_image": "855OrvietoSLorenzoDeArari.JPG"
+    },
+    {
+      "wikidata_id": "Q118983863",
+      "name": "chiesa di San Luigi Gonzaga",
+      "hero_image": "SantaRestitutaAviglianoUmbroSanLuigiGonzaga6.jpg"
+    },
+    {
+      "wikidata_id": "Q120672357",
+      "name": "chiesa di San Marco",
+      "hero_image": "Chiesa di San Marco - Foligno 01.JPG"
+    },
+    {
+      "wikidata_id": "Q55178430",
+      "name": "chiesa di San Martino",
+      "hero_image": "SanMartinoInCampoPerugiaSanMartino1.jpg"
+    },
+    {
+      "wikidata_id": "Q71724875",
+      "name": "chiesa di San Martino",
+      "hero_image": "FabroChiesaSanMartino.JPG"
+    },
+    {
+      "wikidata_id": "Q104617426",
+      "name": "chiesa di San Marziale",
+      "hero_image": "San Marziale (Gubbio) 02.jpg"
+    },
+    {
+      "wikidata_id": "Q55178375",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "Perugia - Chiesa di San Michele Arcangelo - 2023-09-24 13-00-53 001.jpg"
+    },
+    {
+      "wikidata_id": "Q118983796",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "AcquaspartaSanMicheleArcangelo1.jpg"
+    },
+    {
+      "wikidata_id": "Q18785552",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "Église San Michele Arcangelo Citerna.JPG"
+    },
+    {
+      "wikidata_id": "Q120672884",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "Perugia - Chiesa di San Michele Arcangelo 001.jpg"
+    },
+    {
+      "wikidata_id": "Q120672228",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "Città di Castello - Chiesa di San Michele Arcangelo - 2025-09-30 11-32-56 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q55137017",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "CollazzoneSanMicheleArcangelo6.jpg"
+    },
+    {
+      "wikidata_id": "Q55167654",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "MagioneCollesantoSanMicheleArcangelo2.jpg"
+    },
+    {
+      "wikidata_id": "Q120673031",
+      "name": "chiesa di San Michele Arcangelo",
+      "hero_image": "ScheggiaPascelupoColdipeccioSanMichele1.jpg"
+    },
+    {
+      "wikidata_id": "Q118984073",
+      "name": "chiesa di San Nicola di Bari",
+      "hero_image": "PoggioOtricoliChiesaSanNicola2.jpg"
+    },
+    {
+      "wikidata_id": "Q118984122",
+      "name": "chiesa di San Nicola di Bari",
+      "hero_image": "StronconeSanNicola.JPG"
+    },
+    {
+      "wikidata_id": "Q28229026",
+      "name": "chiesa di San Nicolò",
+      "hero_image": "MontecastrilliSanNicolo1.jpg"
+    },
+    {
+      "wikidata_id": "Q120673354",
+      "name": "chiesa di San Nicolò",
+      "hero_image": "TodiSanNicolo1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672587",
+      "name": "chiesa di San Nicolò",
+      "hero_image": "LiscianoNicconeSanNiccoloValDiRose1.jpg"
+    },
+    {
+      "wikidata_id": "Q106468435",
+      "name": "chiesa di San Pancrazio",
+      "hero_image": "CastelGiorgioChiesaDiSanPancrazio3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672139",
+      "name": "chiesa di San Paolo",
+      "hero_image": "FrattavecchiaCastiglioneDelLagoSanPaolo2.jpg"
+    },
+    {
+      "wikidata_id": "Q90908568",
+      "name": "chiesa di San Pietro",
+      "hero_image": "Chiesa di San Pietro (Terni, seconda metà del XIII secolo).jpg"
+    },
+    {
+      "wikidata_id": "Q120672939",
+      "name": "chiesa di San Pietro",
+      "hero_image": "VignaiePiegaroSanPietro1.jpg"
+    },
+    {
+      "wikidata_id": "Q3671688",
+      "name": "chiesa di San Pietro",
+      "hero_image": "Spoleto Chiesa San Pietro.jpg"
+    },
+    {
+      "wikidata_id": "Q118983817",
+      "name": "chiesa di San Pietro Apostolo",
+      "hero_image": "FornoleAmeliaSanPietro1.jpg"
+    },
+    {
+      "wikidata_id": "Q118984123",
+      "name": "chiesa di San Pietro Apostolo",
+      "hero_image": "AguzzoStronconeSanPietro4.jpg"
+    },
+    {
+      "wikidata_id": "Q120672293",
+      "name": "chiesa di San Rocco",
+      "hero_image": "CostacciaroSanRocco2.jpg"
+    },
+    {
+      "wikidata_id": "Q90419126",
+      "name": "chiesa di San Rocco",
+      "hero_image": "Chiesa di San Rocco (Spoleto).jpg"
+    },
+    {
+      "wikidata_id": "Q25058148",
+      "name": "chiesa di San Sabino",
+      "hero_image": "FrattaTodinaSanSabino1.jpg"
+    },
+    {
+      "wikidata_id": "Q120673436",
+      "name": "chiesa di San Salvatore",
+      "hero_image": "Tuoro sul Trasimeno - Chiesa di San Salvatore - 2023-09-18 18-24-07 001.JPG"
+    },
+    {
+      "wikidata_id": "Q120672959",
+      "name": "chiesa di San Salvatore",
+      "hero_image": "PoggiodomoUsigniSanSalvatore6.jpg"
+    },
+    {
+      "wikidata_id": "Q55167665",
+      "name": "chiesa di San Savino",
+      "hero_image": "MagioneSanSavinoSanSavinoChurch2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672636",
+      "name": "chiesa di San Sebastiano",
+      "hero_image": "TorreLorenzettaMassaMartanaSanSebastiano2.jpg"
+    },
+    {
+      "wikidata_id": "Q19545328",
+      "name": "chiesa di San Secondo",
+      "hero_image": "AmeliaSanSecondo7.jpg"
+    },
+    {
+      "wikidata_id": "Q55191971",
+      "name": "chiesa di San Severino",
+      "hero_image": "Chiesa di San Severino - Spello 01.JPG"
+    },
+    {
+      "wikidata_id": "Q3585384",
+      "name": "chiesa di San Severo",
+      "hero_image": "Église san Severo Pérouse.JPG"
+    },
+    {
+      "wikidata_id": "Q55179236",
+      "name": "chiesa di San Silvestro",
+      "hero_image": "PiegaroSanSilvestro2.jpg"
+    },
+    {
+      "wikidata_id": "Q120673360",
+      "name": "chiesa di San Silvestro",
+      "hero_image": "FioreTodiSanSilvestro3.jpg"
+    },
+    {
+      "wikidata_id": "Q3584523",
+      "name": "chiesa di San Silvestro",
+      "hero_image": "Bevagna, basilica di san silvestro, esterno 04.jpg"
+    },
+    {
+      "wikidata_id": "Q120673511",
+      "name": "chiesa di San Sisto",
+      "hero_image": "ValtopinaGallanoSanSisto3.jpg"
+    },
+    {
+      "wikidata_id": "Q55167649",
+      "name": "chiesa di San Valentino",
+      "hero_image": "MagioneVillaSanValentino6.jpg"
+    },
+    {
+      "wikidata_id": "Q120673130",
+      "name": "chiesa di San Ventura",
+      "hero_image": "Italien-Spello-Porta Urbica-former Church nearby-01.jpg"
+    },
+    {
+      "wikidata_id": "Q118983894",
+      "name": "chiesa di San Vito",
+      "hero_image": "CalviDellUmbriaSanVitoChurch1.jpg"
+    },
+    {
+      "wikidata_id": "Q118984074",
+      "name": "chiesa di San Vittore",
+      "hero_image": "OtricoliSanVittore4.jpg"
+    },
+    {
+      "wikidata_id": "Q3585404",
+      "name": "chiesa di Sant'Agata",
+      "hero_image": "Perugia 127.JPG"
+    },
+    {
+      "wikidata_id": "Q120672912",
+      "name": "chiesa di Sant'Agnese",
+      "hero_image": "SantEneaPerugiaSantAgnese1.jpg"
+    },
+    {
+      "wikidata_id": "Q3672306",
+      "name": "chiesa di Sant'Agostino",
+      "hero_image": "Narni - Chiesa di Sant'Agostino 2.JPG"
+    },
+    {
+      "wikidata_id": "Q16487625",
+      "name": "chiesa di Sant'Agostino",
+      "hero_image": "Sant'Agostino Cascia.jpg"
+    },
+    {
+      "wikidata_id": "Q55164317",
+      "name": "chiesa di Sant'Agostino",
+      "hero_image": "GualdoCattaneoSantAgostino3.jpg"
+    },
+    {
+      "wikidata_id": "Q17017365",
+      "name": "chiesa di Sant'Agostino",
+      "hero_image": "Gubbio, sant'agostino, esterno 01.JPG"
+    },
+    {
+      "wikidata_id": "Q55157180",
+      "name": "chiesa di Sant'Agostino",
+      "hero_image": "Cammino Francescano della Marca, Foligno, Chiesa di Sant'Agostino 01.jpg"
+    },
+    {
+      "wikidata_id": "Q18882074",
+      "name": "chiesa di Sant'Andrea",
+      "hero_image": "Cammino Francescano della Marca, Spello, Chiesa di Sant'Andrea 01.jpg"
+    },
+    {
+      "wikidata_id": "Q119999421",
+      "name": "chiesa di Sant'Andrea",
+      "hero_image": "MarcellanoGualdoCattaneoSantAndrea3.jpg"
+    },
+    {
+      "wikidata_id": "Q55187118",
+      "name": "chiesa di Sant'Andrea",
+      "hero_image": "San Giustino - Chiesa di Sant'Andrea - 2023-09-19 15-16-31 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q55167658",
+      "name": "chiesa di Sant'Andrea",
+      "hero_image": "MagioneMonteDelLagoSantAndrea2.jpg"
+    },
+    {
+      "wikidata_id": "Q113453974",
+      "name": "chiesa di Sant'Andrea",
+      "hero_image": "TerniSantAndrea8.jpg"
+    },
+    {
+      "wikidata_id": "Q118983867",
+      "name": "chiesa di Sant'Andrea Corsini",
+      "hero_image": "SismanoAviglianoUmbroSantAndreaCorsini5.jpg"
+    },
+    {
+      "wikidata_id": "Q118984218",
+      "name": "chiesa di Sant'Andrea Fisocchio",
+      "hero_image": "CollescipoliTerniSantAndreaFisocchioContea6.jpg"
+    },
+    {
+      "wikidata_id": "Q118983957",
+      "name": "chiesa di Sant'Angelo",
+      "hero_image": "LugnanoInTeverinaSantAngelo3.jpg"
+    },
+    {
+      "wikidata_id": "Q16540506",
+      "name": "chiesa di Sant'Anna",
+      "hero_image": "Facciata della chiesa di sant'anna, deruta.jpg"
+    },
+    {
+      "wikidata_id": "Q120672146",
+      "name": "chiesa di Sant'Ansano Martire",
+      "hero_image": "PetrignanoCastiglioneDelLagoSantAnsano4.jpg"
+    },
+    {
+      "wikidata_id": "Q118983835",
+      "name": "chiesa di Sant'Antimo",
+      "hero_image": "PorchianoDelMonteAmeliaSantAntimo8.jpg"
+    },
+    {
+      "wikidata_id": "Q66945041",
+      "name": "chiesa di Sant'Antonio",
+      "hero_image": "LugnanoInTeverinaConventoCappucciniSantAntonioDiPadova6.jpg"
+    },
+    {
+      "wikidata_id": "Q3672625",
+      "name": "chiesa di Sant'Antonio Abate",
+      "hero_image": "CasciaSantAntonioAbate1.jpg"
+    },
+    {
+      "wikidata_id": "Q118983905",
+      "name": "chiesa di Sant'Antonio da Padova",
+      "hero_image": "CastelViscardoSantAntonioDaPadova2.jpg"
+    },
+    {
+      "wikidata_id": "Q28229044",
+      "name": "chiesa di Sant'Egidio",
+      "hero_image": "GuardeaChiesaSEgidio3.jpg"
+    },
+    {
+      "wikidata_id": "Q118984018",
+      "name": "chiesa di Sant'Egidio",
+      "hero_image": "VigneNarniColleabramoSantEgidio6.jpg"
+    },
+    {
+      "wikidata_id": "Q118984019",
+      "name": "chiesa di Sant'Egidio vecchio",
+      "hero_image": "MontoroNarniChiesaBaronaleSantEgidio5.jpg"
+    },
+    {
+      "wikidata_id": "Q16540558",
+      "name": "chiesa di Sant'Eufemia",
+      "hero_image": "Chiesa di Sant'Eufemia, facciata.jpg"
+    },
+    {
+      "wikidata_id": "Q118984020",
+      "name": "chiesa di Sant'Onofrio",
+      "hero_image": "SantUrbanoNarniSantOnofrio2.jpg"
+    },
+    {
+      "wikidata_id": "Q120673007",
+      "name": "chiesa di Santa Barbara",
+      "hero_image": "San Giustino - Chiesa di Santa Barbara - 2025-09-28 17-50-53 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q85799616",
+      "name": "chiesa di Santa Cecilia",
+      "hero_image": "AcquaspartaSantaCecilia1.jpg"
+    },
+    {
+      "wikidata_id": "Q118983956",
+      "name": "chiesa di Santa Chiara d'Assisi",
+      "hero_image": "LugnanoInTeverinaSantaChiara2.jpg"
+    },
+    {
+      "wikidata_id": "Q127502255",
+      "name": "chiesa di Santa Croce",
+      "hero_image": "Chiesa di Santa Croce, Bastia Umbra, Italia.jpg"
+    },
+    {
+      "wikidata_id": "Q120672616",
+      "name": "chiesa di Santa Croce",
+      "hero_image": "SantElenaMarscianoSantaCroce5.jpg"
+    },
+    {
+      "wikidata_id": "Q55179228",
+      "name": "chiesa di Santa Felicissima",
+      "hero_image": "OroPiegaroSantaFelicissima3.jpg"
+    },
+    {
+      "wikidata_id": "Q28229036",
+      "name": "chiesa di Santa Illuminata",
+      "hero_image": "MassaMartanaSantaIlluminata2.jpg"
+    },
+    {
+      "wikidata_id": "Q118984126",
+      "name": "chiesa di Santa Lucia",
+      "hero_image": "StronconeSantaLuciaChiesa2.jpg"
+    },
+    {
+      "wikidata_id": "Q106449427",
+      "name": "chiesa di Santa Lucia di Burchiano",
+      "hero_image": "AcquaspartaSantaLuciaDiBurchiano03.jpg"
+    },
+    {
+      "wikidata_id": "Q3673166",
+      "name": "chiesa di Santa Margherita",
+      "hero_image": "Narni - Chiesa di Santa Margherita.JPG"
+    },
+    {
+      "wikidata_id": "Q120672140",
+      "name": "chiesa di Santa Maria",
+      "hero_image": "PianaCastiglioneDelLagoSantaMaria2.jpg"
+    },
+    {
+      "wikidata_id": "Q120672239",
+      "name": "chiesa di Santa Maria",
+      "hero_image": "Città di Castello - Chiesa di Santa Maria - 2023-09-19 15-06-02 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q120673383",
+      "name": "chiesa di Santa Maria",
+      "hero_image": "TorgianoSantaMaria1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672599",
+      "name": "chiesa di Santa Maria",
+      "hero_image": "MagioneSantArcangeloSantaMariaMontevalle1.jpg"
+    },
+    {
+      "wikidata_id": "Q118984005",
+      "name": "chiesa di Santa Maria Annunziata",
+      "hero_image": "TaizzanoNarniSantiMariaAnnunziataSilvestro5.jpg"
+    },
+    {
+      "wikidata_id": "Q55167656",
+      "name": "chiesa di Santa Maria Annunziata",
+      "hero_image": "MontecolognolaMagioneAnnunziata3.jpg"
+    },
+    {
+      "wikidata_id": "Q54863720",
+      "name": "chiesa di Santa Maria Annunziata",
+      "hero_image": "Visso - Chiesa di Santa Maria Annunziata, Mevale - 2023-09-28 10-18-26 001.jpg"
+    },
+    {
+      "wikidata_id": "Q25112874",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "ArroneSantaMariaAssunta6.jpg"
+    },
+    {
+      "wikidata_id": "Q120672141",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "BadiaCastiglioneDelLagoSantaMariaAssunta3.jpg"
+    },
+    {
+      "wikidata_id": "Q118984006",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "MontoroNarniSantaMariaAssunta3.jpg"
+    },
+    {
+      "wikidata_id": "Q55110280",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "CalviDellUmbriaSantaMariaAssunta2.jpg"
+    },
+    {
+      "wikidata_id": "Q55163876",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "GioveSantaMariaAssunta3.jpg"
+    },
+    {
+      "wikidata_id": "Q55137028",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "CollepepeCollazzoneChiesaSantaMariaAssunta3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672280",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "CasalaltaCollazzoneSantaMariaAssunta8.jpg"
+    },
+    {
+      "wikidata_id": "Q118984127",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "CollepilaStronconeSantaMariaAssunta5.jpg"
+    },
+    {
+      "wikidata_id": "Q120673363",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "DueSantiTodiSantaMariaAssunta4.jpg"
+    },
+    {
+      "wikidata_id": "Q25112738",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "CerquetoMarscianoSantaMariaAssunta3.jpg"
+    },
+    {
+      "wikidata_id": "Q55168153",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "MiglianoMarscianoSantaMariaAssunta1.jpg"
+    },
+    {
+      "wikidata_id": "Q120673033",
+      "name": "chiesa di Santa Maria Assunta",
+      "hero_image": "ScheggiaCampitelloSantaMariaAssunta2.jpg"
+    },
+    {
+      "wikidata_id": "Q118984197",
+      "name": "chiesa di Santa Maria dei Cuori",
+      "hero_image": "CollescipoliTerniPoscarganoSantaMariaDeiCuori2.jpg"
+    },
+    {
+      "wikidata_id": "Q118983804",
+      "name": "chiesa di Santa Maria del Cardellino",
+      "hero_image": "AlvianoMadonnaDelCardellino6.jpg"
+    },
+    {
+      "wikidata_id": "Q118984199",
+      "name": "chiesa di Santa Maria del Carmelo",
+      "hero_image": "CollescipoliTerniMadonnaDelCarmine1.jpg"
+    },
+    {
+      "wikidata_id": "Q118984128",
+      "name": "chiesa di Santa Maria del Carmelo",
+      "hero_image": "FinocchietoStronconeMadonnaDelCarmine5.jpg"
+    },
+    {
+      "wikidata_id": "Q118984129",
+      "name": "chiesa di Santa Maria del Colle",
+      "hero_image": "StronconeMadonnaDelColle1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672409",
+      "name": "chiesa di Santa Maria del Gonfalone",
+      "hero_image": "Foligno, oratorio della Madonna del Gonfalone 01.jpg"
+    },
+    {
+      "wikidata_id": "Q118984007",
+      "name": "chiesa di Santa Maria del Piano",
+      "hero_image": "NarniScaloMadonnaDelPiano3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672246",
+      "name": "chiesa di Santa Maria del Popolo",
+      "hero_image": "Città di Castello - Chiesa di Santa Maria del Popolo - 2025-09-17 18-55-34 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q55137996",
+      "name": "chiesa di Santa Maria del Serraglio",
+      "hero_image": "Corciano, chiesa del Serraglio (03).jpg"
+    },
+    {
+      "wikidata_id": "Q3585431",
+      "name": "chiesa di Santa Maria dell'Annunziata",
+      "hero_image": "Santa Maria Annunziara -Fontignano.JPG"
+    },
+    {
+      "wikidata_id": "Q118984206",
+      "name": "chiesa di Santa Maria della Misericordia vecchia",
+      "hero_image": "TerniSantaMariaDellaMisericordiaVecchia2.jpg"
+    },
+    {
+      "wikidata_id": "Q55178119",
+      "name": "chiesa di Santa Maria della Neve",
+      "hero_image": "PennaInTeverinaSantaMariaDellaNeve2.jpg"
+    },
+    {
+      "wikidata_id": "Q16540741",
+      "name": "chiesa di Santa Maria della Reggia",
+      "hero_image": "Umbertide, santa maria della reggia, 02.JPG"
+    },
+    {
+      "wikidata_id": "Q118983827",
+      "name": "chiesa di Santa Maria delle Cinque Fonti",
+      "hero_image": "AmeliaSantaMariaDelleCinqueFonti14.jpg"
+    },
+    {
+      "wikidata_id": "Q118983864",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "hero_image": "AviglianoUmbroSantaMariaDelleGrazie2.jpg"
+    },
+    {
+      "wikidata_id": "Q108151217",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "hero_image": "MagioneUmbriaMadonnaDellaGrazie1.jpg"
+    },
+    {
+      "wikidata_id": "Q118983829",
+      "name": "chiesa di Santa Maria di Cecanibbio",
+      "hero_image": "AmeliaSantaMariaCecanibbio6.jpg"
+    },
+    {
+      "wikidata_id": "Q3585421",
+      "name": "chiesa di Santa Maria di Monteluce",
+      "hero_image": "Chiesa di Santa Maria di Monteluce (Perugia).JPG"
+    },
+    {
+      "wikidata_id": "Q120672249",
+      "name": "chiesa di Santa Maria in Ara",
+      "hero_image": "Città di Castello - Chiesa di Santa Maria in Ara - 2025-09-30 11-35-27 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q120672414",
+      "name": "chiesa di Santa Maria in Campis",
+      "hero_image": "Foligno - Chiesa di Santa Maria in Campis - 001.JPG"
+    },
+    {
+      "wikidata_id": "Q55431485",
+      "name": "chiesa di Santa Maria in Pantano",
+      "hero_image": "MassaMartanaSantaMariaPantano2.JPG"
+    },
+    {
+      "wikidata_id": "Q55082630",
+      "name": "chiesa di Santa Maria in Rupino",
+      "hero_image": "FirenzuolaAcquaspartaSantaMariaInRupino5.jpg"
+    },
+    {
+      "wikidata_id": "Q118983896",
+      "name": "chiesa di Santa Maria Maddalena",
+      "hero_image": "CalviDellUmbriaSantaMariaMaddalenaChurch6.jpg"
+    },
+    {
+      "wikidata_id": "Q3586139",
+      "name": "chiesa di Santa Maria Maggiore",
+      "hero_image": "Chiesa di Santa Maria Maggiore (Citta di Castello).jpg"
+    },
+    {
+      "wikidata_id": "Q1304828",
+      "name": "chiesa di Santa Maria Maggiore",
+      "hero_image": "316AssisiSMariaMaggiore.jpg"
+    },
+    {
+      "wikidata_id": "Q16540670",
+      "name": "chiesa di Santa Maria Nuova",
+      "hero_image": "Facciata Santa Maria Nuova Perugia.jpg"
+    },
+    {
+      "wikidata_id": "Q117659699",
+      "name": "chiesa di Santa Maria Nuova",
+      "hero_image": "FiculleSantaMariaNuova2.jpg"
+    },
+    {
+      "wikidata_id": "Q116893804",
+      "name": "chiesa di Santa Prassede",
+      "hero_image": "TodiSantaPrassede1.jpg"
+    },
+    {
+      "wikidata_id": "Q3674191",
+      "name": "chiesa di Santa Pudenziana",
+      "hero_image": "NarniSantaPudenzianaaVisciano02.jpg"
+    },
+    {
+      "wikidata_id": "Q60792622",
+      "name": "chiesa di Santa Restituta",
+      "hero_image": "Chiesa di Santa Restituta (Narni) 01.jpg"
+    },
+    {
+      "wikidata_id": "Q120672258",
+      "name": "chiesa di Santo Spirito",
+      "hero_image": "Città di Castello - Chiesa di Santo Spirito - 2025-09-27 12-27-45 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q138645872",
+      "name": "chiesa di Santo Stefano",
+      "hero_image": "CollescipoliTerniSantoStefano04.jpg"
+    },
+    {
+      "wikidata_id": "Q120672011",
+      "name": "chiesa di Santo Stefano",
+      "hero_image": "AssisiCostaDiTrexSantoStefano2.jpg"
+    },
+    {
+      "wikidata_id": "Q120673014",
+      "name": "chiesa di Santo Stefano",
+      "hero_image": "San Giustino - Chiesa di Santo Stefano - 2023-09-19 14-56-42 001.jpeg"
+    },
+    {
+      "wikidata_id": "Q3674547",
+      "name": "chiesetta della Madonna dei Confini",
+      "hero_image": "Chiesetta Madonna dei Confini IMG 2503.JPG"
+    },
+    {
+      "wikidata_id": "Q3682931",
+      "name": "collegiata di Santa Maria Maggiore",
+      "hero_image": "Cammino Francescano della Marca, Spello, Collegiata di Santa Maria Maggiore 01.jpg"
+    },
+    {
+      "wikidata_id": "Q2942731",
+      "name": "concattedrale di San Giovenale",
+      "hero_image": "Narni - Chiesa di San Giovenale 7.JPG"
+    },
+    {
+      "wikidata_id": "Q2741320",
+      "name": "concattedrale di Santa Maria Argentea",
+      "hero_image": "0893NorciaCattedrale.JPG"
+    },
+    {
+      "wikidata_id": "Q3716327",
+      "name": "duomo di Amelia",
+      "hero_image": "AmeliaSantaMariaAssuntaSantaFermina3.jpg"
+    },
+    {
+      "wikidata_id": "Q2942674",
+      "name": "duomo di Gualdo Tadino",
+      "hero_image": "Gualdo tadino, san benedetto, esterno 03.jpg"
+    },
+    {
+      "wikidata_id": "Q594678",
+      "name": "duomo di Gubbio",
+      "hero_image": "Duomo di Gubbio (28891).jpg"
+    },
+    {
+      "wikidata_id": "Q2942818",
+      "name": "Duomo di Spoleto",
+      "hero_image": "Duomo (Spoleto) - Facade.jpg"
+    },
+    {
+      "wikidata_id": "Q25112946",
+      "name": "ex chiesa di Santa Maria della Manna d'Oro",
+      "hero_image": "0956SpoletoSMariaDellaMannaDOro.JPG"
+    },
+    {
+      "wikidata_id": "Q55179430",
+      "name": "Madonna dei Rimedi",
+      "hero_image": "Santuario della Madonna dei Rimedi, Pietralunga (PG).jpg"
+    },
+    {
+      "wikidata_id": "Q28669485",
+      "name": "Madonna della Pace",
+      "hero_image": "MassaMartanaSantaMariaDellaPace2.jpg"
+    },
+    {
+      "wikidata_id": "Q16008868",
+      "name": "oratorio di San Crescentino",
+      "hero_image": "Oratoire san Crescentino - Morra.JPG"
+    },
+    {
+      "wikidata_id": "Q3966412",
+      "name": "Sacro Speco di San Francesco",
+      "hero_image": "SantUrbanoNarniSacroSpecoSanFrancescoConvento5.jpg"
+    },
+    {
+      "wikidata_id": "Q28229030",
+      "name": "San Lorenzo in Nifili",
+      "hero_image": "FarnettaMontecastrilliSanLorenzoInNifili05.jpg"
+    },
+    {
+      "wikidata_id": "Q28229027",
+      "name": "Santa Maria di Ciciliano",
+      "hero_image": "MontecastrilliSantaMariaDiCiciliano1.jpg"
+    },
+    {
+      "wikidata_id": "Q3949728",
+      "name": "santuario della Madonna del Ponte",
+      "hero_image": "NarniMadonnaDelPonte1.jpg"
+    },
+    {
+      "wikidata_id": "Q120672603",
+      "name": "santuario della Madonna delle Fontanelle",
+      "hero_image": "MontecolognolaMagioneSantuarioMadonnaDelleFontanelle3.jpg"
+    },
+    {
+      "wikidata_id": "Q120672790",
+      "name": "santuario della Madonna delle Grondici",
+      "hero_image": "TavernellePanicaleMadonnaDelleGrondici3.jpg"
+    },
+    {
+      "wikidata_id": "Q17652134",
+      "name": "santuario della Madonna di Loreto",
+      "hero_image": "Spoleto. Santuario della Madonna di Loreto.jpg"
+    },
+    {
+      "wikidata_id": "Q3585315",
+      "name": "Tempio di Sant'Angelo",
+      "hero_image": "Perugia, sant'angelo, esterno 04.jpg"
+    },
+    {
+      "wikidata_id": "Q3585432",
+      "name": "tempio di Santa Maria della Consolazione",
+      "hero_image": "Santa Maria della Consolazione (Todi, Umbria, Italia).jpg"
+    }
+  ],
+  "review_records": [
+    {
+      "wikidata_id": "Q644850",
+      "name": "basilica di San Pietro",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "IMG 1063 - Perugia - San Pietro - Chiostro maggiore (sec. XVI) - 7 ago 2006 - Foto G. Dall'Orto.jpg",
+        "score": 6,
+        "confidence": "medium",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "name_tokens": [
+              "pietro"
+            ]
+          },
+          "license_requires_review"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q120672521",
+      "name": "cappella della Madonna dei Perugini",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672604",
+      "name": "cappella della Madonna del Fosso",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672803",
+      "name": "cappella della Madonna della Caina",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672806",
+      "name": "cappella della Madonna delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672807",
+      "name": "cappella della Madonna delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q3657553",
+      "name": "cappella di San Brizio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Luca signorelli, cappella di san brizio 00.jpg",
+        "score": 2,
+        "confidence": "low",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "negative_terms": [
+              "fresco"
+            ]
+          },
+          {
+            "hard_reject_terms": [
+              "fresco"
+            ]
+          },
+          {
+            "name_tokens": [
+              "brizio"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q120672169",
+      "name": "cappella di San Donato",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178526",
+      "name": "cappella di San Giovanni del Nobile collegio del Cambio",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Perugino Cambio Frescoes 35.jpg",
+        "score": -4,
+        "confidence": "low",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "negative_terms": [
+              "painting",
+              "fresco"
+            ]
+          },
+          {
+            "hard_reject_terms": [
+              "fresco",
+              "painting"
+            ]
+          },
+          {
+            "name_tokens": [
+              "giovanni",
+              "collegio",
+              "cambio"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q120672815",
+      "name": "cappella di Santa Croce",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672307",
+      "name": "chiesa dei Santi Fabiano e Sebastiano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672269",
+      "name": "chiesa dei Santi Filippo e Giacomo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672823",
+      "name": "chiesa dei Santi Maria e Leonardo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984027",
+      "name": "chiesa dei Santi Pietro e Paolo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178334",
+      "name": "chiesa dei Santi Proto e Giacinto",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120671956",
+      "name": "chiesa dei Santi Stefano e Fortunato",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673430",
+      "name": "chiesa del Buon Gesù",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672524",
+      "name": "chiesa del Buon Gesù",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178388",
+      "name": "chiesa del Santissimo Corpo di Cristo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118983899",
+      "name": "chiesa del Santissimo Crocifisso",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792423",
+      "name": "chiesa del Santissimo Crocifisso",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q28229375",
+      "name": "chiesa del Santissimo Redentore e Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672525",
+      "name": "chiesa del Seminario",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792424",
+      "name": "chiesa della Concezione",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672832",
+      "name": "chiesa della Madonna dei Cenciarelli",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672780",
+      "name": "chiesa della Madonna del Bocconcello",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984032",
+      "name": "chiesa della Madonna del Campione",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792425",
+      "name": "chiesa della Madonna del Casale",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672834",
+      "name": "chiesa della Madonna del Corsetto",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672529",
+      "name": "chiesa della Madonna del Ponte",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118983962",
+      "name": "chiesa della Madonna del Rosario",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673444",
+      "name": "chiesa della Madonna del Sasso",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672126",
+      "name": "chiesa della Madonna del Soccorso",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672838",
+      "name": "chiesa della Madonna del Trebbio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672839",
+      "name": "chiesa della Madonna del Tufo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120671964",
+      "name": "chiesa della Madonna dell'Oliva",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673445",
+      "name": "chiesa della Madonna della Costa",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673446",
+      "name": "chiesa della Madonna della Neve",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672531",
+      "name": "chiesa della Madonna della Neve",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673447",
+      "name": "chiesa della Madonna della Piazza",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673119",
+      "name": "chiesa della Madonna della Stella",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672194",
+      "name": "chiesa della Madonna delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672675",
+      "name": "chiesa della Madonna delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673449",
+      "name": "chiesa della Madonna delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672946",
+      "name": "chiesa della Madonna delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672847",
+      "name": "chiesa della Madonna delle Grazie",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Santuario madonna della villa Perugia (3).jpg",
+        "score": 2,
+        "confidence": "low",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "negative_terms": [
+              "fresco"
+            ]
+          },
+          {
+            "hard_reject_terms": [
+              "fresco"
+            ]
+          },
+          {
+            "name_tokens": [
+              "madonna"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q120673120",
+      "name": "chiesa della Madonna di Colpernieri",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672323",
+      "name": "chiesa della Madonna di Fiamenga",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984038",
+      "name": "chiesa della Madonna Santissima del Fossatello",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984101",
+      "name": "chiesa della Madonna Santissima dell'Olivo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672327",
+      "name": "chiesa della Natività di Maria Santissima",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672641",
+      "name": "chiesa della Santa Croce",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672851",
+      "name": "chiesa della Santissima Trinità",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120671969",
+      "name": "chiesa della Santissima Trinità",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55139262",
+      "name": "chiesa della Santissima Trinità",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673451",
+      "name": "chiesa della Santissima Trinità",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673124",
+      "name": "chiesa della Santissima Trinità",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55164586",
+      "name": "chiesa della Santissima Trinità",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672535",
+      "name": "chiesa della santissima Trinità detta della Misericordia",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672628",
+      "name": "chiesa della Visitazione di Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672332",
+      "name": "chiesa di Maria Santissima Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672333",
+      "name": "chiesa di Maria Santissima Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672334",
+      "name": "chiesa di Maria Santissima ed Anna del Suffragio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672538",
+      "name": "chiesa di San Bartolomeo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672537",
+      "name": "chiesa di San Bartolomeo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673457",
+      "name": "chiesa di San Bartolomeo dei Fossi",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672200",
+      "name": "chiesa di San Benedetto",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672540",
+      "name": "chiesa di San Benedetto",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120671974",
+      "name": "chiesa di San Bernardino da Siena",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178439",
+      "name": "chiesa di San Biagio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673125",
+      "name": "chiesa di San Biagio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672541",
+      "name": "chiesa di San Biagio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672542",
+      "name": "chiesa di San Clemente",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672865",
+      "name": "chiesa di San Cristoforo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672207",
+      "name": "chiesa di San Cristoforo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672208",
+      "name": "chiesa di San Cristoforo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673473",
+      "name": "chiesa di San Donato",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q54087537",
+      "name": "chiesa di San Donato",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672213",
+      "name": "chiesa di San Eleuterio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984048",
+      "name": "chiesa di San Faustino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672543",
+      "name": "chiesa di San Filippo Neri",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178307",
+      "name": "chiesa di San Fiorenzio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178494",
+      "name": "chiesa di San Fortunato",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q3585331",
+      "name": "chiesa di San Francesco",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Città di castello, san francesco, interno 01.JPG",
+        "score": 6,
+        "confidence": "low",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "hard_reject_terms": [
+              "interno"
+            ]
+          },
+          {
+            "name_tokens": [
+              "francesco"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q120672342",
+      "name": "chiesa di San Francesco",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672344",
+      "name": "chiesa di San Francesco al Monte",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q3670166",
+      "name": "chiesa di San Francesco di Paola",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q54870647",
+      "name": "chiesa di San Giacomo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792427",
+      "name": "chiesa di San Giacomo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672345",
+      "name": "chiesa di San Giovanni",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673126",
+      "name": "chiesa di San Giovanni",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178368",
+      "name": "chiesa di San Giovanni Battista",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672874",
+      "name": "chiesa di San Giovanni Battista",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673474",
+      "name": "chiesa di San Giovanni Battista",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672545",
+      "name": "chiesa di San Giovanni Battista",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55157199",
+      "name": "chiesa di San Giovanni dell'Acqua",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672347",
+      "name": "chiesa di San Giovanni Evangelista",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672348",
+      "name": "chiesa di San Giovanni Evangelista",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673461",
+      "name": "chiesa di San Giovanni Evangelista",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120671980",
+      "name": "chiesa di San Giovanni in Beviglie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55139258",
+      "name": "chiesa di San Girolamo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55191967",
+      "name": "chiesa di San Girolamo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Rocco Zoppo - Sposalizio della Vergine - Chiesa di San Girolamo - Spello.jpg",
+        "score": -1,
+        "confidence": "low",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "negative_terms": [
+              "fresco",
+              "affresco"
+            ]
+          },
+          {
+            "hard_reject_terms": [
+              "affresco",
+              "fresco"
+            ]
+          },
+          {
+            "name_tokens": [
+              "girolamo"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q55164572",
+      "name": "chiesa di San Girolamo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178433",
+      "name": "chiesa di San Giustino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55170705",
+      "name": "chiesa di San Gregorio di Velmusante",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178379",
+      "name": "chiesa di San Lorenzo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672547",
+      "name": "chiesa di San Lorenzo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672676",
+      "name": "chiesa di San Lorenzo d'Agello",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178436",
+      "name": "chiesa di San Lorenzo e San Stefano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118983979",
+      "name": "chiesa di San Lorenzo Martire",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55157201",
+      "name": "chiesa di San Magno",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178369",
+      "name": "chiesa di San Martino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672223",
+      "name": "chiesa di San Martino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672360",
+      "name": "chiesa di San Martino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672138",
+      "name": "chiesa di San Martino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672362",
+      "name": "chiesa di San Matteo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672363",
+      "name": "chiesa di San Mauro",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q2942583",
+      "name": "chiesa di San Michele Arcangelo",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Bevagna - Chiesa di San Michele 01.jpg",
+        "score": 8,
+        "confidence": "low",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "hard_reject_terms": [
+              "interno"
+            ]
+          },
+          {
+            "name_tokens": [
+              "michele"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q120673350",
+      "name": "chiesa di San Michele Arcangelo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792433",
+      "name": "chiesa di San Michele Arcangelo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178482",
+      "name": "chiesa di San Niccolò",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672373",
+      "name": "chiesa di San Nicolò",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55157220",
+      "name": "chiesa di San Nicolò",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672376",
+      "name": "chiesa di San Pietro",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672677",
+      "name": "chiesa di San Pietro",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792434",
+      "name": "chiesa di San Pietro",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792435",
+      "name": "chiesa di San Pietro",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672887",
+      "name": "chiesa di San Pietro Apostolo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55138056",
+      "name": "chiesa di San Pietro Apostolo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672554",
+      "name": "chiesa di San Rocco",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672555",
+      "name": "chiesa di San Salvatore",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178519",
+      "name": "chiesa di San Sebastiano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q138779650",
+      "name": "chiesa di San Sebastiano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673256",
+      "name": "chiesa di San Sebastiano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672384",
+      "name": "chiesa di San Sebastiano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55164583",
+      "name": "chiesa di San Secondo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178508",
+      "name": "chiesa di San Silvestro",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672385",
+      "name": "chiesa di San Silvestro Papa",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672388",
+      "name": "chiesa di San Venanzo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672559",
+      "name": "chiesa di San Verecondo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120671996",
+      "name": "chiesa di San Vitale",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672560",
+      "name": "chiesa di San Vittorino",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q28229373",
+      "name": "chiesa di Sant'Agostino",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Chiesa Sant Agostino 01.jpg",
+        "score": 10,
+        "confidence": "medium",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "name_tokens": [
+              "agostino",
+              "sant"
+            ]
+          },
+          "license_requires_review"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q55178374",
+      "name": "chiesa di Sant'Andrea",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672915",
+      "name": "chiesa di Sant'Andrea",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792437",
+      "name": "chiesa di Sant'Andrea",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178384",
+      "name": "chiesa di Sant'Andrea Apostolo",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672578",
+      "name": "chiesa di Sant'Angelo dopo Serra",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672419",
+      "name": "chiesa di Sant'Anna",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55157191",
+      "name": "chiesa di Sant'Anna",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55191952",
+      "name": "chiesa di Sant'Anna",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672421",
+      "name": "chiesa di Sant'Antonio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673438",
+      "name": "chiesa di Sant'Antonio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792438",
+      "name": "chiesa di Sant'Antonio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792439",
+      "name": "chiesa di Sant'Antonio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792440",
+      "name": "chiesa di Sant'Antonio Abate",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673035",
+      "name": "chiesa di Sant'Antonio da Padova",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672941",
+      "name": "chiesa di Sant'Antonio della Cervara",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984221",
+      "name": "chiesa di Sant'Antonio di Padova",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672425",
+      "name": "chiesa di Sant'Apollinare",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178460",
+      "name": "chiesa di Sant'Egidio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984111",
+      "name": "chiesa di Sant'Egidio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672426",
+      "name": "chiesa di Sant'Egidio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672428",
+      "name": "chiesa di Sant'Egidio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672920",
+      "name": "chiesa di Sant'Elisabetta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q3585328",
+      "name": "chiesa di Sant'Ercolano",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "IMG 1022 - Perugia - Sant'Ercolano - 7 agosto 2006 - Foto G. Dall'Orto.jpg",
+        "score": 10,
+        "confidence": "medium",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "positive_terms": [
+              "church"
+            ]
+          },
+          {
+            "name_tokens": [
+              "sant",
+              "ercolano"
+            ]
+          },
+          "license_requires_review"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q120673385",
+      "name": "chiesa di Sant'Ermete Martire",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673469",
+      "name": "chiesa di Sant'Ilario e San Nicola",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178503",
+      "name": "chiesa di Sant'Orfeto",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120671997",
+      "name": "chiesa di Santa Chiarella",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672561",
+      "name": "chiesa di Santa Cristina",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672392",
+      "name": "chiesa di Santa Croce",
+      "reason": "no_high_confidence_image",
+      "best_candidate": {
+        "filename": "Foligno - Chiesa di Santa Croce - 040.JPG",
+        "score": 9,
+        "confidence": "low",
+        "reasons": [
+          "wikidata_p18",
+          {
+            "positive_terms": [
+              "chiesa"
+            ]
+          },
+          {
+            "hard_reject_terms": [
+              "interno"
+            ]
+          },
+          {
+            "name_tokens": [
+              "croce"
+            ]
+          },
+          "landscape_or_square"
+        ]
+      }
+    },
+    {
+      "wikidata_id": "Q121792436",
+      "name": "chiesa di Santa Croce",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672393",
+      "name": "chiesa di Santa Croce al Castello",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673466",
+      "name": "chiesa di Santa Giuliana",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672397",
+      "name": "chiesa di Santa Lucia",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672245",
+      "name": "chiesa di Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672288",
+      "name": "chiesa di Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673384",
+      "name": "chiesa di Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673468",
+      "name": "chiesa di Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672563",
+      "name": "chiesa di Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672565",
+      "name": "chiesa di Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673032",
+      "name": "chiesa di Santa Maria",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672896",
+      "name": "chiesa di Santa Maria ad Nives",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178451",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178469",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178506",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672646",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672403",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672400",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672401",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672406",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672407",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673481",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672567",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672570",
+      "name": "chiesa di Santa Maria Assunta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55136066",
+      "name": "chiesa di Santa Maria degli Angeli",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q28157167",
+      "name": "chiesa di Santa Maria degli Aratri",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55164574",
+      "name": "chiesa di Santa Maria dei Bianchi",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55164578",
+      "name": "chiesa di Santa Maria dei Servi",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118983826",
+      "name": "chiesa di Santa Maria del Colle",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984204",
+      "name": "chiesa di Santa Maria del Rivo vecchia",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672574",
+      "name": "chiesa di Santa Maria del Rosario",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672575",
+      "name": "chiesa di Santa Maria del Rosario",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672576",
+      "name": "chiesa di Santa Maria del Suffragio di San Marco",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672904",
+      "name": "chiesa di Santa Maria della Misericordia",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q19572923",
+      "name": "chiesa di Santa Maria della Piaggiola",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55178434",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672289",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672620",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672302",
+      "name": "chiesa di Santa Maria delle Grazie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984011",
+      "name": "chiesa di Santa Maria delle Torri",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q87195982",
+      "name": "chiesa di Santa Maria delle Vittorie",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118983830",
+      "name": "chiesa di Santa Maria di Porta",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672248",
+      "name": "chiesa di Santa Maria e Sant'Egidio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672411",
+      "name": "chiesa di Santa Maria ed Anna",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118984210",
+      "name": "chiesa di Santa Maria in Campitello",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118983833",
+      "name": "chiesa di Santa Maria in Posterola",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672006",
+      "name": "chiesa di Santa Maria Maddalena",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672182",
+      "name": "chiesa di Santa Maria Maddalena",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q55138080",
+      "name": "chiesa di Santa Mariano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672430",
+      "name": "chiesa di Santo Stefano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q121792442",
+      "name": "chiesa di Santo Stefano",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672582",
+      "name": "chiesa vecchia di San Silvestro",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q105319244",
+      "name": "Convento di Monteripido",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q17624799",
+      "name": "ex chiesa della Santissima Trinità in Annunziata",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120672584",
+      "name": "madonna del Trebbio",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q118983837",
+      "name": "Oratorio di San Giovanni Decollato",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q30320415",
+      "name": "oratorio di Santa Maria dei Bianchi",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q138779735",
+      "name": "Santa Maria della Rotonda",
+      "reason": "no_images",
+      "best_candidate": null
+    },
+    {
+      "wikidata_id": "Q120673483",
+      "name": "santuario di Santa Maria dell'Olmo",
+      "reason": "no_images",
+      "best_candidate": null
+    }
+  ]
+}

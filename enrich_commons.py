@@ -1,5 +1,7 @@
 import json
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 
 import requests
@@ -27,8 +29,12 @@ HEADERS = {
     )
 }
 
-# extmetadata is relatively expensive.
-BATCH_SIZE = 10
+# extmetadata is relatively expensive, but Commons easily handles
+# 50 files per request. Keep a small worker pool and a short cooldown
+# to stay polite to the API.
+BATCH_SIZE = 50
+MAX_WORKERS = 4
+BATCH_COOLDOWN_SECONDS = 0.3
 
 
 # --------------------------------------------------
@@ -465,8 +471,6 @@ def enrich_cache(
     if not missing:
         return cache
 
-    session = requests.Session()
-
     batches = list(
         chunks(
             missing,
@@ -474,16 +478,14 @@ def enrich_cache(
         )
     )
 
-    for batch_number, batch in enumerate(
-        batches,
-        start=1,
-    ):
-        print(
-            f"Commons batch "
-            f"{batch_number}/"
-            f"{len(batches)} "
-            f"({len(batch)} files)"
-        )
+    total_batches = len(batches)
+    cache_lock = threading.Lock()
+
+    def process_batch(args):
+        batch_number, batch = args
+
+        session = requests.Session()
+        session.headers.update(HEADERS)
 
         data = fetch_batch(
             session,
@@ -498,36 +500,56 @@ def enrich_cache(
 
         returned = set()
 
-        for page in pages:
+        with cache_lock:
+            for page in pages:
+                filename, metadata = (
+                    parse_page(page)
+                )
 
-            filename, metadata = (
-                parse_page(page)
+                cache[filename] = metadata
+
+                returned.add(
+                    filename_key(filename)
+                )
+
+            # Mark anything not returned so we
+            # don't repeatedly request it.
+            for filename in batch:
+                if (
+                    filename_key(filename)
+                    not in returned
+                ):
+                    cache[filename] = {
+                        "missing": True,
+                    }
+
+            save_json(
+                CACHE_FILE,
+                cache,
             )
 
-            cache[filename] = metadata
+        time.sleep(BATCH_COOLDOWN_SECONDS)
 
-            returned.add(
-                filename_key(filename)
+        return batch_number, len(batch)
+
+    print(
+        f"Fetching {total_batches} Commons batches "
+        f"with {MAX_WORKERS} workers"
+    )
+
+    with ThreadPoolExecutor(
+        max_workers=MAX_WORKERS
+    ) as executor:
+        for batch_number, batch_size in executor.map(
+            process_batch,
+            enumerate(batches, start=1),
+        ):
+            print(
+                f"Commons batch "
+                f"{batch_number}/"
+                f"{total_batches} "
+                f"({batch_size} files)"
             )
-
-        # Mark anything not returned so we
-        # don't repeatedly request it.
-        for filename in batch:
-
-            if (
-                filename_key(filename)
-                not in returned
-            ):
-                cache[filename] = {
-                    "missing": True,
-                }
-
-        save_json(
-            CACHE_FILE,
-            cache,
-        )
-
-        time.sleep(0.5)
 
     return cache
 

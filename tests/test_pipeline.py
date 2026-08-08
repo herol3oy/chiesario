@@ -7,6 +7,9 @@ from unittest.mock import patch
 import build_catalog
 import build_web_data
 import fetch_entities
+import enrich_beweb
+import enrich_commons
+import enrich_osm
 from enrich_osm import build_query as build_osm_query
 from enrich_commons import mark_pending_manual_date_records
 from classify_types import type_review_required
@@ -176,6 +179,71 @@ class OsmQueryTests(unittest.TestCase):
     def test_query_rejects_invalid_qids(self):
         with self.assertRaises(ValueError):
             build_osm_query(["Q1)bad"])
+
+
+class OsmConcurrencyTests(unittest.TestCase):
+    def test_fetch_batch_respects_preferred_endpoint(self):
+        calls = []
+
+        class FakeResponse:
+            status_code = 200
+
+            def json(self):
+                return {"elements": []}
+
+        def fake_request_overpass(session, endpoint, query):
+            calls.append(endpoint)
+            return FakeResponse()
+
+        with patch.object(
+            enrich_osm,
+            "request_overpass",
+            fake_request_overpass,
+        ):
+            enrich_osm.fetch_batch(
+                None,
+                ["Q1"],
+                preferred_endpoint_index=1,
+            )
+
+        self.assertEqual(
+            calls[0],
+            enrich_osm.OVERPASS_ENDPOINTS[1],
+        )
+
+    def test_worker_count_matches_endpoint_count(self):
+        self.assertEqual(
+            enrich_osm.MAX_WORKERS,
+            len(enrich_osm.OVERPASS_ENDPOINTS),
+        )
+
+
+class CommonsBatchTests(unittest.TestCase):
+    def test_batch_size_is_large_enough(self):
+        self.assertGreaterEqual(
+            enrich_commons.BATCH_SIZE,
+            50,
+        )
+
+    def test_worker_count_is_bounded(self):
+        self.assertLessEqual(
+            enrich_commons.MAX_WORKERS,
+            8,
+        )
+
+
+class BeWebConcurrencyTests(unittest.TestCase):
+    def test_worker_count_is_bounded(self):
+        self.assertLessEqual(
+            enrich_beweb.MAX_WORKERS,
+            8,
+        )
+
+    def test_request_delay_is_preserved(self):
+        self.assertGreaterEqual(
+            enrich_beweb.REQUEST_DELAY_SECONDS,
+            1.0,
+        )
 
 
 class DeferredEnrichmentTests(unittest.TestCase):

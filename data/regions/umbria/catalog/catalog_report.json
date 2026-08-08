@@ -1,0 +1,16 @@
+{
+  "total_records": 2958,
+  "status_counts": {
+    "withheld": 2137,
+    "ready": 480,
+    "out_of_scope": 337,
+    "duplicate": 2,
+    "excluded": 2
+  },
+  "ready_records": 480,
+  "ready_with_hero_image": 275,
+  "ready_without_hero_image": 205,
+  "records_with_website": 77,
+  "records_with_hero_image": 291,
+  "records_without_hero_image": 2667
+}
