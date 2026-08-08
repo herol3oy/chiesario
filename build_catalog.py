@@ -6,6 +6,7 @@ from project_config import (
     CATALOG_ALL_FILE,
     CATALOG_READY_FILE,
     CATALOG_REPORT_FILE,
+    ENTITIES_FILE,
     REGION_NAME,
     REVIEWED_FILE,
 )
@@ -343,6 +344,87 @@ def build_website(church):
 
 
 # --------------------------------------------------
+# Wikipedia
+# --------------------------------------------------
+
+
+def build_wikipedia(church, entities):
+    """
+    Build a Wikipedia link from Wikidata sitelinks.
+
+    Preference:
+
+    1. Italian Wikipedia (itwiki)
+    2. English Wikipedia (enwiki)
+
+    Returns None if no suitable sitelink exists.
+    """
+
+    qid = church[
+        "wikidata_id"
+    ]
+
+    entity = entities.get(
+        qid
+    )
+
+    if not entity:
+        return None
+
+    sitelinks = entity.get(
+        "sitelinks",
+        {}
+    )
+
+    preferred = [
+        "itwiki",
+        "enwiki",
+    ]
+
+    for site in preferred:
+        link = sitelinks.get(
+            site
+        )
+
+        if not link:
+            continue
+
+        title = link.get(
+            "title"
+        )
+
+        if not title:
+            continue
+
+        # Convert spaces to underscores and
+        # percent-encode special characters.
+        encoded_title = (
+            title
+            .replace(" ", "_")
+        )
+
+        language = site.replace(
+            "wiki",
+            ""
+        )
+
+        return {
+            "url": (
+                f"https://{language}.wikipedia.org/wiki/"
+                f"{encoded_title}"
+            ),
+
+            "title": title,
+
+            "language": language,
+
+            "source": "wikidata",
+        }
+
+    return None
+
+
+# --------------------------------------------------
 # OSM reference
 # --------------------------------------------------
 
@@ -480,7 +562,7 @@ def determine_status(church):
 # --------------------------------------------------
 
 
-def build_record(church):
+def build_record(church, entities):
     qid = church[
         "wikidata_id"
     ]
@@ -536,6 +618,12 @@ def build_record(church):
         "website":
             build_website(
                 church
+            ),
+
+        "wikipedia":
+            build_wikipedia(
+                church,
+                entities,
             ),
 
         "wikidata": {
@@ -675,9 +763,14 @@ def main():
         INPUT_FILE
     )
 
+    entities = load_json(
+        ENTITIES_FILE
+    )
+
     records = [
         build_record(
-            church
+            church,
+            entities,
         )
         for church in churches
     ]

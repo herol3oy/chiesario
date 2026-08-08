@@ -47,6 +47,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Abbazia_di_San_Bartolomeo_a_Ripoli",
+      "title": "Abbazia di San Bartolomeo a Ripoli",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3603204",
       "url": "https://www.wikidata.org/wiki/Q3603204"
@@ -110,6 +116,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_dei_Santi_Vincenzo_e_Caterina_de'_Ricci",
+      "title": "Basilica dei Santi Vincenzo e Caterina de' Ricci",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3635657",
       "url": "https://www.wikidata.org/wiki/Q3635657"
@@ -174,6 +186,12 @@
     },
     "website": {
       "url": "https://www.storiasantissimaannunziatafirenze.it/",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_della_Santissima_Annunziata",
+      "title": "Basilica della Santissima Annunziata",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -242,6 +260,12 @@
       "url": "http://www.sanlorenzofirenze.it",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_San_Lorenzo_(Firenze)",
+      "title": "Basilica di San Lorenzo (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q573881",
       "url": "https://www.wikidata.org/wiki/Q573881"
@@ -305,6 +329,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_San_Marco_(Firenze)",
+      "title": "Basilica di San Marco (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1152774",
       "url": "https://www.wikidata.org/wiki/Q1152774"
@@ -369,6 +399,12 @@
     },
     "website": {
       "url": "http://www.sanminiatoalmonte.it/",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_San_Miniato_al_Monte",
+      "title": "Basilica di San Miniato al Monte",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -437,6 +473,12 @@
       "url": "https://www.santacroceopera.it",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Croce",
+      "title": "Basilica di Santa Croce",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q51177",
       "url": "https://www.wikidata.org/wiki/Q51177"
@@ -503,6 +545,12 @@
       "url": "https://bigliettimusei.comune.fi.it/4_cappella-brancacci/#info",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_del_Carmine_(Firenze)",
+      "title": "Basilica di Santa Maria del Carmine (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1042634",
       "url": "https://www.wikidata.org/wiki/Q1042634"
@@ -566,6 +614,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_delle_Carceri",
+      "title": "Basilica di Santa Maria delle Carceri",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1714149",
       "url": "https://www.wikidata.org/wiki/Q1714149"
@@ -628,6 +682,12 @@
     },
     "website": {
       "url": "https://www.smn.it",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_Novella",
+      "title": "Basilica di Santa Maria Novella",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -696,6 +756,12 @@
       "url": "http://www.monaci.org/monastero-santa-trinita",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Trinita",
+      "title": "Basilica di Santa Trinita",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1062114",
       "url": "https://www.wikidata.org/wiki/Q1062114"
@@ -760,6 +826,12 @@
     },
     "website": {
       "url": "https://www.basilicasantospirito.it",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Basilica_di_Santo_Spirito",
+      "title": "Basilica di Santo Spirito",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -828,6 +900,12 @@
       "url": "https://operaduomo.siena.it/",
       "source": "openstreetmap"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Battistero_di_San_Giovanni_(Siena)",
+      "title": "Battistero di San Giovanni (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1066935",
       "url": "https://www.wikidata.org/wiki/Q1066935"
@@ -894,6 +972,12 @@
       "url": "https://duomo.firenze.it/it/scopri/battistero-di-san-giovanni",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Battistero_di_San_Giovanni_(Firenze)",
+      "title": "Battistero di San Giovanni (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q732511",
       "url": "https://www.wikidata.org/wiki/Q732511"
@@ -957,6 +1041,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Antinori",
+      "title": "Cappella Antinori",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3657316",
       "url": "https://www.wikidata.org/wiki/Q3657316"
@@ -1016,6 +1106,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Bardi_(Santa_Croce)",
+      "title": "Cappella Bardi (Santa Croce)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q962065",
       "url": "https://www.wikidata.org/wiki/Q962065"
@@ -1074,6 +1170,12 @@
     },
     "website": {
       "url": "http://museicivicifiorentini.comune.fi.it/en/brancacci/",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Brancacci",
+      "title": "Cappella Brancacci",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -1137,6 +1239,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Capponi",
+      "title": "Cappella Capponi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3657333",
       "url": "https://www.wikidata.org/wiki/Q3657333"
@@ -1196,6 +1304,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_dell'Annunciazione",
+      "title": "Cappella dell'Annunciazione",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q16268127",
       "url": "https://www.wikidata.org/wiki/Q16268127"
@@ -1255,6 +1369,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_di_Piazza",
+      "title": "Cappella di Piazza",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q377517",
       "url": "https://www.wikidata.org/wiki/Q377517"
@@ -1318,6 +1438,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_di_San_Michele_Arcangelo_e_della_Visitazione_di_Maria",
+      "title": "Cappella di San Michele Arcangelo e della Visitazione di Maria",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3657606",
       "url": "https://www.wikidata.org/wiki/Q3657606"
@@ -1381,6 +1507,7 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q124005573",
       "url": "https://www.wikidata.org/wiki/Q124005573"
@@ -1431,6 +1558,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_di_Santa_Barbara_a_Porta_Vecchia",
+      "title": "Cappella di Santa Barbara a Porta Vecchia",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3657663",
       "url": "https://www.wikidata.org/wiki/Q3657663"
@@ -1477,6 +1610,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_di_Santa_Maria_Assunta_(Firenze)",
+      "title": "Cappella di Santa Maria Assunta (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3657685",
       "url": "https://www.wikidata.org/wiki/Q3657685"
@@ -1538,6 +1677,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Pazzi",
+      "title": "Cappella Pazzi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q600355",
       "url": "https://www.wikidata.org/wiki/Q600355"
@@ -1601,6 +1746,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Peruzzi",
+      "title": "Cappella Peruzzi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1133664",
       "url": "https://www.wikidata.org/wiki/Q1133664"
@@ -1660,6 +1811,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Sassetti",
+      "title": "Cappella Sassetti",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q526637",
       "url": "https://www.wikidata.org/wiki/Q526637"
@@ -1707,6 +1864,12 @@
     "hero_image": null,
     "website": {
       "url": "https://www.smn.it/it/opere/cappella-tornabuoni-o-cappella-maggiore/",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappella_Tornabuoni",
+      "title": "Cappella Tornabuoni",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -1768,6 +1931,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cappellone_degli_Spagnoli",
+      "title": "Cappellone degli Spagnoli",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q51171",
       "url": "https://www.wikidata.org/wiki/Q51171"
@@ -1828,6 +1997,12 @@
     },
     "website": {
       "url": "https://www.duomofirenze.it/",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cattedrale_di_Santa_Maria_del_Fiore",
+      "title": "Cattedrale di Santa Maria del Fiore",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -1893,6 +2068,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_armena_di_San_Gregorio_Illuminatore",
+      "title": "Chiesa armena di San Gregorio Illuminatore",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3667914",
       "url": "https://www.wikidata.org/wiki/Q3667914"
@@ -1956,6 +2137,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Apostoli_(Firenze)",
+      "title": "Chiesa dei Santi Apostoli (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q2223430",
       "url": "https://www.wikidata.org/wiki/Q2223430"
@@ -2019,6 +2206,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Francesco_e_Chiara",
+      "title": "Chiesa dei Santi Francesco e Chiara",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668157",
       "url": "https://www.wikidata.org/wiki/Q3668157"
@@ -2082,6 +2275,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Michele_e_Gaetano",
+      "title": "Chiesa dei Santi Michele e Gaetano",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q764060",
       "url": "https://www.wikidata.org/wiki/Q764060"
@@ -2148,6 +2347,12 @@
       "url": "http://www.contradadellachiocciola.it/modules/edito/edito.php?idedito=10",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Pietro_e_Paolo_(Siena)",
+      "title": "Chiesa dei Santi Pietro e Paolo (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668382",
       "url": "https://www.wikidata.org/wiki/Q3668382"
@@ -2211,6 +2416,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Simone_e_Giuda_(Firenze)",
+      "title": "Chiesa dei Santi Simone e Giuda (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1285138",
       "url": "https://www.wikidata.org/wiki/Q1285138"
@@ -2274,6 +2485,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_del_Carmine_(Carrara)",
+      "title": "Chiesa del Carmine (Carrara)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668503",
       "url": "https://www.wikidata.org/wiki/Q3668503"
@@ -2336,6 +2553,12 @@
     },
     "website": {
       "url": "https://sansepolcropisa.com",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_del_Santo_Sepolcro_(Pisa)",
+      "title": "Chiesa del Santo Sepolcro (Pisa)",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -2404,6 +2627,12 @@
       "url": "http://www.polomusealetoscana.beniculturali.it/index.php?it/146/istituti-e-luoghi-della-cultura",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_del_Santuccio",
+      "title": "Chiesa del Santuccio",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668695",
       "url": "https://www.wikidata.org/wiki/Q3668695"
@@ -2467,6 +2696,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Compagnia_di_San_Sebastiano",
+      "title": "Chiesa della Compagnia di San Sebastiano",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q16539889",
       "url": "https://www.wikidata.org/wiki/Q16539889"
@@ -2530,6 +2765,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_(Livorno)",
+      "title": "Chiesa della Madonna (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668903",
       "url": "https://www.wikidata.org/wiki/Q3668903"
@@ -2593,6 +2834,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_dei_Galletti",
+      "title": "Chiesa della Madonna dei Galletti",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668916",
       "url": "https://www.wikidata.org/wiki/Q3668916"
@@ -2659,6 +2906,12 @@
       "url": "http://terredelfrigido.comune.massa.ms.it/node/45",
       "source": "openstreetmap"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_della_Misericordia_(Massa)",
+      "title": "Chiesa della Madonna della Misericordia (Massa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668990",
       "url": "https://www.wikidata.org/wiki/Q3668990"
@@ -2722,6 +2975,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_della_Tosse",
+      "title": "Chiesa della Madonna della Tosse",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1121100",
       "url": "https://www.wikidata.org/wiki/Q1121100"
@@ -2785,6 +3044,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Maria_Santissima_del_Rosario",
+      "title": "Chiesa della Maria Santissima del Rosario",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669071",
       "url": "https://www.wikidata.org/wiki/Q3669071"
@@ -2845,6 +3110,12 @@
     },
     "website": {
       "url": "https://www.santamariadellascala.com/it/",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Santissima_Annunziata_(Siena)",
+      "title": "Chiesa della Santissima Annunziata (Siena)",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -2910,6 +3181,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_della_Santissima_Annunziata_(Livorno)",
+      "title": "Chiesa della Santissima Annunziata (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669167",
       "url": "https://www.wikidata.org/wiki/Q3669167"
@@ -2973,6 +3250,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_delle_Carceri_di_Sant'Ansano",
+      "title": "Chiesa delle Carceri di Sant'Ansano",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669259",
       "url": "https://www.wikidata.org/wiki/Q3669259"
@@ -3032,6 +3315,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_delle_Suore_Montalve",
+      "title": "Chiesa delle Suore Montalve",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669276",
       "url": "https://www.wikidata.org/wiki/Q3669276"
@@ -3096,6 +3385,12 @@
     },
     "website": {
       "url": "http://www.diocesiprato.it/pagina_template.asp?id=35&page_id=224&page_id2=240&page_id3=372",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_dello_Spirito_Santo_(Prato)",
+      "title": "Chiesa dello Spirito Santo (Prato)",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -3164,6 +3459,12 @@
       "url": "https://www.chiesaognissanti.it/",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Ognissanti_(Firenze)",
+      "title": "Chiesa di Ognissanti (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q2778991",
       "url": "https://www.wikidata.org/wiki/Q2778991"
@@ -3230,6 +3531,12 @@
       "url": "https://bargellomusei.it/en/museum/orsanmichele/",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Orsanmichele",
+      "title": "Chiesa di Orsanmichele",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q860816",
       "url": "https://www.wikidata.org/wiki/Q860816"
@@ -3293,6 +3600,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze)",
+      "title": "Chiesa di San Barnaba (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1117930",
       "url": "https://www.wikidata.org/wiki/Q1117930"
@@ -3343,6 +3656,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Bartolomeo_(Firenze)",
+      "title": "Chiesa di San Bartolomeo (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669504",
       "url": "https://www.wikidata.org/wiki/Q3669504"
@@ -3402,6 +3721,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Bartolomeo_(Prato)",
+      "title": "Chiesa di San Bartolomeo (Prato)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669519",
       "url": "https://www.wikidata.org/wiki/Q3669519"
@@ -3465,6 +3790,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Bartolomeo_a_Monte_Oliveto",
+      "title": "Chiesa di San Bartolomeo a Monte Oliveto",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669552",
       "url": "https://www.wikidata.org/wiki/Q3669552"
@@ -3528,6 +3859,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Benedetto_(Firenze)",
+      "title": "Chiesa di San Benedetto (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669596",
       "url": "https://www.wikidata.org/wiki/Q3669596"
@@ -3591,6 +3928,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Cristoforo_(Siena)",
+      "title": "Chiesa di San Cristoforo (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669825",
       "url": "https://www.wikidata.org/wiki/Q3669825"
@@ -3654,6 +3997,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Domenico_(Pisa)",
+      "title": "Chiesa di San Domenico (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1121868",
       "url": "https://www.wikidata.org/wiki/Q1121868"
@@ -3717,6 +4066,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Donato_(Siena)",
+      "title": "Chiesa di San Donato (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669925",
       "url": "https://www.wikidata.org/wiki/Q3669925"
@@ -3767,6 +4122,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Donato_dei_Vecchietti",
+      "title": "Chiesa di San Donato dei Vecchietti",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669937",
       "url": "https://www.wikidata.org/wiki/Q3669937"
@@ -3827,6 +4188,12 @@
     },
     "website": {
       "url": "https://www.sandonatoinpolverosa.it",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Donato_in_Polverosa",
+      "title": "Chiesa di San Donato in Polverosa",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -3892,6 +4259,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Fabiano_(Prato)",
+      "title": "Chiesa di San Fabiano (Prato)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669946",
       "url": "https://www.wikidata.org/wiki/Q3669946"
@@ -3955,6 +4328,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_a_Ema",
+      "title": "Chiesa di San Felice a Ema",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669959",
       "url": "https://www.wikidata.org/wiki/Q3669959"
@@ -4018,6 +4397,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza",
+      "title": "Chiesa di San Felice in Piazza",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3585333",
       "url": "https://www.wikidata.org/wiki/Q3585333"
@@ -4081,6 +4466,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Ferdinando_(Livorno)",
+      "title": "Chiesa di San Ferdinando (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3669962",
       "url": "https://www.wikidata.org/wiki/Q3669962"
@@ -4144,6 +4535,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Carrara)",
+      "title": "Chiesa di San Francesco (Carrara)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670031",
       "url": "https://www.wikidata.org/wiki/Q3670031"
@@ -4207,6 +4604,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Lucca)",
+      "title": "Chiesa di San Francesco (Lucca)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q93679",
       "url": "https://www.wikidata.org/wiki/Q93679"
@@ -4272,6 +4675,12 @@
     "website": {
       "url": "https://sanfrancescopisa.it/",
       "source": "openstreetmap"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Pisa)",
+      "title": "Chiesa di San Francesco (Pisa)",
+      "language": "it",
+      "source": "wikidata"
     },
     "wikidata": {
       "id": "Q3670083",
@@ -4339,6 +4748,12 @@
       "url": "http://www.sanfrancescoprato.it/",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Prato)",
+      "title": "Chiesa di San Francesco (Prato)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670086",
       "url": "https://www.wikidata.org/wiki/Q3670086"
@@ -4402,6 +4817,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Paola_(Firenze)",
+      "title": "Chiesa di San Francesco di Paola (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670163",
       "url": "https://www.wikidata.org/wiki/Q3670163"
@@ -4465,6 +4886,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Frediano_in_Cestello",
+      "title": "Chiesa di San Frediano in Cestello",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1071192",
       "url": "https://www.wikidata.org/wiki/Q1071192"
@@ -4531,6 +4958,12 @@
       "url": "http://www.nobilecontradadelnicchio.it/Rione.aspx",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Gaetano_di_Thiene_(Siena)",
+      "title": "Chiesa di San Gaetano di Thiene (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3581520",
       "url": "https://www.wikidata.org/wiki/Q3581520"
@@ -4594,6 +5027,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Gallo_(Firenze)",
+      "title": "Chiesa di San Gallo (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670196",
       "url": "https://www.wikidata.org/wiki/Q3670196"
@@ -4653,6 +5092,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_(Siena)",
+      "title": "Chiesa di San Giorgio (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1102245",
       "url": "https://www.wikidata.org/wiki/Q1102245"
@@ -4716,6 +5161,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_ai_Tedeschi",
+      "title": "Chiesa di San Giorgio ai Tedeschi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q783096",
       "url": "https://www.wikidata.org/wiki/Q783096"
@@ -4779,6 +5230,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_alla_Costa",
+      "title": "Chiesa di San Giorgio alla Costa",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3585340",
       "url": "https://www.wikidata.org/wiki/Q3585340"
@@ -4845,6 +5302,12 @@
       "url": "http://www.contradadellaquila.com/la-contrada/la-sede-e-il-museo.html",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_(Siena)",
+      "title": "Chiesa di San Giovanni Battista (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670458",
       "url": "https://www.wikidata.org/wiki/Q3670458"
@@ -4908,6 +5371,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_(Livorno)",
+      "title": "Chiesa di San Giovanni Battista (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1109516",
       "url": "https://www.wikidata.org/wiki/Q1109516"
@@ -4971,6 +5440,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_della_Calza",
+      "title": "Chiesa di San Giovanni Battista della Calza",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3001779",
       "url": "https://www.wikidata.org/wiki/Q3001779"
@@ -5034,6 +5509,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Decollato_(Massa)",
+      "title": "Chiesa di San Giovanni Decollato (Massa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670507",
       "url": "https://www.wikidata.org/wiki/Q3670507"
@@ -5097,6 +5578,7 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q111191245",
       "url": "https://www.wikidata.org/wiki/Q111191245"
@@ -5156,6 +5638,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_dei_Fieri",
+      "title": "Chiesa di San Giovanni dei Fieri",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670542",
       "url": "https://www.wikidata.org/wiki/Q3670542"
@@ -5219,6 +5707,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Gualberto_(Livorno)",
+      "title": "Chiesa di San Giovanni Gualberto (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670530",
       "url": "https://www.wikidata.org/wiki/Q3670530"
@@ -5282,6 +5776,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi",
+      "title": "Chiesa di San Giovannino degli Scolopi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670564",
       "url": "https://www.wikidata.org/wiki/Q3670564"
@@ -5345,6 +5845,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_dei_Cavalieri",
+      "title": "Chiesa di San Giovannino dei Cavalieri",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670567",
       "url": "https://www.wikidata.org/wiki/Q3670567"
@@ -5411,6 +5917,12 @@
       "url": "http://lnx.contradaleocorno.it/?page_id=41",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_della_Staffa",
+      "title": "Chiesa di San Giovannino della Staffa",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670565",
       "url": "https://www.wikidata.org/wiki/Q3670565"
@@ -5474,6 +5986,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giuseppe_(Firenze)",
+      "title": "Chiesa di San Giuseppe (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670618",
       "url": "https://www.wikidata.org/wiki/Q3670618"
@@ -5540,6 +6058,12 @@
       "url": "http://www.contradacapitanadellonda.com/la-chiesa",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giuseppe_(Siena)",
+      "title": "Chiesa di San Giuseppe (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670652",
       "url": "https://www.wikidata.org/wiki/Q3670652"
@@ -5603,6 +6127,12 @@
       "source": "manual"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Gorgonio",
+      "title": "Chiesa di San Gorgonio",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670697",
       "url": "https://www.wikidata.org/wiki/Q3670697"
@@ -5666,6 +6196,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_in_Acquaviva",
+      "title": "Chiesa di San Jacopo in Acquaviva",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670747",
       "url": "https://www.wikidata.org/wiki/Q3670747"
@@ -5729,6 +6265,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_in_Campo_Corbolini",
+      "title": "Chiesa di San Jacopo in Campo Corbolini",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670749",
       "url": "https://www.wikidata.org/wiki/Q3670749"
@@ -5792,6 +6334,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_Soprarno",
+      "title": "Chiesa di San Jacopo Soprarno",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670741",
       "url": "https://www.wikidata.org/wiki/Q3670741"
@@ -5855,6 +6403,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_(Siena)",
+      "title": "Chiesa di San Leonardo (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q16540253",
       "url": "https://www.wikidata.org/wiki/Q16540253"
@@ -5914,6 +6468,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_in_Arcetri",
+      "title": "Chiesa di San Leonardo in Arcetri",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670791",
       "url": "https://www.wikidata.org/wiki/Q3670791"
@@ -5977,6 +6537,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Lorenzo_a_Serpiolle",
+      "title": "Chiesa di San Lorenzo a Serpiolle",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670924",
       "url": "https://www.wikidata.org/wiki/Q3670924"
@@ -6040,6 +6606,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Mamante_(Empoli_Vecchio)",
+      "title": "Chiesa di San Mamante (Empoli Vecchio)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670973",
       "url": "https://www.wikidata.org/wiki/Q3670973"
@@ -6103,6 +6675,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Marcellino_(Firenze)",
+      "title": "Chiesa di San Marcellino (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3670984",
       "url": "https://www.wikidata.org/wiki/Q3670984"
@@ -6166,6 +6744,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Marco_Vecchio",
+      "title": "Chiesa di San Marco Vecchio",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671004",
       "url": "https://www.wikidata.org/wiki/Q3671004"
@@ -6229,6 +6813,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_(Livorno)",
+      "title": "Chiesa di San Martino (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671047",
       "url": "https://www.wikidata.org/wiki/Q3671047"
@@ -6292,6 +6882,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_(Pisa)",
+      "title": "Chiesa di San Martino (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671060",
       "url": "https://www.wikidata.org/wiki/Q3671060"
@@ -6358,6 +6954,12 @@
       "url": "http://www.sanmartinoamensola.it/",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_a_Mensola",
+      "title": "Chiesa di San Martino a Mensola",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671101",
       "url": "https://www.wikidata.org/wiki/Q3671101"
@@ -6421,6 +7023,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_a_Montughi",
+      "title": "Chiesa di San Martino a Montughi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671105",
       "url": "https://www.wikidata.org/wiki/Q3671105"
@@ -6484,6 +7092,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Complesso_di_San_Martino_alla_Scala",
+      "title": "Complesso di San Martino alla Scala",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671141",
       "url": "https://www.wikidata.org/wiki/Q3671141"
@@ -6543,6 +7157,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_a_Castello",
+      "title": "Chiesa di San Michele a Castello",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671341",
       "url": "https://www.wikidata.org/wiki/Q3671341"
@@ -6609,6 +7229,12 @@
       "url": "http://www.mac.cat/cat/Seus/Barcelona",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Salvi",
+      "title": "Chiesa di San Salvi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q692591",
       "url": "https://www.wikidata.org/wiki/Q692591"
@@ -6672,6 +7298,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_Arcangelo_(Pontorme)",
+      "title": "Chiesa di San Michele Arcangelo (Pontorme)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671305",
       "url": "https://www.wikidata.org/wiki/Q3671305"
@@ -6735,6 +7367,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_a_Monteripaldi",
+      "title": "Chiesa di San Michele a Monteripaldi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q55156351",
       "url": "https://www.wikidata.org/wiki/Q55156351"
@@ -6795,6 +7433,12 @@
     },
     "website": {
       "url": "https://www.sanmicheleinborgo.info/",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_in_Borgo",
+      "title": "Chiesa di San Michele in Borgo",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -6860,6 +7504,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_Visdomini",
+      "title": "Chiesa di San Michele Visdomini",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671342",
       "url": "https://www.wikidata.org/wiki/Q3671342"
@@ -6923,6 +7573,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Niccolò_Oltrarno",
+      "title": "Chiesa di San Niccolò Oltrarno",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671413",
       "url": "https://www.wikidata.org/wiki/Q3671413"
@@ -6986,6 +7642,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Paolino_(Firenze)",
+      "title": "Chiesa di San Paolino (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671531",
       "url": "https://www.wikidata.org/wiki/Q3671531"
@@ -7049,6 +7711,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Paolo_a_Ripa_d'Arno",
+      "title": "Chiesa di San Paolo a Ripa d'Arno",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1423910",
       "url": "https://www.wikidata.org/wiki/Q1423910"
@@ -7112,6 +7780,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Paolo_all'Orto",
+      "title": "Chiesa di San Paolo all'Orto",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3506968",
       "url": "https://www.wikidata.org/wiki/Q3506968"
@@ -7175,6 +7849,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino",
+      "title": "Chiesa di San Pier Gattolino",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671588",
       "url": "https://www.wikidata.org/wiki/Q3671588"
@@ -7238,6 +7918,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Scheraggio",
+      "title": "Chiesa di San Pier Scheraggio",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671596",
       "url": "https://www.wikidata.org/wiki/Q3671596"
@@ -7297,6 +7983,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_a_Sollicciano",
+      "title": "Chiesa di San Pietro a Sollicciano",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671748",
       "url": "https://www.wikidata.org/wiki/Q3671748"
@@ -7360,6 +8052,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_a_Varlungo",
+      "title": "Chiesa di San Pietro a Varlungo",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671752",
       "url": "https://www.wikidata.org/wiki/Q3671752"
@@ -7423,6 +8121,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_in_Vinculis_(Pisa)",
+      "title": "Chiesa di San Pietro in Vinculis (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3504517",
       "url": "https://www.wikidata.org/wiki/Q3504517"
@@ -7488,6 +8192,12 @@
     "website": {
       "url": "https://www.conoscifirenze.it/luoghi-di-culto-a-firenze/684-Chiesa-di-San-Procolo.html",
       "source": "openstreetmap"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Procolo_(Firenze)",
+      "title": "Chiesa di San Procolo (Firenze)",
+      "language": "it",
+      "source": "wikidata"
     },
     "wikidata": {
       "id": "Q3671828",
@@ -7555,6 +8265,12 @@
       "url": "http://www.fondazioneconservatoririunitisiena.it/it/",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Raimondo_al_Refugio",
+      "title": "Chiesa di San Raimondo al Refugio",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671846",
       "url": "https://www.wikidata.org/wiki/Q3671846"
@@ -7616,6 +8332,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze)",
+      "title": "Chiesa di San Remigio (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671856",
       "url": "https://www.wikidata.org/wiki/Q3671856"
@@ -7679,6 +8401,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Rocco_(Pisa)",
+      "title": "Chiesa di San Rocco (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1102884",
       "url": "https://www.wikidata.org/wiki/Q1102884"
@@ -7742,6 +8470,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte",
+      "title": "Chiesa di San Salvatore al Monte",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q2220029",
       "url": "https://www.wikidata.org/wiki/Q2220029"
@@ -7805,6 +8539,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Vescovo",
+      "title": "Chiesa di San Salvatore al Vescovo",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3671987",
       "url": "https://www.wikidata.org/wiki/Q3671987"
@@ -7871,6 +8611,12 @@
       "url": "http://www.icrss.it/livorno/",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Sebastiano_(Livorno)",
+      "title": "Chiesa di San Sebastiano (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672017",
       "url": "https://www.wikidata.org/wiki/Q3672017"
@@ -7934,6 +8680,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Sebastiano_in_Vallepiatta",
+      "title": "Chiesa di San Sebastiano in Vallepiatta",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672030",
       "url": "https://www.wikidata.org/wiki/Q3672030"
@@ -7997,6 +8749,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Silvestro_(Pisa)",
+      "title": "Chiesa di San Silvestro (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3504833",
       "url": "https://www.wikidata.org/wiki/Q3504833"
@@ -8060,6 +8818,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Sisto_(Pisa)",
+      "title": "Chiesa di San Sisto (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3505132",
       "url": "https://www.wikidata.org/wiki/Q3505132"
@@ -8126,6 +8890,12 @@
       "url": "https://www.viaesiena.it/it/mendicanti/itinerario_o/chiesa-sant-agostino",
       "source": "openstreetmap"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Agostino_(Siena)",
+      "title": "Chiesa di Sant'Agostino (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1102250",
       "url": "https://www.wikidata.org/wiki/Q1102250"
@@ -8189,6 +8959,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze)",
+      "title": "Chiesa di Sant'Ambrogio (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672358",
       "url": "https://www.wikidata.org/wiki/Q3672358"
@@ -8239,6 +9015,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Antonio_Abate_(Alberese)",
+      "title": "Chiesa di Sant'Antonio Abate (Alberese)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672660",
       "url": "https://www.wikidata.org/wiki/Q3672660"
@@ -8302,6 +9084,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Antonio_Abate_(Pisa)",
+      "title": "Chiesa di Sant'Antonio Abate (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672682",
       "url": "https://www.wikidata.org/wiki/Q3672682"
@@ -8365,6 +9153,12 @@
       "source": "manual"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Antonio_Abate_e_Sant'Anna",
+      "title": "Chiesa di Sant'Antonio Abate e Sant'Anna",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q19843876",
       "url": "https://www.wikidata.org/wiki/Q19843876"
@@ -8424,6 +9218,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Apollinare_(Pisa)",
+      "title": "Chiesa di Sant'Apollinare (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672727",
       "url": "https://www.wikidata.org/wiki/Q3672727"
@@ -8474,6 +9274,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Onofrio_(Firenze)",
+      "title": "Chiesa di Sant'Onofrio (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672859",
       "url": "https://www.wikidata.org/wiki/Q3672859"
@@ -8533,6 +9339,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Apollonia_(Pisa)",
+      "title": "Chiesa di Santa Apollonia (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q281259",
       "url": "https://www.wikidata.org/wiki/Q281259"
@@ -8583,6 +9395,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Brigida_al_Paradiso",
+      "title": "Chiesa di Santa Brigida al Paradiso",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672897",
       "url": "https://www.wikidata.org/wiki/Q3672897"
@@ -8649,6 +9467,12 @@
       "url": "http://www.chiesadisantacaterina.it/",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Caterina_(Livorno)",
+      "title": "Chiesa di Santa Caterina (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672904",
       "url": "https://www.wikidata.org/wiki/Q3672904"
@@ -8712,6 +9536,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Caterina_d'Alessandria_(Pisa)",
+      "title": "Chiesa di Santa Caterina d'Alessandria (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3505115",
       "url": "https://www.wikidata.org/wiki/Q3505115"
@@ -8762,6 +9592,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Cecilia_(Firenze)",
+      "title": "Chiesa di Santa Cecilia (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672942",
       "url": "https://www.wikidata.org/wiki/Q3672942"
@@ -8821,6 +9657,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Chiara_(Pisa)",
+      "title": "Chiesa di Santa Chiara (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672967",
       "url": "https://www.wikidata.org/wiki/Q3672967"
@@ -8884,6 +9726,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Cristina_(Pisa)",
+      "title": "Chiesa di Santa Cristina (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q585547",
       "url": "https://www.wikidata.org/wiki/Q585547"
@@ -8947,6 +9795,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Eufrasia",
+      "title": "Chiesa di Santa Eufrasia",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673046",
       "url": "https://www.wikidata.org/wiki/Q3673046"
@@ -9013,6 +9867,12 @@
       "url": "http://www.santafelicitafirenze.it",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Felicita_(Firenze)",
+      "title": "Chiesa di Santa Felicita (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1069665",
       "url": "https://www.wikidata.org/wiki/Q1069665"
@@ -9076,6 +9936,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Giulia_(Livorno)",
+      "title": "Chiesa di Santa Giulia (Livorno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673065",
       "url": "https://www.wikidata.org/wiki/Q3673065"
@@ -9137,6 +10003,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_dei_Magnoli",
+      "title": "Chiesa di Santa Lucia dei Magnoli",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673138",
       "url": "https://www.wikidata.org/wiki/Q3673138"
@@ -9200,6 +10072,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci",
+      "title": "Chiesa di Santa Margherita in Santa Maria de' Ricci",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673187",
       "url": "https://www.wikidata.org/wiki/Q3673187"
@@ -9263,6 +10141,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_a_Novoli",
+      "title": "Chiesa di Santa Maria a Novoli",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673580",
       "url": "https://www.wikidata.org/wiki/Q3673580"
@@ -9326,6 +10210,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_a_Quarto_(Firenze)",
+      "title": "Chiesa di Santa Maria a Quarto (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673595",
       "url": "https://www.wikidata.org/wiki/Q3673595"
@@ -9389,6 +10279,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_al_Pignone",
+      "title": "Chiesa di Santa Maria al Pignone",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673629",
       "url": "https://www.wikidata.org/wiki/Q3673629"
@@ -9452,6 +10348,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_degli_Angiolini",
+      "title": "Chiesa di Santa Maria degli Angiolini",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673664",
       "url": "https://www.wikidata.org/wiki/Q3673664"
@@ -9515,6 +10417,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_dei_Bardi",
+      "title": "Chiesa di Santa Maria dei Bardi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673667",
       "url": "https://www.wikidata.org/wiki/Q3673667"
@@ -9574,6 +10482,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Carmine_(Pisa)",
+      "title": "Chiesa di Santa Maria del Carmine (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673712",
       "url": "https://www.wikidata.org/wiki/Q3673712"
@@ -9637,6 +10551,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Fiore_a_Lapo",
+      "title": "Chiesa di Santa Maria del Fiore a Lapo",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673734",
       "url": "https://www.wikidata.org/wiki/Q3673734"
@@ -9700,6 +10620,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Santo_Sepolcro",
+      "title": "Chiesa di Santa Maria del Santo Sepolcro",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673774",
       "url": "https://www.wikidata.org/wiki/Q3673774"
@@ -9759,6 +10685,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesetta_al_Tempio",
+      "title": "Chiesetta al Tempio",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673838",
       "url": "https://www.wikidata.org/wiki/Q3673838"
@@ -9805,6 +10737,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Pace_(Firenze)",
+      "title": "Chiesa di Santa Maria della Pace (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673876",
       "url": "https://www.wikidata.org/wiki/Q3673876"
@@ -9864,6 +10802,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Spina",
+      "title": "Chiesa di Santa Maria della Spina",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1426967",
       "url": "https://www.wikidata.org/wiki/Q1426967"
@@ -9928,6 +10872,12 @@
     },
     "website": {
       "url": "http://www.polomusealetoscana.beniculturali.it/index.php?it/146/istituti-e-luoghi-della-cultura",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_delle_Nevi",
+      "title": "Chiesa di Santa Maria delle Nevi",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -9996,6 +10946,12 @@
       "url": "http://www.collegiataprovenzano.siena.it",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_di_Provenzano",
+      "title": "Chiesa di Santa Maria di Provenzano",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674085",
       "url": "https://www.wikidata.org/wiki/Q3674085"
@@ -10059,6 +11015,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_e_Santa_Brigida_al_Paradiso",
+      "title": "Chiesa di Santa Maria e Santa Brigida al Paradiso",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674092",
       "url": "https://www.wikidata.org/wiki/Q3674092"
@@ -10125,6 +11087,12 @@
       "url": "https://www.fontegiusta.it",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Portico_a_Fontegiusta",
+      "title": "Chiesa di Santa Maria in Portico a Fontegiusta",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674136",
       "url": "https://www.wikidata.org/wiki/Q3674136"
@@ -10188,6 +11156,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi",
+      "title": "Chiesa di Santa Maria Maddalena dei Pazzi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1784984",
       "url": "https://www.wikidata.org/wiki/Q1784984"
@@ -10251,6 +11225,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Marta_(Pisa)",
+      "title": "Chiesa di Santa Marta (Pisa)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674172",
       "url": "https://www.wikidata.org/wiki/Q3674172"
@@ -10314,6 +11294,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Petronilla_(Siena)",
+      "title": "Chiesa di Santa Petronilla (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674189",
       "url": "https://www.wikidata.org/wiki/Q3674189"
@@ -10377,6 +11363,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Reparata",
+      "title": "Chiesa di Santa Reparata",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q684119",
       "url": "https://www.wikidata.org/wiki/Q684119"
@@ -10440,6 +11432,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Spirito_(Siena)",
+      "title": "Chiesa di Santo Spirito (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1049041",
       "url": "https://www.wikidata.org/wiki/Q1049041"
@@ -10503,6 +11501,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_alla_Lizza",
+      "title": "Chiesa di Santo Stefano alla Lizza",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674335",
       "url": "https://www.wikidata.org/wiki/Q3674335"
@@ -10566,6 +11570,12 @@
       "source": "manual"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_dei_Cavalieri",
+      "title": "Chiesa di Santo Stefano dei Cavalieri",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674338",
       "url": "https://www.wikidata.org/wiki/Q3674338"
@@ -10629,6 +11639,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_extra_moenia",
+      "title": "Chiesa di Santo Stefano extra moenia",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674348",
       "url": "https://www.wikidata.org/wiki/Q3674348"
@@ -10692,6 +11708,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_di_Santa_Maria_Maddalena_(Siena)",
+      "title": "Chiesa e convento di Santa Maria Maddalena (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674373",
       "url": "https://www.wikidata.org/wiki/Q3674373"
@@ -10755,6 +11777,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_delle_Sperandie",
+      "title": "Chiesa e convento delle Sperandie",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674372",
       "url": "https://www.wikidata.org/wiki/Q3674372"
@@ -10814,6 +11842,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_di_San_Girolamo_in_Campansi",
+      "title": "Chiesa e convento di San Girolamo in Campansi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674383",
       "url": "https://www.wikidata.org/wiki/Q3674383"
@@ -10873,6 +11907,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_di_Santa_Croce_in_Fossabanda",
+      "title": "Chiesa e convento di Santa Croce in Fossabanda",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674395",
       "url": "https://www.wikidata.org/wiki/Q3674395"
@@ -10932,6 +11972,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_di_Santa_Marta",
+      "title": "Chiesa e convento di Santa Marta",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3674397",
       "url": "https://www.wikidata.org/wiki/Q3674397"
@@ -10995,6 +12041,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Convento_e_chiesa_di_Santa_Maria_a_Ripa_(Empoli)",
+      "title": "Convento e chiesa di Santa Maria a Ripa (Empoli)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3689641",
       "url": "https://www.wikidata.org/wiki/Q3689641"
@@ -11055,6 +12107,12 @@
     },
     "website": {
       "url": "http://www.comune.empoli.fi.it/empoli/chi_ste.html",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Convento_e_chiesa_di_Santo_Stefano_degli_Agostiniani",
+      "title": "Convento e chiesa di Santo Stefano degli Agostiniani",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -11123,6 +12181,12 @@
       "url": "http://www.diocesiprato.it",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Duomo_di_Prato",
+      "title": "Duomo di Prato",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1236622",
       "url": "https://www.wikidata.org/wiki/Q1236622"
@@ -11186,6 +12250,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo",
+      "title": "Ex chiesa dei Santi Jacopo e Lorenzo",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3735826",
       "url": "https://www.wikidata.org/wiki/Q3735826"
@@ -11249,6 +12319,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Monastero_di_San_Clemente_(Firenze)",
+      "title": "Monastero di San Clemente (Firenze)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3860475",
       "url": "https://www.wikidata.org/wiki/Q3860475"
@@ -11312,6 +12388,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Oratorio_dei_Buonomini_di_San_Martino",
+      "title": "Oratorio dei Buonomini di San Martino",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3884413",
       "url": "https://www.wikidata.org/wiki/Q3884413"
@@ -11375,6 +12457,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni",
+      "title": "Oratorio dei Vanchetoni",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3884450",
       "url": "https://www.wikidata.org/wiki/Q3884450"
@@ -11425,6 +12513,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Oratorio_di_San_Ranieri",
+      "title": "Oratorio di San Ranieri",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q112798284",
       "url": "https://www.wikidata.org/wiki/Q112798284"
@@ -11488,6 +12582,12 @@
       "source": "manual"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Oratorio_di_San_Rocco_(Siena)",
+      "title": "Oratorio di San Rocco (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q2028376",
       "url": "https://www.wikidata.org/wiki/Q2028376"
@@ -11551,6 +12651,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Oratorio_di_San_Tommaso_d'Aquino",
+      "title": "Oratorio di San Tommaso d'Aquino",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3884771",
       "url": "https://www.wikidata.org/wiki/Q3884771"
@@ -11615,6 +12721,12 @@
     },
     "website": {
       "url": "http://www.tartuca.it/joomla/sistema-museale-a-oratorio/oratorio",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Oratorio_di_Sant'Antonio_da_Padova_(Siena)",
+      "title": "Oratorio di Sant'Antonio da Padova (Siena)",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -11683,6 +12795,12 @@
       "url": "http://www.contradadelloca.it/pages/6/s/oratorio_di_santa_caterina_in_fontebranda",
       "source": "wikidata"
     },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Oratorio_di_Santa_Caterina_in_Fontebranda",
+      "title": "Oratorio di Santa Caterina in Fontebranda",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3884826",
       "url": "https://www.wikidata.org/wiki/Q3884826"
@@ -11725,6 +12843,7 @@
     "coordinates": null,
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q110944216",
       "url": "https://www.wikidata.org/wiki/Q110944216"
@@ -11784,6 +12903,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Rotonda_del_Brunelleschi",
+      "title": "Rotonda del Brunelleschi",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q19947673",
       "url": "https://www.wikidata.org/wiki/Q19947673"
@@ -11834,6 +12959,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Sagrestia_Vecchia",
+      "title": "Sagrestia Vecchia",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q578805",
       "url": "https://www.wikidata.org/wiki/Q578805"
@@ -11897,6 +13028,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Santuario_della_Madonna_del_Giglio",
+      "title": "Santuario della Madonna del Giglio",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q1248706",
       "url": "https://www.wikidata.org/wiki/Q1248706"
@@ -11960,6 +13097,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Santuario_di_Santa_Caterina_(Siena)",
+      "title": "Santuario di Santa Caterina (Siena)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q185303",
       "url": "https://www.wikidata.org/wiki/Q185303"
@@ -12023,6 +13166,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Tempietto_del_Santo_Sepolcro",
+      "title": "Tempietto del Santo Sepolcro",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3983163",
       "url": "https://www.wikidata.org/wiki/Q3983163"

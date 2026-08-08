@@ -369,6 +369,7 @@ function showDetails(feature: ChurchFeature, moveMap = false): void {
   const sourceLinks = document.createElement("div");
   sourceLinks.className = "source-links";
   const links = [
+    createLink("Wikipedia", properties.wikipedia_url),
     createLink("Wikidata", properties.wikidata_url),
     createLink("OpenStreetMap", properties.osm_url),
     createLink("Sito ufficiale", properties.website),

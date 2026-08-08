@@ -49,6 +49,7 @@ function church(
       hero_license_url: null,
       website: null,
       wikidata_url: `https://www.wikidata.org/wiki/${id}`,
+      wikipedia_url: null,
       osm_url: null,
     },
   };

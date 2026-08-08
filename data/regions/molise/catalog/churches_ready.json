@@ -87,6 +87,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cattedrale_della_Santissima_Trinità_(Campobasso)",
+      "title": "Cattedrale della Santissima Trinità (Campobasso)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q2942612",
       "url": "https://www.wikidata.org/wiki/Q2942612"
@@ -179,6 +185,12 @@
     "website": {
       "url": "https://www.cattedraleisernia.org/",
       "source": "openstreetmap"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cattedrale_di_San_Pietro_Apostolo_(Isernia)",
+      "title": "Cattedrale di San Pietro Apostolo (Isernia)",
+      "language": "it",
+      "source": "wikidata"
     },
     "wikidata": {
       "id": "Q2942559",
@@ -322,6 +334,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Cattedrale_di_Santa_Maria_della_Purificazione",
+      "title": "Cattedrale di Santa Maria della Purificazione",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q2942828",
       "url": "https://www.wikidata.org/wiki/Q2942828"
@@ -399,6 +417,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118353083",
       "url": "https://www.wikidata.org/wiki/Q118353083"
@@ -449,6 +468,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_del_Sacro_Cuore_di_Gesù_(Campobasso)",
+      "title": "Chiesa del Sacro Cuore di Gesù (Campobasso)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3668604",
       "url": "https://www.wikidata.org/wiki/Q3668604"
@@ -526,6 +551,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118362755",
       "url": "https://www.wikidata.org/wiki/Q118362755"
@@ -590,6 +616,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352790",
       "url": "https://www.wikidata.org/wiki/Q118352790"
@@ -663,6 +690,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352993",
       "url": "https://www.wikidata.org/wiki/Q118352993"
@@ -749,6 +777,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352824",
       "url": "https://www.wikidata.org/wiki/Q118352824"
@@ -799,6 +828,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q111525622",
       "url": "https://www.wikidata.org/wiki/Q111525622"
@@ -902,6 +932,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352761",
       "url": "https://www.wikidata.org/wiki/Q118352761"
@@ -962,6 +993,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352796",
       "url": "https://www.wikidata.org/wiki/Q118352796"
@@ -1009,6 +1041,12 @@
     "hero_image": null,
     "website": {
       "url": "http://www.comune.casteldelgiudice.is.it/parrocchia.htm",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Nicola_(Castel_del_Giudice)",
+      "title": "Chiesa di San Nicola (Castel del Giudice)",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -1101,6 +1139,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352737",
       "url": "https://www.wikidata.org/wiki/Q118352737"
@@ -1160,6 +1199,7 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q98249147",
       "url": "https://www.wikidata.org/wiki/Q98249147"
@@ -1250,6 +1290,7 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352987",
       "url": "https://www.wikidata.org/wiki/Q118352987"
@@ -1327,6 +1368,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352736",
       "url": "https://www.wikidata.org/wiki/Q118352736"
@@ -1400,6 +1442,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352933",
       "url": "https://www.wikidata.org/wiki/Q118352933"
@@ -1459,6 +1502,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Silvestro_(Bagnoli_del_Trigno)",
+      "title": "Chiesa di San Silvestro (Bagnoli del Trigno)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3672048",
       "url": "https://www.wikidata.org/wiki/Q3672048"
@@ -1536,6 +1585,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://en.wikipedia.org/wiki/Santa_Maria_Assunta,_Ripabottoni",
+      "title": "Santa Maria Assunta, Ripabottoni",
+      "language": "en",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q19595627",
       "url": "https://www.wikidata.org/wiki/Q19595627"
@@ -1595,6 +1650,7 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q98217148",
       "url": "https://www.wikidata.org/wiki/Q98217148"
@@ -1672,6 +1728,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352803",
       "url": "https://www.wikidata.org/wiki/Q118352803"
@@ -1736,6 +1793,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352770",
       "url": "https://www.wikidata.org/wiki/Q118352770"
@@ -1795,6 +1853,7 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q98408389",
       "url": "https://www.wikidata.org/wiki/Q98408389"
@@ -1872,6 +1931,12 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Libera_(Campobasso)",
+      "title": "Chiesa di Santa Maria della Libera (Campobasso)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q3673847",
       "url": "https://www.wikidata.org/wiki/Q3673847"
@@ -2027,6 +2092,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_delle_Grazie_(Ururi)",
+      "title": "Chiesa di Santa Maria delle Grazie (Ururi)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q118352878",
       "url": "https://www.wikidata.org/wiki/Q118352878"
@@ -2130,6 +2201,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118362703",
       "url": "https://www.wikidata.org/wiki/Q118362703"
@@ -2229,6 +2301,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118362715",
       "url": "https://www.wikidata.org/wiki/Q118362715"
@@ -2302,6 +2375,7 @@
     },
     "hero_image": null,
     "website": null,
+    "wikipedia": null,
     "wikidata": {
       "id": "Q118352775",
       "url": "https://www.wikidata.org/wiki/Q118352775"
@@ -2362,6 +2436,12 @@
     },
     "website": {
       "url": "http://www.comune.bojano.cb.it/page.php?IDPagina=20",
+      "source": "wikidata"
+    },
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Concattedrale_di_San_Bartolomeo_(Bojano)",
+      "title": "Concattedrale di San Bartolomeo (Bojano)",
+      "language": "it",
       "source": "wikidata"
     },
     "wikidata": {
@@ -2427,6 +2507,12 @@
       "source": "wikimedia_commons"
     },
     "website": null,
+    "wikipedia": {
+      "url": "https://it.wikipedia.org/wiki/Concattedrale_di_Santa_Maria_Assunta_(Venafro)",
+      "title": "Concattedrale di Santa Maria Assunta (Venafro)",
+      "language": "it",
+      "source": "wikidata"
+    },
     "wikidata": {
       "id": "Q2942847",
       "url": "https://www.wikidata.org/wiki/Q2942847"

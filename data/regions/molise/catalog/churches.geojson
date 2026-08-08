@@ -82,6 +82,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cattedrale_della_Santissima_Trinità_(Campobasso)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2942612",
         "osm_url": "https://www.openstreetmap.org/way/261652486"
       }
@@ -154,6 +155,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "https://www.cattedraleisernia.org/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cattedrale_di_San_Pietro_Apostolo_(Isernia)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2942559",
         "osm_url": "https://www.openstreetmap.org/way/302442175"
       }
@@ -278,6 +280,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cattedrale_di_Santa_Maria_della_Purificazione",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2942828",
         "osm_url": "https://www.openstreetmap.org/way/223438227"
       }
@@ -350,6 +353,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118353083",
         "osm_url": "https://www.openstreetmap.org/way/183346930"
       }
@@ -395,6 +399,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_del_Sacro_Cuore_di_Gesù_(Campobasso)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668604",
         "osm_url": "https://www.openstreetmap.org/way/261652700"
       }
@@ -467,6 +472,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118362755",
         "osm_url": "https://www.openstreetmap.org/way/267884034"
       }
@@ -526,6 +532,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352790",
         "osm_url": null
       }
@@ -598,6 +605,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352993",
         "osm_url": null
       }
@@ -683,6 +691,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352824",
         "osm_url": "https://www.openstreetmap.org/way/327333972"
       }
@@ -728,6 +737,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q111525622",
         "osm_url": "https://www.openstreetmap.org/way/864198740"
       }
@@ -826,6 +836,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352761",
         "osm_url": null
       }
@@ -885,6 +896,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352796",
         "osm_url": null
       }
@@ -930,6 +942,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": "http://www.comune.casteldelgiudice.is.it/parrocchia.htm",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Nicola_(Castel_del_Giudice)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671431",
         "osm_url": "https://www.openstreetmap.org/way/376271073"
       }
@@ -1015,6 +1028,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352737",
         "osm_url": null
       }
@@ -1060,6 +1074,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q98249147",
         "osm_url": "https://www.openstreetmap.org/way/1469546724"
       }
@@ -1132,6 +1147,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352987",
         "osm_url": "https://www.openstreetmap.org/way/1183971709"
       }
@@ -1204,6 +1220,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352736",
         "osm_url": null
       }
@@ -1276,6 +1293,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352933",
         "osm_url": null
       }
@@ -1321,6 +1339,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Silvestro_(Bagnoli_del_Trigno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672048",
         "osm_url": "https://www.openstreetmap.org/way/369107371"
       }
@@ -1393,6 +1412,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Maria_Assunta,_Ripabottoni",
         "wikidata_url": "https://www.wikidata.org/wiki/Q19595627",
         "osm_url": null
       }
@@ -1438,6 +1458,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q98217148",
         "osm_url": "https://www.openstreetmap.org/way/378932621"
       }
@@ -1510,6 +1531,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352803",
         "osm_url": "https://www.openstreetmap.org/way/267586779"
       }
@@ -1569,6 +1591,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352770",
         "osm_url": null
       }
@@ -1614,6 +1637,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q98408389",
         "osm_url": "https://www.openstreetmap.org/way/378932616"
       }
@@ -1686,6 +1710,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Libera_(Campobasso)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673847",
         "osm_url": "https://www.openstreetmap.org/way/261652725"
       }
@@ -1823,6 +1848,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_delle_Grazie_(Ururi)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352878",
         "osm_url": "https://www.openstreetmap.org/way/862515979"
       }
@@ -1921,6 +1947,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118362703",
         "osm_url": null
       }
@@ -2019,6 +2046,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118362715",
         "osm_url": null
       }
@@ -2091,6 +2119,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q118352775",
         "osm_url": null
       }
@@ -2136,6 +2165,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "http://www.comune.bojano.cb.it/page.php?IDPagina=20",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Concattedrale_di_San_Bartolomeo_(Bojano)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2942593",
         "osm_url": "https://www.openstreetmap.org/way/160425095"
       }
@@ -2181,6 +2211,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Concattedrale_di_Santa_Maria_Assunta_(Venafro)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2942847",
         "osm_url": "https://www.openstreetmap.org/way/183346931"
       }

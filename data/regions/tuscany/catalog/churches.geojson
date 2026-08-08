@@ -42,6 +42,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Abbazia_di_San_Bartolomeo_a_Ripoli",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3603204",
         "osm_url": "https://www.openstreetmap.org/way/98315398"
       }
@@ -87,6 +88,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_dei_Santi_Vincenzo_e_Caterina_de'_Ricci",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3635657",
         "osm_url": "https://www.openstreetmap.org/way/366209548"
       }
@@ -132,6 +134,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://www.storiasantissimaannunziatafirenze.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_della_Santissima_Annunziata",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2287001",
         "osm_url": "https://www.openstreetmap.org/way/234428743"
       }
@@ -177,6 +180,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.sanlorenzofirenze.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_San_Lorenzo_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q573881",
         "osm_url": "https://www.openstreetmap.org/way/599900778"
       }
@@ -222,6 +226,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_San_Marco_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1152774",
         "osm_url": "https://www.openstreetmap.org/way/225706552"
       }
@@ -267,6 +272,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": "http://www.sanminiatoalmonte.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_San_Miniato_al_Monte",
         "wikidata_url": "https://www.wikidata.org/wiki/Q844337",
         "osm_url": "https://www.openstreetmap.org/way/184781037"
       }
@@ -312,6 +318,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://www.santacroceopera.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Croce",
         "wikidata_url": "https://www.wikidata.org/wiki/Q51177",
         "osm_url": "https://www.openstreetmap.org/way/777563049"
       }
@@ -357,6 +364,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://bigliettimusei.comune.fi.it/4_cappella-brancacci/#info",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_del_Carmine_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1042634",
         "osm_url": "https://www.openstreetmap.org/way/118425485"
       }
@@ -402,6 +410,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_delle_Carceri",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1714149",
         "osm_url": "https://www.openstreetmap.org/way/200950762"
       }
@@ -447,6 +456,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://www.smn.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Maria_Novella",
         "wikidata_url": "https://www.wikidata.org/wiki/Q51175",
         "osm_url": "https://www.openstreetmap.org/way/449369047"
       }
@@ -492,6 +502,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.monaci.org/monastero-santa-trinita",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_Santa_Trinita",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1062114",
         "osm_url": "https://www.openstreetmap.org/way/478272186"
       }
@@ -537,6 +548,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "https://www.basilicasantospirito.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Basilica_di_Santo_Spirito",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1519975",
         "osm_url": "https://www.openstreetmap.org/way/24881563"
       }
@@ -582,6 +594,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cappella_di_Piazza",
         "wikidata_url": "https://www.wikidata.org/wiki/Q377517",
         "osm_url": "https://www.openstreetmap.org/way/252463679"
       }
@@ -627,6 +640,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cappella_di_San_Michele_Arcangelo_e_della_Visitazione_di_Maria",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3657606",
         "osm_url": "https://www.openstreetmap.org/way/145643576"
       }
@@ -672,6 +686,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q124005573",
         "osm_url": "https://www.openstreetmap.org/way/141797318"
       }
@@ -717,6 +732,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cappella_di_Santa_Barbara_a_Porta_Vecchia",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3657663",
         "osm_url": null
       }
@@ -762,6 +778,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cappella_di_Santa_Maria_Assunta_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3657685",
         "osm_url": "https://www.openstreetmap.org/way/306523267"
       }
@@ -807,6 +824,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://www.duomofirenze.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Cattedrale_di_Santa_Maria_del_Fiore",
         "wikidata_url": "https://www.wikidata.org/wiki/Q191739",
         "osm_url": "https://www.openstreetmap.org/way/43768260"
       }
@@ -852,6 +870,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_armena_di_San_Gregorio_Illuminatore",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3667914",
         "osm_url": "https://www.openstreetmap.org/way/969523715"
       }
@@ -897,6 +916,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Apostoli_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2223430",
         "osm_url": "https://www.openstreetmap.org/way/451785463"
       }
@@ -942,6 +962,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Francesco_e_Chiara",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668157",
         "osm_url": "https://www.openstreetmap.org/way/458974490"
       }
@@ -987,6 +1008,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Michele_e_Gaetano",
         "wikidata_url": "https://www.wikidata.org/wiki/Q764060",
         "osm_url": "https://www.openstreetmap.org/way/234429578"
       }
@@ -1032,6 +1054,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": "http://www.contradadellachiocciola.it/modules/edito/edito.php?idedito=10",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Pietro_e_Paolo_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668382",
         "osm_url": "https://www.openstreetmap.org/way/47984377"
       }
@@ -1077,6 +1100,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Simone_e_Giuda_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1285138",
         "osm_url": "https://www.openstreetmap.org/way/307126295"
       }
@@ -1122,6 +1146,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_del_Carmine_(Carrara)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668503",
         "osm_url": "https://www.openstreetmap.org/way/269192941"
       }
@@ -1167,6 +1192,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://sansepolcropisa.com",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_del_Santo_Sepolcro_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q428178",
         "osm_url": "https://www.openstreetmap.org/way/457948331"
       }
@@ -1212,6 +1238,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.polomusealetoscana.beniculturali.it/index.php?it/146/istituti-e-luoghi-della-cultura",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_del_Santuccio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668695",
         "osm_url": "https://www.openstreetmap.org/way/47188323"
       }
@@ -1257,6 +1284,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668903",
         "osm_url": "https://www.openstreetmap.org/way/294488831"
       }
@@ -1302,6 +1330,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_dei_Galletti",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668916",
         "osm_url": "https://www.openstreetmap.org/way/341184390"
       }
@@ -1347,6 +1376,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://terredelfrigido.comune.massa.ms.it/node/45",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_della_Misericordia_(Massa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3668990",
         "osm_url": "https://www.openstreetmap.org/way/135541722"
       }
@@ -1392,6 +1422,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_della_Madonna_della_Tosse",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1121100",
         "osm_url": "https://www.openstreetmap.org/way/306368616"
       }
@@ -1437,6 +1468,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_della_Maria_Santissima_del_Rosario",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669071",
         "osm_url": null
       }
@@ -1482,6 +1514,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "https://www.santamariadellascala.com/it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_della_Santissima_Annunziata_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669184",
         "osm_url": "https://www.openstreetmap.org/way/48174025"
       }
@@ -1527,6 +1560,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_della_Santissima_Annunziata_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669167",
         "osm_url": "https://www.openstreetmap.org/way/1266847933"
       }
@@ -1572,6 +1606,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_delle_Suore_Montalve",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669276",
         "osm_url": "https://www.openstreetmap.org/way/305822221"
       }
@@ -1617,6 +1652,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.diocesiprato.it/pagina_template.asp?id=35&page_id=224&page_id2=240&page_id3=372",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_dello_Spirito_Santo_(Prato)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669286",
         "osm_url": "https://www.openstreetmap.org/way/701934366"
       }
@@ -1662,6 +1698,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "https://www.chiesaognissanti.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Ognissanti_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2778991",
         "osm_url": "https://www.openstreetmap.org/way/167273908"
       }
@@ -1707,6 +1744,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://bargellomusei.it/en/museum/orsanmichele/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Orsanmichele",
         "wikidata_url": "https://www.wikidata.org/wiki/Q860816",
         "osm_url": "https://www.openstreetmap.org/way/442508011"
       }
@@ -1752,6 +1790,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Barnaba_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1117930",
         "osm_url": "https://www.openstreetmap.org/way/306395974"
       }
@@ -1797,6 +1836,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Bartolomeo_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669504",
         "osm_url": null
       }
@@ -1842,6 +1882,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Bartolomeo_(Prato)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669519",
         "osm_url": "https://www.openstreetmap.org/way/323059215"
       }
@@ -1887,6 +1928,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Bartolomeo_a_Monte_Oliveto",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669552",
         "osm_url": "https://www.openstreetmap.org/way/305428855"
       }
@@ -1932,6 +1974,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Benedetto_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669596",
         "osm_url": "https://www.openstreetmap.org/node/3127386260"
       }
@@ -1977,6 +2020,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Cristoforo_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669825",
         "osm_url": "https://www.openstreetmap.org/way/45444510"
       }
@@ -2022,6 +2066,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Domenico_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1121868",
         "osm_url": "https://www.openstreetmap.org/way/232480572"
       }
@@ -2067,6 +2112,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Donato_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669925",
         "osm_url": "https://www.openstreetmap.org/way/53271879"
       }
@@ -2112,6 +2158,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Donato_dei_Vecchietti",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669937",
         "osm_url": null
       }
@@ -2157,6 +2204,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": "https://www.sandonatoinpolverosa.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Donato_in_Polverosa",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3585329",
         "osm_url": "https://www.openstreetmap.org/way/294480509"
       }
@@ -2202,6 +2250,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Fabiano_(Prato)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669946",
         "osm_url": "https://www.openstreetmap.org/way/392063791"
       }
@@ -2247,6 +2296,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_a_Ema",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669959",
         "osm_url": "https://www.openstreetmap.org/way/102979682"
       }
@@ -2292,6 +2342,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Felice_in_Piazza",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3585333",
         "osm_url": "https://www.openstreetmap.org/way/305683142"
       }
@@ -2337,6 +2388,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Ferdinando_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3669962",
         "osm_url": "https://www.openstreetmap.org/way/87422360"
       }
@@ -2382,6 +2434,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Carrara)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670031",
         "osm_url": "https://www.openstreetmap.org/way/466769727"
       }
@@ -2427,6 +2480,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Lucca)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q93679",
         "osm_url": "https://www.openstreetmap.org/way/169566154"
       }
@@ -2472,6 +2526,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "https://sanfrancescopisa.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670083",
         "osm_url": "https://www.openstreetmap.org/way/106644870"
       }
@@ -2517,6 +2572,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": "http://www.sanfrancescoprato.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_(Prato)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670086",
         "osm_url": "https://www.openstreetmap.org/way/180242607"
       }
@@ -2562,6 +2618,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Francesco_di_Paola_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670163",
         "osm_url": "https://www.openstreetmap.org/way/305428829"
       }
@@ -2607,6 +2664,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Frediano_in_Cestello",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1071192",
         "osm_url": "https://www.openstreetmap.org/way/118416085"
       }
@@ -2652,6 +2710,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "http://www.nobilecontradadelnicchio.it/Rione.aspx",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Gaetano_di_Thiene_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3581520",
         "osm_url": "https://www.openstreetmap.org/way/47088268"
       }
@@ -2697,6 +2756,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Gallo_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670196",
         "osm_url": null
       }
@@ -2742,6 +2802,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1102245",
         "osm_url": "https://www.openstreetmap.org/way/1184135752"
       }
@@ -2787,6 +2848,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_ai_Tedeschi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q783096",
         "osm_url": "https://www.openstreetmap.org/way/335634583"
       }
@@ -2832,6 +2894,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giorgio_alla_Costa",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3585340",
         "osm_url": "https://www.openstreetmap.org/way/474366870"
       }
@@ -2877,6 +2940,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.contradadellaquila.com/la-contrada/la-sede-e-il-museo.html",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670458",
         "osm_url": "https://www.openstreetmap.org/way/1185348842"
       }
@@ -2922,6 +2986,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1109516",
         "osm_url": "https://www.openstreetmap.org/way/76654897"
       }
@@ -2967,6 +3032,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Battista_della_Calza",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3001779",
         "osm_url": "https://www.openstreetmap.org/way/306222212"
       }
@@ -3012,6 +3078,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Decollato_(Massa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670507",
         "osm_url": "https://www.openstreetmap.org/node/1496673204"
       }
@@ -3057,6 +3124,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": null,
         "wikidata_url": "https://www.wikidata.org/wiki/Q111191245",
         "osm_url": null
       }
@@ -3102,6 +3170,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_dei_Fieri",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670542",
         "osm_url": "https://www.openstreetmap.org/way/536750741"
       }
@@ -3147,6 +3216,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovanni_Gualberto_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670530",
         "osm_url": "https://www.openstreetmap.org/way/58760265"
       }
@@ -3192,6 +3262,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_degli_Scolopi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670564",
         "osm_url": "https://www.openstreetmap.org/way/305683536"
       }
@@ -3237,6 +3308,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_dei_Cavalieri",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670567",
         "osm_url": "https://www.openstreetmap.org/way/781509450"
       }
@@ -3282,6 +3354,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": "http://lnx.contradaleocorno.it/?page_id=41",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giovannino_della_Staffa",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670565",
         "osm_url": "https://www.openstreetmap.org/way/45758888"
       }
@@ -3327,6 +3400,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giuseppe_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670618",
         "osm_url": "https://www.openstreetmap.org/way/203496642"
       }
@@ -3372,6 +3446,7 @@
         "hero_license_name": "Copyrighted free use",
         "hero_license_url": null,
         "website": "http://www.contradacapitanadellonda.com/la-chiesa",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Giuseppe_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670652",
         "osm_url": "https://www.openstreetmap.org/way/1186559509"
       }
@@ -3417,6 +3492,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Gorgonio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670697",
         "osm_url": "https://www.openstreetmap.org/way/1208073240"
       }
@@ -3462,6 +3538,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_in_Acquaviva",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670747",
         "osm_url": "https://www.openstreetmap.org/way/633728245"
       }
@@ -3507,6 +3584,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_in_Campo_Corbolini",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670749",
         "osm_url": "https://www.openstreetmap.org/way/306396529"
       }
@@ -3552,6 +3630,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Jacopo_Soprarno",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670741",
         "osm_url": "https://www.openstreetmap.org/way/306811250"
       }
@@ -3597,6 +3676,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q16540253",
         "osm_url": null
       }
@@ -3642,6 +3722,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Leonardo_in_Arcetri",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670791",
         "osm_url": "https://www.openstreetmap.org/way/305680883"
       }
@@ -3687,6 +3768,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Lorenzo_a_Serpiolle",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670924",
         "osm_url": "https://www.openstreetmap.org/way/305727652"
       }
@@ -3732,6 +3814,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Mamante_(Empoli_Vecchio)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670973",
         "osm_url": "https://www.openstreetmap.org/way/618546955"
       }
@@ -3777,6 +3860,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Marcellino_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3670984",
         "osm_url": "https://www.openstreetmap.org/way/374064985"
       }
@@ -3822,6 +3906,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Marco_Vecchio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671004",
         "osm_url": "https://www.openstreetmap.org/way/305870459"
       }
@@ -3867,6 +3952,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671047",
         "osm_url": "https://www.openstreetmap.org/way/121067709"
       }
@@ -3912,6 +3998,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671060",
         "osm_url": "https://www.openstreetmap.org/way/156079975"
       }
@@ -3957,6 +4044,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": "http://www.sanmartinoamensola.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_a_Mensola",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671101",
         "osm_url": "https://www.openstreetmap.org/way/276191579"
       }
@@ -4002,6 +4090,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Martino_a_Montughi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671105",
         "osm_url": "https://www.openstreetmap.org/way/110550849"
       }
@@ -4047,6 +4136,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Complesso_di_San_Martino_alla_Scala",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671141",
         "osm_url": null
       }
@@ -4092,6 +4182,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_a_Castello",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671341",
         "osm_url": "https://www.openstreetmap.org/way/179998044"
       }
@@ -4137,6 +4228,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": "http://www.mac.cat/cat/Seus/Barcelona",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Salvi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q692591",
         "osm_url": "https://www.openstreetmap.org/way/196374482"
       }
@@ -4182,6 +4274,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_Arcangelo_(Pontorme)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671305",
         "osm_url": "https://www.openstreetmap.org/way/687747709"
       }
@@ -4227,6 +4320,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_a_Monteripaldi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q55156351",
         "osm_url": null
       }
@@ -4272,6 +4366,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "https://www.sanmicheleinborgo.info/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_in_Borgo",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3506865",
         "osm_url": "https://www.openstreetmap.org/way/159525352"
       }
@@ -4317,6 +4412,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Michele_Visdomini",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671342",
         "osm_url": "https://www.openstreetmap.org/way/266213439"
       }
@@ -4362,6 +4458,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Niccolò_Oltrarno",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671413",
         "osm_url": "https://www.openstreetmap.org/way/599897663"
       }
@@ -4407,6 +4504,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Paolino_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671531",
         "osm_url": "https://www.openstreetmap.org/way/800365632"
       }
@@ -4452,6 +4550,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Paolo_a_Ripa_d'Arno",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1423910",
         "osm_url": "https://www.openstreetmap.org/way/127284631"
       }
@@ -4497,6 +4596,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Paolo_all'Orto",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3506968",
         "osm_url": "https://www.openstreetmap.org/way/241614966"
       }
@@ -4542,6 +4642,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Gattolino",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671588",
         "osm_url": "https://www.openstreetmap.org/way/306378148"
       }
@@ -4587,6 +4688,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pier_Scheraggio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671596",
         "osm_url": null
       }
@@ -4632,6 +4734,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_a_Sollicciano",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671748",
         "osm_url": "https://www.openstreetmap.org/way/306224655"
       }
@@ -4677,6 +4780,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_a_Varlungo",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671752",
         "osm_url": "https://www.openstreetmap.org/way/306224847"
       }
@@ -4722,6 +4826,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Pietro_in_Vinculis_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3504517",
         "osm_url": "https://www.openstreetmap.org/way/105625234"
       }
@@ -4767,6 +4872,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "https://www.conoscifirenze.it/luoghi-di-culto-a-firenze/684-Chiesa-di-San-Procolo.html",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Procolo_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671828",
         "osm_url": "https://www.openstreetmap.org/way/306156989"
       }
@@ -4812,6 +4918,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.fondazioneconservatoririunitisiena.it/it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Raimondo_al_Refugio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671846",
         "osm_url": "https://www.openstreetmap.org/way/47188200"
       }
@@ -4857,6 +4964,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Remigio_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671856",
         "osm_url": "https://www.openstreetmap.org/way/238431529"
       }
@@ -4902,6 +5010,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Rocco_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1102884",
         "osm_url": "https://www.openstreetmap.org/way/668631812"
       }
@@ -4947,6 +5056,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Monte",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2220029",
         "osm_url": "https://www.openstreetmap.org/way/91371849"
       }
@@ -4992,6 +5102,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Salvatore_al_Vescovo",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3671987",
         "osm_url": "https://www.openstreetmap.org/node/4758517538"
       }
@@ -5037,6 +5148,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.icrss.it/livorno/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Sebastiano_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672017",
         "osm_url": "https://www.openstreetmap.org/node/630952981"
       }
@@ -5082,6 +5194,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Sebastiano_in_Vallepiatta",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672030",
         "osm_url": "https://www.openstreetmap.org/way/47800501"
       }
@@ -5127,6 +5240,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Silvestro_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3504833",
         "osm_url": "https://www.openstreetmap.org/way/128393613"
       }
@@ -5172,6 +5286,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_San_Sisto_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3505132",
         "osm_url": "https://www.openstreetmap.org/way/140894052"
       }
@@ -5217,6 +5332,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": "https://www.viaesiena.it/it/mendicanti/itinerario_o/chiesa-sant-agostino",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Agostino_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1102250",
         "osm_url": "https://www.openstreetmap.org/way/1189435410"
       }
@@ -5262,6 +5378,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Ambrogio_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672358",
         "osm_url": "https://www.openstreetmap.org/way/599901040"
       }
@@ -5307,6 +5424,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Antonio_Abate_(Alberese)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672660",
         "osm_url": "https://www.openstreetmap.org/way/715599859"
       }
@@ -5352,6 +5470,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Antonio_Abate_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672682",
         "osm_url": "https://www.openstreetmap.org/way/150277379"
       }
@@ -5397,6 +5516,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Antonio_Abate_e_Sant'Anna",
         "wikidata_url": "https://www.wikidata.org/wiki/Q19843876",
         "osm_url": null
       }
@@ -5442,6 +5562,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Apollinare_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672727",
         "osm_url": "https://www.openstreetmap.org/way/308613214"
       }
@@ -5487,6 +5608,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Sant'Onofrio_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672859",
         "osm_url": null
       }
@@ -5532,6 +5654,7 @@
         "hero_license_name": "CC BY 2.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Apollonia_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q281259",
         "osm_url": "https://www.openstreetmap.org/way/216744137"
       }
@@ -5577,6 +5700,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Brigida_al_Paradiso",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672897",
         "osm_url": "https://www.openstreetmap.org/node/5328055520"
       }
@@ -5622,6 +5746,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.chiesadisantacaterina.it/",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Caterina_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672904",
         "osm_url": "https://www.openstreetmap.org/way/121984159"
       }
@@ -5667,6 +5792,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Caterina_d'Alessandria_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3505115",
         "osm_url": "https://www.openstreetmap.org/way/95460603"
       }
@@ -5712,6 +5838,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Cecilia_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672942",
         "osm_url": null
       }
@@ -5757,6 +5884,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Chiara_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3672967",
         "osm_url": "https://www.openstreetmap.org/way/701045442"
       }
@@ -5802,6 +5930,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Cristina_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q585547",
         "osm_url": "https://www.openstreetmap.org/way/184399190"
       }
@@ -5847,6 +5976,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Eufrasia",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673046",
         "osm_url": "https://www.openstreetmap.org/way/669784441"
       }
@@ -5892,6 +6022,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "http://www.santafelicitafirenze.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Felicita_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1069665",
         "osm_url": "https://www.openstreetmap.org/way/159394659"
       }
@@ -5937,6 +6068,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Giulia_(Livorno)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673065",
         "osm_url": "https://www.openstreetmap.org/way/1070318719"
       }
@@ -5982,6 +6114,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Lucia_dei_Magnoli",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673138",
         "osm_url": "https://www.openstreetmap.org/way/306694385"
       }
@@ -6027,6 +6160,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Margherita_in_Santa_Maria_de'_Ricci",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673187",
         "osm_url": "https://www.openstreetmap.org/way/307544546"
       }
@@ -6072,6 +6206,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_a_Novoli",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673580",
         "osm_url": "https://www.openstreetmap.org/way/307536891"
       }
@@ -6117,6 +6252,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_a_Quarto_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673595",
         "osm_url": "https://www.openstreetmap.org/way/305822225"
       }
@@ -6162,6 +6298,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_al_Pignone",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673629",
         "osm_url": "https://www.openstreetmap.org/way/305673947"
       }
@@ -6207,6 +6344,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_degli_Angiolini",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673664",
         "osm_url": "https://www.openstreetmap.org/way/306486070"
       }
@@ -6252,6 +6390,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_dei_Bardi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673667",
         "osm_url": null
       }
@@ -6297,6 +6436,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Carmine_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673712",
         "osm_url": "https://www.openstreetmap.org/way/156075405"
       }
@@ -6342,6 +6482,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Fiore_a_Lapo",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673734",
         "osm_url": "https://www.openstreetmap.org/way/305870361"
       }
@@ -6387,6 +6528,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_del_Santo_Sepolcro",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673774",
         "osm_url": null
       }
@@ -6432,6 +6574,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesetta_al_Tempio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673838",
         "osm_url": null
       }
@@ -6477,6 +6620,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Pace_(Firenze)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3673876",
         "osm_url": null
       }
@@ -6522,6 +6666,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Spina",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1426967",
         "osm_url": "https://www.openstreetmap.org/way/159405535"
       }
@@ -6567,6 +6712,7 @@
         "hero_license_name": "Copyrighted free use",
         "hero_license_url": null,
         "website": "http://www.polomusealetoscana.beniculturali.it/index.php?it/146/istituti-e-luoghi-della-cultura",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_delle_Nevi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674012",
         "osm_url": "https://www.openstreetmap.org/way/28838206"
       }
@@ -6612,6 +6758,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": "http://www.collegiataprovenzano.siena.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_di_Provenzano",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674085",
         "osm_url": "https://www.openstreetmap.org/way/53890174"
       }
@@ -6657,6 +6804,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_e_Santa_Brigida_al_Paradiso",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674092",
         "osm_url": "https://www.openstreetmap.org/way/374065004"
       }
@@ -6702,6 +6850,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": "https://www.fontegiusta.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_in_Portico_a_Fontegiusta",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674136",
         "osm_url": "https://www.openstreetmap.org/way/50185501"
       }
@@ -6747,6 +6896,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_Maddalena_dei_Pazzi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1784984",
         "osm_url": "https://www.openstreetmap.org/way/303278550"
       }
@@ -6792,6 +6942,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Marta_(Pisa)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674172",
         "osm_url": "https://www.openstreetmap.org/way/305872730"
       }
@@ -6837,6 +6988,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Petronilla_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674189",
         "osm_url": "https://www.openstreetmap.org/relation/17203710"
       }
@@ -6882,6 +7034,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Reparata",
         "wikidata_url": "https://www.wikidata.org/wiki/Q684119",
         "osm_url": "https://www.openstreetmap.org/node/5041557941"
       }
@@ -6927,6 +7080,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Spirito_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1049041",
         "osm_url": "https://www.openstreetmap.org/way/47003836"
       }
@@ -6972,6 +7126,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_alla_Lizza",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674335",
         "osm_url": "https://www.openstreetmap.org/way/50133108"
       }
@@ -7017,6 +7172,7 @@
         "hero_license_name": "CC BY 2.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_dei_Cavalieri",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674338",
         "osm_url": "https://www.openstreetmap.org/way/37098980"
       }
@@ -7062,6 +7218,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_di_Santo_Stefano_extra_moenia",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674348",
         "osm_url": "https://www.openstreetmap.org/way/253736904"
       }
@@ -7107,6 +7264,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_di_Santa_Maria_Maddalena_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674373",
         "osm_url": "https://www.openstreetmap.org/way/47926881"
       }
@@ -7152,6 +7310,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_delle_Sperandie",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674372",
         "osm_url": null
       }
@@ -7197,6 +7356,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_di_San_Girolamo_in_Campansi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674383",
         "osm_url": null
       }
@@ -7242,6 +7402,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Chiesa_e_convento_di_Santa_Marta",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3674397",
         "osm_url": "https://www.openstreetmap.org/way/1217117026"
       }
@@ -7287,6 +7448,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Convento_e_chiesa_di_Santa_Maria_a_Ripa_(Empoli)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3689641",
         "osm_url": null
       }
@@ -7332,6 +7494,7 @@
         "hero_license_name": "Public domain",
         "hero_license_url": null,
         "website": "http://www.comune.empoli.fi.it/empoli/chi_ste.html",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Convento_e_chiesa_di_Santo_Stefano_degli_Agostiniani",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3689643",
         "osm_url": "https://www.openstreetmap.org/way/444462403"
       }
@@ -7377,6 +7540,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": "http://www.diocesiprato.it",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Duomo_di_Prato",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1236622",
         "osm_url": "https://www.openstreetmap.org/way/931696761"
       }
@@ -7422,6 +7586,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Ex_chiesa_dei_Santi_Jacopo_e_Lorenzo",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3735826",
         "osm_url": "https://www.openstreetmap.org/way/306985690"
       }
@@ -7467,6 +7632,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Oratorio_dei_Buonomini_di_San_Martino",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3884413",
         "osm_url": "https://www.openstreetmap.org/node/3127418845"
       }
@@ -7512,6 +7678,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Oratorio_dei_Vanchetoni",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3884450",
         "osm_url": "https://www.openstreetmap.org/way/730876801"
       }
@@ -7557,6 +7724,7 @@
         "hero_license_name": null,
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Oratorio_di_San_Ranieri",
         "wikidata_url": "https://www.wikidata.org/wiki/Q112798284",
         "osm_url": "https://www.openstreetmap.org/way/1310990450"
       }
@@ -7602,6 +7770,7 @@
         "hero_license_name": "Copyrighted free use",
         "hero_license_url": null,
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Oratorio_di_San_Rocco_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2028376",
         "osm_url": "https://www.openstreetmap.org/way/1193136273"
       }
@@ -7647,6 +7816,7 @@
         "hero_license_name": "CC BY 2.5",
         "hero_license_url": "https://creativecommons.org/licenses/by/2.5",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Oratorio_di_San_Tommaso_d'Aquino",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3884771",
         "osm_url": "https://www.openstreetmap.org/way/307281119"
       }
@@ -7692,6 +7862,7 @@
         "hero_license_name": "CC BY-SA 4.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "website": "http://www.tartuca.it/joomla/sistema-museale-a-oratorio/oratorio",
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Oratorio_di_Sant'Antonio_da_Padova_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3884805",
         "osm_url": "https://www.openstreetmap.org/way/48185100"
       }
@@ -7737,6 +7908,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Rotonda_del_Brunelleschi",
         "wikidata_url": "https://www.wikidata.org/wiki/Q19947673",
         "osm_url": "https://www.openstreetmap.org/way/113484938"
       }
@@ -7782,6 +7954,7 @@
         "hero_license_name": "CC BY-SA 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Santuario_della_Madonna_del_Giglio",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1248706",
         "osm_url": "https://www.openstreetmap.org/way/700922377"
       }
@@ -7827,6 +8000,7 @@
         "hero_license_name": "CC BY 3.0",
         "hero_license_url": "https://creativecommons.org/licenses/by/3.0",
         "website": null,
+        "wikipedia_url": "https://it.wikipedia.org/wiki/Santuario_di_Santa_Caterina_(Siena)",
         "wikidata_url": "https://www.wikidata.org/wiki/Q185303",
         "osm_url": "https://www.openstreetmap.org/way/50059765"
       }

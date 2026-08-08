@@ -200,6 +200,14 @@ def build_feature(church):
                     "url"
                 ),
 
+            "wikipedia_url": (
+                church.get(
+                    "wikipedia"
+                ) or {}
+            ).get(
+                "url"
+            ),
+
             "wikidata_url":
                 church[
                     "wikidata"

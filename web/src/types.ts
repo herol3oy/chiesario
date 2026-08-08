@@ -24,6 +24,7 @@ export interface ChurchProperties {
   hero_license_url: string | null;
   website: string | null;
   wikidata_url: string;
+  wikipedia_url: string | null;
   osm_url: string | null;
 }
 
