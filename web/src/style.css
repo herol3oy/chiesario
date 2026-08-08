@@ -114,6 +114,41 @@ h1 {
   background: #6e331f;
 }
 
+.header-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+.language-switch {
+  display: flex;
+  gap: 3px;
+  padding: 3px;
+  border: 1px solid #cdbda7;
+  border-radius: 999px;
+  background: #eee5d7;
+}
+
+.language-switch button {
+  min-width: 36px;
+  padding: 6px 9px;
+  border: 0;
+  border-radius: 999px;
+  color: #5d493b;
+  background: transparent;
+  font-size: 0.72rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.language-switch button[aria-pressed="true"],
+.language-switch button.active {
+  color: #fff;
+  background: #6e331f;
+}
+
 .workspace {
   position: relative;
   display: grid;

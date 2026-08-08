@@ -1,4 +1,4 @@
-import { describe, expect, it } from "vitest";
+import { beforeAll, describe, expect, it } from "vitest";
 
 import {
   centuryForYear,
@@ -7,7 +7,13 @@ import {
   formatPeriod,
   sortChurches,
 } from "./catalog";
+import { initializeI18n, i18n } from "./i18n";
 import type { ChurchFeature } from "./types";
+
+
+async function setLanguage(lang: string): Promise<void> {
+  await i18n.changeLanguage(lang);
+}
 
 
 function church(
@@ -57,6 +63,11 @@ function church(
 
 
 describe("catalog filtering", () => {
+  beforeAll(async () => {
+    await initializeI18n();
+    await setLanguage("en");
+  });
+
   const records = [
     church("Q1", "Chiesa di Sant'Agata", 1200),
     church("Q2", "Basilica di San Luca", 1700, "basilica"),
@@ -99,19 +110,24 @@ describe("catalog filtering", () => {
 
 
 describe("century calculation", () => {
+  beforeAll(async () => {
+    await initializeI18n();
+  });
+
   it("uses historical century boundaries", () => {
     expect(centuryForYear(1200)).toBe(12);
     expect(centuryForYear(1201)).toBe(13);
     expect(centuryForYear(1800)).toBe(18);
   });
 
-  it("formats structured historical periods in Italian", () => {
+  it("formats structured historical periods in English", async () => {
+    await setLanguage("en");
     expect(formatPeriod({
       kind: "century",
       start_year: 1201,
       end_year: 1300,
       display: "13th century",
-    })).toBe("XIII secolo");
+    })).toBe("13th century");
     expect(formatPeriod({
       kind: "year_range",
       start_year: 1690,
@@ -123,10 +139,36 @@ describe("century calculation", () => {
       start_year: 1701,
       end_year: 1872,
       display: "18th century–1872",
+    })).toBe("18th century–1872");
+  });
+
+  it("formats structured historical periods in Italian", async () => {
+    await setLanguage("it");
+    expect(formatPeriod({
+      kind: "century",
+      start_year: 1201,
+      end_year: 1300,
+      display: "13th century",
+    })).toBe("XIII secolo");
+    expect(formatPeriod({
+      kind: "mixed_range",
+      start_year: 1701,
+      end_year: 1872,
+      display: "18th century–1872",
     })).toBe("XVIII secolo–1872");
   });
 
-  it("labels documentary evidence without calling it construction", () => {
+  it("labels documentary evidence without calling it construction", async () => {
+    await setLanguage("en");
+    const record = church("Q4", "Chiesa documentata", 1354);
+    record.properties.date_basis = "documentary_attestation";
+    expect(formatChurchDate(record.properties)).toBe(
+      "Documented by 1354",
+    );
+  });
+
+  it("labels documentary evidence in Italian", async () => {
+    await setLanguage("it");
     const record = church("Q4", "Chiesa documentata", 1354);
     record.properties.date_basis = "documentary_attestation";
     expect(formatChurchDate(record.properties)).toBe(

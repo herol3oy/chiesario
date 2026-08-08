@@ -1,36 +1,42 @@
+import { i18n } from "./i18n";
+
 import type {
-    CatalogFilters,
-    ChurchFeature,
-    ChurchProperties,
-    HistoricalPeriod,
+  CatalogFilters,
+  ChurchFeature,
+  ChurchProperties,
+  HistoricalPeriod,
 } from "./types";
 
 
-export const TYPE_LABELS: Record<string, string> = {
-  church: "Chiesa",
-  cathedral: "Cattedrale",
-  basilica: "Basilica",
-  former_church: "Ex chiesa",
-};
+export function typeLabel(
+  type: string,
+): string {
+  return (
+    i18n.t(
+      `types.${type}`,
+      type,
+    )
+  );
+}
 
-export const PHASE_LABELS: Record<string, string> = {
-  origin: "Origine",
-  foundation: "Fondazione",
-  construction: "Costruzione",
-  documentary_attestation: "Attestazione documentaria",
-  predecessor: "Edificio precedente",
-  reconstruction: "Ricostruzione",
-  restoration: "Restauro",
-  consecration: "Consacrazione",
-  other: "Fase storica",
-};
+
+export function phaseLabel(
+  phase: string,
+): string {
+  return (
+    i18n.t(
+      `phases.${phase}`,
+      phase,
+    )
+  );
+}
 
 
 function normalize(value: string): string {
   return value
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .toLocaleLowerCase("it")
+    .toLocaleLowerCase(i18n.language)
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
 }
@@ -69,8 +75,49 @@ export function romanNumeral(value: number): string {
 }
 
 
+function ordinalSuffix(value: number): string {
+  const lastDigit = value % 10;
+  const lastTwoDigits = value % 100;
+
+  if (
+    lastTwoDigits >= 11
+    && lastTwoDigits <= 13
+  ) {
+    return `${value}th`;
+  }
+
+  if (lastDigit === 1) {
+    return `${value}st`;
+  }
+
+  if (lastDigit === 2) {
+    return `${value}nd`;
+  }
+
+  if (lastDigit === 3) {
+    return `${value}rd`;
+  }
+
+  return `${value}th`;
+}
+
+
 export function centuryLabel(century: number): string {
-  return `${romanNumeral(century)} secolo`;
+  if (i18n.language === "it") {
+    return i18n.t(
+      "date.century",
+      {
+        century: romanNumeral(century),
+      },
+    );
+  }
+
+  return i18n.t(
+    "date.century",
+    {
+      century: ordinalSuffix(century),
+    },
+  );
 }
 
 
@@ -83,27 +130,56 @@ export function formatPeriod(
   if (period.kind === "year") {
     return String(period.start_year);
   }
+
   if (period.kind === "circa_year") {
-    return `circa ${period.start_year}`;
+    return i18n.t(
+      "date.circa",
+      {
+        year: period.start_year,
+      },
+    );
   }
+
   if (period.kind === "decade") {
-    return `anni ${period.start_year}`;
+    return i18n.t(
+      "date.decade",
+      {
+        year: period.start_year,
+      },
+    );
   }
+
   if (period.kind === "year_range") {
     return `${period.start_year}–${period.end_year}`;
   }
+
   if (period.kind === "century") {
-    return centuryLabel(centuryForYear(period.start_year));
+    return centuryLabel(
+      centuryForYear(period.start_year),
+    );
   }
+
   if (period.kind === "century_range") {
     const first = centuryForYear(period.start_year);
     const last = centuryForYear(period.end_year);
-    return `${romanNumeral(first)}–${romanNumeral(last)} secolo`;
+
+    if (i18n.language === "it") {
+      return `${romanNumeral(first)}–${romanNumeral(last)} secolo`;
+    }
+
+    return `${ordinalSuffix(first)}–${ordinalSuffix(last)} century`;
   }
+
   if (period.kind === "mixed_range") {
     const first = centuryForYear(period.start_year);
-    return `${romanNumeral(first)} secolo–${period.end_year}`;
+
+    if (i18n.language === "it") {
+      return `${romanNumeral(first)} secolo–${period.end_year}`;
+    }
+
+    return `${ordinalSuffix(first)} century–${period.end_year}`;
   }
+
   return period.display;
 }
 
@@ -117,12 +193,21 @@ export function formatChurchDate(
     end_year: properties.end_year,
     display: properties.date_display,
   });
+
   if (properties.date_basis === "documentary_attestation") {
-    return `Documentata entro il ${period}`;
+    return i18n.t(
+      "date.documentedBy",
+      { period },
+    );
   }
+
   if (properties.date_basis === "predecessor") {
-    return `Origini documentate entro il ${period}`;
+    return i18n.t(
+      "date.originsDocumentedBy",
+      { period },
+    );
   }
+
   return period;
 }
 
@@ -178,7 +263,7 @@ export function sortChurches(
     }
     return left.properties.name.localeCompare(
       right.properties.name,
-      "it",
+      i18n.language,
     );
   });
 }
@@ -190,7 +275,7 @@ export function uniqueValues(
 ): string[] {
   return Array.from(
     new Set(features.map((item) => item.properties[field])),
-  ).sort((left, right) => left.localeCompare(right, "it"));
+  ).sort((left, right) => left.localeCompare(right, i18n.language));
 }
 
 
